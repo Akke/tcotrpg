@@ -12826,4 +12826,357 @@
 
         }
     }
+    //=================================================================================================================
+    // Morphling: replace morphling_waveform
+    //=================================================================================================================
+    "morphling_wave_custom"
+    {
+        "BaseClass"                     "ability_lua"
+        "ScriptFile"                    "heroes/hero_morphling/morphling_wave_custom.lua"
+        "AbilityTextureName"            "gust"
+        "FightRecapLevel"               "1"
+        "MaxLevel"                      "10"
+        "AbilitySound"                  "Hero_Morphling.Waveform"
+        "HasShardUpgrade"               "0"
+        
+        // Ability General
+        //-------------------------------------------------------------------------------------------------------------
+        "AbilityType"                   "DOTA_ABILITY_TYPE_BASIC"
+        "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_AUTOCAST | DOTA_ABILITY_BEHAVIOR_ATTACK"
+        "AbilityUnitDamageType"         "DAMAGE_TYPE_MAGICAL"   
+        "SpellDispellableType"          "SPELL_DISPELLABLE_YES"
+        "SpellImmunityType"             "SPELL_IMMUNITY_ENEMIES_NO"
+
+        // Ability Casting
+        //-------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"              "700"
+        "AbilityCastPoint"              "0.25"
+
+        // Ability Resource
+        //-------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"               "20 18 16 14 12 10 8 6 4 2"
+        "AbilityManaCost"               "165"
+
+        // Damage
+        //-------------------------------------------------------------------------------------------------------------
+
+        // Special
+        //-------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"          "FIELD_FLOAT"
+                "wave_speed"        "2000.0"
+            }
+            "02"
+            {
+                "var_type"          "FIELD_INTEGER"
+                "wave_width"        "200"
+            }
+            "03"
+            {
+                "var_type"          "FIELD_FLOAT"
+                "interval"    "0.2"
+            }
+            "04"
+            {
+                "var_type"          "FIELD_FLOAT"
+                "damage"    "95 175 255 335 415 495 575 655 735 815"
+            }
+            "05"
+            {
+                "var_type"          "FIELD_FLOAT"
+                "agi_to_damage"        "50"
+            }
+            "06"
+            {
+                "var_type"          "FIELD_FLOAT"
+                "str_to_damage"        "50"
+            }
+        }
+    }
+     //=================================================================================================================
+    // Morphling: Adaptive Strike
+    //=================================================================================================================
+    "morphling_adaptive_strike_custom"
+    {
+        "BaseClass"                     "ability_lua"
+        "ScriptFile"                    "heroes/hero_morphling/morphling_adaptive_strike_custom.lua"
+        "AbilityTextureName"            "morphling_adaptive_strike"
+        "LevelsBetweenUpgrades" "1"
+        "MaxLevel"  "10"
+        "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"         "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"         "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"             "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"          "SPELL_DISPELLABLE_YES_STRONG"
+        "AbilitySound"                  "Hero_Morphling.AdaptiveStrike"
+        "AbilityUnitDamageType"         "DAMAGE_TYPE_MAGICAL"  
+        "HasShardUpgrade"               "0"
+
+        // Casting
+        //-------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"              "900"
+        "AbilityCastPoint"              "0.25"
+
+        // Time     
+        //-------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"               "12.0"
+
+        // Cost
+        //-------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"               "100"
+
+        // Special
+        //-------------------------------------------------------------------------------------------------------------
+        "AbilityValues"
+        {
+            "01"
+            {
+                "var_type"                      "FIELD_FLOAT"
+                "damage_base"                   "100 125 150 175 200 225 250 275 300 325"
+            }
+            "02"
+            {
+                "var_type"                      "FIELD_FLOAT"
+                "projectile_speed"                  "1150"
+            }
+            "03"
+            {
+                "var_type"          "FIELD_FLOAT"
+                "agi_to_damage"        "50"
+            }
+            "04"
+            {
+                "var_type"          "FIELD_FLOAT"
+                "str_to_damage"        "50"
+            }
+            "05"
+            {
+                "var_type"                      "FIELD_FLOAT"
+                "agility"                       "51"
+                "CalculateSpellDamageTooltip"   "0"
+            }
+            "06"
+            {
+                "var_type"                      "FIELD_FLOAT"
+                "strength"                      "51"
+                "CalculateSpellDamageTooltip"   "0"
+            }
+        }
+    }
+    //=================================================================================================================
+    // Morphling: Attribute Shift
+    //=================================================================================================================
+    "morphling_attribute_shift"
+    {
+        // General
+        //-------------------------------------------------------------------------------------------------------------
+        "ID"                    "5054"                                                      // unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+        "BaseClass"                     "ability_lua"
+        "ScriptFile"                    "heroes/hero_morphling/morphling_attribute_shift_custom.lua"
+        "AbilityTextureName"            "morphling_attribute_shift"
+        "LevelsBetweenUpgrades" "1"
+        "MaxLevel"  "10"
+        "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitDamageType"         "DAMAGE_TYPE_MAGICAL"  
+        "HasShardUpgrade"               "0"
+
+        // Special
+        //-------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attributes"      "10 15 22 30 50 75 115 180 250 400"
+            }
+            "02"
+            {
+                "var_type"          "FIELD_FLOAT"
+                "agi_to_damage"     "0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1"    
+            }
+            "03"
+            {
+                "var_type"          "FIELD_FLOAT"
+                "str_to_damage"     "0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1"    
+            }
+        }
+    }
+    //=================================================================================================================
+    // Morphling: Morph
+    //=================================================================================================================
+    "morphling_morph"
+    {
+        // General
+        //-------------------------------------------------------------------------------------------------------------
+        "ID"                    "5058"                                                      // unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+        "BaseClass"                     "ability_lua"
+        "ScriptFile"                    "heroes/hero_morphling/morphling_morph_custom.lua"
+        "AbilityTextureName"            "morphling_morph"
+        "LevelsBetweenUpgrades" "6"
+        "MaxLevel"  "4"
+        "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "AbilityUnitTargetTeam"         "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"         "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"             "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"          "SPELL_DISPELLABLE_YES_STRONG"
+        "AbilitySound"                  "Hero_Morphling.Waveform"
+        "AbilityUnitDamageType"         "DAMAGE_TYPE_MAGICAL"  
+        "HasShardUpgrade"               "0"
+
+        // Special
+        //-------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_base"           "300 900 1500 2100"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "agi_to_damage"         "50"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "str_to_damage"         "50"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "radius"                "600 1200 1800 2400"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "radius_pull"           "1800 3600 5400 7200"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "disarm_duration"       "1.0"
+            }
+        }
+    }
+    //=================================================================================================================
+    // Morphling: Talent Tree
+    //=================================================================================================================
+    "morphling_10level_left"{ // +150 health
+        "BaseClass"                     "ability_lua"
+        "AbilityType"                   "DOTA_ABILITY_TYPE_ATTRIBUTES"
+        "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "health"                "150"
+            }
+        }
+    }
+    "morphling_10level_right"{ // +15% Magic Resistance
+        "BaseClass"                     "ability_lua"
+        "AbilityType"                   "DOTA_ABILITY_TYPE_ATTRIBUTES"
+        "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "magic_resistance_pct"  "15"
+            }
+        }
+    }
+    "morphling_15level_left"{ // +15 Agility and Strength from Attribute Shift
+        "BaseClass"                     "ability_lua"
+        "AbilityType"                   "DOTA_ABILITY_TYPE_ATTRIBUTES"
+        "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "agility"               "15"
+            }
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "strength"              "15"
+            }
+        }
+    }
+    "morphling_15level_right"{ // +15% Evasion
+        "BaseClass"                     "ability_lua"
+        "AbilityType"                   "DOTA_ABILITY_TYPE_ATTRIBUTES"
+        "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              ""
+                ""                      ""
+            }
+        }
+    }
+    "morphling_20level_left"{ // Wave uses attack modifiers
+        "BaseClass"                     "ability_lua"
+        "AbilityType"                   "DOTA_ABILITY_TYPE_ATTRIBUTES"
+        "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "unknown"
+                "unknown"               "unknown"
+            }
+        }
+    }
+    "morphling_20level_right"{ // +35 Agility and Strength from Attribute Shift
+        "BaseClass"                     "ability_lua"
+        "AbilityType"                   "DOTA_ABILITY_TYPE_ATTRIBUTES"
+        "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "agility"               "35"
+            }
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "strength"              "35"
+            }
+        }
+    }
+    "morphling_25level_left"{ // +1000 health
+        "BaseClass"                     "ability_lua"
+        "AbilityType"                   "DOTA_ABILITY_TYPE_ATTRIBUTES"
+        "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "health"                      "1000"
+            }
+        }
+    }
+    "morphling_25level_right"{ // Wave chance to use twice
+        "BaseClass"                     "ability_lua"
+        "AbilityType"                   "DOTA_ABILITY_TYPE_ATTRIBUTES"
+        "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "multicast_2_times"     "0.20"
+            }
+        }
+    }
 }
