@@ -1,0 +1,22 @@
+"npc_dota_hero_morphling"
+{
+	"override_hero"                   "npc_dota_hero_morphling"
+	"ability1"						  "morphling_wave_custom"
+	"ability2"						  "morphling_adaptive_strike_custom"
+	"ability3"						  "morphling_attribute_shift"
+	"ability4"						  "morphling_morph"
+	"ability5"						  ""
+	"ability6"						  ""
+	"ability7"						  ""
+	"ability8"						  ""
+	"ability9"						  ""
+
+	"ability10"						  "morphling_10level_left"
+	"ability11"						  "morphling_10level_right"
+	"ability12"						  "morphling_15level_left"
+	"ability13"						  "morphling_15level_right"
+	"ability14"						  "morphling_20level_left"
+	"ability15"						  "morphling_20level_right"
+	"ability16"						  "morphling_25level_left"
+	"ability17"						  "morphling_25level_right"
+}
