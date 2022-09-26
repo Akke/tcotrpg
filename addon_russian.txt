@@ -2735,8 +2735,8 @@
 		"lost_soul_not_shop" "Этот предмет можно приобрести только у фонтана"
 		"lost_soul_not_stash" "Невозможно поместить этот предмет в тайник"
 
-		"effects_disabled_info" "Отключает модификаторы крипов и игрока на всех сложностях из-за чего вам будет гораздо легче играть. "
-        "effects_enabled_info" "Игроки и крипы будут получать полезные и негативные модификаторы в зависимости от сложности, делая игру гораздо сложнее."
+		"effects_disabled_info" "Отключите модификаторы крипов и боссов на всех сложностях, и вам будет гораздо легче играть."
+        "effects_enabled_info" "Боссы и крипы будут получать дополнительные модификаторы в зависимости от сложности, что значительно усложнит игру."
         "effects_enabled" "Модификаторы"
         "effects_yes" "Режим Выживания (ON)"
         "effects_no" "Режим Выживания (OFF)"
@@ -2780,13 +2780,13 @@
 
         "difficulty_unfair_info" "<h1>Кошмар</h1><font color='red'>• У врагов на <b>200%</b> больше здоровья<br>• Враги наносят на <b>400%</b> больше урона</font>"
 
-        "difficulty_impossible_info" "<h1>Невозможно</h1><font color='red'>- У врагов на <b>400%</b> больше здоровья<br>- Враги наносят на <b>800%</b> больше урона<br>- Ваш лимит <b>x10</b> жизней на игрока</font><br><font color='lightgreen'>+ С врагов выпадает на <b>25%</b> больше золота после их убийства</font>"
+        "difficulty_impossible_info" "<h1>Невозможно</h1><font color='red'>- У врагов на <b>400%</b> больше здоровья<br>- Враги наносят на <b>800%</b> больше урона<br>- Ваш лимит <b>x3</b> жизней на игрока</font>"
 
-        "difficulty_infinity_info" "<h1>Ад</h1><font color='red'>- У врагов на <b>600%</b> больше здоровья<br>- Враги наносят на <b>1600%</b> больше урона<br>- Ваш лимит <b>x5</b> жизней на игрока</font><br><font color='lightgreen'>+ С врагов выпадает на <b>30%</b> больше золота после их убийства</font>"
+        "difficulty_infinity_info" "<h1>Ад</h1><font color='red'>- У врагов на <b>600%</b> больше здоровья<br>- Враги наносят на <b>1600%</b> больше урона<br>- Ваш лимит <b>x2</b> жизней на игрока</font>"
 
-        "difficulty_hardcore_info" "<h1>Беспощадный</h1><font color='red'>- У врагов на <b>800%</b> больше здоровья<br>- Враги наносят на <b>2400%</b> больше урона<br>- Ваш лимит <b>x1</b> жизней на игрока<br>- Враги становятся более устойчивыми к повреждениям по мере прохождения игры</font><br><font color='lightgreen'>+ С врагов выпадает на <b>35%</b> больше золота после их убийства</font>"
+        "difficulty_hardcore_info" "<h1>Беспощадный</h1><font color='red'>- У врагов на <b>800%</b> больше здоровья<br>- Враги наносят на <b>2400%</b> больше урона<br>- Ваш лимит <b>x1</b> жизней на игрока<br>- Враги становятся более устойчивыми к повреждениям по мере прохождения игры<br>- Вражеские силы всегда включены<br>- Режим выживания всегда включен<br>- Максимальное количество атрибутов, получаемых из томов, составляет 100,000</font>"
 
-        "difficulty_apocalypse_info" "<h1>Апокалипс</h1><font color='red'>- У врагов на <b>1000%</b> больше здоровья<br>- Враги наносят на <b>3200%</b> больше урона<br>- Ваш лимит <b>x1</b> жизней на игрока<br>- Получение <b>10 удара</b> с любого врага мгновенно вас убьёт</font><br><font color='lightgreen'>+ С врагов выпадает на <b>40%</b> больше золота после их убийства</font>"
+        "difficulty_apocalypse_info" "<h1>Апокалипс</h1><font color='red'>- У врагов на <b>1000%</b> больше здоровья<br>- Враги наносят на <b>3200%</b> больше урона<br>- Ваш лимит <b>x1</b> жизней на игрока<br>- Получение <b>10 удара</b> с любого врага мгновенно вас убьёт</font>"
 
         "DOTA_Tooltip_ability_huskar_berserkers_blood_custom" "Berserker's Blood"
   "DOTA_Tooltip_ability_huskar_berserkers_blood_custom_Description" "Раны Huskar подпитывают его силу, увеличивая скорость атаки и броню на основе недостающего здоровья. Он также получает регенерацию здоровья, основанную на проценте от его максимального здоровья."
@@ -4137,7 +4137,7 @@
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_extra_attack_10_Description" "Раз в 10 секунд совершает двойной удар."
 
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_hp_regen_pct_1" "Health Regeneration"
-		"DOTA_Tooltip_modifier_enemy_difficulty_buff_hp_regen_pct_1_Description" "Пассивно восстанавливает 5%%% своего максимального здоровья каждую секунду."
+		"DOTA_Tooltip_modifier_enemy_difficulty_buff_hp_regen_pct_1_Description" "Пассивно восстанавливает 1%%% своего максимального здоровья каждую секунду."
 
 		"DOTA_Tooltip_modifier_player_difficulty_boon_reduced_healing_50" "Healing Reduction"
 		"DOTA_Tooltip_modifier_player_difficulty_boon_reduced_healing_50_Description" "Все источники исцеления уменьшены на 50%%%"
@@ -4263,10 +4263,10 @@
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_20_buff_Description" "Regenerating +5%%% of its max health."
 
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_crit_chance_60" "Critical Strike"
-		"DOTA_Tooltip_modifier_enemy_difficulty_buff_crit_chance_60_Description" "Each attack has a +60%% chance to deal +300%% critical damage."
+		"DOTA_Tooltip_modifier_enemy_difficulty_buff_crit_chance_60_Description" "Each attack has a +30%% chance to deal +150%% critical damage."
 
 		"DOTA_Tooltip_modifier_player_difficulty_boon_blinded_no_vision_50" "Blinded"
-		"DOTA_Tooltip_modifier_player_difficulty_boon_blinded_no_vision_50_Description" "Each attack has a 50%%% chance to not hit the target. Your vision is severely impacted and you do not show up on the minimap."
+		"DOTA_Tooltip_modifier_player_difficulty_boon_blinded_no_vision_50_Description" "Each attack has a 30%%% chance to not hit the target. Your vision is severely impacted and you do not show up on the minimap."
 
 		"DOTA_Tooltip_modifier_player_difficulty_boon_leaky_1" "Mana/HP Leak"
 		"DOTA_Tooltip_modifier_player_difficulty_boon_leaky_1_Description" "Every time you take damage or spend mana, you gain a debuff that drains -1%%% of that resource every second for 3 seconds and disables passive regeneration of that resource."
@@ -4437,9 +4437,9 @@
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_magical_damage_40_Description" "Deals an additional +5%%% of attack damage as magical damage to the target on attacks."
 
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10" "Wraith"
-		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10_Description" "When this unit dies it will re-appear as a wraith with +30%% of its max health remaining. It will continue to regenerate +10%% of its max health over 10 seconds or until killed again. Does not proc if it is already a wraith."
+		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10_Description" "When this unit dies it will re-appear as a wraith with +30%% of its max health remaining. It will continue to regenerate +2.5%% of its max health over 10 seconds or until killed again. Does not proc if it is already a wraith."
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10_buff" "Wraith Regeneration"
-		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10_buff_Description" "Regenerating +5%%% of its max health."
+		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10_buff_Description" "Regenerating +2.5%%% of its max health."
 
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_death_explosion_30" "Corpse Explosion"
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_death_explosion_30_Description" "Will erupt violently upon death, dealing damage to all nearby heroes and controlled units equal to 30%%% of this units max health as magical damage."
@@ -4770,7 +4770,7 @@
         "DOTA_Tooltip_modifier_item_staff_of_dragons_debuff_Description" "Magical Resistance decreased by %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%"
 
         "DOTA_Tooltip_Ability_item_mirror_blade"    "Mirror Blade"
-        "DOTA_Tooltip_Ability_item_mirror_blade_description"    "<h1>Пассивное: Thrice Stricken</h1>Attacking an enemy causes you to strike them an additional 3 times in quick succession, and slowing them by %movement_slow%%% for %slow_duration% seconds.\n<h1>Пассивное: Mirrored Reality</h1>Attacks on an enemy hero creates a reflection of yourself that attacks them for %illusion_duration% seconds. Reflections deal %illusion_damage_pct%%% damage and can not be targeted and are invulnerable. <i>(5 seconds cooldown)</i>
+        "DOTA_Tooltip_Ability_item_mirror_blade_description"    "<h1>Пассивное: Thrice Stricken</h1>Attacking an enemy causes you to strike them an additional 3 times in quick succession, and slowing them by %movement_slow%%% for %slow_duration% seconds.<br><br>The additional attacks deal %bonus_attack_strike_damage_mult%%% of your attack damage as additional pure damage to the target.\n<h1>Пассивное: Mirrored Reality</h1>Attacks on an enemy hero creates a reflection of yourself that attacks them for %illusion_duration% seconds. Reflections deal %illusion_damage_pct%%% damage and can not be targeted and are invulnerable. <i>(5 seconds cooldown)</i>
 "
         "DOTA_Tooltip_Ability_item_mirror_blade_Lore"    "A blade capable of making your enemies fight themselves."
         "DOTA_Tooltip_Ability_item_mirror_blade_bonus_strength"    "+$str"
@@ -4782,7 +4782,7 @@
         "DOTA_Tooltip_Ability_item_mirror_blade_bonus_movement_speed"    "+$move_speed"
 
         "DOTA_Tooltip_Ability_item_mirror_blade_2"    "Mirror Blade LVL2"
-        "DOTA_Tooltip_Ability_item_mirror_blade_2_description"    "<h1>Пассивное: Thrice Stricken</h1>Attacking an enemy causes you to strike them an additional 3 times in quick succession, and slowing them by %movement_slow%%% for %slow_duration% seconds.\n<h1>Пассивное: Mirrored Reality</h1>Attacks on an enemy hero creates a reflection of yourself that attacks them for %illusion_duration% seconds. Reflections deal %illusion_damage_pct%%% damage and can not be targeted and are invulnerable. <i>(5 seconds cooldown)</i>
+        "DOTA_Tooltip_Ability_item_mirror_blade_2_description"    "<h1>Пассивное: Thrice Stricken</h1>Attacking an enemy causes you to strike them an additional 3 times in quick succession, and slowing them by %movement_slow%%% for %slow_duration% seconds.<br><br>The additional attacks deal %bonus_attack_strike_damage_mult%%% of your attack damage as additional pure damage to the target.\n<h1>Пассивное: Mirrored Reality</h1>Attacks on an enemy hero creates a reflection of yourself that attacks them for %illusion_duration% seconds. Reflections deal %illusion_damage_pct%%% damage and can not be targeted and are invulnerable. <i>(5 seconds cooldown)</i>
 "
         "DOTA_Tooltip_Ability_item_mirror_blade_2_Lore"    "A blade capable of making your enemies fight themselves."
         "DOTA_Tooltip_Ability_item_mirror_blade_2_bonus_strength"    "+$str"
@@ -4794,7 +4794,7 @@
         "DOTA_Tooltip_Ability_item_mirror_blade_2_bonus_movement_speed"    "+$move_speed"
 
         "DOTA_Tooltip_Ability_item_mirror_blade_3"    "Mirror Blade LVL3"
-        "DOTA_Tooltip_Ability_item_mirror_blade_3_description"    "<h1>Пассивное: Thrice Stricken</h1>Attacking an enemy causes you to strike them an additional 3 times in quick succession, and slowing them by %movement_slow%%% for %slow_duration% seconds.\n<h1>Пассивное: Mirrored Reality</h1>Attacks on an enemy hero creates a reflection of yourself that attacks them for %illusion_duration% seconds. Reflections deal %illusion_damage_pct%%% damage and can not be targeted and are invulnerable. <i>(5 seconds cooldown)</i>
+        "DOTA_Tooltip_Ability_item_mirror_blade_3_description"    "<h1>Пассивное: Thrice Stricken</h1>Attacking an enemy causes you to strike them an additional 3 times in quick succession, and slowing them by %movement_slow%%% for %slow_duration% seconds.<br><br>The additional attacks deal %bonus_attack_strike_damage_mult%%% of your attack damage as additional pure damage to the target.\n<h1>Пассивное: Mirrored Reality</h1>Attacks on an enemy hero creates a reflection of yourself that attacks them for %illusion_duration% seconds. Reflections deal %illusion_damage_pct%%% damage and can not be targeted and are invulnerable. <i>(5 seconds cooldown)</i>
 "
         "DOTA_Tooltip_Ability_item_mirror_blade_3_Lore"    "A blade capable of making your enemies fight themselves."
         "DOTA_Tooltip_Ability_item_mirror_blade_3_bonus_strength"    "+$str"
@@ -4806,7 +4806,7 @@
         "DOTA_Tooltip_Ability_item_mirror_blade_3_bonus_movement_speed"    "+$move_speed"
 
         "DOTA_Tooltip_Ability_item_mirror_blade_4"    "Mirror Blade LVL4"
-        "DOTA_Tooltip_Ability_item_mirror_blade_4_description"    "<h1>Пассивное: Thrice Stricken</h1>Attacking an enemy causes you to strike them an additional 3 times in quick succession, and slowing them by %movement_slow%%% for %slow_duration% seconds.\n<h1>Пассивное: Mirrored Reality</h1>Attacks on an enemy hero creates a reflection of yourself that attacks them for %illusion_duration% seconds. Reflections deal %illusion_damage_pct%%% damage and can not be targeted and are invulnerable. <i>(5 seconds cooldown)</i>
+        "DOTA_Tooltip_Ability_item_mirror_blade_4_description"    "<h1>Пассивное: Thrice Stricken</h1>Attacking an enemy causes you to strike them an additional 3 times in quick succession, and slowing them by %movement_slow%%% for %slow_duration% seconds.<br><br>The additional attacks deal %bonus_attack_strike_damage_mult%%% of your attack damage as additional pure damage to the target.\n<h1>Пассивное: Mirrored Reality</h1>Attacks on an enemy hero creates a reflection of yourself that attacks them for %illusion_duration% seconds. Reflections deal %illusion_damage_pct%%% damage and can not be targeted and are invulnerable. <i>(5 seconds cooldown)</i>
 "
         "DOTA_Tooltip_Ability_item_mirror_blade_4_Lore"    "A blade capable of making your enemies fight themselves."
         "DOTA_Tooltip_Ability_item_mirror_blade_4_bonus_strength"    "+$str"
@@ -4818,7 +4818,7 @@
         "DOTA_Tooltip_Ability_item_mirror_blade_4_bonus_movement_speed"    "+$move_speed"
 
         "DOTA_Tooltip_Ability_item_mirror_blade_5"    "Mirror Blade LVL5"
-        "DOTA_Tooltip_Ability_item_mirror_blade_5_description"    "<h1>Пассивное: Thrice Stricken</h1>Attacking an enemy causes you to strike them an additional 3 times in quick succession, and slowing them by %movement_slow%%% for %slow_duration% seconds.\n<h1>Пассивное: Mirrored Reality</h1>Attacks on an enemy hero creates a reflection of yourself that attacks them for %illusion_duration% seconds. Reflections deal %illusion_damage_pct%%% damage and can not be targeted and are invulnerable. <i>(5 seconds cooldown)</i>
+        "DOTA_Tooltip_Ability_item_mirror_blade_5_description"    "<h1>Пассивное: Thrice Stricken</h1>Attacking an enemy causes you to strike them an additional 3 times in quick succession, and slowing them by %movement_slow%%% for %slow_duration% seconds.<br><br>The additional attacks deal %bonus_attack_strike_damage_mult%%% of your attack damage as additional pure damage to the target.\n<h1>Пассивное: Mirrored Reality</h1>Attacks on an enemy hero creates a reflection of yourself that attacks them for %illusion_duration% seconds. Reflections deal %illusion_damage_pct%%% damage and can not be targeted and are invulnerable. <i>(5 seconds cooldown)</i>
 "
         "DOTA_Tooltip_Ability_item_mirror_blade_5_Lore"    "A blade capable of making your enemies fight themselves."
         "DOTA_Tooltip_Ability_item_mirror_blade_5_bonus_strength"    "+$str"
@@ -4830,7 +4830,7 @@
         "DOTA_Tooltip_Ability_item_mirror_blade_5_bonus_movement_speed"    "+$move_speed"
 
         "DOTA_Tooltip_Ability_item_mirror_blade_6"    "Mirror Blade LVL6"
-        "DOTA_Tooltip_Ability_item_mirror_blade_6_description"    "<h1>Пассивное: Thrice Stricken</h1>Attacking an enemy causes you to strike them an additional 3 times in quick succession, and slowing them by %movement_slow%%% for %slow_duration% seconds.\n<h1>Пассивное: Mirrored Reality</h1>Attacks on an enemy hero creates a reflection of yourself that attacks them for %illusion_duration% seconds. Reflections deal %illusion_damage_pct%%% damage and can not be targeted and are invulnerable. <i>(5 seconds cooldown)</i>
+        "DOTA_Tooltip_Ability_item_mirror_blade_6_description"    "<h1>Пассивное: Thrice Stricken</h1>Attacking an enemy causes you to strike them an additional 3 times in quick succession, and slowing them by %movement_slow%%% for %slow_duration% seconds.<br><br>The additional attacks deal %bonus_attack_strike_damage_mult%%% of your attack damage as additional pure damage to the target.\n<h1>Пассивное: Mirrored Reality</h1>Attacks on an enemy hero creates a reflection of yourself that attacks them for %illusion_duration% seconds. Reflections deal %illusion_damage_pct%%% damage and can not be targeted and are invulnerable. <i>(5 seconds cooldown)</i>
 "
         "DOTA_Tooltip_Ability_item_mirror_blade_6_Lore"    "A blade capable of making your enemies fight themselves."
         "DOTA_Tooltip_Ability_item_mirror_blade_6_bonus_strength"    "+$str"
@@ -5819,16 +5819,17 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 "DOTA_Tooltip_modifier_void_stick_active_finish"				"Scepter of the Void"
 
 "DOTA_Tooltip_Ability_necrolyte_reaper_form" "Форма жнеца"
-	"DOTA_Tooltip_Ability_necrolyte_reaper_form_Description" "Necrophos поглащает заряды Corpse Collector, чтобы перейти за завесу смерти.<br><br> Находясь с этом режиме Necrophos ежесекундно будет терять часть своего здоровья. С увеличением длительности способности, увеличивается урон. Герой не воссполняет жизненный запас, но получает меньше урона и быстрее передвигается, получает доступ к новым способностям на которые тратятся заряды Corpse Collector.<br><br> Когда Necrophos будет истощен, он покинет форму Жнеца и потеряет все заряды Corpse Collector, восстановит часть своего здоровья."
+	"DOTA_Tooltip_Ability_necrolyte_reaper_form_Description" "Necrophos входит в форму Жнеца и переходит за смертную завесу.<br><br> Находясь с этом режиме Necrophos ежесекундно будет терять часть своего здоровья. С увеличением длительности способности, увеличивается урон. Герой не воссполняет жизненный запас, но получает меньше урона и быстрее передвигается.<br><br> Когда Necrophos будет истощен, он покинет форму Жнеца и восстановит часть своего здоровья."
 	"DOTA_Tooltip_Ability_necrolyte_reaper_form_scepter_Description" "Дарует герою способность <b color='white'>Эстетика смерти</b> в форме Жнеца."
 	"DOTA_Tooltip_Ability_necrolyte_reaper_form_hp_drain_pct" "%Потеря здоровья:"
 	"DOTA_Tooltip_Ability_necrolyte_reaper_form_hp_drain_increase" "%Прирост в секунду:"
 	"DOTA_Tooltip_Ability_necrolyte_reaper_form_duration_end_hp_restored_pct" "%Восстановление здоровья при выходе:"
 	"DOTA_Tooltip_Ability_necrolyte_reaper_form_damage_reduction" "%Снижение урона:"
 	"DOTA_Tooltip_Ability_necrolyte_reaper_form_move_speed" "%Скорость перемещения:"
-	"DOTA_Tooltip_Ability_necrolyte_reaper_form_required_charges" "Необходимо зарядов Corpse Collector:"
+	//"DOTA_Tooltip_Ability_necrolyte_reaper_form_required_charges" "Необходимо зарядов Sadist:"
 
 	"DOTA_Tooltip_modifier_necrolyte_reaper_form_buff" "Форма жнеца"
+	"DOTA_Tooltip_modifier_necrolyte_reaper_form_buff_Description" "Movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and incoming damage reduced by -%dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%%. Your health is continously drained every second, and the ability ends when your health is depleted."
 
 	"DOTA_Tooltip_Ability_necrolyte_reaper_form_exit" "Выход"
 	"DOTA_Tooltip_Ability_necrolyte_reaper_form_exit_Description" "Выход из Формы жнеца."
@@ -5842,14 +5843,14 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_max_hp_heal_pct" "%Максимальное восстановление здоровья:"
 
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper" "Заряд мертвеца Жнеца"
-	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_shard_Description" "Жнец посылает заряд мертвеца, который направляется ко всем юнитам рядом с ним. Враги получают урон, союзники исцеление.<br><br> Потребляет заряды Corpse Collector."
+	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_shard_Description" "Жнец посылает заряд мертвеца, который направляется ко всем юнитам рядом с ним. Враги получают урон, союзники исцеление."
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_Description" "Жнец посылает заряд смерти, ."
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_radius" "Радиус:"
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_spread_radius" "Радиус:"
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_damage" "Урон:"
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_int_to_damage" "%Урон от интелекта:"
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_max_hp_heal_pct" "%Максимальное восстановление здоровья:"
-	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_required_charges" "Необходимо зарядов Corpse Collector:"
+	//"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_required_charges" "Необходимо зарядов Sadist:"
 
 	"DOTA_Tooltip_Ability_necrolyte_death_aura" "Decaying Presence"
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_Description" "Присутствие Necrophos заставляет врагов в поле его зрения гнить, получая нелетальный урон каждую секунду в зависимости от того как близко они к нему, снижая им магическое сопротивление.<br><br>Враги, которые находятся дальше от Necrophos получают меньше урона и теряют меньше магического сопротивления, когда враги ближе получают больше урона и теряют больше магического сопротивления. Если они находятся в определённой дистанции от Necrophos, они получают максимальное количество урона и теряют максимальное количество сопротивления магии.<br><br><i>(Наносит урон только если враги ниже или такого же уровня, что и Necrophos).</i>"
@@ -5862,11 +5863,11 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 	"DOTA_Tooltip_modifier_necrolyte_death_aura_enemy_Description" "Магические Сопротивление уменьшено на %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%% и получает урон от Necrophos." 
 
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_reaper" "Присутствие Жнеца"
-	"DOTA_Tooltip_Ability_necrolyte_death_aura_reaper_Description" "Присутствие Жнеца заставляет врагов в поле его зрения гнить, получая нелетальный урон каждую секунду в зависимости от того как близко они к нему, снижая им магическое сопротивление..<br><br><i>(Наносит урон только если враги ниже или такого же уровня, что и Necrophos).</i><br><br>При включении использует заряды Corpse каждую секунду."
+	"DOTA_Tooltip_Ability_necrolyte_death_aura_reaper_Description" "Присутствие Жнеца заставляет врагов в поле его зрения гнить, получая нелетальный урон каждую секунду в зависимости от того как близко они к нему, снижая им магическое сопротивление..<br><br><i>(Наносит урон только если враги ниже или такого же уровня, что и Necrophos).</i>"
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_reaper_max_hp_damage" "%МАКС. УРОН ОТ ЗДОРОВЬЯ:"
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_reaper_radius" "Радиус:"
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_reaper_int_to_damage" "%Урон от интелекта:"
-	"DOTA_Tooltip_Ability_necrolyte_death_aura_reaper_required_charges" "Необходимо зарядов Corpse Collector:"
+	//"DOTA_Tooltip_Ability_necrolyte_death_aura_reaper_required_charges" "Необходимо зарядов Sadist:"
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_reaper_magic_shred" "%Снижение маг. сопротивления:"
 	"DOTA_Tooltip_modifier_necrolyte_death_aura_reaper_emitter" "Присутствие Жнеца"
 	"DOTA_Tooltip_modifier_necrolyte_death_aura_reaper_emitter_Description" "Наносит урон врага поблизости."
@@ -5885,7 +5886,7 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 	"DOTA_Tooltip_modifier_necrolyte_hollowed_ground_emitter_aura_Description" "Получают переодический урон и снижение скорости передвижения."
 
 	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_reaper" "Чумная аура Жнеца"
-	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_reaper_Description" "Necrophos создаёт области вокруг себя, вызывая мертвых духов, чтобы наносить увечья своим врагам. Враги в области замедляются и получают урон каждую секунду. Чем ближе враг, тем больнее ему будет.<br><br> Потребляет заряды Corpse Collector в включенном состоянии."
+	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_reaper_Description" "Necrophos создаёт области вокруг себя, вызывая мертвых духов, чтобы наносить увечья своим врагам. Враги в области замедляются и получают урон каждую секунду. Чем ближе враг, тем больнее ему будет."
 	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_reaper_damage" "Урон:"
 	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_reaper_min_damage_distance" "Расстояние от героя:"
 	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_reaper_int_to_damage" "%Урон от интелекта:"
@@ -5893,18 +5894,18 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_reaper_radius" "Радиус:"
 	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_reaper_duration" "Длительность:"
 	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_reaper_center_damage_multi" "%Урон в центре:"
-	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_reaper_required_charges" "Необходимо зарядов Corpse Collector:"
+	//"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_reaper_required_charges" "Необходимо зарядов Sadist:"
 	"DOTA_Tooltip_modifier_necrolyte_hollowed_ground_reaper_emitter_aura" "Чумная аура Жнеца"
 	"DOTA_Tooltip_modifier_necrolyte_hollowed_ground_reaper_emitter_aura_Description" "Получают переодический урон и снижение скорости передвижения."
 
-	"DOTA_Tooltip_Ability_necrolyte_corpse_charges" "Corpse Collector"
-	"DOTA_Tooltip_Ability_necrolyte_corpse_charges_Description" "Necrophos получает заряды Corpse Collector, когда убивает вражеского юнита, не находясь в форме Жнеца.<br><br>Усиливает заклинания Necrophos за каждый заряд. В форме Жнеца получает максимальное усиление, независимо от количества зарядов эффекта."
+	"DOTA_Tooltip_Ability_necrolyte_corpse_charges" "Sadist"
+	"DOTA_Tooltip_Ability_necrolyte_corpse_charges_Description" "Necrophos получает стаки, когда убивает врага, не находясь в форме Жнеца.<br><br> Каждый стак постоянно увеличивает усиление заклинаний Некрофоса, нанося ему повышенный магический урон."
 	"DOTA_Tooltip_Ability_necrolyte_corpse_charges_charge_per_kill" "Зарядов за убийство:"
-	"DOTA_Tooltip_Ability_necrolyte_corpse_charges_max_charges" "Максимум зарядов:"
+	//"DOTA_Tooltip_Ability_necrolyte_corpse_charges_max_charges" "Максимум зарядов:"
 	"DOTA_Tooltip_Ability_necrolyte_corpse_charges_spell_amp_per_charge" "%Усиление способностей за заряд:"
 
 	"necrolyte_not_enough_corpse_charges" "Недостаточно зарядов Corpse Charges."
-	"DOTA_Tooltip_modifier_necrolyte_corpse_charges_buff_permanent" "Количество зарядов"
+	"DOTA_Tooltip_modifier_necrolyte_corpse_charges_buff_permanent" "Sadist"
 	"DOTA_Tooltip_modifier_necrolyte_corpse_charges_buff_permanent_Description" "Используется для усиления способностей в форме Жнеца. Пассивно дает Necrophos %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%% усиление заклинаний."
 
 	"DOTA_Tooltip_Ability_necrolyte_aesthetics_death" "Эстетика смерти"
@@ -5914,7 +5915,7 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 	"DOTA_Tooltip_Ability_necrolyte_aesthetics_death_int_to_damage" "%Урон от интелекта:"
 	"DOTA_Tooltip_Ability_necrolyte_aesthetics_death_hp_execute_threshold_pct" "%Порог здоровья:"
 	"DOTA_Tooltip_Ability_necrolyte_aesthetics_death_duration" "Длительность:"
-	"DOTA_Tooltip_Ability_necrolyte_aesthetics_death_required_charges" "Необходимо зарядов Corpse Collector:"
+	//"DOTA_Tooltip_Ability_necrolyte_aesthetics_death_required_charges" "Необходимо зарядов Sadist:"
 	"DOTA_Tooltip_Ability_necrolyte_aesthetics_death_hp_pct_restore_on_kill" "%Восстановление здоровья за убийство:"
 	"DOTA_Tooltip_Ability_necrolyte_aesthetics_death_int_on_kill" "Интелект за убийство:"
 	"DOTA_Tooltip_modifier_necrolyte_aesthetics_death_buff_permanent" "Эстетика сметри"
@@ -5922,7 +5923,7 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 
 	"dota_tooltip_ability_special_bonus_unique_necrolyte_1_custom"                                   "-{s:value}s перезарядки формы Жнеца"
 	"dota_tooltip_ability_special_bonus_unique_necrolyte_2_custom"									 "-{s:value}% уменьшения здоровья в форме Жнеца"
-	"dota_tooltip_ability_special_bonus_unique_necrolyte_3_custom"									 "+{s:value} эффект Corpse Collector за убийство"
+	"dota_tooltip_ability_special_bonus_unique_necrolyte_3_custom"									 "+{s:value} эффект Sadist за убийство"
 
 	"DOTA_Tooltip_modifier_bloodseeker_bloodrage_custom_buff" "Bloodrage"
 	"DOTA_Tooltip_modifier_bloodseeker_bloodrage_custom_buff_Description" "Gaining increased attack speed and spell amplification, but losing a portion of your health every second."
@@ -6658,9 +6659,11 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
         "DOTA_Tooltip_Ability_tricks_of_the_trade_custom_agi_mult"    "%AGILITY MULTIPLIER:"
         "DOTA_Tooltip_Ability_tricks_of_the_trade_custom_scepter"    "Tricks of the Trade"
         "DOTA_Tooltip_Ability_tricks_of_the_trade_custom_scepter_description"    "Improves the attack speed of Tricks of the Trade, allowing you to attack at your regular attack rate."
+        "DOTA_Tooltip_tricks_of_the_trade_custom_buff" "Tricks of the Trade"
+        "DOTA_Tooltip_tricks_of_the_trade_custom_buff_Description" "Gaining %dMODIFIER_PROPERTY_STATS_AGILITY_BONUS% bonus agility."
 
         "DOTA_Tooltip_Ability_riki_decoy" "Decoy"
-        "DOTA_Tooltip_Ability_riki_decoy_Description" "Riki creates a deceiving decoy of himself, tricking enemies to attack it instead of him.<br><br>The decoy is cannot die and releases a cloud of smoke that deals damage to enemies inside and slowly puts them to sleep, rendering them unable to act and causing them to take increased damage from all sources."
+        "DOTA_Tooltip_Ability_riki_decoy_Description" "Riki creates a deceiving decoy of himself, tricking enemies to attack it instead of him.<br><br>The decoy is cannot die and releases a cloud of smoke that deals damage to enemies inside and slowly puts them to sleep, rendering them unable to act and causing them to take increased damage from all sources.<br><br>Can be cast while channeling Tricks of the Trade, causing it to be cast instantly without a cast point."
         "DOTA_Tooltip_Ability_riki_decoy_radius" "RADIUS:"
         "DOTA_Tooltip_Ability_riki_decoy_interval" "INTERVAL:"
         "DOTA_Tooltip_Ability_riki_decoy_damage" "DAMAGE:"
@@ -6687,5 +6690,122 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
         "DOTA_Tooltip_Ability_riki_poisonous_dagger_max_stacks" "MAX STACKS:"
         "DOTA_Tooltip_modifier_riki_poisonous_dagger_debuff" "Poisonous Dagger"
         "DOTA_Tooltip_modifier_riki_poisonous_dagger_debuff_Description" "Taking periodic damage. Attack damage reduced by -%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%."
+
+        "npc_dota_hero_crystal_maiden" "Rylai"
+
+        "DOTA_Tooltip_Ability_crystal_maiden_crystal_nova_custom" "Crystal Nova"
+        "DOTA_Tooltip_Ability_crystal_maiden_crystal_nova_custom_shard_Description" "Removes the cooldown. Deals double damage to enemies entirely frozen by Frostbite."
+        "DOTA_Tooltip_Ability_crystal_maiden_crystal_nova_custom_Description" "A burst of damaging frost slows enemy movement and attack rate in the targeted area. Provides vision in the area.<br><br>Can be set to auto cast, causing Rylai's attacks to explode into a Crystal Nova on impact."
+        "DOTA_Tooltip_Ability_crystal_maiden_crystal_nova_custom_radius" "RADIUS:"
+        "DOTA_Tooltip_Ability_crystal_maiden_crystal_nova_custom_movespeed_slow" "%MOVE SLOW:"
+        "DOTA_Tooltip_Ability_crystal_maiden_crystal_nova_custom_attackspeed_slow" "%ATTACK SLOW:"
+        "DOTA_Tooltip_Ability_crystal_maiden_crystal_nova_custom_duration" "DURATION:"
+        "DOTA_Tooltip_Ability_crystal_maiden_crystal_nova_custom_vision_duration" "VISION DURATION:"
+        "DOTA_Tooltip_Ability_crystal_maiden_crystal_nova_custom_damage" "DAMAGE:"
+        "DOTA_Tooltip_Ability_crystal_maiden_crystal_nova_custom_int_to_damage" "%DAMAGE FROM INTELLECT:"
+        "DOTA_Tooltip_modifier_crystal_maiden_crystal_nova_custom_debuff" "Crystal Nova Slow"
+        "DOTA_Tooltip_modifier_crystal_maiden_crystal_nova_custom_debuff_Description" "Movement Speed decreased by -%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and Attack Speed decreased by -%dMODIFIER_PROPERTY_ATTACKSPEED_PERCENTAGE%%%."
+
+        "DOTA_Tooltip_Ability_crystal_maiden_freezing_field_custom" "Blizzard"
+        "DOTA_Tooltip_Ability_crystal_maiden_freezing_field_custom_Description" "Rylai creates a blizzard at a target area and slowing the movement speed and attack speed of all enemies inside. Icicles fall from the sky inside the blizzard, damaging enemies around it on impact."
+        "DOTA_Tooltip_Ability_crystal_maiden_freezing_field_custom_radius" "RADIUS:"
+        "DOTA_Tooltip_Ability_crystal_maiden_freezing_field_custom_explosion_radius" "ICICLE EXPLOSION RADIUS:"
+        "DOTA_Tooltip_Ability_crystal_maiden_freezing_field_custom_explosion_interval" "ICICLE INTERVAL:"
+        "DOTA_Tooltip_Ability_crystal_maiden_freezing_field_custom_movespeed_slow" "%MOVE SLOW:"
+        "DOTA_Tooltip_Ability_crystal_maiden_freezing_field_custom_attack_slow" "%ATTACK SLOW:"
+        "DOTA_Tooltip_Ability_crystal_maiden_freezing_field_custom_slow_duration" "SLOW DURATION:"
+        "DOTA_Tooltip_Ability_crystal_maiden_freezing_field_custom_damage" "DAMAGE:"
+        "DOTA_Tooltip_Ability_crystal_maiden_freezing_field_custom_int_to_damage" "%DAMAGE FROM INTELLECT:"
+        "DOTA_Tooltip_Ability_crystal_maiden_freezing_field_custom_duration_tooltip" "DURATION:"
+        "DOTA_Tooltip_modifier_crystal_maiden_freezing_field_custom_effect" "Blizzard"
+        "DOTA_Tooltip_modifier_crystal_maiden_freezing_field_custom_effect_Description" "Movement Speed decreased by -%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and Attack Speed decreased by -%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+
+        "DOTA_Tooltip_Ability_crystal_maiden_arcane_aura_custom" "Icewrack's Blessing"
+        "DOTA_Tooltip_Ability_crystal_maiden_arcane_aura_custom_Description" "Grants all allies on the map increased Spell Amplification. The effect is stronger on Rylai herself."
+        "DOTA_Tooltip_Ability_crystal_maiden_arcane_aura_custom_spell_amp" "%SPELL AMPLIFICATION:"
+        "DOTA_Tooltip_Ability_crystal_maiden_arcane_aura_custom_self_factor" "SELF MULTIPLIER:"
+        "DOTA_Tooltip_modifier_crystal_maiden_arcane_aura_custom_aura" "Icewrack's Blessing"
+        "DOTA_Tooltip_modifier_crystal_maiden_arcane_aura_custom_aura_Description" "Gaining %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%% Spell Amplification."
+
+        "DOTA_Tooltip_Ability_crystal_maiden_frostbite_custom" "Frostbite"
+        "DOTA_Tooltip_Ability_crystal_maiden_frostbite_custom_Description" "Rylai inflicts Frostbite on her enemies when she damages them with an ice ability.<br><br>Frostbite stacks up to %max_stacks% times and causes the enemy to take increased damage from all ice abilities and have their movement slowed.<br><br>At max stacks the enemy will become entirely frozen, unable to act or move, and suffer decreased magic resistance. Can only trigger once every %cooldown% seconds per enemy."
+        "DOTA_Tooltip_Ability_crystal_maiden_frostbite_custom_damage_amp" "%INCREASED DAMAGE PER STACK:"
+        "DOTA_Tooltip_Ability_crystal_maiden_frostbite_custom_max_stacks" "MAX STACKS:"
+        "DOTA_Tooltip_Ability_crystal_maiden_frostbite_custom_slow" "%MOVE SLOW PER STACK:"
+        "DOTA_Tooltip_Ability_crystal_maiden_frostbite_custom_magic_res" "%MAGIC RESISTANCE:"
+        "DOTA_Tooltip_Ability_crystal_maiden_frostbite_custom_duration" "DURATION:"
+        "DOTA_Tooltip_Ability_crystal_maiden_frostbite_custom_cooldown" "COOLDOWN:"
+        "DOTA_Tooltip_modifier_crystal_maiden_frostbite_custom_debuff" "Frostbite"
+        "DOTA_Tooltip_modifier_crystal_maiden_frostbite_custom_debuff_Description" "Taking increased damage from ice abilities. Movement Speed decreased by -%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+        "DOTA_Tooltip_modifier_crystal_maiden_frostbite_custom_debuff_frozen" "Frozen"
+        "DOTA_Tooltip_modifier_crystal_maiden_frostbite_custom_debuff_frozen_Description" "Unable to act or move. Magic Resistance decreased by -%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%."
+
+        "DOTA_Tooltip_Ability_crystal_maiden_blizzard" "Winds of Icewrack"
+        "DOTA_Tooltip_Ability_crystal_maiden_blizzard_scepter_Description" "Grants damage reduction to all allies inside for the duration."
+        "DOTA_Tooltip_Ability_crystal_maiden_blizzard_Description" "Rylai conjures up the Winds of Icewrack at a target location. The winds heal allies for a portion of their current health and enemies are slowed and take damage every second.<br><br>Enemies that stand too long in the area are inflicted with a chilling confliction, causing them to be unable to regenerate health and have a portion of their current health removed every second."
+        "DOTA_Tooltip_Ability_crystal_maiden_blizzard_radius" "RADIUS:"
+        "DOTA_Tooltip_Ability_crystal_maiden_blizzard_duration" "DURATION:"
+        "DOTA_Tooltip_Ability_crystal_maiden_blizzard_ally_heal_pct" "%ALLY HEAL:"
+        "DOTA_Tooltip_Ability_crystal_maiden_blizzard_hp_damage_pct" "%ENEMY HP DAMAGE:"
+        "DOTA_Tooltip_Ability_crystal_maiden_blizzard_damage" "DAMAGE:"
+        "DOTA_Tooltip_Ability_crystal_maiden_blizzard_int_to_damage" "%DAMAGE FROM INTELLECT:"
+        "DOTA_Tooltip_Ability_crystal_maiden_blizzard_interval" "INTERVAL:"
+        "DOTA_Tooltip_Ability_crystal_maiden_blizzard_slow" "%ATTACK AND MOVE SLOW:"
+        "DOTA_Tooltip_Ability_crystal_maiden_blizzard_time_limit" "INFLICTION TIME LIMIT:"
+        "DOTA_Tooltip_Ability_crystal_maiden_blizzard_freeze_duration" "INFLICTION DURATION:"
+        "DOTA_Tooltip_Ability_crystal_maiden_blizzard_damage_reduction" "%DAMAGE REDUCTION:"
+        "DOTA_Tooltip_modifier_crystal_maiden_blizzard_emitter_aura" "Winds of Icewrack"
+        "DOTA_Tooltip_modifier_crystal_maiden_blizzard_emitter_aura_Description" "Taking damage. Slowed."
+        "DOTA_Tooltip_modifier_crystal_maiden_blizzard_emitter_aura_friendly" "Winds of Icewrack"
+        "DOTA_Tooltip_modifier_crystal_maiden_blizzard_emitter_aura_friendly_Description" "You are being healed."
+        "DOTA_Tooltip_modifier_crystal_maiden_blizzard_emitter_frozen_debuff" "Chilling Confliction"
+        "DOTA_Tooltip_modifier_crystal_maiden_blizzard_emitter_frozen_debuff_Description" "Taking heavy damage and unable to regenerate health."
+
+        "DOTA_Tooltip_modifier_crystal_maiden_frostbite_custom_debuff_cooldown" "Frostbite (Cooldown)"
+        "DOTA_Tooltip_modifier_crystal_maiden_frostbite_custom_debuff_cooldown_Description" "Can not be frozen by frostbite for a while."
+
+        "dota_tooltip_ability_special_bonus_unique_troll_warlord_1_custom"                                   "+{s:value}s Fervor Grace Period"
+
+        "DOTA_Tooltip_Ability_troll_warlord_berserkers_rage_custom" "Berserker's Rage"
+        "DOTA_Tooltip_Ability_troll_warlord_berserkers_rage_custom_Lore" "Like his anger, Troll Warlord's supply of axes is infinite."
+        "DOTA_Tooltip_Ability_troll_warlord_berserkers_rage_custom_Description" "While active, Troll Warlord swaps from using ranged to melee attacks. Melee attacks grant Troll Warlord bonus movement speed, armor and lifesteal. Ranged attacks have a chance to throw an additional axe towards a random nearby enemy."
+        "DOTA_Tooltip_Ability_troll_warlord_berserkers_rage_custom_melee_bonus_speed" "MELEE BONUS SPEED:"
+        "DOTA_Tooltip_Ability_troll_warlord_berserkers_rage_custom_melee_bonus_armor_pct" "%MELEE BASE ARMOR BONUS:"
+        "DOTA_Tooltip_Ability_troll_warlord_berserkers_rage_custom_melee_lifesteal" "%MELEE LIFESTEAL:"
+        "DOTA_Tooltip_Ability_troll_warlord_berserkers_rage_custom_ranged_axe_chance" "%RANGED AXE CHANCE:"
+        "DOTA_Tooltip_Ability_troll_warlord_berserkers_rage_custom_ranged_axe_radius" "RANGED AXE RADIUS:"
+        "DOTA_Tooltip_modifier_troll_warlord_berserkers_rage_custom_melee" "Berserker's Rage: Melee"
+        "DOTA_Tooltip_modifier_troll_warlord_berserkers_rage_custom_ranged" "Berserker's Rage: Ranged"
+
+        "DOTA_Tooltip_Ability_troll_warlord_battle_trance_custom" "Battle Trance"
+        "DOTA_Tooltip_Ability_troll_warlord_battle_trance_custom_Lore" "An adrenaline rush of pure hatred quickens your blades."
+        "DOTA_Tooltip_Ability_troll_warlord_battle_trance_custom_scepter_Description" "Increases your attack damage during Battle Trance."
+        "DOTA_Tooltip_Ability_troll_warlord_battle_trance_custom_Description" "Troll Warlord goes into a Battle Trance when his health drops below a certain threshold, gaining increased movement speed and damage reduction. At the end of the duration Troll Warlord is healed for a portion of his max health.<br><br>If Troll Warlord were to take lethal damage and Battle Trance is not on cooldown, it's activated automatically and Troll Warlord restores health equal to a portion of his max health."
+        "DOTA_Tooltip_Ability_troll_warlord_battle_trance_custom_damage_reduction" "%DAMAGE REDUCTION:"
+        "DOTA_Tooltip_Ability_troll_warlord_battle_trance_custom_health_threshold" "%HEALTH THRESHOLD:"
+        "DOTA_Tooltip_Ability_troll_warlord_battle_trance_custom_max_hp_heal" "%END DURATION MAX HP HEAL:"
+        "DOTA_Tooltip_Ability_troll_warlord_battle_trance_custom_speed_bonus" "%MOVE SPEED BONUS"
+        "DOTA_Tooltip_Ability_troll_warlord_battle_trance_custom_health_restored_proc_auto" "%HEALTH RESTORED:"
+        "DOTA_Tooltip_Ability_troll_warlord_battle_trance_custom_duration" "DURATION:"
+        "DOTA_Tooltip_Ability_troll_warlord_battle_trance_custom_outgoing_damage" "%BONUS DAMAGE:"
+        "DOTA_Tooltip_modifier_troll_warlord_battle_trance_custom_buff" "Battle Trance"
+        "DOTA_Tooltip_modifier_troll_warlord_battle_trance_custom_buff_Description" "Movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and incoming damage decreased by -%dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%%."
+
+        "DOTA_Tooltip_Ability_troll_warlord_rampage_custom" "Rampage"
+        "DOTA_Tooltip_Ability_troll_warlord_rampage_custom_Lore" "Anger fuels even the bravest trolls."
+        "DOTA_Tooltip_Ability_troll_warlord_rampage_custom_shard_Description" "Grants bonus evasion for the duration."
+        "DOTA_Tooltip_Ability_troll_warlord_rampage_custom_Description" "Troll Warlord goes into a rampage, increasing his attack speed, damaging and stunning nearby enemies and applying a debuff that decreases their attack damage."
+        "DOTA_Tooltip_Ability_troll_warlord_rampage_custom_bonus_attack_speed" "ATTACK SPEED BONUS:"
+        "DOTA_Tooltip_Ability_troll_warlord_rampage_custom_attack_reduction" "%ATTACK REDUCTION:"
+        "DOTA_Tooltip_Ability_troll_warlord_rampage_custom_stun_duration" "STUN DURATION:"
+        "DOTA_Tooltip_Ability_troll_warlord_rampage_custom_damage" "DAMAGE:"
+        "DOTA_Tooltip_Ability_troll_warlord_rampage_custom_agi_to_damage" "%DAMAGE FROM AGILITY:"
+        "DOTA_Tooltip_Ability_troll_warlord_rampage_custom_radius" "RADIUS:"
+        "DOTA_Tooltip_Ability_troll_warlord_rampage_custom_duration" "DURATION:"
+        "DOTA_Tooltip_Ability_troll_warlord_rampage_custom_bonus_evasion" "%BONUS EVASION:"
+        "DOTA_Tooltip_modifier_troll_warlord_rampage_custom_buff" "Rampage"
+        "DOTA_Tooltip_modifier_troll_warlord_rampage_custom_buff_Description" "Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+        "DOTA_Tooltip_modifier_troll_warlord_rampage_custom_debuff" "Rampage"
+        "DOTA_Tooltip_modifier_troll_warlord_rampage_custom_debuff_Description" "Attack damage decreased by -%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%."
 	}	
 }	
