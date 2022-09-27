@@ -4406,7 +4406,7 @@
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10" "Wraith"
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10_Description" "When this unit dies it will re-appear as a wraith with +30%% of its max health remaining. It will continue to regenerate +2.5%% of its max health over 10 seconds or until killed again. Does not proc if it is already a wraith."
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10_buff" "Wraith Regeneration"
-		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10_buff_Description" "Регенерирует +2.5%%% of its max health."
+		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10_buff_Description" "Regenerating +2.5%%% of its max health."
 
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_death_explosion_30" "Corpse Explosion"
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_death_explosion_30_Description" "Взрывается после смерти, нанося урон всем ближайшим героям и подконтрольным юнитам в размере 30%%% от максимального здоровья этого юнита в виде магического урона."
