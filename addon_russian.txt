@@ -4406,7 +4406,7 @@
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10" "Wraith"
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10_Description" "Когда этот юнит умирает, он снова появляется в виде призрака с +30%% от максимального запаса здоровья. Он будет продолжать восстанавливать +2,5%% своего максимального здоровья в течение 10 секунд или до тех пор, пока его снова не убьют. Не срабатывает, если это уже призрак."
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10_buff" "Wraith Regeneration"
-		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10_buff_Description" "Восстанавливает +2,5%%% от максимального запаса здоровья."
+		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10_buff_Description" "Восстанавливает +2.5%%% от максимального запаса здоровья."
 
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_death_explosion_30" "Corpse Explosion"
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_death_explosion_30_Description" "Взрывается после смерти, нанося урон всем ближайшим героям и подконтрольным юнитам в размере 30%%% от максимального здоровья этого юнита в виде магического урона."
@@ -4737,7 +4737,8 @@
         "DOTA_Tooltip_modifier_item_staff_of_dragons_debuff_Description" "Сопротивление магии уменьшено на %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%"
 
         "DOTA_Tooltip_Ability_item_mirror_blade"    "Mirror Blade"
-        "DOTA_Tooltip_Ability_item_mirror_blade_description"    "<h1>Пассивное: Thrice Stricken</h1>При атаке вы наносите дополнительные 3 удара, быстрой последовательностью и замедляете цель на %movement_slow%%% на %slow_duration% секунд.<br><br>Дополнительные атаки наносят %bonus_attack_strike_damage_mult%%% от вашего урона от атаки. в качестве дополнительного чистого урона цели.\n<h1>Пассивное: Mirrored Reality</h1>Атаки вражеского героя создают отражение вас самих, которое атакует его в течение %illusion_duration% секунд. Отражения наносят %illusion_damage_pct%%% урона, не могут быть выбраны целью и неуязвимы. <i>(перезарядка 5 секунд)</i>"
+        "DOTA_Tooltip_Ability_item_mirror_blade_description"    "<h1>Пассивное: Thrice Stricken</h1>При атаке вы наносите дополнительные 3 удара, быстрой последовательностью и замедляете цель на %movement_slow%%% на %slow_duration% секунд.<br><br>Дополнительные атаки наносят %bonus_attack_strike_damage_mult%%% от вашего урона от атаки. в качестве дополнительного чистого урона цели.\n<h1>Пассивное: Mirrored Reality</h1>Атаки вражеского героя создают отражение вас самих, которое атакует его в течение %illusion_duration% секунд. Отражения наносят %illusion_damage_pct%%% урона, не могут быть выбраны целью и неуязвимы. <i>(перезарядка 5 секунд)</i>
+"
         "DOTA_Tooltip_Ability_item_mirror_blade_Lore"    "Клинок, способный заставить ваших врагов сражаться с самими собой."
         "DOTA_Tooltip_Ability_item_mirror_blade_bonus_strength"    "+$str"
         "DOTA_Tooltip_Ability_item_mirror_blade_bonus_intellect"    "+$int"
@@ -4748,7 +4749,8 @@
         "DOTA_Tooltip_Ability_item_mirror_blade_bonus_movement_speed"    "+$move_speed"
 
         "DOTA_Tooltip_Ability_item_mirror_blade_2"    "Mirror Blade LVL2"
-        "DOTA_Tooltip_Ability_item_mirror_blade_2_description"    "<h1>Пассивное: Thrice Stricken</h1>При атаке вы наносите дополнительные 3 удара, быстрой последовательностью и замедляете цель на %movement_slow%%% на %slow_duration% секунд.<br><br>Дополнительные атаки наносят %bonus_attack_strike_damage_mult%%% от вашего урона от атаки. в качестве дополнительного чистого урона цели.\n<h1>Пассивное: Mirrored Reality</h1>Атаки вражеского героя создают отражение вас самих, которое атакует его в течение %illusion_duration% секунд. Отражения наносят %illusion_damage_pct%%% урона, не могут быть выбраны целью и неуязвимы. <i>(перезарядка 5 секунд)</i>"
+        "DOTA_Tooltip_Ability_item_mirror_blade_2_description"    "<h1>Пассивное: Thrice Stricken</h1>При атаке вы наносите дополнительные 3 удара, быстрой последовательностью и замедляете цель на %movement_slow%%% на %slow_duration% секунд.<br><br>Дополнительные атаки наносят %bonus_attack_strike_damage_mult%%% от вашего урона от атаки. в качестве дополнительного чистого урона цели.\n<h1>Пассивное: Mirrored Reality</h1>Атаки вражеского героя создают отражение вас самих, которое атакует его в течение %illusion_duration% секунд. Отражения наносят %illusion_damage_pct%%% урона, не могут быть выбраны целью и неуязвимы. <i>(перезарядка 5 секунд)</i>
+"
         "DOTA_Tooltip_Ability_item_mirror_blade_2_Lore"    "Клинок, способный заставить ваших врагов сражаться с самими собой."
         "DOTA_Tooltip_Ability_item_mirror_blade_2_bonus_strength"    "+$str"
         "DOTA_Tooltip_Ability_item_mirror_blade_2_bonus_intellect"    "+$int"
@@ -4759,7 +4761,8 @@
         "DOTA_Tooltip_Ability_item_mirror_blade_2_bonus_movement_speed"    "+$move_speed"
 
         "DOTA_Tooltip_Ability_item_mirror_blade_3"    "Mirror Blade LVL3"
-        "DOTA_Tooltip_Ability_item_mirror_blade_3_description"    "<h1>Пассивное: Thrice Stricken</h1>При атаке вы наносите дополнительные 3 удара, быстрой последовательностью и замедляете цель на %movement_slow%%% на %slow_duration% секунд.<br><br>Дополнительные атаки наносят %bonus_attack_strike_damage_mult%%% от вашего урона от атаки. в качестве дополнительного чистого урона цели.\n<h1>Пассивное: Mirrored Reality</h1>Атаки вражеского героя создают отражение вас самих, которое атакует его в течение %illusion_duration% секунд. Отражения наносят %illusion_damage_pct%%% урона, не могут быть выбраны целью и неуязвимы. <i>(перезарядка 5 секунд)</i>"
+        "DOTA_Tooltip_Ability_item_mirror_blade_3_description"    "<h1>Пассивное: Thrice Stricken</h1>При атаке вы наносите дополнительные 3 удара, быстрой последовательностью и замедляете цель на %movement_slow%%% на %slow_duration% секунд.<br><br>Дополнительные атаки наносят %bonus_attack_strike_damage_mult%%% от вашего урона от атаки. в качестве дополнительного чистого урона цели.\n<h1>Пассивное: Mirrored Reality</h1>Атаки вражеского героя создают отражение вас самих, которое атакует его в течение %illusion_duration% секунд. Отражения наносят %illusion_damage_pct%%% урона, не могут быть выбраны целью и неуязвимы. <i>(перезарядка 5 секунд)</i>
+"
         "DOTA_Tooltip_Ability_item_mirror_blade_3_Lore"    "Клинок, способный заставить ваших врагов сражаться с самими собой."
         "DOTA_Tooltip_Ability_item_mirror_blade_3_bonus_strength"    "+$str"
         "DOTA_Tooltip_Ability_item_mirror_blade_3_bonus_intellect"    "+$int"
@@ -4770,7 +4773,8 @@
         "DOTA_Tooltip_Ability_item_mirror_blade_3_bonus_movement_speed"    "+$move_speed"
 
         "DOTA_Tooltip_Ability_item_mirror_blade_4"    "Mirror Blade LVL4"
-        "DOTA_Tooltip_Ability_item_mirror_blade_4_description"    "<h1>Пассивное: Thrice Stricken</h1>При атаке вы наносите дополнительные 3 удара, быстрой последовательностью и замедляете цель на %movement_slow%%% на %slow_duration% секунд.<br><br>Дополнительные атаки наносят %bonus_attack_strike_damage_mult%%% от вашего урона от атаки. в качестве дополнительного чистого урона цели.\n<h1>Пассивное: Mirrored Reality</h1>Атаки вражеского героя создают отражение вас самих, которое атакует его в течение %illusion_duration% секунд. Отражения наносят %illusion_damage_pct%%% урона, не могут быть выбраны целью и неуязвимы. <i>(перезарядка 5 секунд)</i>"
+        "DOTA_Tooltip_Ability_item_mirror_blade_4_description"    "<h1>Пассивное: Thrice Stricken</h1>При атаке вы наносите дополнительные 3 удара, быстрой последовательностью и замедляете цель на %movement_slow%%% на %slow_duration% секунд.<br><br>Дополнительные атаки наносят %bonus_attack_strike_damage_mult%%% от вашего урона от атаки. в качестве дополнительного чистого урона цели.\n<h1>Пассивное: Mirrored Reality</h1>Атаки вражеского героя создают отражение вас самих, которое атакует его в течение %illusion_duration% секунд. Отражения наносят %illusion_damage_pct%%% урона, не могут быть выбраны целью и неуязвимы. <i>(перезарядка 5 секунд)</i>
+"
         "DOTA_Tooltip_Ability_item_mirror_blade_4_Lore"    "Клинок, способный заставить ваших врагов сражаться с самими собой."
         "DOTA_Tooltip_Ability_item_mirror_blade_4_bonus_strength"    "+$str"
         "DOTA_Tooltip_Ability_item_mirror_blade_4_bonus_intellect"    "+$int"
@@ -4781,7 +4785,8 @@
         "DOTA_Tooltip_Ability_item_mirror_blade_4_bonus_movement_speed"    "+$move_speed"
 
         "DOTA_Tooltip_Ability_item_mirror_blade_5"    "Mirror Blade LVL5"
-        "DOTA_Tooltip_Ability_item_mirror_blade_5_description"    "<h1>Пассивное: Thrice Stricken</h1>При атаке вы наносите дополнительные 3 удара, быстрой последовательностью и замедляете цель на %movement_slow%%% на %slow_duration% секунд.<br><br>Дополнительные атаки наносят %bonus_attack_strike_damage_mult%%% от вашего урона от атаки. в качестве дополнительного чистого урона цели.\n<h1>Пассивное: Mirrored Reality</h1>Атаки вражеского героя создают отражение вас самих, которое атакует его в течение %illusion_duration% секунд. Отражения наносят %illusion_damage_pct%%% урона, не могут быть выбраны целью и неуязвимы. <i>(перезарядка 5 секунд)</i>"
+        "DOTA_Tooltip_Ability_item_mirror_blade_5_description"    "<h1>Пассивное: Thrice Stricken</h1>При атаке вы наносите дополнительные 3 удара, быстрой последовательностью и замедляете цель на %movement_slow%%% на %slow_duration% секунд.<br><br>Дополнительные атаки наносят %bonus_attack_strike_damage_mult%%% от вашего урона от атаки. в качестве дополнительного чистого урона цели.\n<h1>Пассивное: Mirrored Reality</h1>Атаки вражеского героя создают отражение вас самих, которое атакует его в течение %illusion_duration% секунд. Отражения наносят %illusion_damage_pct%%% урона, не могут быть выбраны целью и неуязвимы. <i>(перезарядка 5 секунд)</i>
+"
         "DOTA_Tooltip_Ability_item_mirror_blade_5_Lore"    "Клинок, способный заставить ваших врагов сражаться с самими собой."
         "DOTA_Tooltip_Ability_item_mirror_blade_5_bonus_strength"    "+$str"
         "DOTA_Tooltip_Ability_item_mirror_blade_5_bonus_intellect"    "+$int"
@@ -4792,7 +4797,8 @@
         "DOTA_Tooltip_Ability_item_mirror_blade_5_bonus_movement_speed"    "+$move_speed"
 
         "DOTA_Tooltip_Ability_item_mirror_blade_6"    "Mirror Blade LVL6"
-        "DOTA_Tooltip_Ability_item_mirror_blade_6_description"    "<h1>Пассивное: Thrice Stricken</h1>При атаке вы наносите дополнительные 3 удара, быстрой последовательностью и замедляете цель на %movement_slow%%% на %slow_duration% секунд.<br><br>Дополнительные атаки наносят %bonus_attack_strike_damage_mult%%% от вашего урона от атаки. в качестве дополнительного чистого урона цели.\n<h1>Пассивное: Mirrored Reality</h1>Атаки вражеского героя создают отражение вас самих, которое атакует его в течение %illusion_duration% секунд. Отражения наносят %illusion_damage_pct%%% урона, не могут быть выбраны целью и неуязвимы. <i>(перезарядка 5 секунд)</i>"
+        "DOTA_Tooltip_Ability_item_mirror_blade_6_description"    "<h1>Пассивное: Thrice Stricken</h1>При атаке вы наносите дополнительные 3 удара, быстрой последовательностью и замедляете цель на %movement_slow%%% на %slow_duration% секунд.<br><br>Дополнительные атаки наносят %bonus_attack_strike_damage_mult%%% от вашего урона от атаки. в качестве дополнительного чистого урона цели.\n<h1>Пассивное: Mirrored Reality</h1>Атаки вражеского героя создают отражение вас самих, которое атакует его в течение %illusion_duration% секунд. Отражения наносят %illusion_damage_pct%%% урона, не могут быть выбраны целью и неуязвимы. <i>(перезарядка 5 секунд)</i>
+"
         "DOTA_Tooltip_Ability_item_mirror_blade_6_Lore"    "Клинок, способный заставить ваших врагов сражаться с самими собой."
         "DOTA_Tooltip_Ability_item_mirror_blade_6_bonus_strength"    "+$str"
         "DOTA_Tooltip_Ability_item_mirror_blade_6_bonus_intellect"    "+$int"
@@ -5808,9 +5814,7 @@
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_int_to_damage" "%МИН. РАДИУС ДЛЯ УРОНА ОТ ИНТЕЛЛЕКТА:"
 	"DOTA_Tooltip_modifier_necrolyte_death_aura_enemy" "Decaying Presence"
 	"DOTA_Tooltip_modifier_necrolyte_death_aura_enemy_Description" "Магические Сопротивление уменьшено на %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%% и получает урон от Necrophos." 
-	"dota_tooltip_ability_special_bonus_unique_necrolyte_1_custom"                                   "-{s:value}s перезарядки формы Жнеца"
-	"dota_tooltip_ability_special_bonus_unique_necrolyte_2_custom"									 "-{s:value}% уменьшения здоровья в форме Жнеца"
-	"dota_tooltip_ability_special_bonus_unique_necrolyte_3_custom"									 "+{s:value} эффект Sadist за убийство"
+	
 	"DOTA_Tooltip_Ability_special_bonus_unique_necrolyte_4_custom" 									 "+{s:value}% Decaying Presence урон от максимального здоровья"
 
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_reaper" "Присутствие Жнеца"
@@ -5872,7 +5876,9 @@
 	"DOTA_Tooltip_modifier_necrolyte_aesthetics_death_buff_permanent" "Эстетика сметри"
 	"DOTA_Tooltip_modifier_necrolyte_aesthetics_death_buff_permanent_Description" "Временное увеличение интелекта на %dMODIFIER_PROPERTY_STATS_INTELLECT_BONUS%."
 
-	
+	"dota_tooltip_ability_special_bonus_unique_necrolyte_1_custom"                                   "-{s:value}s перезарядки формы Жнеца"
+	"dota_tooltip_ability_special_bonus_unique_necrolyte_2_custom"									 "-{s:value}% уменьшения здоровья в форме Жнеца"
+	"dota_tooltip_ability_special_bonus_unique_necrolyte_3_custom"									 "+{s:value} эффект Sadist за убийство"
 
 	"DOTA_Tooltip_modifier_bloodseeker_bloodrage_custom_buff" "Bloodrage"
 	"DOTA_Tooltip_modifier_bloodseeker_bloodrage_custom_buff_Description" "Gaining increased attack speed and spell amplification, but losing a portion of your health every second."
@@ -6607,7 +6613,7 @@
         "DOTA_Tooltip_Ability_riki_decoy_sleep_duration" "СОН ПРОДОЛЖИТЕЛЬНОСТЬ:"
         "DOTA_Tooltip_Ability_riki_decoy_sleep_incoming_damage" "%СОН ВХОДЯЩИЙ УРОН:"
         "DOTA_Tooltip_Ability_riki_decoy_miss_chance" "%ШАНС ПРОМАХА:"
-        "DOTA_Tooltip_Ability_riki_decoy_slow" "%ЗАМЕДЛЕНИЕ :"
+        "DOTA_Tooltip_Ability_riki_decoy_slow" "%ЗАМЕДЛЕНИЕ:"
         "DOTA_Tooltip_Ability_riki_decoy_duration" "ПРОДОЛЖИТЕЛЬНОСТЬ:"
         "DOTA_Tooltip_modifier_riki_decoy_emitter_aura" "Decoy"
         "DOTA_Tooltip_modifier_riki_decoy_emitter_aura_Description" "Вынужден атаковать приманку. Пропущено %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% ваших атак, и ваша скорость передвижения снижена на -%dMODIFIER_PROPERTY_MISS_PERCENTAGE%%%."
