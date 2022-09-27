@@ -1,8 +1,0 @@
-special_bonus_morphling_attribute_shift_35_attributes = class({})
-
-LinkLuaModifier( "modifier_special_bonus_morphling_attribute_shift_35_attributes", "heroes/hero_morphling/talents/special_bonus_morphling_attribute_shift_35_attributes/modifier_special_bonus_morphling_attribute_shift_35_attributes", LUA_MODIFIER_MOTION_NONE )
-
-function special_bonus_morphling_attribute_shift_35_attributes:GetIntrinsicModifierName()
-	return "modifier_special_bonus_morphling_attribute_shift_35_attributes" 
-end
-
