@@ -1943,9 +1943,7 @@
         "DOTA_Tooltip_Ability_item_trident_custom_7_bonus_attack_speed"    "+$attack"
 
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr"    "Strygwyr's Bloodstone"
-        "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.
-<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Пассивно: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. 
-"
+        "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.<br><h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Пассивно: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. "
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_Lore"    "Infused with the raw power of Strygwyr, the Bloodseeker."
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_bonus_intellect"    "+$int"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_bonus_health"    "+$health"
@@ -1956,9 +1954,7 @@
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_mana_regen_multiplier"    "%+к усилению восстановления маны"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_2"    "Strygwyr's Bloodstone LVL2"
-        "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_2_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.
-<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Пассивно: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. 
-"
+        "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_2_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.<br><h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Пассивно: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. "
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_2_Lore"    "Infused with the raw power of Strygwyr, the Bloodseeker."
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_2_bonus_intellect"    "+$int"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_2_bonus_health"    "+$health"
@@ -1969,9 +1965,7 @@
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_2_mana_regen_multiplier"    "%+к усилению восстановления маны"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_2_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_3"    "Strygwyr's Bloodstone LVL3"
-        "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_3_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.
-<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Пассивно: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. 
-"
+        "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_3_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.<br><h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Пассивно: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. "
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_3_Lore"    "Infused with the raw power of Strygwyr, the Bloodseeker."
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_3_bonus_intellect"    "+$int"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_3_bonus_health"    "+$health"
@@ -1983,9 +1977,7 @@
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_3_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
 
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_4"    "Strygwyr's Bloodstone LVL4"
-        "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_4_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.
-<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Пассивно: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. 
-"
+        "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_4_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.<br><h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Пассивно: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. "
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_4_Lore"    "Infused with the raw power of Strygwyr, the Bloodseeker."
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_4_bonus_intellect"    "+$int"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_4_bonus_health"    "+$health"
@@ -1997,9 +1989,7 @@
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_4_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
 
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_5"    "Strygwyr's Lost Bloodstone"
-        "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_5_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.
-<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Пассивно: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. 
-"
+        "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_5_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.<br><h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Пассивно: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. "
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_5_Lore"    "Infused with the raw power of Strygwyr, the Bloodseeker."
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_5_bonus_intellect"    "+$int"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_5_bonus_health"    "+$health"
@@ -2011,9 +2001,7 @@
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_5_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
 
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_6"    "Strygwyr's Rainbow Bloodstone"
-        "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_6_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.
-<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Пассивно: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. 
-"
+        "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_6_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.<br><h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Пассивно: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. "
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_6_Lore"    "Infused with the raw power of Strygwyr, the Bloodseeker."
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_6_bonus_intellect"    "+$int"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_6_bonus_health"    "+$health"
@@ -6340,9 +6328,7 @@
  		"DOTA_Tooltip_modifier_drow_ranger_camouflage_debuff_Description" "Оглушен и полученяет %dMODIFIER_PROPERTY_INCOMING DAMAGE PERCENTAGE%%% увеличенный урон из всех источников."
 
  		"DOTA_Tooltip_Ability_item_mage_masher"    "Enchanted Lance"
-        "DOTA_Tooltip_Ability_item_mage_masher_description"    "<h1>Активация: Hurricane Thrust</h1> Отталкивает вас на %push_length% от вашего текущего местоположения.<br><br>Действует как Force Staff при использовании на себе или союзниках.<br><br>Диапазон на врагов: %cast_range_enemy%
-<h1>Пассивно:  Dragon's Reach</h1> Увеличивает дальность атаки героев дальнего боя на %base_attack_range%.
-<h1>Пассивно: Take Aim</h1>Весь исходящий урон увеличивается на +%tooltip_multiplier%%% за каждые %min_damage_range% единиц между вами и целью. Начиная с единиц %min_damage_range% и заканчивая единицами %max_damage_range%."
+        "DOTA_Tooltip_Ability_item_mage_masher_description"    "<h1>Активация: Hurricane Thrust</h1> Отталкивает вас на %push_length% от вашего текущего местоположения.<br><br>Действует как Force Staff при использовании на себе или союзниках.<br><br>Диапазон на врагов: %cast_range_enemy%<br><h1>Пассивно:  Dragon's Reach</h1> Увеличивает дальность атаки героев дальнего боя на %base_attack_range%.<br><h1>Пассивно: Take Aim</h1>Весь исходящий урон увеличивается на +%tooltip_multiplier%%% за каждые %min_damage_range% единиц между вами и целью. Начиная с единиц %min_damage_range% и заканчивая единицами %max_damage_range%."
         "DOTA_Tooltip_Ability_item_mage_masher_Lore"    "Легендарная пика, когда-то носившаяся как королевский символ древних наездников на вивернах."
         "DOTA_Tooltip_Ability_item_mage_masher_Note0"    "Self-cast will use Mage Masher on yourself."
         "DOTA_Tooltip_Ability_item_mage_masher_Note1"    "Mage Masher doesn't interrupt the target's actions."
@@ -6355,9 +6341,7 @@
         "DOTA_Tooltip_Ability_item_mage_masher_bonus_magical_armor"    "%+$spell_resist"
 
         "DOTA_Tooltip_Ability_item_mage_masher_2"    "Enchanted Lance LVL2"
-        "DOTA_Tooltip_Ability_item_mage_masher_2_description"    "<h1>Активация: Hurricane Thrust</h1> Отталкивает вас на %push_length% от вашего текущего местоположения.<br><br>Действует как Force Staff при использовании на себе или союзниках.<br><br>Диапазон на врагов: %cast_range_enemy%
-<h1>Пассивно:  Dragon's Reach</h1> Увеличивает дальность атаки героев дальнего боя на %base_attack_range%.
-<h1>Пассивно: Take Aim</h1>Весь исходящий урон увеличивается на +%tooltip_multiplier%%% за каждые %min_damage_range% единиц между вами и целью. Начиная с единиц %min_damage_range% и заканчивая единицами %max_damage_range%."
+        "DOTA_Tooltip_Ability_item_mage_masher_2_description"    "<h1>Активация: Hurricane Thrust</h1> Отталкивает вас на %push_length% от вашего текущего местоположения.<br><br>Действует как Force Staff при использовании на себе или союзниках.<br><br>Диапазон на врагов: %cast_range_enemy%<br><h1>Пассивно:  Dragon's Reach</h1> Увеличивает дальность атаки героев дальнего боя на %base_attack_range%.<br><h1>Пассивно: Take Aim</h1>Весь исходящий урон увеличивается на +%tooltip_multiplier%%% за каждые %min_damage_range% единиц между вами и целью. Начиная с единиц %min_damage_range% и заканчивая единицами %max_damage_range%."
         "DOTA_Tooltip_Ability_item_mage_masher_2_Lore"    "Легендарная пика, когда-то носившаяся как королевский символ древних наездников на вивернах."
         "DOTA_Tooltip_Ability_item_mage_masher_2_Note0"    "Self-cast will use Mage Masher on yourself."
         "DOTA_Tooltip_Ability_item_mage_masher_2_Note1"    "Mage Masher doesn't interrupt the target's actions."
@@ -6370,9 +6354,7 @@
         "DOTA_Tooltip_Ability_item_mage_masher_2_bonus_magical_armor"    "%+$spell_resist"
 
         "DOTA_Tooltip_Ability_item_mage_masher_7"    "Enchanted Lance LVL7"
-        "DOTA_Tooltip_Ability_item_mage_masher_7_description"    "<h1>Активация: Hurricane Thrust</h1> Отталкивает вас на %push_length% от вашего текущего местоположения.<br><br>Действует как Force Staff при использовании на себе или союзниках.<br><br>Диапазон на врагов: %cast_range_enemy%
-<h1>Пассивно:  Dragon's Reach</h1> Увеличивает дальность атаки героев дальнего боя на %base_attack_range%.
-<h1>Пассивно: Take Aim</h1>Весь исходящий урон увеличивается на +%tooltip_multiplier%%% за каждые %min_damage_range% единиц между вами и целью. Начиная с единиц %min_damage_range% и заканчивая единицами %max_damage_range%."
+        "DOTA_Tooltip_Ability_item_mage_masher_7_description"    "<h1>Активация: Hurricane Thrust</h1> Отталкивает вас на %push_length% от вашего текущего местоположения.<br><br>Действует как Force Staff при использовании на себе или союзниках.<br><br>Диапазон на врагов: %cast_range_enemy%<br><h1>Пассивно:  Dragon's Reach</h1> Увеличивает дальность атаки героев дальнего боя на %base_attack_range%.<br><h1>Пассивно: Take Aim</h1>Весь исходящий урон увеличивается на +%tooltip_multiplier%%% за каждые %min_damage_range% единиц между вами и целью. Начиная с единиц %min_damage_range% и заканчивая единицами %max_damage_range%."
         "DOTA_Tooltip_Ability_item_mage_masher_7_Lore"    "Легендарная пика, когда-то носившаяся как королевский символ древних наездников на вивернах."
         "DOTA_Tooltip_Ability_item_mage_masher_7_Note0"    "Self-cast will use Mage Masher on yourself."
         "DOTA_Tooltip_Ability_item_mage_masher_7_Note1"    "Mage Masher doesn't interrupt the target's actions."
@@ -6385,9 +6367,7 @@
         "DOTA_Tooltip_Ability_item_mage_masher_7_bonus_magical_armor"    "%+$spell_resist"
 
         "DOTA_Tooltip_Ability_item_mage_masher_3"    "Enchanted Lance LVL3"
-        "DOTA_Tooltip_Ability_item_mage_masher_3_description"    "<h1>Активация: Hurricane Thrust</h1> Отталкивает вас на %push_length% от вашего текущего местоположения.<br><br>Действует как Force Staff при использовании на себе или союзниках.<br><br>Диапазон на врагов: %cast_range_enemy%
-<h1>Пассивно:  Dragon's Reach</h1> Увеличивает дальность атаки героев дальнего боя на %base_attack_range%.
-<h1>Пассивно: Take Aim</h1>Весь исходящий урон увеличивается на +%tooltip_multiplier%%% за каждые %min_damage_range% единиц между вами и целью. Начиная с единиц %min_damage_range% и заканчивая единицами %max_damage_range%."
+        "DOTA_Tooltip_Ability_item_mage_masher_3_description"    "<h1>Активация: Hurricane Thrust</h1> Отталкивает вас на %push_length% от вашего текущего местоположения.<br><br>Действует как Force Staff при использовании на себе или союзниках.<br><br>Диапазон на врагов: %cast_range_enemy%<br><h1>Пассивно:  Dragon's Reach</h1> Увеличивает дальность атаки героев дальнего боя на %base_attack_range%.<br><h1>Пассивно: Take Aim</h1>Весь исходящий урон увеличивается на +%tooltip_multiplier%%% за каждые %min_damage_range% единиц между вами и целью. Начиная с единиц %min_damage_range% и заканчивая единицами %max_damage_range%."
         "DOTA_Tooltip_Ability_item_mage_masher_3_Lore"    "Легендарная пика, когда-то носившаяся как королевский символ древних наездников на вивернах."
         "DOTA_Tooltip_Ability_item_mage_masher_3_Note0"    "Self-cast will use Mage Masher on yourself."
         "DOTA_Tooltip_Ability_item_mage_masher_3_Note1"    "Mage Masher doesn't interrupt the target's actions."
@@ -6400,9 +6380,7 @@
         "DOTA_Tooltip_Ability_item_mage_masher_3_bonus_magical_armor"    "%+$spell_resist"
 
         "DOTA_Tooltip_Ability_item_mage_masher_4"    "Enchanted Lance LVL4"
-        "DOTA_Tooltip_Ability_item_mage_masher_4_description"    "<h1>Активация: Hurricane Thrust</h1> Отталкивает вас на %push_length% от вашего текущего местоположения.<br><br>Действует как Force Staff при использовании на себе или союзниках.<br><br>Диапазон на врагов: %cast_range_enemy%
-<h1>Пассивно:  Dragon's Reach</h1> Увеличивает дальность атаки героев дальнего боя на %base_attack_range%.
-<h1>Пассивно: Take Aim</h1>Весь исходящий урон увеличивается на +%tooltip_multiplier%%% за каждые %min_damage_range% единиц между вами и целью. Начиная с единиц %min_damage_range% и заканчивая единицами %max_damage_range%."
+        "DOTA_Tooltip_Ability_item_mage_masher_4_description"    "<h1>Активация: Hurricane Thrust</h1> Отталкивает вас на %push_length% от вашего текущего местоположения.<br><br>Действует как Force Staff при использовании на себе или союзниках.<br><br>Диапазон на врагов: %cast_range_enemy%<br><h1>Пассивно:  Dragon's Reach</h1> Увеличивает дальность атаки героев дальнего боя на %base_attack_range%.<br><h1>Пассивно: Take Aim</h1>Весь исходящий урон увеличивается на +%tooltip_multiplier%%% за каждые %min_damage_range% единиц между вами и целью. Начиная с единиц %min_damage_range% и заканчивая единицами %max_damage_range%."
         "DOTA_Tooltip_Ability_item_mage_masher_4_Lore"    "Легендарная пика, когда-то носившаяся как королевский символ древних наездников на вивернах."
         "DOTA_Tooltip_Ability_item_mage_masher_4_Note0"    "Self-cast will use Mage Masher on yourself."
         "DOTA_Tooltip_Ability_item_mage_masher_4_Note1"    "Mage Masher doesn't interrupt the target's actions."
@@ -6415,9 +6393,7 @@
         "DOTA_Tooltip_Ability_item_mage_masher_4_bonus_magical_armor"    "%+$spell_resist"
 
         "DOTA_Tooltip_Ability_item_mage_masher_5"    "Enchanted Lance LVL5"
-        "DOTA_Tooltip_Ability_item_mage_masher_5_description"    "<h1>Активация: Hurricane Thrust</h1> Отталкивает вас на %push_length% от вашего текущего местоположения.<br><br>Действует как Force Staff при использовании на себе или союзниках.<br><br>Диапазон на врагов: %cast_range_enemy%
-<h1>Пассивно:  Dragon's Reach</h1> Увеличивает дальность атаки героев дальнего боя на %base_attack_range%.
-<h1>Пассивно: Take Aim</h1>Весь исходящий урон увеличивается на +%tooltip_multiplier%%% за каждые %min_damage_range% единиц между вами и целью. Начиная с единиц %min_damage_range% и заканчивая единицами %max_damage_range%."
+        "DOTA_Tooltip_Ability_item_mage_masher_5_description"    "<h1>Активация: Hurricane Thrust</h1> Отталкивает вас на %push_length% от вашего текущего местоположения.<br><br>Действует как Force Staff при использовании на себе или союзниках.<br><br>Диапазон на врагов: %cast_range_enemy%<br><h1>Пассивно:  Dragon's Reach</h1> Увеличивает дальность атаки героев дальнего боя на %base_attack_range%.<br><h1>Пассивно: Take Aim</h1>Весь исходящий урон увеличивается на +%tooltip_multiplier%%% за каждые %min_damage_range% единиц между вами и целью. Начиная с единиц %min_damage_range% и заканчивая единицами %max_damage_range%."
         "DOTA_Tooltip_Ability_item_mage_masher_5_Lore"    "Легендарная пика, когда-то носившаяся как королевский символ древних наездников на вивернах."
         "DOTA_Tooltip_Ability_item_mage_masher_5_Note0"    "Self-cast will use Mage Masher on yourself."
         "DOTA_Tooltip_Ability_item_mage_masher_5_Note1"    "Mage Masher doesn't interrupt the target's actions."
@@ -6430,9 +6406,7 @@
         "DOTA_Tooltip_Ability_item_mage_masher_5_bonus_magical_armor"    "%+$spell_resist"
 
         "DOTA_Tooltip_Ability_item_mage_masher_6"    "Enchanted Lance LVL6"
-        "DOTA_Tooltip_Ability_item_mage_masher_6_description"    "<h1>Активация: Hurricane Thrust</h1> Отталкивает вас на %push_length% от вашего текущего местоположения.<br><br>Действует как Force Staff при использовании на себе или союзниках.<br><br>Диапазон на врагов: %cast_range_enemy%
-<h1>Пассивно:  Dragon's Reach</h1> Увеличивает дальность атаки героев дальнего боя на %base_attack_range%.
-<h1>Пассивно: Take Aim</h1>Весь исходящий урон увеличивается на +%tooltip_multiplier%%% за каждые %min_damage_range% единиц между вами и целью. Начиная с единиц %min_damage_range% и заканчивая единицами %max_damage_range%."
+        "DOTA_Tooltip_Ability_item_mage_masher_6_description"    "<h1>Активация: Hurricane Thrust</h1> Отталкивает вас на %push_length% от вашего текущего местоположения.<br><br>Действует как Force Staff при использовании на себе или союзниках.<br><br>Диапазон на врагов: %cast_range_enemy%<br><h1>Пассивно:  Dragon's Reach</h1> Увеличивает дальность атаки героев дальнего боя на %base_attack_range%.<br><h1>Пассивно: Take Aim</h1>Весь исходящий урон увеличивается на +%tooltip_multiplier%%% за каждые %min_damage_range% единиц между вами и целью. Начиная с единиц %min_damage_range% и заканчивая единицами %max_damage_range%."
         "DOTA_Tooltip_Ability_item_mage_masher_6_Lore"    "Легендарная пика, когда-то носившаяся как королевский символ древних наездников на вивернах."
         "DOTA_Tooltip_Ability_item_mage_masher_6_Note0"    "Self-cast will use Mage Masher on yourself."
         "DOTA_Tooltip_Ability_item_mage_masher_6_Note1"    "Mage Masher doesn't interrupt the target's actions."
