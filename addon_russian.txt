@@ -6748,5 +6748,17 @@
         "DOTA_Tooltip_modifier_troll_warlord_rampage_custom_buff_Description" "Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_modifier_troll_warlord_rampage_custom_debuff" "Rampage"
         "DOTA_Tooltip_modifier_troll_warlord_rampage_custom_debuff_Description" "Attack damage decreased by -%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%."
+	
+	"npc_dota_hero_chen" "The Entity"
+        "npc_dota_hero_arena_hero_the_entity" "The Entity"
+
+        "DOTA_Tooltip_ability_item_entity_book" "???"
+        "DOTA_Tooltip_ability_item_entity_book_Description" "Corrupted and twisted... it belongs to The Entity.<i>(This book has no limitations on what it can give, even that which is forbidden.)</i>"
+        "DOTA_Tooltip_Ability_hero_the_entity_shuffle" "???"
+        "DOTA_Tooltip_Ability_hero_the_entity_shuffle_Description" "The Entity is not one, but many. It can choose who to become, or what to be."
+        "DOTA_Tooltip_ability_item_entity_book_change" "???"
+        "DOTA_Tooltip_ability_item_entity_book_change_Description" "Corrupted and twisted... it belongs to The Entity.<i>(This book can further twist The Entity. There is no limit to what it can replace.)</i>"
+        "DOTA_Tooltip_Ability_hero_the_entity_change" "???"
+        "DOTA_Tooltip_Ability_hero_the_entity_change_Description" "The Entity is not one, but many. It can choose who to become, or what to be."
 	}	
 }	
