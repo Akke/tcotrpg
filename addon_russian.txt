@@ -228,7 +228,7 @@
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_STR_60"				"Tome of Strength (+5)"
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_STR_60_Description"	"Permanently increases your hero's Strength by 5."
 		
-		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_UN_3"				"Tome of Gods (+5)"
+		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_UN_3"				"Tome of Gods (+30)"
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_UN_3_Description"	"Навсегда увеличивает силу, ловкость и интеллект вашего героя на 5."
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_UN_6"				"Tome of Gods (+50)"
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_UN_6_Description"	"Навсегда увеличивает силу, ловкость и интеллект вашего героя на 50."
