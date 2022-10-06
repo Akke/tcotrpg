@@ -6776,7 +6776,7 @@
         "DOTA_Tooltip_Ability_item_quelling_fury_description"    "<h1>Passive: Quell</h1> Увеличивает урон от атаки юнитов, не являющихся героями, на %quelling_bonus% для героев ближнего боя и на %quelling_bonus_ranged% для дальнобойных..
 <h1>Passive: Cleave</h1> Наносит %bonus_cleave_hero%%% урона от атаки в виде физического урона в конусе до 300 вокруг цели. Наносит %bonus_cleave_creep%%% против крипов.
 Cleave работает для героев ближнего и дальнего боя."
-        "DOTA_Tooltip_Ability_item_quelling_fury_Lore"    "Become a lumberjack with more effiency than ever!"
+        "DOTA_Tooltip_Ability_item_quelling_fury_Lore"    "Станьте лесорубом с большей эффективностью, чем когда-либо!"
         "DOTA_Tooltip_Ability_item_quelling_fury_bonus_hp_regen"    "+$hp_regen"
 
         "DOTA_Tooltip_ability_item_moon_shard_custom" "Moon Shard"
