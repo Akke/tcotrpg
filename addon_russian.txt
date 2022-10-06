@@ -6773,9 +6773,9 @@
         "DOTA_Tooltip_Ability_hero_the_entity_change_primary_Description" "The Entity может переключаться между любым из основных атрибутов, выбирая тот, который ему нравится."
 
         "DOTA_Tooltip_Ability_item_quelling_fury"    "Quelling Fury"
-        "DOTA_Tooltip_Ability_item_quelling_fury_description"    "<h1>Passive: Quell</h1> Increases attack damage against non-hero units by %quelling_bonus% for melee heroes, and %quelling_bonus_ranged% for ranged.
-<h1>Passive: Cleave</h1> Deals %bonus_cleave_hero%%% of attack damage as physical damage in a cone up to 300 around the target. Deals %bonus_cleave_creep%%% against creeps.
-Cleave works for melee and ranged heroes."
+        "DOTA_Tooltip_Ability_item_quelling_fury_description"    "<h1>Passive: Quell</h1> Увеличивает урон от атаки юнитов, не являющихся героями, на %quelling_bonus% для героев ближнего боя и на %quelling_bonus_ranged% для дальнобойных..
+<h1>Passive: Cleave</h1> Наносит %bonus_cleave_hero%%% урона от атаки в виде физического урона в конусе до 300 вокруг цели. Наносит %bonus_cleave_creep%%% против крипов.
+Cleave работает для героев ближнего и дальнего боя."
         "DOTA_Tooltip_Ability_item_quelling_fury_Lore"    "Become a lumberjack with more effiency than ever!"
         "DOTA_Tooltip_Ability_item_quelling_fury_bonus_hp_regen"    "+$hp_regen"
 
