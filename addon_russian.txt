@@ -3312,7 +3312,7 @@
         "DOTA_Tooltip_Ability_item_burning_blades_bonus_damage"						"+$damage"
         "DOTA_Tooltip_Ability_item_burning_blades_evasion"						"%+$evasion"
         "DOTA_Tooltip_Ability_item_burning_blades_spell_amp"						"%+к урону от заклинаний"
-		"DOTA_Tooltip_Ability_item_burning_blades_Description"			"<h1>Пассивно: Огненный взрыв</h1>Каждая атака имеет %explosion_chance%%% шанс вызвать взрыв, который наносит %explosion_damage% урона, оглушает и снижает сопротивление магии всех врагов на %magic_reduce%%% в радиусе %explosion_radius% на %explosion_debuff_duration% секунд. <br><br>ПЕРЕЗАРЯДКА: %proc_cooldown% seconds.\n<h1>Toggle: Burning Aura</h1>Nearby enemies are set ablaze, missing %burn_miss%%% of their attacks and take %flat_burn% + %max_hp_burn%%% of your attack damage every second."
+		"DOTA_Tooltip_Ability_item_burning_blades_Description"			"<h1>Пассивно: Огненный взрыв</h1>Каждая атака имеет %explosion_chance%%% шанс вызвать взрыв, который наносит %explosion_damage% урона, оглушает и снижает сопротивление магии всех врагов на %magic_reduce%%% в радиусе %explosion_radius% на %explosion_debuff_duration% секунд. <br><br>ПЕРЕЗАРЯДКА: %proc_cooldown% секунд.\n<h1>Переключаемый: Burning Aura</h1>Ближайшие враги подожжены, пропускают %burn_miss%%% своих атак и получают %flat_burn% + %max_hp_burn%%% урона от вашей атаки каждую секунду."
 
 		"DOTA_Tooltip_Ability_item_burning_blades2"						"Burning Blade LVL2"
         "DOTA_Tooltip_Ability_item_burning_blades2_bonus_strength"						"+$str"
@@ -3321,7 +3321,7 @@
         "DOTA_Tooltip_Ability_item_burning_blades2_bonus_damage"						"+$damage"
         "DOTA_Tooltip_Ability_item_burning_blades2_evasion"						"%+$evasion"
         "DOTA_Tooltip_Ability_item_burning_blades2_spell_amp"						"%+к урону от заклинаний"
-		"DOTA_Tooltip_Ability_item_burning_blades2_Description"			"<h1>Пассивно: Огненный взрыв</h1>Каждая атака имеет %explosion_chance%%% шанс вызвать взрыв, который наносит %explosion_damage% урона, оглушает и снижает сопротивление магии всех врагов на %magic_reduce%%% в радиусе %explosion_radius% на %explosion_debuff_duration% секунд. <br><br>ПЕРЕЗАРЯДКА: %proc_cooldown% seconds.\n<h1>Toggle: Burning Aura</h1>Nearby enemies are set ablaze, missing %burn_miss%%% of their attacks and take %flat_burn% + %max_hp_burn%%% of your attack damage every second."
+		"DOTA_Tooltip_Ability_item_burning_blades2_Description"			"<h1>Пассивно: Огненный взрыв</h1>Каждая атака имеет %explosion_chance%%% шанс вызвать взрыв, который наносит %explosion_damage% урона, оглушает и снижает сопротивление магии всех врагов на %magic_reduce%%% в радиусе %explosion_radius% на %explosion_debuff_duration% секунд. <br><br>ПЕРЕЗАРЯДКА: %proc_cooldown% секунд.\n<h1>Переключаемый: Burning Aura</h1>Ближайшие враги подожжены, пропускают %burn_miss%%% своих атак и получают %flat_burn% + %max_hp_burn%%% урона от вашей атаки каждую секунду."
 
 		"DOTA_Tooltip_Ability_item_burning_blades3"						"Burning Blade LVL3"
         "DOTA_Tooltip_Ability_item_burning_blades3_bonus_strength"						"+$str"
@@ -3330,7 +3330,7 @@
         "DOTA_Tooltip_Ability_item_burning_blades3_bonus_damage"						"+$damage"
         "DOTA_Tooltip_Ability_item_burning_blades3_evasion"						"%+$evasion"
         "DOTA_Tooltip_Ability_item_burning_blades3_spell_amp"						"%+к урону от заклинаний"
-		"DOTA_Tooltip_Ability_item_burning_blades3_Description"			"<h1>Пассивно: Огненный взрыв</h1>Каждая атака имеет %explosion_chance%%% шанс вызвать взрыв, который наносит %explosion_damage% урона, оглушает и снижает сопротивление магии всех врагов на %magic_reduce%%% в радиусе %explosion_radius% на %explosion_debuff_duration% секунд. <br><br>ПЕРЕЗАРЯДКА: %proc_cooldown% seconds.\n<h1>Toggle: Burning Aura</h1>Nearby enemies are set ablaze, missing %burn_miss%%% of their attacks and take %flat_burn% + %max_hp_burn%%% of your attack damage every second."
+		"DOTA_Tooltip_Ability_item_burning_blades3_Description"			"<h1>Пассивно: Огненный взрыв</h1>Каждая атака имеет %explosion_chance%%% шанс вызвать взрыв, который наносит %explosion_damage% урона, оглушает и снижает сопротивление магии всех врагов на %magic_reduce%%% в радиусе %explosion_radius% на %explosion_debuff_duration% секунд. <br><br>ПЕРЕЗАРЯДКА: %proc_cooldown% секунд.\n<h1>Переключаемый: Burning Aura</h1>Ближайшие враги подожжены, пропускают %burn_miss%%% своих атак и получают %flat_burn% + %max_hp_burn%%% урона от вашей атаки каждую секунду."
 
 		"DOTA_Tooltip_Ability_item_burning_blades4"						"Burning Blade LVL4"
         "DOTA_Tooltip_Ability_item_burning_blades4_bonus_strength"						"+$str"
@@ -3339,7 +3339,7 @@
         "DOTA_Tooltip_Ability_item_burning_blades4_bonus_damage"						"+$damage"
         "DOTA_Tooltip_Ability_item_burning_blades4_evasion"						"%+$evasion"
         "DOTA_Tooltip_Ability_item_burning_blades4_spell_amp"						"%+к урону от заклинаний"
-		"DOTA_Tooltip_Ability_item_burning_blades4_Description"			"<h1>Пассивно: Огненный взрыв</h1>Каждая атака имеет %explosion_chance%%% шанс вызвать взрыв, который наносит %explosion_damage% урона, оглушает и снижает сопротивление магии всех врагов на %magic_reduce%%% в радиусе %explosion_radius% на %explosion_debuff_duration% секунд. <br><br>ПЕРЕЗАРЯДКА: %proc_cooldown% seconds.\n<h1>Toggle: Burning Aura</h1>Nearby enemies are set ablaze, missing %burn_miss%%% of their attacks and take %flat_burn% + %max_hp_burn%%% of your attack damage every second."
+		"DOTA_Tooltip_Ability_item_burning_blades4_Description"			"<h1>Пассивно: Огненный взрыв</h1>Каждая атака имеет %explosion_chance%%% шанс вызвать взрыв, который наносит %explosion_damage% урона, оглушает и снижает сопротивление магии всех врагов на %magic_reduce%%% в радиусе %explosion_radius% на %explosion_debuff_duration% секунд. <br><br>ПЕРЕЗАРЯДКА: %proc_cooldown% секунд.\n<h1>Переключаемый: Burning Aura</h1>Ближайшие враги подожжены, пропускают %burn_miss%%% своих атак и получают %flat_burn% + %max_hp_burn%%% урона от вашей атаки каждую секунду."
 
 		"DOTA_Tooltip_Ability_item_burning_blades5"						"Burning Blade LVL5"
         "DOTA_Tooltip_Ability_item_burning_blades5_bonus_strength"						"+$str"
@@ -3348,7 +3348,7 @@
         "DOTA_Tooltip_Ability_item_burning_blades5_bonus_damage"						"+$damage"
         "DOTA_Tooltip_Ability_item_burning_blades5_evasion"						"%+$evasion"
         "DOTA_Tooltip_Ability_item_burning_blades5_spell_amp"						"%+к урону от заклинаний"
-		"DOTA_Tooltip_Ability_item_burning_blades5_Description"			"<h1>Пассивно: Огненный взрыв</h1>Каждая атака имеет %explosion_chance%%% шанс вызвать взрыв, который наносит %explosion_damage% урона, оглушает и снижает сопротивление магии всех врагов на %magic_reduce%%% в радиусе %explosion_radius% на %explosion_debuff_duration% секунд. <br><br>ПЕРЕЗАРЯДКА: %proc_cooldown% seconds.\n<h1>Toggle: Burning Aura</h1>Nearby enemies are set ablaze, missing %burn_miss%%% of their attacks and take %flat_burn% + %max_hp_burn%%% of your attack damage every second."
+		"DOTA_Tooltip_Ability_item_burning_blades5_Description"			"<h1>Пассивно: Огненный взрыв</h1>Каждая атака имеет %explosion_chance%%% шанс вызвать взрыв, который наносит %explosion_damage% урона, оглушает и снижает сопротивление магии всех врагов на %magic_reduce%%% в радиусе %explosion_radius% на %explosion_debuff_duration% секунд. <br><br>ПЕРЕЗАРЯДКА: %proc_cooldown% секунд.\n<h1>Переключаемый: Burning Aura</h1>Ближайшие враги подожжены, пропускают %burn_miss%%% своих атак и получают %flat_burn% + %max_hp_burn%%% урона от вашей атаки каждую секунду."
 
 
 		"DOTA_Tooltip_Ability_item_burning_blades6"						"Burning Blade LVL6"
@@ -3358,7 +3358,7 @@
         "DOTA_Tooltip_Ability_item_burning_blades6_bonus_damage"						"+$damage"
         "DOTA_Tooltip_Ability_item_burning_blades6_evasion"						"%+$evasion"
         "DOTA_Tooltip_Ability_item_burning_blades6_spell_amp"						"%+к урону от заклинаний"
-		"DOTA_Tooltip_Ability_item_burning_blades6_Description"			"<h1>Пассивно: Огненный взрыв</h1>Каждая атака имеет %explosion_chance%%% шанс вызвать взрыв, который наносит %explosion_damage% урона, оглушает и снижает сопротивление магии всех врагов на %magic_reduce%%% в радиусе %explosion_radius% на %explosion_debuff_duration% секунд. <br><br>ПЕРЕЗАРЯДКА: %proc_cooldown% seconds.\n<h1>Toggle: Burning Aura</h1>Nearby enemies are set ablaze, missing %burn_miss%%% of their attacks and take %flat_burn% + %max_hp_burn%%% of your attack damage every second."
+		"DOTA_Tooltip_Ability_item_burning_blades6_Description"			"<h1>Пассивно: Огненный взрыв</h1>Каждая атака имеет %explosion_chance%%% шанс вызвать взрыв, который наносит %explosion_damage% урона, оглушает и снижает сопротивление магии всех врагов на %magic_reduce%%% в радиусе %explosion_radius% на %explosion_debuff_duration% секунд. <br><br>ПЕРЕЗАРЯДКА: %proc_cooldown% секунд.\n<h1>Переключаемый: Burning Aura</h1>Ближайшие враги подожжены, пропускают %burn_miss%%% своих атак и получают %flat_burn% + %max_hp_burn%%% урона от вашей атаки каждую секунду."
 
         "DOTA_Tooltip_Ability_undying_infection_custom_scepter_Description"    "Враги под эффектои Virulent Contagion взрываются после смерти и наносят магический урон всем ближайшим врагам."
         "DOTA_Tooltip_Ability_undying_infection_custom_explosion_radius"    "Радиус:"
