@@ -2316,8 +2316,8 @@
 
 		"npc_dota_hero_arena_hero_life_stealer" "Stegius"
     "npc_dota_hero_life_stealer" "Stegius"
-  "npc_dota_hero_arena_hero_stegius_hype" "Stegius bites into the enemy's soul deeper with every blow, consuming his defense. Blessing the allies with his mercy, he increases their speed of attack and movement. But woe to him who falls under his displeasure ..."
-  "npc_dota_hero_arena_hero_stegius_bio" "Master of Destruction, Master of Death ... There are many names for this demon, but they all say one thing: this monster destroys everything in its path. Once he was the Master of Desolus, the terrible and destructive world of the sixth Abyss, and his chief blacksmith, it was he who created the most terrible blade in the whole universe - the Stigian Desolator made of a thorn on the tail of Stegius, which the devil wrenched himself. Dezolator absorbed all the malice and hatred of its creator. Stegius destroyed many worlds, not sparing their inhabitants, in fact completely destroyed the 3rd and 4th dimensions. For this, the seal of Al-Galor was imposed on him, and now Stegius will never find peace. He will destroy and destroy. All and all. Until he is destroyed by his own fury."
+  "npc_dota_hero_arena_hero_stegius_hype" "С каждым ударом Stegius все глубже впивается в душу врага, поглощая его защиту. Благословляя союзников своей милостью, он увеличивает их скорость атаки и передвижения. Но горе тому, кто подпадет под его недовольство..."
+  "npc_dota_hero_arena_hero_stegius_bio" "Мастер Разрушения, Мастер Смерти... Названий этого демона много, но все они говорят об одном: этот монстр уничтожает все на своем пути. Когда-то он был Хозяином Десолуса, ужасного и разрушительного мира шестой Бездны, и его главным кузнецом, именно он создал самый страшный клинок во всей вселенной - Стигийский Опустошитель, сделанный из шипа на хвосте Стегия, которую дьявол вырвал сам. Дезолатор вобрал в себя всю злобу и ненависть своего создателя. Стегиус разрушил множество миров, не щадя их обитателей, фактически полностью уничтожил 3-е и 4-е измерения. За это на него была наложена печать Аль-Галора, и теперь Стегиус никогда не обретет покоя. Он будет разрушать и разрушать. Все и все. Пока его не уничтожит собственная ярость."
 
 
 "DOTA_Tooltip_ability_stegius_desolus_wave" "Desolus Wave"
@@ -2348,15 +2348,15 @@
   "DOTA_Tooltip_ability_stegius_brightness_of_desolate_radius" "РАДИУС:"
   "DOTA_Tooltip_ability_stegius_brightness_of_desolate_armor_decrease" "СНИЖЕНИЕ БРОНИ:"
   "DOTA_Tooltip_ability_stegius_brightness_of_desolate_bonus_damage_from_creep" "ДОПОЛНИТЕЛЬНЫЙ УРОН:"
-  "DOTA_Tooltip_ability_stegius_brightness_of_desolate_bonus_damage_duration" "BONUS DAMAGE ПРОДОЛЖИТЕЛЬНОСТЬ:"
-  "DOTA_Tooltip_ability_stegius_brightness_of_desolate_stolen_attack_speed" "PERMANENT ATTACK SPEED INCREASE:"
-  "DOTA_Tooltip_ability_stegius_brightness_of_desolate_stolen_armor" "PERMANENT ARMOR INCREASE:"
+  "DOTA_Tooltip_ability_stegius_brightness_of_desolate_bonus_damage_duration" "ПРОДОЛЖИТЕЛЬНОСТЬ БОНУСА УРОНА:"
+  "DOTA_Tooltip_ability_stegius_brightness_of_desolate_stolen_attack_speed" "ПОСТОЯННОЕ УВЕЛИЧЕНИЕ СКОРОСТИ АТАКИ:"
+  "DOTA_Tooltip_ability_stegius_brightness_of_desolate_stolen_armor" "ПОСТОЯННОЕ УВЕЛИЧЕНИЕ БРОНИ:"
   "DOTA_Tooltip_modifier_stegius_brightness_of_desolate_effect" "Brightness of Desolate"
   "DOTA_Tooltip_modifier_stegius_brightness_of_desolate_effect_Description" "Броня уменьшена на  %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% and suffers from decreased max health."
   "DOTA_Tooltip_modifier_stegius_brightness_of_desolate_damage" "Brightness of Desolate"
-  "DOTA_Tooltip_modifier_stegius_brightness_of_desolate_damage_Description" "Attack damage increased by %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%."
+  "DOTA_Tooltip_modifier_stegius_brightness_of_desolate_damage_Description" "Урон от атаки увеличен на %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%."
   "DOTA_Tooltip_modifier_stegius_brightness_of_desolate_steal_buff" "Brightness of Desolate"
-  "DOTA_Tooltip_modifier_stegius_brightness_of_desolate_steal_buff_Description" "Attack Speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% and Armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
+  "DOTA_Tooltip_modifier_stegius_brightness_of_desolate_steal_buff_Description" "Скорость атаки увеличена на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%, а броня увеличена на %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
 
 
   "DOTA_Tooltip_ability_stegius_desolating_touch" "Desolating Touch"
