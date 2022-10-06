@@ -6927,7 +6927,7 @@ Cleave работает для героев ближнего и дальнего
         "DOTA_Tooltip_modifier_item_spire_of_aggron_buff_Description" "Усиление заклинаний увеличено на %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%."
 
         "DOTA_Tooltip_Ability_outpost_placeholder_ability" "Zone Blocker"
-        "DOTA_Tooltip_Ability_outpost_placeholder_ability_Description" "Enemies are unable to spawn in this zone until this outpost have been captured. Allows teleportation to this outpost when captured."
+        "DOTA_Tooltip_Ability_outpost_placeholder_ability_Description" "Враги не могут появиться в этой зоне, пока этот аванпост не будет захвачен. Позволяет телепортироваться на этот аванпост после захвата."
 
         "DOTA_Tooltip_Ability_underlord_atrophy_aura_custom" "Atrophy Aura"
         "DOTA_Tooltip_Ability_underlord_atrophy_aura_custom_Lore" "To merely stand in the presence of the Underlord is to feel the conviction of battle sapped from one's soul."
