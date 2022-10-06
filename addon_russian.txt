@@ -4347,7 +4347,7 @@
         "DOTA_Tooltip_Ability_item_greater_glimmer_cape_hero_lifesteal"    "%+к вампиризму заклинаниями (от героев)"
         "DOTA_Tooltip_Ability_item_greater_glimmer_cape_creep_lifesteal"    "%+к вампиризму заклинаниями (от крипов)"
         "DOTA_Tooltip_Ability_item_greater_glimmer_cape_2"    "Golden Glimmer Cape"
-        "DOTA_Tooltip_Ability_item_greater_glimmer_cape_2_description"    "<h1>Активное: мерцание</h1> После %fade_delay% секундной задержки дает невидимость и %active_magical_armor%%% сопротивление магии всем союзным юнитам в радиусе %selection_radius% на %duration% секунд. После выхода из невидимости применяется щит, который поглощает до {барьера_блока} магического урона, который длится {барьер_дурация} секунд. <br><br>Можно использовать во время поддержания. <br><h1>Пассивный: Магическая выносливость</h1> Дает союзным юнитам %magic_resistance_aura%%% сопротивления магии.<br><br>Радиус:%aura_radius%"
+        "DOTA_Tooltip_Ability_item_greater_glimmer_cape_2_description"    "<h1>Активное: мерцание</h1> После %fade_delay% секундной задержки дает невидимость и %active_magical_armor%%% сопротивление магии всем союзным юнитам в радиусе %selection_radius% на %duration% секунд. После выхода из невидимости применяется щит, который поглощает до {барьера_блока} магического урона, который длится {барьер_дурация} секунд. <br><br>Можно использовать во время поддержания. <br><h1>Пассивный: Магическая выносливость</h1> Дает союзным юнитам %magic_resistance_aura%% сопротивления магии.<br><br>Радиус:%aura_radius%"
         "DOTA_Tooltip_Ability_item_greater_glimmer_cape_2_Lore"    "The stolen cape of a master illusionist."
         "DOTA_Tooltip_Ability_item_greater_glimmer_cape_2_Note0"    "The invisibility is not re-applied once it's removed."
         "DOTA_Tooltip_Ability_item_greater_glimmer_cape_2_bonus_health_regen"    "+$hp_regen"
@@ -4356,7 +4356,7 @@
         "DOTA_Tooltip_Ability_item_greater_glimmer_cape_2_creep_lifesteal"    "%+к вампиризму заклинаниями (от крипов)"
 
         "DOTA_Tooltip_Ability_item_shining_shivas"    "Shining Shiva's"
-        "DOTA_Tooltip_Ability_item_shining_shivas_description"    "<h1>Активное: Arctic Blast</h1>Испускает замораживающую волну, которая наносит %blast_damage% магического урона врагам, замедляет их движение на %blast_movement_speed%%% на %blast_debuff_duration% секунд.<br><br>Радиус: %blast_radius% <br><h1>Пассивный: Freezing Aura</h1> Снижает скорость атаки всех врагов на %aura_attack_speed% и все исцеления, регенерацию и lifesteal на %hp_regen_degen_aura%%%. <br><br>Радиус: %aura_radius%"
+        "DOTA_Tooltip_Ability_item_shining_shivas_description"    "<h1>Активное: Arctic Blast</h1>Испускает замораживающую волну, которая наносит %blast_damage% магического урона врагам, замедляет их движение на %blast_movement_speed%% на %blast_debuff_duration% секунд.<br><br>Радиус: %blast_radius% <br><h1>Пассивный: Freezing Aura</h1> Снижает скорость атаки всех врагов на %aura_attack_speed% и все исцеления, регенерацию и lifesteal на %hp_regen_degen_aura%%%. <br><br>Радиус: %aura_radius%"
         "DOTA_Tooltip_Ability_item_shining_shivas_Lore"    "Артефакт, раньше принадлежавший богине, до сих пор сохранил часть былого могущества."
         "DOTA_Tooltip_Ability_item_shining_shivas_bonus_intellect"    "+$int"
         "DOTA_Tooltip_Ability_item_shining_shivas_bonus_strength"    "+$str"
