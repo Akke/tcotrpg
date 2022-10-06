@@ -2302,17 +2302,17 @@
 		"DOTA_Tooltip_Ability_item_enchanted_armor5_bonus_lifesteal_amp" "%+Lifesteal Amplification"
 
 		"DOTA_Tooltip_Ability_legion_commander_duel_custom" "Duel Master"
-		"DOTA_Tooltip_Ability_legion_commander_duel_custom_Description" "Legion Commander gains a permanent increase to her attack damage and a stack of Courage when killing an enemy. Each stack of Courage further increases the damage she gains.<br><br>The duration of Courage is decreased for every enemy Legion Commander kills while under its effect, until it is removed completely. When removed she can't be affected by it again for a brief amount of time."
+		"DOTA_Tooltip_Ability_legion_commander_duel_custom_Description" "Legion Commander получает постоянное увеличение урона от атаки и заряд Courage при убийстве врага. Каждый заряд Courage еще больше увеличивает наносимый ей урон.<br><br>Длительность Courage уменьшается за каждого врага, убитого Legion Commander, пока она находится под ее действием, пока она не будет полностью удалена. После удаления она не может быть затронута им снова в течение короткого промежутка времени."
 		"DOTA_Tooltip_Ability_legion_commander_duel_custom_damage_per_kill" "УРОНА ЗА УБИЙСТВО:"
 		"DOTA_Tooltip_Ability_legion_commander_duel_custom_kill_window_increase" "COURAGE ДОПОЛНИТЕЛЬНЫЙ УРОН:"
 		"DOTA_Tooltip_Ability_legion_commander_duel_custom_kill_window_shrink_time" "COURAGE DURATION DECREASE ON KILL:"
 		"DOTA_Tooltip_Ability_legion_commander_duel_custom_cooldown" "COURAGE ПЕРЕЗАРЯДКА:"
 		"DOTA_Tooltip_Ability_legion_commander_duel_custom_duration" "COURAGE ПРОДОЛЖИТЕЛЬНОСТЬ:"
 		"DOTA_Tooltip_modifier_legion_commander_duel_custom_window" "Courage"
-		"DOTA_Tooltip_modifier_legion_commander_duel_custom_window_cooldown" "Courage: Cooldown"
+		"DOTA_Tooltip_modifier_legion_commander_duel_custom_window_cooldown" "Courage: Перезарядка"
 
 		"DOTA_Tooltip_modifier_legion_commander_duel_custom_buff" "Duel Master"
-		"DOTA_Tooltip_modifier_legion_commander_duel_custom_buff_Description" "Attack damage increased by %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%."
+		"DOTA_Tooltip_modifier_legion_commander_duel_custom_buff_Description" "Урон от атаки увеличен на %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%."
 
 		"npc_dota_hero_arena_hero_life_stealer" "Stegius"
     "npc_dota_hero_life_stealer" "Stegius"
