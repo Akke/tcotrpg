@@ -2227,7 +2227,7 @@
 		"DOTA_Tooltip_modifier_faceless_void_time_lock_custom_debuff_Description" "Получение повышенного урона с каждым Time Lock."
 
 		"DOTA_Tooltip_modifier_item_enchanted_armor_shield" "Enchanted Armor Mana Shield"
-		"DOTA_Tooltip_modifier_item_enchanted_armor_shield_Description" "A portion of incoming damage is absorbed by your mana."
+		"DOTA_Tooltip_modifier_item_enchanted_armor_shield_Description" "Часть входящего урона поглощается вашей маной."
 
 		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom" "Chronosphere"
 		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_Description" "Faceless Void has a chance on attack to trap all enemies in a chronosphere, where they become unable to act while Faceless Void moves at an increased speed."
@@ -2237,7 +2237,7 @@
 
 
 		"DOTA_Tooltip_Ability_item_enchanted_armor" "Enchanted Armor"
-		"DOTA_Tooltip_Ability_item_enchanted_armor_Description" "<h1>Toggle: Mana Shield</h1>Creates a shield that absorbs %max_absorbed_damage_pct%%% of incoming damage in exchange for your mana, up to %damage_per_mana% + %int_to_damage_per_mana%%% of your Intellect per damage taken.<br><br>If you take damage equal to or more than your health, you become invulnerable for %immunity_duration% seconds and Enchanted Armor goes on cooldown for 30 seconds.\n<h1>Пассивно: Mana Regeneration</h1>Grants mana regeneration equal to %mana_regen_from_max_mana_pct%%% of your maximum mana."
+		"DOTA_Tooltip_Ability_item_enchanted_armor_Description" "<h1>Переключение: Mana Shield</h1>Создает щит, который поглощает %max_absorbed_damage_pct%%% входящего урона в обмен на вашу ману, до %damage_per_mana% + %int_to_damage_per_mana%%% вашего интеллекта за каждый полученный урон.<br ><br>Если вы получаете урон, равный вашему здоровью или превышающий его, вы становитесь неуязвимым на %immunity_duration% секунд, а Enchanted Armor уходит на перезарядку на 30 секунд.\n<h1>Пассивно: Mana Regeneration</h1>Дарует регенерацию маны равно %mana_regen_from_max_mana_pct%%% от вашего максимального запаса маны."
 		"DOTA_Tooltip_Ability_item_enchanted_armor_bonus_intellect" "+$int"
 		"DOTA_Tooltip_Ability_item_enchanted_armor_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_enchanted_armor_bonus_health" "+$health"
@@ -2250,7 +2250,7 @@
 		"DOTA_Tooltip_Ability_item_enchanted_armor_bonus_lifesteal_amp" "%+Lifesteal Amplification"
 
 		"DOTA_Tooltip_Ability_item_enchanted_armor2" "Enchanted Armor LVL2"
-		"DOTA_Tooltip_Ability_item_enchanted_armor2_Description" "<h1>Toggle: Mana Shield</h1>Creates a shield that absorbs %max_absorbed_damage_pct%%% of incoming damage in exchange for your mana, up to %damage_per_mana% + %int_to_damage_per_mana%%% of your Intellect per damage taken.<br><br>If you take damage equal to or more than your health, you become invulnerable for %immunity_duration% seconds and Enchanted Armor goes on cooldown for 30 seconds.\n<h1>Пассивно: Mana Regeneration</h1>Grants mana regeneration equal to %mana_regen_from_max_mana_pct%%% of your maximum mana."
+		"DOTA_Tooltip_Ability_item_enchanted_armor2_Description" "<h1>Переключение: Mana Shield</h1>Создает щит, который поглощает %max_absorbed_damage_pct%%% входящего урона в обмен на вашу ману, до %damage_per_mana% + %int_to_damage_per_mana%%% вашего интеллекта за каждый полученный урон.<br ><br>Если вы получаете урон, равный вашему здоровью или превышающий его, вы становитесь неуязвимым на %immunity_duration% секунд, а Enchanted Armor уходит на перезарядку на 30 секунд.\n<h1>Пассивно: Mana Regeneration</h1>Дарует регенерацию маны равно %mana_regen_from_max_mana_pct%%% от вашего максимального запаса маны."
 		"DOTA_Tooltip_Ability_item_enchanted_armor2_bonus_intellect" "+$int"
 		"DOTA_Tooltip_Ability_item_enchanted_armor2_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_enchanted_armor2_bonus_health" "+$health"
@@ -2263,7 +2263,7 @@
 		"DOTA_Tooltip_Ability_item_enchanted_armor2_bonus_lifesteal_amp" "%+Lifesteal Amplification"
 
 		"DOTA_Tooltip_Ability_item_enchanted_armor3" "Enchanted Armor LVL3"
-		"DOTA_Tooltip_Ability_item_enchanted_armor3_Description" "<h1>Toggle: Mana Shield</h1>Creates a shield that absorbs %max_absorbed_damage_pct%%% of incoming damage in exchange for your mana, up to %damage_per_mana% + %int_to_damage_per_mana%%% of your Intellect per damage taken.<br><br>If you take damage equal to or more than your health, you become invulnerable for %immunity_duration% seconds and Enchanted Armor goes on cooldown for 30 seconds.\n<h1>Пассивно: Mana Regeneration</h1>Grants mana regeneration equal to %mana_regen_from_max_mana_pct%%% of your maximum mana."
+		"DOTA_Tooltip_Ability_item_enchanted_armor3_Description" "<h1>Переключение: Mana Shield</h1>Создает щит, который поглощает %max_absorbed_damage_pct%%% входящего урона в обмен на вашу ману, до %damage_per_mana% + %int_to_damage_per_mana%%% вашего интеллекта за каждый полученный урон.<br ><br>Если вы получаете урон, равный вашему здоровью или превышающий его, вы становитесь неуязвимым на %immunity_duration% секунд, а Enchanted Armor уходит на перезарядку на 30 секунд.\n<h1>Пассивно: Mana Regeneration</h1>Дарует регенерацию маны равно %mana_regen_from_max_mana_pct%%% от вашего максимального запаса маны."
 		"DOTA_Tooltip_Ability_item_enchanted_armor3_bonus_intellect" "+$int"
 		"DOTA_Tooltip_Ability_item_enchanted_armor3_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_enchanted_armor3_bonus_health" "+$health"
@@ -2276,7 +2276,7 @@
 		"DOTA_Tooltip_Ability_item_enchanted_armor3_bonus_lifesteal_amp" "%+Lifesteal Amplification"
 
 		"DOTA_Tooltip_Ability_item_enchanted_armor4" "Enchanted Armor LVL4"
-		"DOTA_Tooltip_Ability_item_enchanted_armor4_Description" "<h1>Toggle: Mana Shield</h1>Creates a shield that absorbs %max_absorbed_damage_pct%%% of incoming damage in exchange for your mana, up to %damage_per_mana% + %int_to_damage_per_mana%%% of your Intellect per damage taken.<br><br>If you take damage equal to or more than your health, you become invulnerable for %immunity_duration% seconds and Enchanted Armor goes on cooldown for 30 seconds.\n<h1>Пассивно: Mana Regeneration</h1>Grants mana regeneration equal to %mana_regen_from_max_mana_pct%%% of your maximum mana."
+		"DOTA_Tooltip_Ability_item_enchanted_armor4_Description" "<h1>Переключение: Mana Shield</h1>Создает щит, который поглощает %max_absorbed_damage_pct%%% входящего урона в обмен на вашу ману, до %damage_per_mana% + %int_to_damage_per_mana%%% вашего интеллекта за каждый полученный урон.<br ><br>Если вы получаете урон, равный вашему здоровью или превышающий его, вы становитесь неуязвимым на %immunity_duration% секунд, а Enchanted Armor уходит на перезарядку на 30 секунд.\n<h1>Пассивно: Mana Regeneration</h1>Дарует регенерацию маны равно %mana_regen_from_max_mana_pct%%% от вашего максимального запаса маны."
 		"DOTA_Tooltip_Ability_item_enchanted_armor4_bonus_intellect" "+$int"
 		"DOTA_Tooltip_Ability_item_enchanted_armor4_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_enchanted_armor4_bonus_health" "+$health"
@@ -2289,7 +2289,7 @@
 		"DOTA_Tooltip_Ability_item_enchanted_armor4_bonus_lifesteal_amp" "%+Lifesteal Amplification"
 
 		"DOTA_Tooltip_Ability_item_enchanted_armor5" "Enchanted Armor LVL5"
-		"DOTA_Tooltip_Ability_item_enchanted_armor5_Description" "<h1>Toggle: Mana Shield</h1>Creates a shield that absorbs %max_absorbed_damage_pct%%% of incoming damage in exchange for your mana, up to %damage_per_mana% + %int_to_damage_per_mana%%% of your Intellect per damage taken.<br><br>If you take damage equal to or more than your health, you become invulnerable for %immunity_duration% seconds and Enchanted Armor goes on cooldown for 30 seconds.\n<h1>Пассивно: Mana Regeneration</h1>Grants mana regeneration equal to %mana_regen_from_max_mana_pct%%% of your maximum mana."
+		"DOTA_Tooltip_Ability_item_enchanted_armor5_Description" "<h1>Переключение: Mana Shield</h1>Создает щит, который поглощает %max_absorbed_damage_pct%%% входящего урона в обмен на вашу ману, до %damage_per_mana% + %int_to_damage_per_mana%%% вашего интеллекта за каждый полученный урон.<br ><br>Если вы получаете урон, равный вашему здоровью или превышающий его, вы становитесь неуязвимым на %immunity_duration% секунд, а Enchanted Armor уходит на перезарядку на 30 секунд.\n<h1>Пассивно: Mana Regeneration</h1>Дарует регенерацию маны равно %mana_regen_from_max_mana_pct%%% от вашего максимального запаса маны."
 		"DOTA_Tooltip_Ability_item_enchanted_armor5_bonus_intellect" "+$int"
 		"DOTA_Tooltip_Ability_item_enchanted_armor5_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_enchanted_armor5_bonus_health" "+$health"
