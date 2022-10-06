@@ -6762,15 +6762,15 @@
         "npc_dota_hero_arena_hero_the_entity" "The Entity"
 
         "DOTA_Tooltip_ability_item_entity_book" "Add Ability"
-        "DOTA_Tooltip_ability_item_entity_book_Description" "Corrupted and twisted... it belongs to The Entity.<i>(This book has no limitations on what it can give, even that which is forbidden.)</i>"
+        "DOTA_Tooltip_ability_item_entity_book_Description" "Испорченная и искаженная... она принадлежит The Entity.<i>(У этой книги нет ограничений на то, что она может дать, даже на то, что запрещено.)</i>"
         "DOTA_Tooltip_Ability_hero_the_entity_shuffle" "Add Ability"
-        "DOTA_Tooltip_Ability_hero_the_entity_shuffle_Description" "The Entity is not one, but many. It can choose who to become, or what to be."
+        "DOTA_Tooltip_Ability_hero_the_entity_shuffle_Description" "The Entity не одно, а множество. Оно может выбирать, кем стать или чем быть."
         "DOTA_Tooltip_ability_item_entity_book_change" "Change Ability"
-        "DOTA_Tooltip_ability_item_entity_book_change_Description" "Corrupted and twisted... it belongs to The Entity.<i>(This book can further twist The Entity. There is no limit to what it can replace.)</i>"
+        "DOTA_Tooltip_ability_item_entity_book_change_Description" "Испорченный и искаженный... он принадлежит The Entity.<i>(Эта книга может еще больше исказить The Entity. Нет предела тому, что она может заменить.)</i>"
         "DOTA_Tooltip_Ability_hero_the_entity_change" "Change Ability"
-        "DOTA_Tooltip_Ability_hero_the_entity_change_Description" "The Entity is not one, but many. It can choose who to become, or what to be."
+        "DOTA_Tooltip_Ability_hero_the_entity_change_Description" "The Entity не одно, а множество. Оно может выбирать, кем стать или чем быть."
         "DOTA_Tooltip_Ability_hero_the_entity_change_primary" "Primary Attribute Cycle"
-        "DOTA_Tooltip_Ability_hero_the_entity_change_primary_Description" "The Entity can cycle through any of the primary attributes, picking one of his liking."
+        "DOTA_Tooltip_Ability_hero_the_entity_change_primary_Description" "The Entity может переключаться между любым из основных атрибутов, выбирая тот, который ему нравится."
 
         "DOTA_Tooltip_Ability_item_quelling_fury"    "Quelling Fury"
         "DOTA_Tooltip_Ability_item_quelling_fury_description"    "<h1>Passive: Quell</h1> Increases attack damage against non-hero units by %quelling_bonus% for melee heroes, and %quelling_bonus_ranged% for ranged.
