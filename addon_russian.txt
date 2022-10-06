@@ -2230,7 +2230,7 @@
 		"DOTA_Tooltip_modifier_item_enchanted_armor_shield_Description" "Часть входящего урона поглощается вашей маной."
 
 		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom" "Chronosphere"
-		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_Description" "Faceless Void has a chance on attack to trap all enemies in a chronosphere, where they become unable to act while Faceless Void moves at an increased speed."
+		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_Description" "Faceless Void имеет шанс при атаке поймать всех врагов в ловушку в Сhronosphere, где они теряют способность действовать, пока Faceless Void движется с повышенной скоростью."
 		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_chance" "%ШАНС:"
 		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_duration" "ДЛИТЕЛЬНОСТЬ:"
 		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_radius" "РАДИУС:"
