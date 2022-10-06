@@ -2211,7 +2211,7 @@
 		"DOTA_Tooltip_ability_item_scorching_malevolence4_evasion" "%+$evasion"
 
 		"DOTA_Tooltip_ability_slardar_bash_of_the_deep_custom" "Bash of the Deep"
-		"DOTA_Tooltip_ability_slardar_bash_of_the_deep_custom_Description" "Slardar has a chance to instantly cast Slithereen Crush when he attacks and apply the current level of Corrosive Haze to whom he is attacking.<br><br>Does not trigger if Slithereen Crush is unlearned or on cooldown."
+		"DOTA_Tooltip_ability_slardar_bash_of_the_deep_custom_Description" "У Slardar есть шанс мгновенно применить Slithereen Crush во время атаки и применить текущий уровень Corrosive Haze к тому, кого он атакует.<br><br>Не срабатывает, если Slithereen Crush не изучен или находится на перезарядке."
 		"DOTA_Tooltip_ability_slardar_bash_of_the_deep_custom_chance" "%ШАНС:"
 
 		"DOTA_Tooltip_ability_faceless_void_time_lock_custom" "Time Lock"
