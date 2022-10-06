@@ -6864,7 +6864,7 @@ Cleave работает для героев ближнего и дальнего
         "DOTA_Tooltip_Ability_item_devastator_6_bonus_mana_regen" "+$mana_regen"
 
         "DOTA_Tooltip_Ability_item_spire_of_aggron" "Aggron's Spire"
-        "DOTA_Tooltip_Ability_item_spire_of_aggron_Description" "<h1>Passive: Multicast</h1>Casting an ability has a %chance%%% chance to cast it on the same target or location again.<br><br>Every second consecutive trigger of Multicast starts a counter and gives you a stacking buff that increases your spell amplification by %consec_spell_amp%%% for %consec_spell_amp_duration% seconds for each stack. Not triggering Multicast resets the counter. "
+        "DOTA_Tooltip_Ability_item_spire_of_aggron_Description" "<h1>Пассивно: Multicast</h1>При применении способности есть %chance%%% шанс снова применить ее на ту же цель или место.<br><br>Каждый второй последовательный триггер Multicast запускает счетчик и дает вам суммирующийся бафф, который увеличивает усиление заклинаний %consec_spell_amp%%% на %consec_spell_amp_duration% секунд для каждого стака. Если Multicast не срабатывает, счетчик сбрасывается."
         "DOTA_Tooltip_Ability_item_spire_of_aggron_bonus_int" "+$int"
         "DOTA_Tooltip_Ability_item_spire_of_aggron_bonus_str" "+$str"
         "DOTA_Tooltip_Ability_item_spire_of_aggron_bonus_armor" "+$armor"
@@ -6874,7 +6874,7 @@ Cleave работает для героев ближнего и дальнего
         "DOTA_Tooltip_Ability_item_spire_of_aggron_bonus_mana_regen" "+$mana_regen"
 
         "DOTA_Tooltip_Ability_item_spire_of_aggron_2" "Aggron's Spire LVL2"
-        "DOTA_Tooltip_Ability_item_spire_of_aggron_2_Description" "<h1>Passive: Multicast</h1>Casting an ability has a %chance%%% chance to cast it on the same target or location again.<br><br>Every second consecutive trigger of Multicast starts a counter and gives you a stacking buff that increases your spell amplification by %consec_spell_amp%%% for %consec_spell_amp_duration% seconds for each stack. Not triggering Multicast resets the counter."
+        "DOTA_Tooltip_Ability_item_spire_of_aggron_2_Description" "<h1>Пассивно: Multicast</h1>При применении способности есть %chance%%% шанс снова применить ее на ту же цель или место.<br><br>Каждый второй последовательный триггер Multicast запускает счетчик и дает вам суммирующийся бафф, который увеличивает усиление заклинаний %consec_spell_amp%%% на %consec_spell_amp_duration% секунд для каждого стака. Если Multicast не срабатывает, счетчик сбрасывается."
         "DOTA_Tooltip_Ability_item_spire_of_aggron_2_bonus_int" "+$int"
         "DOTA_Tooltip_Ability_item_spire_of_aggron_2_bonus_str" "+$str"
         "DOTA_Tooltip_Ability_item_spire_of_aggron_2_bonus_armor" "+$armor"
@@ -6884,7 +6884,7 @@ Cleave работает для героев ближнего и дальнего
         "DOTA_Tooltip_Ability_item_spire_of_aggron_2_bonus_mana_regen" "+$mana_regen"
 
         "DOTA_Tooltip_Ability_item_spire_of_aggron_3" "Aggron's Spire LVL3"
-        "DOTA_Tooltip_Ability_item_spire_of_aggron_3_Description" "<h1>Passive: Multicast</h1>Casting an ability has a %chance%%% chance to cast it on the same target or location again.<br><br>Every second consecutive trigger of Multicast starts a counter and gives you a stacking buff that increases your spell amplification by %consec_spell_amp%%% for %consec_spell_amp_duration% seconds for each stack. Not triggering Multicast resets the counter. "
+        "DOTA_Tooltip_Ability_item_spire_of_aggron_3_Description" "<h1>Пассивно: Multicast</h1>При применении способности есть %chance%%% шанс снова применить ее на ту же цель или место.<br><br>Каждый второй последовательный триггер Multicast запускает счетчик и дает вам суммирующийся бафф, который увеличивает усиление заклинаний %consec_spell_amp%%% на %consec_spell_amp_duration% секунд для каждого стака. Если Multicast не срабатывает, счетчик сбрасывается."
         "DOTA_Tooltip_Ability_item_spire_of_aggron_3_bonus_int" "+$int"
         "DOTA_Tooltip_Ability_item_spire_of_aggron_3_bonus_str" "+$str"
         "DOTA_Tooltip_Ability_item_spire_of_aggron_3_bonus_armor" "+$armor"
@@ -6894,7 +6894,7 @@ Cleave работает для героев ближнего и дальнего
         "DOTA_Tooltip_Ability_item_spire_of_aggron_3_bonus_mana_regen" "+$mana_regen"
 
         "DOTA_Tooltip_Ability_item_spire_of_aggron_4" "Aggron's Spire LVL4"
-        "DOTA_Tooltip_Ability_item_spire_of_aggron_4_Description" "<h1>Passive: Multicast</h1>Casting an ability has a %chance%%% chance to cast it on the same target or location again.<br><br>Every second consecutive trigger of Multicast starts a counter and gives you a stacking buff that increases your spell amplification by %consec_spell_amp%%% for %consec_spell_amp_duration% seconds for each stack. Not triggering Multicast resets the counter. "
+        "DOTA_Tooltip_Ability_item_spire_of_aggron_4_Description" "<h1>Пассивно: Multicast</h1>При применении способности есть %chance%%% шанс снова применить ее на ту же цель или место.<br><br>Каждый второй последовательный триггер Multicast запускает счетчик и дает вам суммирующийся бафф, который увеличивает усиление заклинаний %consec_spell_amp%%% на %consec_spell_amp_duration% секунд для каждого стака. Если Multicast не срабатывает, счетчик сбрасывается."
         "DOTA_Tooltip_Ability_item_spire_of_aggron_4_bonus_int" "+$int"
         "DOTA_Tooltip_Ability_item_spire_of_aggron_4_bonus_str" "+$str"
         "DOTA_Tooltip_Ability_item_spire_of_aggron_4_bonus_armor" "+$armor"
@@ -6904,7 +6904,7 @@ Cleave работает для героев ближнего и дальнего
         "DOTA_Tooltip_Ability_item_spire_of_aggron_4_bonus_mana_regen" "+$mana_regen"
 
         "DOTA_Tooltip_Ability_item_spire_of_aggron_5" "Aggron's Spire LVL5"
-        "DOTA_Tooltip_Ability_item_spire_of_aggron_5_Description" "<h1>Passive: Multicast</h1>Casting an ability has a %chance%%% chance to cast it on the same target or location again.<br><br>Every second consecutive trigger of Multicast starts a counter and gives you a stacking buff that increases your spell amplification by %consec_spell_amp%%% for %consec_spell_amp_duration% seconds for each stack. Not triggering Multicast resets the counter. "
+        "DOTA_Tooltip_Ability_item_spire_of_aggron_5_Description" "<h1>Пассивно: Multicast</h1>При применении способности есть %chance%%% шанс снова применить ее на ту же цель или место.<br><br>Каждый второй последовательный триггер Multicast запускает счетчик и дает вам суммирующийся бафф, который увеличивает усиление заклинаний %consec_spell_amp%%% на %consec_spell_amp_duration% секунд для каждого стака. Если Multicast не срабатывает, счетчик сбрасывается."
         "DOTA_Tooltip_Ability_item_spire_of_aggron_5_bonus_int" "+$int"
         "DOTA_Tooltip_Ability_item_spire_of_aggron_5_bonus_str" "+$str"
         "DOTA_Tooltip_Ability_item_spire_of_aggron_5_bonus_armor" "+$armor"
@@ -6914,7 +6914,7 @@ Cleave работает для героев ближнего и дальнего
         "DOTA_Tooltip_Ability_item_spire_of_aggron_5_bonus_mana_regen" "+$mana_regen"
 
         "DOTA_Tooltip_Ability_item_spire_of_aggron_6" "Aggron's Spire LVL6"
-        "DOTA_Tooltip_Ability_item_spire_of_aggron_6_Description" "<h1>Passive: Multicast</h1>Casting an ability has a %chance%%% chance to cast it on the same target or location again.<br><br>Every second consecutive trigger of Multicast starts a counter and gives you a stacking buff that increases your spell amplification by %consec_spell_amp%%% for %consec_spell_amp_duration% seconds for each stack. Not triggering Multicast resets the counter. "
+        "DOTA_Tooltip_Ability_item_spire_of_aggron_6_Description" "<h1>Пассивно: Multicast</h1>При применении способности есть %chance%%% шанс снова применить ее на ту же цель или место.<br><br>Каждый второй последовательный триггер Multicast запускает счетчик и дает вам суммирующийся бафф, который увеличивает усиление заклинаний %consec_spell_amp%%% на %consec_spell_amp_duration% секунд для каждого стака. Если Multicast не срабатывает, счетчик сбрасывается."
         "DOTA_Tooltip_Ability_item_spire_of_aggron_6_bonus_int" "+$int"
         "DOTA_Tooltip_Ability_item_spire_of_aggron_6_bonus_str" "+$str"
         "DOTA_Tooltip_Ability_item_spire_of_aggron_6_bonus_armor" "+$armor"
@@ -6924,7 +6924,7 @@ Cleave работает для героев ближнего и дальнего
         "DOTA_Tooltip_Ability_item_spire_of_aggron_6_bonus_mana_regen" "+$mana_regen"
 
         "DOTA_Tooltip_modifier_item_spire_of_aggron_buff" "Aggron's Spire"
-        "DOTA_Tooltip_modifier_item_spire_of_aggron_buff_Description" "Spell Amplification increased by %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%."
+        "DOTA_Tooltip_modifier_item_spire_of_aggron_buff_Description" "Усиление заклинаний увеличено на %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%."
 
         "DOTA_Tooltip_Ability_outpost_placeholder_ability" "Zone Blocker"
         "DOTA_Tooltip_Ability_outpost_placeholder_ability_Description" "Enemies are unable to spawn in this zone until this outpost have been captured. Allows teleportation to this outpost when captured."
