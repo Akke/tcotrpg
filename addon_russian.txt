@@ -2215,16 +2215,16 @@
 		"DOTA_Tooltip_ability_slardar_bash_of_the_deep_custom_chance" "%ШАНС:"
 
 		"DOTA_Tooltip_ability_faceless_void_time_lock_custom" "Time Lock"
-		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_Description" "Faceless Void has a chance to attack all enemies around him on each attack, applying a stacking debuff that increases the damage taken from Time Lock based on Faceless Void damage."
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_Description" "Faceless Void имеет шанс атаковать всех врагов вокруг него при каждой атаке, накладывая суммирующийся дебафф, который увеличивает урон, получаемый от Time Lock, на основе урона Faceless Void."
 		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_chance" "%ШАНС:"
-		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_increase_per_stack" "%DAMAGE TAKEN INCREASE PER STACK:"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_increase_per_stack" "%УВЕЛИЧЕНИЕ ПОЛУЧАЕМОГО УРОНА ЗА СТАК:"
 		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_stack_duration" "ДЛИТЕЛЬНОСТЬ:"
-		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_max_stacks" "MAX STACK:"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_max_stacks" "МАКСИМУМ СТАКОВ:"
 		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_radius" "РАДИУС:"
-		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_damage_from_agi" "%DAMAGE FROM AGI:"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_damage_from_agi" "%ЛОВКОСТИ В УРОН:"
 
 		"DOTA_Tooltip_modifier_faceless_void_time_lock_custom_debuff" "Time Lock"
-		"DOTA_Tooltip_modifier_faceless_void_time_lock_custom_debuff_Description" "Taking increased damage each Time Lock."
+		"DOTA_Tooltip_modifier_faceless_void_time_lock_custom_debuff_Description" "Получение повышенного урона с каждым Time Lock."
 
 		"DOTA_Tooltip_modifier_item_enchanted_armor_shield" "Enchanted Armor Mana Shield"
 		"DOTA_Tooltip_modifier_item_enchanted_armor_shield_Description" "A portion of incoming damage is absorbed by your mana."
