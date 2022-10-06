@@ -6780,10 +6780,10 @@ Cleave работает для героев ближнего и дальнего
         "DOTA_Tooltip_Ability_item_quelling_fury_bonus_hp_regen"    "+$hp_regen"
 
         "DOTA_Tooltip_ability_item_moon_shard_custom" "Moon Shard"
-        "DOTA_Tooltip_ability_item_moon_shard_custom_Lore" "A shard infused with the power of the moons."
-        "DOTA_Tooltip_ability_item_moon_shard_custom_Description" "<h1>Target: Infusion</h1>Consumed to permanently increase the attack speed of the allied target by %attack_speed%. Stacks multiple times."
+        "DOTA_Tooltip_ability_item_moon_shard_custom_Lore" "Осколок, наполненный силой лун."
+        "DOTA_Tooltip_ability_item_moon_shard_custom_Description" "<h1>Цель: Infusion</h1>Расходуется для постоянного увеличения скорости атаки союзной цели на %attack_speed%. Складывается несколько раз."
         "DOTA_Tooltip_modifier_item_moon_shard_custom_stacks" "Moon Shard"
-        "DOTA_Tooltip_modifier_item_moon_shard_custom_stacks_Description" "Attack Speed permanently increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+        "DOTA_Tooltip_modifier_item_moon_shard_custom_stacks_Description" "Скорость атаки навсегда увеличена на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
 
         "npc_dota_creature_supercamp_1" "Super Rabid Wolf"
         "npc_dota_creature_supercamp_2" "Super Bear"
