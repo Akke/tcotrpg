@@ -208,25 +208,25 @@
 
 		"DOTA_Tooltip_modifier_desolator8_armor_Description"			"Броня уменьшена на 5300."
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_INT_3"				"Tome of Intellect (+5)"
-		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_INT_3_Description"	"Permanently increases your hero's Intelligence by 5."
+		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_INT_3_Description"	"Навсегда увеличивает интеллект вашего героя на 5."
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_INT_6"				"Tome of Intellect (+10)"
-		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_INT_6_Description"	"Permanently increases your hero's Intelligence by 10."
+		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_INT_6_Description"	"Навсегда увеличивает интеллект вашего героя на 10."
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_INT_60"				"Tome of Intellect (+5)"
-		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_INT_60_Description"	"Permanently increases your hero's Intelligence by 5."
+		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_INT_60_Description"	"Навсегда увеличивает интеллект вашего героя на 5."
 		
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_3"				"Tome of Agility (+5)"
-		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_3_Description"	"Permanently increases your hero's Agility by 5."
+		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_3_Description"	"Навсегда увеличивает ловкость вашего героя на 5."
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_6"				"Tome of Agility(+10)"
-		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_6_Description"	"Permanently increases your hero's Agility by 10."
+		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_6_Description"	"Навсегда увеличивает ловкость вашего героя на by 10."
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_60"				"Tome of Agility(+5)"
-		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_60_Description"	"Permanently increases your hero's Agility by 5."
+		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_60_Description"	"Навсегда увеличивает ловкость вашего героя на by 5."
 		
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_STR_3"				"Tome of Strength (+5)"
-		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_STR_3_Description"	"Permanently increases your hero's Strength by 5."
+		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_STR_3_Description"	"Навсегда увеличивает силу вашего героя на 5."
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_STR_6"				"Tome of Strength (+10)"
-		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_STR_6_Description"	"Permanently increases your hero's Strength by 10."
+		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_STR_6_Description"	"Навсегда увеличивает силу вашего героя на 10."
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_STR_60"				"Tome of Strength (+5)"
-		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_STR_60_Description"	"Permanently increases your hero's Strength by 5."
+		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_STR_60_Description"	"Навсегда увеличивает силу вашего героя на 5."
 		
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_UN_3"				"Tome of Gods (+5)"
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_UN_3_Description"	"Навсегда увеличивает силу, ловкость и интеллект вашего героя на 5."
@@ -2803,7 +2803,7 @@
   "DOTA_Tooltip_Ability_item_mercure8_bonus_evasion" "%+$evasion"
   "DOTA_Tooltip_Ability_item_mercure8_bonus_agility" "+$agi"
   "DOTA_Tooltip_Ability_item_mercure8_movement_speed_percent_bonus" "%+$move_speed"
-  "DOTA_Tooltip_Ability_item_mercure8_Description" "<h1>Пассивное: Flutter</h1>Каждая атака имеет %boost_chance%%% шанс наложить стак Flutter. Каждый стак Flutter увеличивает Вашу ловкость на %boost_agility_pct%%% на %boost_duration% секунд, вплоть до %boost_max_stacks% стаков.\n<h1>Пассивно: Agile</h1>Your attacks deal an additional %agi_dmg%%% of your Agility as damage."
+  "DOTA_Tooltip_Ability_item_mercure8_Description" "<h1>Пассивное: Flutter</h1>Каждая атака имеет %boost_chance%%% шанс наложить стак Flutter. Каждый стак Flutter увеличивает Вашу ловкость на %boost_agility_pct%%% на %boost_duration% секунд, вплоть до %boost_max_stacks% стаков.\n<h1>Пассивно: Agile</h1>Ваши атаки наносят дополнительный урон в размере %agi_dmg%%% от вашей ловкости."
 
 
   "DOTA_Tooltip_Ability_item_mercure" "Mercure"
@@ -2812,7 +2812,7 @@
   "DOTA_Tooltip_Ability_item_mercure_bonus_evasion" "%+$evasion"
   "DOTA_Tooltip_Ability_item_mercure_bonus_agility" "+$agi"
   "DOTA_Tooltip_Ability_item_mercure_movement_speed_percent_bonus" "%+$move_speed"
-  "DOTA_Tooltip_Ability_item_mercure_Description" "<h1>Пассивное: Flutter</h1>Каждая атака имеет %boost_chance%%% шанс наложить стак Flutter. Каждый стак Flutter увеличивает Вашу ловкость на %boost_agility_pct%%% на %boost_duration% секунд, вплоть до %boost_max_stacks% стаков.\n<h1>Пассивно: Agile</h1>Your attacks deal an additional %agi_dmg%%% of your Agility as damage."
+  "DOTA_Tooltip_Ability_item_mercure_Description" "<h1>Пассивное: Flutter</h1>Каждая атака имеет %boost_chance%%% шанс наложить стак Flutter. Каждый стак Flutter увеличивает Вашу ловкость на %boost_agility_pct%%% на %boost_duration% секунд, вплоть до %boost_max_stacks% стаков.\n<h1>Пассивно: Agile</h1>Ваши атаки наносят дополнительный урон в размере %agi_dmg%%% от вашей ловкости."
 
   "DOTA_Tooltip_Ability_item_mercure2" "Mercure LVL2"
   "DOTA_Tooltip_Ability_item_mercure2_bonus_damage" "+$damage"
@@ -2828,7 +2828,7 @@
   "DOTA_Tooltip_Ability_item_mercure3_bonus_evasion" "%+$evasion"
   "DOTA_Tooltip_Ability_item_mercure3_bonus_agility" "+$agi"
   "DOTA_Tooltip_Ability_item_mercure3_movement_speed_percent_bonus" "%+$move_speed"
-  "DOTA_Tooltip_Ability_item_mercure3_Description" "<h1>Пассивное: Flutter</h1>Каждая атака имеет %boost_chance%%% шанс наложить стак Flutter. Каждый стак Flutter увеличивает Вашу ловкость на %boost_agility_pct%%% на %boost_duration% секунд, вплоть до %boost_max_stacks% стаков.\n<h1>Пассивно: Agile</h1>Your attacks deal an additional %agi_dmg%%% of your Agility as damage."
+  "DOTA_Tooltip_Ability_item_mercure3_Description" "<h1>Пассивное: Flutter</h1>Каждая атака имеет %boost_chance%%% шанс наложить стак Flutter. Каждый стак Flutter увеличивает Вашу ловкость на %boost_agility_pct%%% на %boost_duration% секунд, вплоть до %boost_max_stacks% стаков.\n<h1>Пассивно: Agile</h1>Ваши атаки наносят дополнительный урон в размере %agi_dmg%%% от вашей ловкости."
 
   "DOTA_Tooltip_Ability_item_mercure4" "Mercure LVL4"
   "DOTA_Tooltip_Ability_item_mercure4_bonus_damage" "+$damage"
@@ -2836,7 +2836,7 @@
   "DOTA_Tooltip_Ability_item_mercure4_bonus_evasion" "%+$evasion"
   "DOTA_Tooltip_Ability_item_mercure4_bonus_agility" "+$agi"
   "DOTA_Tooltip_Ability_item_mercure4_movement_speed_percent_bonus" "%+$move_speed"
-  "DOTA_Tooltip_Ability_item_mercure4_Description" "<h1>Пассивное: Flutter</h1>Каждая атака имеет %boost_chance%%% шанс наложить стак Flutter. Каждый стак Flutter увеличивает Вашу ловкость на %boost_agility_pct%%% на %boost_duration% секунд, вплоть до %boost_max_stacks% стаков.\n<h1>Пассивно: Agile</h1>Your attacks deal an additional %agi_dmg%%% of your Agility as damage."
+  "DOTA_Tooltip_Ability_item_mercure4_Description" "<h1>Пассивное: Flutter</h1>Каждая атака имеет %boost_chance%%% шанс наложить стак Flutter. Каждый стак Flutter увеличивает Вашу ловкость на %boost_agility_pct%%% на %boost_duration% секунд, вплоть до %boost_max_stacks% стаков.\n<h1>Пассивно: Agile</h1>Ваши атаки наносят дополнительный урон в размере %agi_dmg%%% от вашей ловкости."
 
   "DOTA_Tooltip_Ability_item_mercure5" "Mercure LVL5"
   "DOTA_Tooltip_Ability_item_mercure5_bonus_damage" "+$damage"
@@ -2844,7 +2844,7 @@
   "DOTA_Tooltip_Ability_item_mercure5_bonus_evasion" "%+$evasion"
   "DOTA_Tooltip_Ability_item_mercure5_bonus_agility" "+$agi"
   "DOTA_Tooltip_Ability_item_mercure5_movement_speed_percent_bonus" "%+$move_speed"
-  "DOTA_Tooltip_Ability_item_mercure5_Description" "<h1>Пассивное: Flutter</h1>Каждая атака имеет %boost_chance%%% шанс наложить стак Flutter. Каждый стак Flutter увеличивает Вашу ловкость на %boost_agility_pct%%% на %boost_duration% секунд, вплоть до %boost_max_stacks% стаков.\n<h1>Пассивно: Agile</h1>Your attacks deal an additional %agi_dmg%%% of your Agility as damage."
+  "DOTA_Tooltip_Ability_item_mercure5_Description" "<h1>Пассивное: Flutter</h1>Каждая атака имеет %boost_chance%%% шанс наложить стак Flutter. Каждый стак Flutter увеличивает Вашу ловкость на %boost_agility_pct%%% на %boost_duration% секунд, вплоть до %boost_max_stacks% стаков.\n<h1>Пассивно: Agile</h1>Ваши атаки наносят дополнительный урон в размере %agi_dmg%%% от вашей ловкости."
 
   "DOTA_Tooltip_Ability_item_mercure6" "Mercure LVL6"
   "DOTA_Tooltip_Ability_item_mercure6_bonus_damage" "+$damage"
@@ -2852,10 +2852,10 @@
   "DOTA_Tooltip_Ability_item_mercure6_bonus_evasion" "%+$evasion"
   "DOTA_Tooltip_Ability_item_mercure6_bonus_agility" "+$agi"
   "DOTA_Tooltip_Ability_item_mercure6_movement_speed_percent_bonus" "%+$move_speed"
-  "DOTA_Tooltip_Ability_item_mercure6_Description" "<h1>Пассивное: Flutter</h1>Каждая атака имеет %boost_chance%%% шанс наложить стак Flutter. Каждый стак Flutter увеличивает Вашу ловкость на %boost_agility_pct%%% на %boost_duration% секунд, вплоть до %boost_max_stacks% стаков.\n<h1>Пассивно: Agile</h1>Your attacks deal an additional %agi_dmg%%% of your Agility as damage."
+  "DOTA_Tooltip_Ability_item_mercure6_Description" "<h1>Пассивное: Flutter</h1>Каждая атака имеет %boost_chance%%% шанс наложить стак Flutter. Каждый стак Flutter увеличивает Вашу ловкость на %boost_agility_pct%%% на %boost_duration% секунд, вплоть до %boost_max_stacks% стаков.\n<h1>Пассивно: Agile</h1>Ваши атаки наносят дополнительный урон в размере %agi_dmg%%% от вашей ловкости."
 
   "DOTA_Tooltip_modifier_mercure_boost" "Flutter"
-  "DOTA_Tooltip_modifier_mercure_boost_Description" "Gaining bonus agility based on a portion of your base agility."
+  "DOTA_Tooltip_modifier_mercure_boost_Description" "Получение бонусной ловкости в зависимости от части вашей базовой ловкости."
 
   "DOTA_Tooltip_Ability_tower_attack"    "Усиленные атаки башни"
         "DOTA_Tooltip_Ability_tower_attack_description"    "Эта башня атакует гораздо быстрее и наносит значительно больше урона, чем обычная башня."
@@ -3654,7 +3654,7 @@
         "DOTA_Tooltip_Ability_item_octarines_blessing_6_creep_lifesteal"    "%+к вампиризму заклинаниями (от крипов)"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal"    "Battlemage's Arsenal"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_description"    "<h1>Активация: Overcharge</h1>Заставляет ваши атаки наносить магический урон вместо физического в течение %duration% секунд и позволяет вам атаковать эфирных юнитов.\n<h1>Пассивное: Echo Curse</h1>Вы атакуете дважды в быстрой последовательности каждые %double_attack_cd% секунд. <i>(Только дальний бой)</i><br><h1>Пассивное: Poison Strike</h1>Заставляет вашу следующую атаку отравить на %slow_duration% секунд, замедляя на %slow%%% и нанося %int_damage_multiplier %x вашего интеллекта в виде урона каждую секунду. Эта атака имеет True Strike и общее время восстановления с Echo Curse."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_description"    "<h1>Активация: Overcharge</h1>Заставляет ваши атаки наносить магический урон вместо физического в течение %duration% секунд и позволяет вам атаковать эфирных юнитов.\n<h1>Пассивное: Echo Curse</h1>Вы атакуете дважды в быстрой последовательности каждые %double_attack_cd% секунд. <i>(Только дальний бой)</i><br><h1>Пассивное: Poison Strike</h1>Заставляет вашу следующую атаку отравить на %slow_duration% секунд, замедляя на %slow%%% и нанося %int_damage_multiplier% x вашего интеллекта в виде урона каждую секунду. Эта атака имеет True Strike и общее время восстановления с Echo Curse."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_Lore"    "Идеальное оружие для лучших боевых магов."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_bonus_damage"    "+$damage"
@@ -3668,7 +3668,7 @@
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_mana_regen_multiplier"    "%+к усилению восстановления маны"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2"    "Battlemage's Arsenal LVL2"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_description"    "<h1>Активация: Overcharge</h1>Заставляет ваши атаки наносить магический урон вместо физического в течение %duration% секунд и позволяет вам атаковать эфирных юнитов.\n<h1>Пассивное: Echo Curse</h1>Вы атакуете дважды в быстрой последовательности каждые %double_attack_cd% секунд. <i>(Только дальний бой)</i><br><h1>Пассивное: Poison Strike</h1>Заставляет вашу следующую атаку отравить на %slow_duration% секунд, замедляя на %slow%%% и нанося %int_damage_multiplier %x вашего интеллекта в виде урона каждую секунду. Эта атака имеет True Strike и общее время восстановления с Echo Curse."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_description"    "<h1>Активация: Overcharge</h1>Заставляет ваши атаки наносить магический урон вместо физического в течение %duration% секунд и позволяет вам атаковать эфирных юнитов.\n<h1>Пассивное: Echo Curse</h1>Вы атакуете дважды в быстрой последовательности каждые %double_attack_cd% секунд. <i>(Только дальний бой)</i><br><h1>Пассивное: Poison Strike</h1>Заставляет вашу следующую атаку отравить на %slow_duration% секунд, замедляя на %slow%%% и нанося %int_damage_multiplier% x вашего интеллекта в виде урона каждую секунду. Эта атака имеет True Strike и общее время восстановления с Echo Curse."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_Lore"    "Идеальное оружие для лучших боевых магов."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_bonus_damage"    "+$damage"
@@ -3682,7 +3682,7 @@
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_mana_regen_multiplier"    "%+к усилению восстановления маны"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_3"    "Battlemage's Arsenal LVL3"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_description"    "<h1>Активация: Overcharge</h1>Заставляет ваши атаки наносить магический урон вместо физического в течение %duration% секунд и позволяет вам атаковать эфирных юнитов.\n<h1>Пассивное: Echo Curse</h1>Вы атакуете дважды в быстрой последовательности каждые %double_attack_cd% секунд. <i>(Только дальний бой)</i><br><h1>Пассивное: Poison Strike</h1>Заставляет вашу следующую атаку отравить на %slow_duration% секунд, замедляя на %slow%%% и нанося %int_damage_multiplier %x вашего интеллекта в виде урона каждую секунду. Эта атака имеет True Strike и общее время восстановления с Echo Curse."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_description"    "<h1>Активация: Overcharge</h1>Заставляет ваши атаки наносить магический урон вместо физического в течение %duration% секунд и позволяет вам атаковать эфирных юнитов.\n<h1>Пассивное: Echo Curse</h1>Вы атакуете дважды в быстрой последовательности каждые %double_attack_cd% секунд. <i>(Только дальний бой)</i><br><h1>Пассивное: Poison Strike</h1>Заставляет вашу следующую атаку отравить на %slow_duration% секунд, замедляя на %slow%%% и нанося %int_damage_multiplier% x вашего интеллекта в виде урона каждую секунду. Эта атака имеет True Strike и общее время восстановления с Echo Curse."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_Lore"    "Идеальное оружие для лучших боевых магов."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_bonus_damage"    "+$damage"
@@ -3697,7 +3697,7 @@
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_4"    "Battlemage's Arsenal LVL4"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_description"    "<h1>Активация: Overcharge</h1>Заставляет ваши атаки наносить магический урон вместо физического в течение %duration% секунд и позволяет вам атаковать эфирных юнитов.\n<h1>Пассивное: Echo Curse</h1>Вы атакуете дважды в быстрой последовательности каждые %double_attack_cd% секунд. <i>(Только дальний бой)</i><br><h1>Пассивное: Poison Strike</h1>Заставляет вашу следующую атаку отравить на %slow_duration% секунд, замедляя на %slow%%% и нанося %int_damage_multiplier %x вашего интеллекта в виде урона каждую секунду. Эта атака имеет True Strike и общее время восстановления с Echo Curse."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_description"    "<h1>Активация: Overcharge</h1>Заставляет ваши атаки наносить магический урон вместо физического в течение %duration% секунд и позволяет вам атаковать эфирных юнитов.\n<h1>Пассивное: Echo Curse</h1>Вы атакуете дважды в быстрой последовательности каждые %double_attack_cd% секунд. <i>(Только дальний бой)</i><br><h1>Пассивное: Poison Strike</h1>Заставляет вашу следующую атаку отравить на %slow_duration% секунд, замедляя на %slow%%% и нанося %int_damage_multiplier% x вашего интеллекта в виде урона каждую секунду. Эта атака имеет True Strike и общее время восстановления с Echo Curse."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_Lore"    "Идеальное оружие для лучших боевых магов."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_bonus_damage"    "+$damage"
@@ -3712,7 +3712,7 @@
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_5"    "Battlemage's Arsenal LVL5"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_description"    "<h1>Активация: Overcharge</h1>Заставляет ваши атаки наносить магический урон вместо физического в течение %duration% секунд и позволяет вам атаковать эфирных юнитов.\n<h1>Пассивное: Echo Curse</h1>Вы атакуете дважды в быстрой последовательности каждые %double_attack_cd% секунд. <i>(Только дальний бой)</i><br><h1>Пассивное: Poison Strike</h1>Заставляет вашу следующую атаку отравить на %slow_duration% секунд, замедляя на %slow%%% и нанося %int_damage_multiplier %x вашего интеллекта в виде урона каждую секунду. Эта атака имеет True Strike и общее время восстановления с Echo Curse."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_description"    "<h1>Активация: Overcharge</h1>Заставляет ваши атаки наносить магический урон вместо физического в течение %duration% секунд и позволяет вам атаковать эфирных юнитов.\n<h1>Пассивное: Echo Curse</h1>Вы атакуете дважды в быстрой последовательности каждые %double_attack_cd% секунд. <i>(Только дальний бой)</i><br><h1>Пассивное: Poison Strike</h1>Заставляет вашу следующую атаку отравить на %slow_duration% секунд, замедляя на %slow%%% и нанося %int_damage_multiplier% x вашего интеллекта в виде урона каждую секунду. Эта атака имеет True Strike и общее время восстановления с Echo Curse."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_Lore"    "Идеальное оружие для лучших боевых магов."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_bonus_damage"    "+$damage"
@@ -3727,7 +3727,7 @@
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_6"    "Battlemage's Arsenal LVL6"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_description"    "<h1>Активация: Overcharge</h1>Заставляет ваши атаки наносить магический урон вместо физического в течение %duration% секунд и позволяет вам атаковать эфирных юнитов.\n<h1>Пассивное: Echo Curse</h1>Вы атакуете дважды в быстрой последовательности каждые %double_attack_cd% секунд. <i>(Только дальний бой)</i><br><h1>Пассивное: Poison Strike</h1>Заставляет вашу следующую атаку отравить на %slow_duration% секунд, замедляя на %slow%%% и нанося %int_damage_multiplier %x вашего интеллекта в виде урона каждую секунду. Эта атака имеет True Strike и общее время восстановления с Echo Curse."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_description"    "<h1>Активация: Overcharge</h1>Заставляет ваши атаки наносить магический урон вместо физического в течение %duration% секунд и позволяет вам атаковать эфирных юнитов.\n<h1>Пассивное: Echo Curse</h1>Вы атакуете дважды в быстрой последовательности каждые %double_attack_cd% секунд. <i>(Только дальний бой)</i><br><h1>Пассивное: Poison Strike</h1>Заставляет вашу следующую атаку отравить на %slow_duration% секунд, замедляя на %slow%%% и нанося %int_damage_multiplier% x вашего интеллекта в виде урона каждую секунду. Эта атака имеет True Strike и общее время восстановления с Echo Curse."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_Lore"    "Идеальное оружие для лучших боевых магов."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_bonus_damage"    "+$damage"
@@ -3742,7 +3742,7 @@
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_7"    "Lost Battlemage's Arsenal"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_7_description"    "<h1>Активация: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Пассивно: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i><br><h1>Пассивно: Poison Strike</h1>Causes your next attack to apply a poison for %slow_duration% seconds, slowing by %slow%%% and dealing %int_damage_multiplier%x your intelligence as damage every second. This attack has True Strike and shares cooldown with Echo Curse."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_7_description"    "h1>Активация: Overcharge</h1>Заставляет ваши атаки наносить магический урон вместо физического в течение %duration% секунд и позволяет вам атаковать эфирных юнитов.\n<h1>Пассивное: Echo Curse</h1>Вы атакуете дважды в быстрой последовательности каждые %double_attack_cd% секунд. <i>(Только дальний бой)</i><br><h1>Пассивное: Poison Strike</h1>Заставляет вашу следующую атаку отравить на %slow_duration% секунд, замедляя на %slow%%% и нанося %int_damage_multiplier% x вашего интеллекта в виде урона каждую секунду. Эта атака имеет True Strike и общее время восстановления с Echo Curse."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_7_Lore"    "Идеальное оружие для лучших боевых магов."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_7_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_7_bonus_damage"    "+$damage"
@@ -3755,7 +3755,7 @@
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_7_spell_lifesteal_amp"    "%+Усиление вампиризма от заклинаний"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_8"    "Rainbow Battlemage's Arsenal"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_8_description"    "<h1>Активация: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Пассивно: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i><br><h1>Пассивно: Poison Strike</h1>Causes your next attack to apply a poison for %slow_duration% seconds, slowing by %slow%%% and dealing %int_damage_multiplier%x your intelligence as damage every second. This attack has True Strike and shares cooldown with Echo Curse."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_8_description"    "h1>Активация: Overcharge</h1>Заставляет ваши атаки наносить магический урон вместо физического в течение %duration% секунд и позволяет вам атаковать эфирных юнитов.\n<h1>Пассивное: Echo Curse</h1>Вы атакуете дважды в быстрой последовательности каждые %double_attack_cd% секунд. <i>(Только дальний бой)</i><br><h1>Пассивное: Poison Strike</h1>Заставляет вашу следующую атаку отравить на %slow_duration% секунд, замедляя на %slow%%% и нанося %int_damage_multiplier% x вашего интеллекта в виде урона каждую секунду. Эта атака имеет True Strike и общее время восстановления с Echo Curse."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_8_Lore"    "Идеальное оружие для лучших боевых магов."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_8_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_8_bonus_damage"    "+$damage"
@@ -3774,7 +3774,7 @@
         "DOTA_Tooltip_Ability_dazzle_shadow_step_radius"    "РАДИУС:"
         "DOTA_Tooltip_Ability_dazzle_shadow_step_damage_reduction"    "%СНИЖЕНИЕ УРОНА:"
         "DOTA_Tooltip_Ability_dazzle_shadow_step_interval"    "ИНТЕРВАЛ:"
-        "DOTA_Tooltip_Ability_dazzle_shadow_step_hp_heal_pct"    "%HEAL:"
+        "DOTA_Tooltip_Ability_dazzle_shadow_step_hp_heal_pct"    "%ИСЦЕЛЕНИЕ:"
         "DOTA_Tooltip_Ability_dazzle_shadow_step_max_range"    "ДИСТАНЦИЯ:"
 
         "DOTA_Tooltip_Ability_silencer_growing_intellect_custom"    "Growing Intellect"
