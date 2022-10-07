@@ -7000,6 +7000,7 @@ Cleave работает для героев ближнего и дальнего
         "DOTA_Tooltip_Ability_razor_static_link_custom_end_duration" "ДЛИТЕЛЬНОСТЬ ЭФФЕКТА:"
         "DOTA_Tooltip_Ability_razor_static_link_custom_max_distance" "МАКСИМАЛЬНАЯ ДИСТАНЦИЯ:"
         "DOTA_Tooltip_Ability_razor_static_link_custom_min_damage_gained" "МИНИМАЛЬНАЯ ДИСТАНЦИЯ:"
+	"DOTA_Tooltip_Ability_razor_static_link_custom_boss_penalty" "%ШТРАФ НА БОССОВ:"
         "DOTA_Tooltip_modifier_razor_static_link_custom_buff" "Static Link"
         "DOTA_Tooltip_modifier_razor_static_link_custom_buff_Description" "Урон увеличен на %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%."
         "DOTA_Tooltip_modifier_razor_static_link_custom_buff_finished" "Static Link"
