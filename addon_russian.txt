@@ -7201,6 +7201,7 @@ Cleave работает для героев ближнего и дальнего
 		"dota_tooltip_modifier_templar_assassin_psi_blades_custom_description" "Accelerates every four attacks."
 
 		"DOTA_Tooltip_Ability_templar_assassin_psionic_explosion_custom" "Psionic Explosion"
+		"DOTA_Tooltip_Ability_templar_assassin_psionic_explosion_custom_Lore" "Calling upon the reach of the Hidden Temple, none escape the eye of the Templar."
 		"DOTA_Tooltip_Ability_templar_assassin_psionic_explosion_custom_scepter_Description" "Fires two additional projectiles, hitting enemies closest to Templar Assassin."
 		"DOTA_Tooltip_Ability_templar_assassin_psionic_explosion_custom_Description" "Templar Assassin fires a massive projectile when attacking. The projectile explodes on impact, dealing damage to the target, stunning it and causing it to take increased damage from Templar Assassin for a short duration, while dealing reduced damage to other nearby targets."
 		"DOTA_Tooltip_Ability_templar_assassin_psionic_explosion_custom_attack_damage" "%DAMAGE FROM ATTACK:"
