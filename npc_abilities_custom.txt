@@ -239,8 +239,8 @@
           "value" "-30 -35 -40 -45"
           "CalculateSpellDamageTooltip"   "0"
         }
-        "interval" "0.5"
-        "radius" "600"
+        "interval" "1.0 0.8 0.6 0.4"
+        "radius" "900"
       }
       "AbilityCastAnimation"    "ACT_DOTA_CAST_ABILITY_3"
     } 
