@@ -100,7 +100,7 @@
 
       // Ability Casting
       //-------------------------------------------------------------------------------------------------------------
-      "AbilityCastRange"        "750"
+      "AbilityCastRange"        "900"
       "AbilityCastPoint"        "0.3"
 
       // Ability Resource
@@ -128,7 +128,7 @@
         "03"
         {
           "var_type"        "FIELD_INTEGER"
-          "jump_range"      "600"
+          "jump_range"      "900"
         }     
         "04"
         {
