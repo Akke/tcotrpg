@@ -313,7 +313,7 @@
 
       // Ability Casting
       //-------------------------------------------------------------------------------------------------------------
-      "AbilityCastRange"        "400"
+      "AbilityCastRange"        "650"
       "AbilityCastPoint"        "0.4"
 
       // Ability Resource
@@ -332,7 +332,7 @@
         "int_per_kill" "1 2 3 4 5 6 7 8 9 10"
         "radius"
         {
-          "value" "300"
+          "value" "600"
           "RequiresShard" "1"
         }
       }
