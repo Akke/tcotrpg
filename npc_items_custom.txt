@@ -30,8 +30,16 @@
 "item_gleipnir_custom" "REMOVED"
 "item_recipe_gleipnir_custom" REMOVED
 
+"item_travel_boots" "REMOVED"
+"item_recipe_travel_boots" "REMOVED"
+"item_travel_boots_2" "REMOVED"
+"item_recipe_travel_boots_2" "REMOVED"
+
 "item_kaya_and_sange" "REMOVED"
 "item_recipe_kaya_and_sange" "REMOVED"
+
+"item_moon_shard" "REMOVED"
+"item_recipe_moon_shard" "REMOVED"
 
 "item_lifesteal2" "REMOVED"
 "item_recipe_lifesteal2" "REMOVED"
@@ -405,7 +413,7 @@
       "06"
       {
         "var_type"        "FIELD_INTEGER"
-        "max_hp_burn"      "10 20 30 40 50 60"
+        "max_hp_burn"      "8 16 24 32 40 48"
       }
       "07"
       {
@@ -445,7 +453,7 @@
       "14"
       {
         "var_type"        "FIELD_INTEGER"
-        "spell_amp"      "30 50 70 90 110 130"
+        "spell_amp"      "8 16 24 32 40 48"
       }
       "15"
       {
@@ -533,7 +541,7 @@
       "06"
       {
         "var_type"        "FIELD_INTEGER"
-        "max_hp_burn"      "10 20 30 40 50 60"
+        "max_hp_burn"      "8 16 24 32 40 48"
       }
       "07"
       {
@@ -573,7 +581,7 @@
       "14"
       {
         "var_type"        "FIELD_INTEGER"
-        "spell_amp"      "30 50 70 90 110 130"
+        "spell_amp"      "8 16 24 32 40 48"
       }
       "15"
       {
@@ -661,7 +669,7 @@
       "06"
       {
         "var_type"        "FIELD_INTEGER"
-        "max_hp_burn"      "10 20 30 40 50 60"
+        "max_hp_burn"      "8 16 24 32 40 48"
       }
       "07"
       {
@@ -701,7 +709,7 @@
       "14"
       {
         "var_type"        "FIELD_INTEGER"
-        "spell_amp"      "30 50 70 90 110 130"
+        "spell_amp"      "8 16 24 32 40 48"
       }
       "15"
       {
@@ -788,7 +796,7 @@
       "06"
       {
         "var_type"        "FIELD_INTEGER"
-        "max_hp_burn"      "10 20 30 40 50 60"
+        "max_hp_burn"      "8 16 24 32 40 48"
       }
       "07"
       {
@@ -828,7 +836,7 @@
       "14"
       {
         "var_type"        "FIELD_INTEGER"
-        "spell_amp"      "30 50 70 90 110 130"
+        "spell_amp"      "8 16 24 32 40 48"
       }
       "15"
       {
@@ -915,7 +923,7 @@
       "06"
       {
         "var_type"        "FIELD_INTEGER"
-        "max_hp_burn"      "10 20 30 40 50 60"
+        "max_hp_burn"      "8 16 24 32 40 48"
       }
       "07"
       {
@@ -955,7 +963,7 @@
       "14"
       {
         "var_type"        "FIELD_INTEGER"
-        "spell_amp"      "30 50 70 90 110 130"
+        "spell_amp"      "8 16 24 32 40 48"
       }
       "15"
       {
@@ -1042,7 +1050,7 @@
       "06"
       {
         "var_type"        "FIELD_INTEGER"
-        "max_hp_burn"      "10 20 30 40 50 60"
+        "max_hp_burn"      "8 16 24 32 40 48"
       }
       "07"
       {
@@ -1082,7 +1090,7 @@
       "14"
       {
         "var_type"        "FIELD_INTEGER"
-        "spell_amp"      "30 50 70 90 110 130"
+        "spell_amp"      "8 16 24 32 40 48"
       }
       "15"
       {
@@ -1181,7 +1189,7 @@
       "08"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "toggle_max_health_increase_pct"                             "15 20 25 30 35 40"
+        "toggle_max_health_increase_pct"                             "5 8 11 14 17 20"
       }
       "09"
       {
@@ -1305,7 +1313,7 @@
       "08"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "toggle_max_health_increase_pct"                             "15 20 25 30 35 40"
+        "toggle_max_health_increase_pct"                             "5 8 11 14 17 20"
       }
       "09"
       {
@@ -1429,7 +1437,7 @@
       "08"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "toggle_max_health_increase_pct"                             "15 20 25 30 35 40"
+        "toggle_max_health_increase_pct"                             "5 8 11 14 17 20"
       }
       "09"
       {
@@ -1554,7 +1562,7 @@
       "08"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "toggle_max_health_increase_pct"                             "15 20 25 30 35 40"
+        "toggle_max_health_increase_pct"                             "5 8 11 14 17 20"
       }
       "09"
       {
@@ -1679,7 +1687,7 @@
       "08"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "toggle_max_health_increase_pct"                             "15 20 25 30 35 40"
+        "toggle_max_health_increase_pct"                             "5 8 11 14 17 20"
       }
       "09"
       {
@@ -1804,7 +1812,7 @@
       "08"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "toggle_max_health_increase_pct"                             "15 20 25 30 35 40"
+        "toggle_max_health_increase_pct"                             "5 8 11 14 17 20"
       }
       "09"
       {
@@ -2383,13 +2391,13 @@
     "04"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "bonus_armor"                             "20 40 80 160 320 640 1280 1920 2560"
+      "bonus_armor"                             "10 20 30 40 50 60 70 80 90"
     }
 
     "05"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "aura_bonus_armor"                             "40 80 120 160 200 240 480 720 960"
+      "aura_bonus_armor"                             "5 20 35 50 65 80 95 110 125"
     }
     "07"
     {
@@ -2471,13 +2479,13 @@
     "04"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "bonus_armor"                             "20 40 80 160 320 640 1280 1920 2560"
+      "bonus_armor"                             "10 20 30 40 50 60 70 80 90"
     }
 
     "05"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "aura_bonus_armor"                             "40 80 120 160 200 240 480 720 960"
+      "aura_bonus_armor"                             "5 20 35 50 65 80 95 110 125"
     }
     "07"
     {
@@ -2559,13 +2567,13 @@
     "04"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "bonus_armor"                             "20 40 80 160 320 640 1280 1920 2560"
+      "bonus_armor"                             "10 20 30 40 50 60 70 80 90"
     }
 
     "05"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "aura_bonus_armor"                             "40 80 120 160 200 240 480 720 960"
+      "aura_bonus_armor"                             "5 20 35 50 65 80 95 110 125"
     }
     "07"
     {
@@ -2649,13 +2657,13 @@
     "04"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "bonus_armor"                             "20 40 80 160 320 640 1280 1920 2560"
+      "bonus_armor"                             "10 20 30 40 50 60 70 80 90"
     }
 
     "05"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "aura_bonus_armor"                             "40 80 120 160 200 240 480 720 960"
+      "aura_bonus_armor"                             "5 20 35 50 65 80 95 110 125"
     }
     "07"
     {
@@ -2737,13 +2745,13 @@
     "04"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "bonus_armor"                             "20 40 80 160 320 640 1280 1920 2560"
+      "bonus_armor"                             "10 20 30 40 50 60 70 80 90"
     }
 
     "05"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "aura_bonus_armor"                             "40 80 120 160 200 240 480 720 960"
+      "aura_bonus_armor"                             "5 20 35 50 65 80 95 110 125"
     }
     "07"
     {
@@ -2825,13 +2833,13 @@
     "04"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "bonus_armor"                             "20 40 80 160 320 640 1280 1920 2560"
+      "bonus_armor"                             "10 20 30 40 50 60 70 80 90"
     }
 
     "05"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "aura_bonus_armor"                             "40 80 120 160 200 240 480 720 960"
+      "aura_bonus_armor"                             "5 20 35 50 65 80 95 110 125"
     }
     "07"
     {
@@ -2914,13 +2922,13 @@
     "04"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "bonus_armor"                             "20 40 80 160 320 640 1280 1920 2560"
+      "bonus_armor"                             "10 20 30 40 50 60 70 80 90"
     }
 
     "05"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "aura_bonus_armor"                             "40 80 120 160 200 240 480 720 960"
+      "aura_bonus_armor"                             "5 20 35 50 65 80 95 110 125"
     }
     "07"
     {
@@ -3003,13 +3011,13 @@
     "04"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "bonus_armor"                             "20 40 80 160 320 640 1280 1920 2560"
+      "bonus_armor"                             "10 20 30 40 50 60 70 80 90"
     }
 
     "05"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "aura_bonus_armor"                             "40 80 120 160 200 240 480 720 960"
+      "aura_bonus_armor"                             "5 20 35 50 65 80 95 110 125"
     }
     "07"
     {
@@ -3092,13 +3100,13 @@
     "04"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "bonus_armor"                             "20 40 80 160 320 640 1280 1920 2560"
+      "bonus_armor"                             "10 20 30 40 50 60 70 80 90"
     }
 
     "05"
     {
       "var_type"                                        "FIELD_INTEGER"
-      "aura_bonus_armor"                             "40 80 120 160 200 240 480 720 960"
+      "aura_bonus_armor"                             "5 20 35 50 65 80 95 110 125"
     }
     "07"
     {
@@ -3745,7 +3753,7 @@
 	
 	// Item Info
 	//-------------------------------------------------------------------------------------------------------------
-	"ItemCost"						"1000"
+	"ItemCost"						"90000"
 	"ItemQuality"					"component"
 	"ItemStackable"					"1"
 	"ItemShareability"       "ITEM_NOT_SHAREABLE"
@@ -3755,7 +3763,7 @@
 	"ItemKillable"                  "1"
 	"ItemSellable"                  "0"
 	"ItemDroppable"                 "1"
-	"ItemPurchasable"				"0"
+	"ItemPurchasable"				"1"
 
 	"ItemStockMax"					""
 	"ItemStockInitial"				""
@@ -3768,9 +3776,9 @@
 			"Target"			"CASTER"
 			"ScriptFile"		"tome.lua"
 			"Function"			"UpgradeStats"
-			"Str"				"5"
-			"Agi"				"5"
-			"Int"				"5"
+			"Str"				"30"
+			"Agi"				"30"
+			"Int"				"30"
 		}
 		"SpendCharge"
 		{
@@ -3800,7 +3808,7 @@
 	
 	// Item Info
 	//-------------------------------------------------------------------------------------------------------------
-	"ItemCost"						"5000"
+	"ItemCost"						"10000"
 	"ItemQuality"					"component"
 	"ItemStackable"					"1"
 	"ItemShareability"       "ITEM_NOT_SHAREABLE"
@@ -3820,7 +3828,7 @@
 			"Target"			"CASTER"
 			"ScriptFile"		"tome.lua"
 			"Function"			"UpgradeStats"
-			"Agi"				"50"
+			"Agi"				"10"
 		}
 		"SpendCharge"
 		{
@@ -3849,7 +3857,7 @@
 	
 	// Item Info
 	//-------------------------------------------------------------------------------------------------------------
-	"ItemCost"						"5000"
+	"ItemCost"						"10000"
 	"ItemQuality"					"component"
 	"ItemStackable"					"1"
 	"ItemShareability"       "ITEM_NOT_SHAREABLE"
@@ -3869,7 +3877,7 @@
 			"Target"			"CASTER"
 			"ScriptFile"		"tome.lua"
 			"Function"			"UpgradeStats"
-			"Int"				"50"
+			"Int"				"10"
 		}
 		"SpendCharge"
 		{
@@ -3897,7 +3905,7 @@
 	
 	// Item Info
 	//-------------------------------------------------------------------------------------------------------------
-	"ItemCost"						"5000"
+	"ItemCost"						"10000"
 	"ItemQuality"					"component"
 	"ItemStackable"					"1"
 	"ItemShareability"       "ITEM_NOT_SHAREABLE"
@@ -3916,7 +3924,7 @@
 			"Target"			"CASTER"
 			"ScriptFile"		"tome.lua"
 			"Function"			"UpgradeStats"
-			"Str"				"50"
+			"Str"				"10"
 		}
 		"SpendCharge"
 		{
@@ -4001,7 +4009,7 @@
 	
 	// Item Info
 	//-------------------------------------------------------------------------------------------------------------
-	"ItemCost"						"1000"
+	"ItemCost"						"5000"
 	"ItemQuality"					"component"
 	"ItemStackable"					"1"
 	"ItemShareability"       "ITEM_NOT_SHAREABLE"
@@ -4020,7 +4028,7 @@
 			"Target"			"CASTER"
 			"ScriptFile"		"tome.lua"
 			"Function"			"UpgradeStats"
-			"Agi"				"10"
+			"Agi"				"5"
 		}
 		"SpendCharge"
 		{
@@ -4049,7 +4057,7 @@
 	
 	// Item Info
 	//-------------------------------------------------------------------------------------------------------------
-	"ItemCost"						"1000"
+	"ItemCost"						"5000"
 	"ItemQuality"					"component"
 	"ItemStackable"					"1"
 	"ItemShareability"       "ITEM_NOT_SHAREABLE"
@@ -4069,7 +4077,7 @@
 			"Target"			"CASTER"
 			"ScriptFile"		"tome.lua"
 			"Function"			"UpgradeStats"
-			"Int"				"10"
+			"Int"				"5"
 		}
 		"SpendCharge"
 		{
@@ -4097,7 +4105,7 @@
 	
 	// Item Info
 	//-------------------------------------------------------------------------------------------------------------
-	"ItemCost"						"1000"
+	"ItemCost"						"5000"
 	"ItemQuality"					"component"
 	"ItemStackable"					"1"
 	"ItemShareability"       "ITEM_NOT_SHAREABLE"
@@ -4117,7 +4125,7 @@
 			"Target"			"CASTER"
 			"ScriptFile"		"tome.lua"
 			"Function"			"UpgradeStats"
-			"Str"				"10"
+			"Str"				"5"
 		}
 		"SpendCharge"
 		{
@@ -4147,7 +4155,7 @@
 	
 	// Item Info
 	//-------------------------------------------------------------------------------------------------------------
-	"ItemCost"						"2000"
+	"ItemCost"						"30000"
 	"ItemQuality"					"component"
 	"ItemStackable"					"1"
 	"ItemShareability"       "ITEM_NOT_SHAREABLE"
@@ -4157,7 +4165,7 @@
 	"ItemKillable"                  "1"
 	"ItemSellable"                  "0"
 	"ItemDroppable"                 "1"
-	"ItemPurchasable"				"0"
+	"ItemPurchasable"				"1"
 
 	"ItemStockMax"					""
 	"ItemStockInitial"				""
@@ -5999,7 +6007,7 @@
 	"ItemResult"					"item_heart5"
 	"ItemRequirements"
 	{
-		"01"						"item_heart4;item_dragon_weapon;"
+		"01"						"item_heart4;"
 	}
 }
         //=================================================================================================================
@@ -6161,7 +6169,7 @@
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_chance"			"75 100"
+				"bonus_chance"			"50"
 			}
 			"04"
 			{
@@ -6191,7 +6199,7 @@
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_chance"			"75 100"
+				"bonus_chance"			"50"
 			}
 			"04"
 			{
@@ -7601,7 +7609,7 @@
 		"ItemResult"					"item_butterfly2"
 		"ItemRequirements"
 		{
-			"01"						"item_butterfly;item_butterfly;item_roshan_soul"
+			"01"						"item_butterfly;item_butterfly"
 		}
 	}
 	
@@ -7683,7 +7691,7 @@
 		
 		// Item Info
 		//-------------------------------------------------------------------------------------------------------------
-		"ItemCost"						"5000"	
+		"ItemCost"						"2500"	
 		"ItemShopTags"					""
 		
 		// Recipe
@@ -7692,7 +7700,7 @@
 		"ItemResult"					"item_butterfly3"
 		"ItemRequirements"
 		{
-			"01"						"item_butterfly2;item_spider_soul;"
+			"01"						"item_butterfly2;item_butterfly2"
 		}
 	}
 	
@@ -7914,7 +7922,7 @@
 		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_FRIENDLY"
 		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_CUSTOM"
 		"AbilityUnitTargetFlags"		"DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
-		"AbilityTextureName"			"doorway"
+		"AbilityTextureName"			"blinkd"
 		"precache"
 		{
 			"soundfile" "soundevents/game_sounds_heroes/game_sounds_furion.vsndevts"
@@ -7922,7 +7930,7 @@
 	
 		// Stats		
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityCooldown"				"5.0"
+		"AbilityCooldown"				"15.0"
 		"AbilitySharedCooldown"			"teleport"
 		"AbilityCastPoint"				"1"
 		"AbilityChannelTime"			"1"
@@ -11191,7 +11199,7 @@
       "bonus_agility"      "40 80 120 160 200"
       "bonus_strength"    "40 80 120 160 200"
       "bonus_intellect"   "40 80 120 160 200"
-      "spell_amp"     "12 24 36 48 60"
+      "spell_amp"     "8 16 24 32 40"
       "spell_lifesteal_amp"     "24 48 72 96 120"
       "mana_regen_multiplier"   "25 30 35 40 45"
       "blast_movement_slow" "-80"
@@ -11199,7 +11207,7 @@
       "blast_agility_multiplier"      "0.5 1.0 1.5 2.0 2.5"
       "blast_damage_base"     "150 300 450 600 750"
       "duration_ally"       "4.0"
-      "ethereal_damage_bonus" "-100 -200 -300 -400 -500"
+      "ethereal_damage_bonus" "-30 -35 -40 -45 -50"
       "projectile_speed"  "1275"
   }
 }
@@ -11214,7 +11222,7 @@
       "bonus_agility"      "40 80 120 160 200"
       "bonus_strength"    "40 80 120 160 200"
       "bonus_intellect"   "40 80 120 160 200"
-      "spell_amp"     "12 24 36 48 60"
+      "spell_amp"     "8 16 24 32 40"
       "spell_lifesteal_amp"     "24 48 72 96 120"
       "mana_regen_multiplier"   "25 30 35 40 45"
       "blast_movement_slow" "-80"
@@ -11222,7 +11230,7 @@
       "blast_agility_multiplier"      "0.5 1.0 1.5 2.0 2.5"
       "blast_damage_base"     "150 300 450 600 750"
       "duration_ally"       "4.0"
-      "ethereal_damage_bonus" "-100 -200 -300 -400 -500"
+      "ethereal_damage_bonus" "-30 -35 -40 -45 -50"
       "projectile_speed"  "1275"
   }
 	}
@@ -11295,7 +11303,7 @@
       "bonus_agility"      "40 80 120 160 200"
       "bonus_strength"    "40 80 120 160 200"
       "bonus_intellect"   "40 80 120 160 200"
-      "spell_amp"     "12 24 36 48 60"
+      "spell_amp"     "8 16 24 32 40"
       "spell_lifesteal_amp"     "24 48 72 96 120"
       "mana_regen_multiplier"   "25 30 35 40 45"
       "blast_movement_slow" "-80"
@@ -11303,7 +11311,7 @@
       "blast_agility_multiplier"      "0.5 1.0 1.5 2.0 2.5"
       "blast_damage_base"     "150 300 450 600 750"
       "duration_ally"       "4.0"
-      "ethereal_damage_bonus" "-100 -200 -300 -400 -500"
+      "ethereal_damage_bonus" "-30 -35 -40 -45 -50"
       "projectile_speed"  "1275"
   }
 }
@@ -11375,7 +11383,7 @@
       "bonus_agility"      "40 80 120 160 200"
       "bonus_strength"    "40 80 120 160 200"
       "bonus_intellect"   "40 80 120 160 200"
-      "spell_amp"     "12 24 36 48 60"
+      "spell_amp"     "8 16 24 32 40"
       "spell_lifesteal_amp"     "24 48 72 96 120"
       "mana_regen_multiplier"   "25 30 35 40 45"
       "blast_movement_slow" "-80"
@@ -11383,7 +11391,7 @@
       "blast_agility_multiplier"      "0.5 1.0 1.5 2.0 2.5"
       "blast_damage_base"     "150 300 450 600 750"
       "duration_ally"       "4.0"
-      "ethereal_damage_bonus" "-100 -200 -300 -400 -500"
+      "ethereal_damage_bonus" "-30 -35 -40 -45 -50"
       "projectile_speed"  "1275"
   }
 }
@@ -11455,7 +11463,7 @@
       "bonus_agility"      "40 80 120 160 200"
       "bonus_strength"    "40 80 120 160 200"
       "bonus_intellect"   "40 80 120 160 200"
-      "spell_amp"     "12 24 36 48 60"
+      "spell_amp"     "8 16 24 32 40"
       "spell_lifesteal_amp"     "24 48 72 96 120"
       "mana_regen_multiplier"   "25 30 35 40 45"
       "blast_movement_slow" "-80"
@@ -11463,7 +11471,7 @@
       "blast_agility_multiplier"      "0.5 1.0 1.5 2.0 2.5"
       "blast_damage_base"     "150 300 450 600 750"
       "duration_ally"       "4.0"
-      "ethereal_damage_bonus" "-100 -200 -300 -400 -500"
+      "ethereal_damage_bonus" "-30 -35 -40 -45 -50"
       "projectile_speed"  "1275"
   }
 }
@@ -11835,7 +11843,7 @@
 		
 		// Item Info
 		//-------------------------------------------------------------------------------------------------------------
-		"ItemCost"						"10000"	
+		"ItemCost"						"2500"	
 		"ItemShopTags"					""
 		
 		// Recipe
@@ -11844,7 +11852,7 @@
 		"ItemResult"					"item_butterfly4"
 		"ItemRequirements"
 		{
-			"01"						"item_butterfly3;item_warlock_soul;"
+			"01"						"item_butterfly3;item_butterfly3;"
 		}
 	}
 	
@@ -13734,7 +13742,7 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_armor"			"25"
+			"bonus_armor"			"15"
 		}
 		"02"
 		{
@@ -13757,7 +13765,7 @@
 		"05"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_armor_aura"		"20"
+			"bonus_armor_aura"		"10"
 		}
 		"06"
 		{
@@ -13774,7 +13782,7 @@
 		"08"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"disarmor_aura"			"-30"
+			"disarmor_aura"			"-10"
 		}
 		"09"
 		{
@@ -13912,7 +13920,7 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_armor"			"50"
+			"bonus_armor"			"20"
 		}
 		"02"
 		{
@@ -13935,7 +13943,7 @@
 		"05"
     {
       "var_type"        "FIELD_INTEGER"
-      "bonus_armor_aura"    "30"
+      "bonus_armor_aura"    "15"
     }
     "06"
     {
@@ -13952,7 +13960,7 @@
 		"08"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"disarmor_aura"			"-60"
+			"disarmor_aura"			"-20"
 		}
 		"09"
 		{
@@ -14089,7 +14097,7 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_armor"			"75"
+			"bonus_armor"			"25"
 		}
 		"02"
 		{
@@ -14112,7 +14120,7 @@
 		"05"
     {
       "var_type"        "FIELD_INTEGER"
-      "bonus_armor_aura"    "40"
+      "bonus_armor_aura"    "20"
     }
     "06"
     {
@@ -14129,7 +14137,7 @@
 		"08"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"disarmor_aura"			"-120"
+			"disarmor_aura"			"-40"
 		}
 		"09"
 		{
@@ -14267,7 +14275,7 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_armor"			"100"
+			"bonus_armor"			"30"
 		}
 		"02"
 		{
@@ -14290,7 +14298,7 @@
 		"05"
     {
       "var_type"        "FIELD_INTEGER"
-      "bonus_armor_aura"    "50"
+      "bonus_armor_aura"    "25"
     }
     "06"
     {
@@ -14307,7 +14315,7 @@
 		"08"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"disarmor_aura"			"-240"
+			"disarmor_aura"			"-80"
 		}
 		"09"
 		{
@@ -14442,7 +14450,7 @@
     "01"
     {
       "var_type"        "FIELD_INTEGER"
-      "bonus_armor"     "125"
+      "bonus_armor"     "35"
     }
     "02"
     {
@@ -14465,7 +14473,7 @@
     "05"
     {
       "var_type"        "FIELD_INTEGER"
-      "bonus_armor_aura"    "60"
+      "bonus_armor_aura"    "30"
     }
     "06"
     {
@@ -14482,7 +14490,7 @@
     "08"
     {
       "var_type"        "FIELD_INTEGER"
-      "disarmor_aura"     "-480"
+      "disarmor_aura"     "-160"
     }
     "09"
     {
@@ -14617,7 +14625,7 @@
     "01"
     {
       "var_type"        "FIELD_INTEGER"
-      "bonus_armor"     "150"
+      "bonus_armor"     "40"
     }
     "02"
     {
@@ -14640,7 +14648,7 @@
     "05"
     {
       "var_type"        "FIELD_INTEGER"
-      "bonus_armor_aura"    "70"
+      "bonus_armor_aura"    "35"
     }
     "06"
     {
@@ -14657,7 +14665,7 @@
     "08"
     {
       "var_type"        "FIELD_INTEGER"
-      "disarmor_aura"     "-960"
+      "disarmor_aura"     "-320"
     }
     "09"
     {
@@ -14792,7 +14800,7 @@
     "01"
     {
       "var_type"        "FIELD_INTEGER"
-      "bonus_armor"     "175"
+      "bonus_armor"     "45"
     }
     "02"
     {
@@ -14815,7 +14823,7 @@
     "05"
     {
       "var_type"        "FIELD_INTEGER"
-      "bonus_armor_aura"    "80"
+      "bonus_armor_aura"    "40"
     }
     "06"
     {
@@ -14832,7 +14840,7 @@
     "08"
     {
       "var_type"        "FIELD_INTEGER"
-      "disarmor_aura"     "-1920"
+      "disarmor_aura"     "-640"
     }
     "09"
     {
@@ -14967,7 +14975,7 @@
     "01"
     {
       "var_type"        "FIELD_INTEGER"
-      "bonus_armor"     "200"
+      "bonus_armor"     "50"
     }
     "02"
     {
@@ -14990,7 +14998,7 @@
     "05"
     {
       "var_type"        "FIELD_INTEGER"
-      "bonus_armor_aura"    "90"
+      "bonus_armor_aura"    "45"
     }
     "06"
     {
@@ -15007,7 +15015,7 @@
     "08"
     {
       "var_type"        "FIELD_INTEGER"
-      "disarmor_aura"     "-3840"
+      "disarmor_aura"     "-1280"
     }
     "09"
     {
@@ -15265,7 +15273,7 @@
             "02"
             {
                 "var_type"          "FIELD_INTEGER"
-                "attack_damage_to_pure_pct" "1 2 3 4 5"
+                "attack_damage_to_pure_pct" "2 4 6 8 10"
                 "CalculateSpellDamageTooltip"   "0"
             }
 		}
@@ -15312,7 +15320,7 @@
             "02"
             {
                 "var_type"          "FIELD_INTEGER"
-                "attack_damage_to_pure_pct" "1 2 3 4 5"
+                "attack_damage_to_pure_pct" "2 4 6 8 10"
                 "CalculateSpellDamageTooltip"   "0"
             }
         }
@@ -15360,7 +15368,7 @@
             "02"
             {
                 "var_type"          "FIELD_INTEGER"
-                "attack_damage_to_pure_pct" "1 2 3 4 5"
+                "attack_damage_to_pure_pct" "2 4 6 8 10"
                 "CalculateSpellDamageTooltip"   "0"
             }
         }
@@ -15407,7 +15415,7 @@
             "02"
             {
                 "var_type"          "FIELD_INTEGER"
-                "attack_damage_to_pure_pct" "1 2 3 4 5"
+                "attack_damage_to_pure_pct" "2 4 6 8 10"
                 "CalculateSpellDamageTooltip"   "0"
             }
         }
@@ -15455,7 +15463,7 @@
             "02"
             {
                 "var_type"          "FIELD_INTEGER"
-                "attack_damage_to_pure_pct" "1 2 3 4 5"
+                "attack_damage_to_pure_pct" "2 4 6 8 10"
                 "CalculateSpellDamageTooltip"   "0"
             }
         }
@@ -17378,7 +17386,7 @@
       "02"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "spell_amp"                                "16 32 48 64 80 96 112"
+        "spell_amp"                                "5 10 15 20 25 30 35"
       }
       "03"
       {
@@ -17472,7 +17480,7 @@
       "02"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "spell_amp"                                "16 32 48 64 80 96 112"
+        "spell_amp"                                "5 10 15 20 25 30 35"
       }
       "03"
       {
@@ -17566,7 +17574,7 @@
       "02"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "spell_amp"                                "16 32 48 64 80 96 112"
+        "spell_amp"                                "5 10 15 20 25 30 35"
       }
       "03"
       {
@@ -17658,7 +17666,7 @@
       "02"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "spell_amp"                                "16 32 48 64 80 96 112"
+        "spell_amp"                                "5 10 15 20 25 30 35"
       }
       "03"
       {
@@ -17749,7 +17757,7 @@
       "02"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "spell_amp"                                "16 32 48 64 80 96 112"
+        "spell_amp"                                "5 10 15 20 25 30 35"
       }
       "03"
       {
@@ -17842,7 +17850,7 @@
       "02"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "spell_amp"                                "16 32 48 64 80 96 112"
+        "spell_amp"                                "5 10 15 20 25 30 35"
       }
       "03"
       {
@@ -17936,7 +17944,7 @@
       "02"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "spell_amp"                                "16 32 48 64 80 96 112"
+        "spell_amp"                                "5 10 15 20 25 30 35"
       }
       "03"
       {
@@ -18386,7 +18394,7 @@
         }
         // Item Info
         //-------------------------------------------------------------------------------------------------------------
-        "ItemCost"                                            "6575"
+        "ItemCost"                                            "3288"
         "ItemShopTags"                  "regen_health;regen_mana;mana_pool;health_pool"
         "ItemQuality"                   "epic"
         "ItemAliases"                   "bs;bloodstone"
@@ -18395,7 +18403,7 @@
         "ItemDeclarations"              "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
         "AllowedInBackpack"             "1"
         "ShouldBeSuggested"             "1"
-        "MaxUpgradeLevel"                                     "6"
+        "MaxUpgradeLevel"                                     "9"
         "ItemBaseLevel"                                       "1"
 
         "UpgradesItems"                                       "item_bloodstone_strygwyr;item_bloodstone_strygwyr_2;item_bloodstone_strygwyr_3;item_bloodstone_strygwyr_4"
@@ -18405,37 +18413,37 @@
             "01"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_intellect"                                    "16 64 256 1024 2048 4096"
+                "bonus_intellect"                                    "16 32 48 64 80 96 112 128 144"
             }
 
             "02"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_health"                                    "425 850 1275 1700 3400 6800"
+                "bonus_health"                                    "425 850 1275 1700 2125 2550 2975 3400 3825"
             }
 
             "03"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_mana"                    "425 850 1275 1700 3400 6800"
+                "bonus_mana"                    "425 850 1275 1700 2125 2550 2975 3400 3825"
             }
 
             "04"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "spell_amp"                   "24 48 72 96 192 384"
+                "spell_amp"                   "8 16 24 32 40 48 56 64 72"
             }
 
             "05"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "hero_lifesteal"                                    "25 50 75 100 200 400"
+                "hero_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
             }
 
             "06"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "creep_lifesteal"                                    "25 50 75 100 200 400"
+                "creep_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
             }
 
             "07"
@@ -18447,19 +18455,19 @@
             "08"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "spell_lifesteal_amp"                    "25 50 75 100 200 400"
+                "spell_lifesteal_amp"                    "20"
             }
 
             "09"
             {
                 "var_type"              "FIELD_FLOAT"
-                "regen_per_charge"      "1.0 1.5 2.0 2.5 5.0 10.0"
+                "regen_per_charge"      "2 4 6 8 10 12 14 16 18"
             }
             
             "10"
             {
                 "var_type"              "FIELD_FLOAT"
-                "amp_per_charge"        "0.75 1.0 1.25 1.50 3.0 6.0"
+                "amp_per_charge"        "0.22 0.26 0.30 0.34 0.38 0.42 0.46 0.50 0.54"
             }
 
             "11"
@@ -18489,7 +18497,7 @@
             "15"
             {
                 "var_type"              "FIELD_FLOAT"
-                "restore_duration" "2.0 2.5 3.0 3.5 4.0 4.5"
+                "restore_duration" "7"
             }
 
             "16"
@@ -18507,19 +18515,19 @@
             "18"
             {
                 "var_type"              "FIELD_INTEGER"
-                "max_charges" "300"
+                "max_charges" "300 325 350 375 400 425 450 475 500"
             }
             "19"
         {
             "var_type"              "FIELD_INTEGER"
-            "agi_to_magic_pct"          "3 6 9 12 15 18"
+            "agi_to_magic_pct"          "30"
         }
         }
     }
     "item_recipe_bloodstone_strygwyr_2"
     {
         "BaseClass"                                           "item_datadriven"
-        "ItemCost"                                            "6575"
+        "ItemCost"                                            "3288"
         "ItemShopTags"                                        ""
         "ItemRecipe"                                          "1"
         "ItemResult"                                          "item_bloodstone_strygwyr_2"
@@ -18527,7 +18535,7 @@
 
         "ItemRequirements"
         {
-            "01"                                                "item_bloodstone_strygwyr;item_spider_soul"
+            "01"                                                "item_bloodstone_strygwyr;item_roshan_soul"
         }
     }
 
@@ -18537,7 +18545,7 @@
         "ScriptFile"                                          "bloodstone_strygwyr.lua"
         "AbilityBehavior"                                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
         "FightRecapLevel"               "2"
-        "AbilityTextureName"                                  "bloodstonestryg_2"
+        "AbilityTextureName"                                  "bloodstonestryg_roshan"
         "AbilityCastPoint"              "0.0"
         "AbilityCooldown"               "40.0"
         "precache"
@@ -18555,7 +18563,7 @@
         "ItemDeclarations"              "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
         "AllowedInBackpack"             "1"
         "ShouldBeSuggested"             "1"
-        "MaxUpgradeLevel"                                     "6"
+        "MaxUpgradeLevel"                                     "9"
         "ItemBaseLevel"                                       "2"
 
         "UpgradesItems"                                       "item_bloodstone_strygwyr;item_bloodstone_strygwyr_2;item_bloodstone_strygwyr_3;item_bloodstone_strygwyr_4"
@@ -18565,37 +18573,37 @@
             "01"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_intellect"                                    "16 64 256 1024 2048 4096"
+                "bonus_intellect"                                    "16 32 48 64 80 96 112 128 144"
             }
 
             "02"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_health"                                    "425 850 1275 1700 3400 6800"
+                "bonus_health"                                    "425 850 1275 1700 2125 2550 2975 3400 3825"
             }
 
             "03"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_mana"                    "425 850 1275 1700 3400 6800"
+                "bonus_mana"                    "425 850 1275 1700 2125 2550 2975 3400 3825"
             }
 
             "04"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "spell_amp"                   "24 48 72 96 192 384"
+                "spell_amp"                   "8 16 24 32 40 48 56 64 72"
             }
 
             "05"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "hero_lifesteal"                                    "25 50 75 100 200 400"
+                "hero_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
             }
 
             "06"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "creep_lifesteal"                                    "25 50 75 100 200 400"
+                "creep_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
             }
 
             "07"
@@ -18607,19 +18615,19 @@
             "08"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "spell_lifesteal_amp"                    "25 50 75 100 200 400"
+                "spell_lifesteal_amp"                    "20"
             }
 
             "09"
             {
                 "var_type"              "FIELD_FLOAT"
-                "regen_per_charge"      "1.0 1.5 2.0 2.5 5.0 10.0"
+                "regen_per_charge"      "2 4 6 8 10 12 14 16 18"
             }
             
             "10"
             {
                 "var_type"              "FIELD_FLOAT"
-                "amp_per_charge"        "0.75 1.0 1.25 1.50 3.0 6.0"
+                "amp_per_charge"        "0.22 0.26 0.30 0.34 0.38 0.42 0.46 0.50 0.54"
             }
 
             "11"
@@ -18649,7 +18657,7 @@
             "15"
             {
                 "var_type"              "FIELD_FLOAT"
-                "restore_duration" "2.0 2.5 3.0 3.5 4.0 4.5"
+                "restore_duration" "7"
             }
 
             "16"
@@ -18667,19 +18675,19 @@
             "18"
             {
                 "var_type"              "FIELD_INTEGER"
-                "max_charges" "300"
+                "max_charges" "300 325 350 375 400 425 450 475 500"
             }
             "19"
         {
             "var_type"              "FIELD_INTEGER"
-            "agi_to_magic_pct"          "3 6 9 12 15 18"
+            "agi_to_magic_pct"          "30"
         }
         }
     }
     "item_recipe_bloodstone_strygwyr_3"
     {
         "BaseClass"                                           "item_datadriven"
-        "ItemCost"                                            "6575"
+        "ItemCost"                                            "3288"
         "ItemShopTags"                                        ""
         "ItemRecipe"                                          "1"
         "ItemResult"                                          "item_bloodstone_strygwyr_3"
@@ -18687,7 +18695,7 @@
 
         "ItemRequirements"
         {
-            "01"                                                "item_bloodstone_strygwyr_2;item_warlock_soul"
+            "01"                                                "item_bloodstone_strygwyr_2;item_forest_soul"
         }
     }
 
@@ -18697,7 +18705,7 @@
         "ScriptFile"                                          "bloodstone_strygwyr.lua"
         "AbilityBehavior"                                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
         "FightRecapLevel"               "2"
-        "AbilityTextureName"                                  "bloodstonestryg_3"
+        "AbilityTextureName"                                  "bloodstonestryg_skafian"
         "AbilityCastPoint"              "0.0"
         "AbilityCooldown"               "30.0"
         "precache"
@@ -18715,7 +18723,7 @@
         "ItemDeclarations"              "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
         "AllowedInBackpack"             "1"
         "ShouldBeSuggested"             "1"
-        "MaxUpgradeLevel"                                     "6"
+        "MaxUpgradeLevel"                                     "9"
         "ItemBaseLevel"                                       "3"
 
         "UpgradesItems"                                       "item_bloodstone_strygwyr;item_bloodstone_strygwyr_2;item_bloodstone_strygwyr_3;item_bloodstone_strygwyr_4"
@@ -18725,37 +18733,37 @@
             "01"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_intellect"                                    "16 64 256 1024 2048 4096"
+                "bonus_intellect"                                    "16 32 48 64 80 96 112 128 144"
             }
 
             "02"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_health"                                    "425 850 1275 1700 3400 6800"
+                "bonus_health"                                    "425 850 1275 1700 2125 2550 2975 3400 3825"
             }
 
             "03"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_mana"                    "425 850 1275 1700 3400 6800"
+                "bonus_mana"                    "425 850 1275 1700 2125 2550 2975 3400 3825"
             }
 
             "04"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "spell_amp"                   "24 48 72 96 192 384"
+                "spell_amp"                   "8 16 24 32 40 48 56 64 72"
             }
 
             "05"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "hero_lifesteal"                                    "25 50 75 100 200 400"
+                "hero_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
             }
 
             "06"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "creep_lifesteal"                                    "25 50 75 100 200 400"
+                "creep_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
             }
 
             "07"
@@ -18767,19 +18775,19 @@
             "08"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "spell_lifesteal_amp"                    "25 50 75 100 200 400"
+                "spell_lifesteal_amp"                    "20"
             }
 
             "09"
             {
                 "var_type"              "FIELD_FLOAT"
-                "regen_per_charge"      "1.0 1.5 2.0 2.5 5.0 10.0"
+                "regen_per_charge"      "2 4 6 8 10 12 14 16 18"
             }
             
             "10"
             {
                 "var_type"              "FIELD_FLOAT"
-                "amp_per_charge"        "0.75 1.0 1.25 1.50 3.0 6.0"
+                "amp_per_charge"        "0.22 0.26 0.30 0.34 0.38 0.42 0.46 0.50 0.54"
             }
 
             "11"
@@ -18809,7 +18817,7 @@
             "15"
             {
                 "var_type"              "FIELD_FLOAT"
-                "restore_duration" "2.0 2.5 3.0 3.5 4.0 4.5"
+                "restore_duration" "7"
             }
 
             "16"
@@ -18827,19 +18835,19 @@
             "18"
             {
                 "var_type"              "FIELD_INTEGER"
-                "max_charges" "300"
+                "max_charges" "300 325 350 375 400 425 450 475 500"
             }
             "19"
         {
             "var_type"              "FIELD_INTEGER"
-            "agi_to_magic_pct"          "3 6 9 12 15 18"
+            "agi_to_magic_pct"          "30"
         }
         }
     }
     "item_recipe_bloodstone_strygwyr_4"
     {
         "BaseClass"                                           "item_datadriven"
-        "ItemCost"                                            "6575"
+        "ItemCost"                                            "3288"
         "ItemShopTags"                                        ""
         "ItemRecipe"                                          "1"
         "ItemResult"                                          "item_bloodstone_strygwyr_4"
@@ -18847,11 +18855,493 @@
 
         "ItemRequirements"
         {
-            "01"                                                "item_bloodstone_strygwyr_3;item_elder_soul"
+            "01"                                                "item_bloodstone_strygwyr_3;item_spider_soul"
         }
     }
 
     "item_bloodstone_strygwyr_4"
+    {
+        "BaseClass"                                           "item_lua"
+        "ScriptFile"                                          "bloodstone_strygwyr.lua"
+        "AbilityBehavior"                                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"               "2"
+        "AbilityTextureName"                                  "bloodstonestryg_2"
+        "AbilityCastPoint"              "0.0"
+        "AbilityCooldown"               "30.0"
+        "precache"
+        {
+          "soundfile" "sounds/items/bloodstone_cast.vsnd"
+        }
+        // Item Info
+        //-------------------------------------------------------------------------------------------------------------
+        "ItemCost"                                            "26300"
+        "ItemShopTags"                  "regen_health;regen_mana;mana_pool;health_pool"
+        "ItemQuality"                   "epic"
+        "ItemAliases"                   "bs;bloodstone"
+        "ItemInitialCharges"            "0"
+        "ItemDisplayCharges"            "1"
+        "ItemDeclarations"              "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+        "AllowedInBackpack"             "1"
+        "ShouldBeSuggested"             "1"
+        "MaxUpgradeLevel"                                     "9"
+        "ItemBaseLevel"                                       "4"
+
+        "UpgradesItems"                                       "item_bloodstone_strygwyr;item_bloodstone_strygwyr_2;item_bloodstone_strygwyr_3;item_bloodstone_strygwyr_4"
+
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "bonus_intellect"                                    "16 32 48 64 80 96 112 128 144"
+            }
+
+            "02"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "bonus_health"                                    "425 850 1275 1700 2125 2550 2975 3400 3825"
+            }
+
+            "03"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "bonus_mana"                    "425 850 1275 1700 2125 2550 2975 3400 3825"
+            }
+
+            "04"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "spell_amp"                   "8 16 24 32 40 48 56 64 72"
+            }
+
+            "05"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "hero_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
+            }
+
+            "06"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "creep_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
+            }
+
+            "07"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "mana_regen_multiplier"                    "50"
+            }
+
+            "08"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "spell_lifesteal_amp"                    "20"
+            }
+
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "regen_per_charge"      "2 4 6 8 10 12 14 16 18"
+            }
+            
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "amp_per_charge"        "0.22 0.26 0.30 0.34 0.38 0.42 0.46 0.50 0.54"
+            }
+
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "death_charges"             "0"
+            }
+
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "kill_charges"          "1"
+            }
+
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "charge_range"          "9999"
+            }
+
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "initial_charges_tooltip" "3"
+            }
+
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "restore_duration" "7"
+            }
+
+            "16"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_cost_percentage" "30"
+            }
+
+            "17"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "life_steal" "0"
+            }
+
+            "18"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "max_charges" "300 325 350 375 400 425 450 475 500"
+            }
+            "19"
+        {
+            "var_type"              "FIELD_INTEGER"
+            "agi_to_magic_pct"          "30"
+        }
+        }
+    }
+    "item_recipe_bloodstone_strygwyr_5"
+    {
+        "BaseClass"                                           "item_datadriven"
+        "ItemCost"                                            "3288"
+        "ItemShopTags"                                        ""
+        "ItemRecipe"                                          "1"
+        "ItemResult"                                          "item_bloodstone_strygwyr_5"
+        "AbilityTextureName"                                  "item_recipe"
+
+        "ItemRequirements"
+        {
+            "01"                                                "item_bloodstone_strygwyr_4;item_reef_soul"
+        }
+    }
+
+    "item_bloodstone_strygwyr_5"
+    {
+        "BaseClass"                                           "item_lua"
+        "ScriptFile"                                          "bloodstone_strygwyr.lua"
+        "AbilityBehavior"                                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"               "2"
+        "AbilityTextureName"                                  "bloodstonestryg_reef"
+        "AbilityCastPoint"              "0.0"
+        "AbilityCooldown"               "30.0"
+        "precache"
+        {
+          "soundfile" "sounds/items/bloodstone_cast.vsnd"
+        }
+        // Item Info
+        //-------------------------------------------------------------------------------------------------------------
+        "ItemCost"                                            "26300"
+        "ItemShopTags"                  "regen_health;regen_mana;mana_pool;health_pool"
+        "ItemQuality"                   "epic"
+        "ItemAliases"                   "bs;bloodstone"
+        "ItemInitialCharges"            "0"
+        "ItemDisplayCharges"            "1"
+        "ItemDeclarations"              "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+        "AllowedInBackpack"             "1"
+        "ShouldBeSuggested"             "1"
+        "MaxUpgradeLevel"                                     "9"
+        "ItemBaseLevel"                                       "5"
+        "ItemDisassembleRule"           "DOTA_ITEM_DISASSEMBLE_ALWAYS"
+
+        "UpgradesItems"                                       "item_bloodstone_strygwyr;item_bloodstone_strygwyr_2;item_bloodstone_strygwyr_3;item_bloodstone_strygwyr_4"
+
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "bonus_intellect"                                    "16 32 48 64 80 96 112 128 144"
+            }
+
+            "02"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "bonus_health"                                    "425 850 1275 1700 2125 2550 2975 3400 3825"
+            }
+
+            "03"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "bonus_mana"                    "425 850 1275 1700 2125 2550 2975 3400 3825"
+            }
+
+            "04"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "spell_amp"                   "8 16 24 32 40 48 56 64 72"
+            }
+
+            "05"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "hero_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
+            }
+
+            "06"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "creep_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
+            }
+
+            "07"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "mana_regen_multiplier"                    "50"
+            }
+
+            "08"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "spell_lifesteal_amp"                    "20"
+            }
+
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "regen_per_charge"      "2 4 6 8 10 12 14 16 18"
+            }
+            
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "amp_per_charge"        "0.22 0.26 0.30 0.34 0.38 0.42 0.46 0.50 0.54"
+            }
+
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "death_charges"             "0"
+            }
+
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "kill_charges"          "1"
+            }
+
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "charge_range"          "9999"
+            }
+
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "initial_charges_tooltip" "3"
+            }
+
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "restore_duration" "7"
+            }
+
+            "16"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_cost_percentage" "30"
+            }
+
+            "17"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "life_steal" "0"
+            }
+
+            "18"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "max_charges" "300 325 350 375 400 425 450 475 500"
+            }
+            "19"
+        {
+            "var_type"              "FIELD_INTEGER"
+            "agi_to_magic_pct"          "30"
+        }
+        }
+    }
+    "item_recipe_bloodstone_strygwyr_6"
+    {
+        "BaseClass"                                           "item_datadriven"
+        "ItemCost"                                            "3288"
+        "ItemShopTags"                                        ""
+        "ItemRecipe"                                          "1"
+        "ItemResult"                                          "item_bloodstone_strygwyr_6"
+        "AbilityTextureName"                                  "item_recipe"
+
+        "ItemRequirements"
+        {
+            "01"                                                "item_bloodstone_strygwyr_5;item_warlock_soul"
+        }
+    }
+
+    "item_bloodstone_strygwyr_6"
+    {
+        "BaseClass"                                           "item_lua"
+        "ScriptFile"                                          "bloodstone_strygwyr.lua"
+        "AbilityBehavior"                                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"               "2"
+        "AbilityTextureName"                                  "bloodstonestryg_3"
+        "AbilityCastPoint"              "0.0"
+        "AbilityCooldown"               "30.0"
+        "precache"
+        {
+          "soundfile" "sounds/items/bloodstone_cast.vsnd"
+        }
+        // Item Info
+        //-------------------------------------------------------------------------------------------------------------
+        "ItemCost"                                            "26300"
+        "ItemShopTags"                  "regen_health;regen_mana;mana_pool;health_pool"
+        "ItemQuality"                   "epic"
+        "ItemAliases"                   "bs;bloodstone"
+        "ItemInitialCharges"            "0"
+        "ItemDisplayCharges"            "1"
+        "ItemDeclarations"              "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+        "AllowedInBackpack"             "1"
+        "ShouldBeSuggested"             "1"
+        "MaxUpgradeLevel"                                     "9"
+        "ItemBaseLevel"                                       "6"
+        "ItemDisassembleRule"           "DOTA_ITEM_DISASSEMBLE_ALWAYS"
+
+        "UpgradesItems"                                       "item_bloodstone_strygwyr;item_bloodstone_strygwyr_2;item_bloodstone_strygwyr_3;item_bloodstone_strygwyr_4"
+
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "bonus_intellect"                                    "16 32 48 64 80 96 112 128 144"
+            }
+
+            "02"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "bonus_health"                                    "425 850 1275 1700 2125 2550 2975 3400 3825"
+            }
+
+            "03"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "bonus_mana"                    "425 850 1275 1700 2125 2550 2975 3400 3825"
+            }
+
+            "04"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "spell_amp"                   "8 16 24 32 40 48 56 64 72"
+            }
+
+            "05"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "hero_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
+            }
+
+            "06"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "creep_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
+            }
+
+            "07"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "mana_regen_multiplier"                    "50"
+            }
+
+            "08"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "spell_lifesteal_amp"                    "20"
+            }
+
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "regen_per_charge"      "2 4 6 8 10 12 14 16 18"
+            }
+            
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "amp_per_charge"        "0.22 0.26 0.30 0.34 0.38 0.42 0.46 0.50 0.54"
+            }
+
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "death_charges"             "0"
+            }
+
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "kill_charges"          "1"
+            }
+
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "charge_range"          "9999"
+            }
+
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "initial_charges_tooltip" "3"
+            }
+
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "restore_duration" "7"
+            }
+
+            "16"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_cost_percentage" "30"
+            }
+
+            "17"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "life_steal" "0"
+            }
+
+            "18"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "max_charges" "300 325 350 375 400 425 450 475 500"
+            }
+            "19"
+        {
+            "var_type"              "FIELD_INTEGER"
+            "agi_to_magic_pct"          "30"
+        }
+        }
+    }
+    "item_recipe_bloodstone_strygwyr_7"
+    {
+        "BaseClass"                                           "item_datadriven"
+        "ItemCost"                                            "3288"
+        "ItemShopTags"                                        ""
+        "ItemRecipe"                                          "1"
+        "ItemResult"                                          "item_bloodstone_strygwyr_7"
+        "AbilityTextureName"                                  "item_recipe"
+
+        "ItemRequirements"
+        {
+            "01"                                                "item_bloodstone_strygwyr_6;item_elder_soul"
+        }
+    }
+
+    "item_bloodstone_strygwyr_7"
     {
         "BaseClass"                                           "item_lua"
         "ScriptFile"                                          "bloodstone_strygwyr.lua"
@@ -18875,8 +19365,9 @@
         "ItemDeclarations"              "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
         "AllowedInBackpack"             "1"
         "ShouldBeSuggested"             "1"
-        "MaxUpgradeLevel"                                     "6"
-        "ItemBaseLevel"                                       "4"
+        "MaxUpgradeLevel"                                     "9"
+        "ItemBaseLevel"                                       "7"
+        "ItemDisassembleRule"           "DOTA_ITEM_DISASSEMBLE_ALWAYS"
 
         "UpgradesItems"                                       "item_bloodstone_strygwyr;item_bloodstone_strygwyr_2;item_bloodstone_strygwyr_3;item_bloodstone_strygwyr_4"
 
@@ -18885,37 +19376,37 @@
             "01"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_intellect"                                    "16 64 256 1024 2048 4096"
+                "bonus_intellect"                                    "16 32 48 64 80 96 112 128 144"
             }
 
             "02"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_health"                                    "425 850 1275 1700 3400 6800"
+                "bonus_health"                                    "425 850 1275 1700 2125 2550 2975 3400 3825"
             }
 
             "03"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_mana"                    "425 850 1275 1700 3400 6800"
+                "bonus_mana"                    "425 850 1275 1700 2125 2550 2975 3400 3825"
             }
 
             "04"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "spell_amp"                   "24 48 72 96 192 384"
+                "spell_amp"                   "8 16 24 32 40 48 56 64 72"
             }
 
             "05"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "hero_lifesteal"                                    "25 50 75 100 200 400"
+                "hero_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
             }
 
             "06"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "creep_lifesteal"                                    "25 50 75 100 200 400"
+                "creep_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
             }
 
             "07"
@@ -18927,19 +19418,19 @@
             "08"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "spell_lifesteal_amp"                    "25 50 75 100 200 400"
+                "spell_lifesteal_amp"                    "20"
             }
 
             "09"
             {
                 "var_type"              "FIELD_FLOAT"
-                "regen_per_charge"      "1.0 1.5 2.0 2.5 5.0 10.0"
+                "regen_per_charge"      "2 4 6 8 10 12 14 16 18"
             }
             
             "10"
             {
                 "var_type"              "FIELD_FLOAT"
-                "amp_per_charge"        "0.75 1.0 1.25 1.50 3.0 6.0"
+                "amp_per_charge"        "0.22 0.26 0.30 0.34 0.38 0.42 0.46 0.50 0.54"
             }
 
             "11"
@@ -18969,7 +19460,7 @@
             "15"
             {
                 "var_type"              "FIELD_FLOAT"
-                "restore_duration" "2.0 2.5 3.0 3.5 4.0 4.5"
+                "restore_duration" "7"
             }
 
             "16"
@@ -18987,31 +19478,31 @@
             "18"
             {
                 "var_type"              "FIELD_INTEGER"
-                "max_charges" "300"
+                "max_charges" "300 325 350 375 400 425 450 475 500"
             }
             "19"
         {
             "var_type"              "FIELD_INTEGER"
-            "agi_to_magic_pct"          "3 6 9 12 15 18"
+            "agi_to_magic_pct"          "30"
         }
         }
     }
-    "item_recipe_bloodstone_strygwyr_5"
+    "item_recipe_bloodstone_strygwyr_8"
     {
         "BaseClass"                                           "item_datadriven"
-        "ItemCost"                                            "6575"
+        "ItemCost"                                            "3288"
         "ItemShopTags"                                        ""
         "ItemRecipe"                                          "1"
-        "ItemResult"                                          "item_bloodstone_strygwyr_5"
+        "ItemResult"                                          "item_bloodstone_strygwyr_8"
         "AbilityTextureName"                                  "item_recipe"
 
         "ItemRequirements"
         {
-            "01"                                                "item_bloodstone_strygwyr_4;item_last_soul"
+            "01"                                                "item_bloodstone_strygwyr_7;item_last_soul"
         }
     }
 
-    "item_bloodstone_strygwyr_5"
+    "item_bloodstone_strygwyr_8"
     {
         "BaseClass"                                           "item_lua"
         "ScriptFile"                                          "bloodstone_strygwyr.lua"
@@ -19035,8 +19526,8 @@
         "ItemDeclarations"              "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
         "AllowedInBackpack"             "1"
         "ShouldBeSuggested"             "1"
-        "MaxUpgradeLevel"                                     "5"
-        "ItemBaseLevel"                                       "5"
+        "MaxUpgradeLevel"                                     "9"
+        "ItemBaseLevel"                                       "8"
         "ItemDisassembleRule"           "DOTA_ITEM_DISASSEMBLE_ALWAYS"
 
         "UpgradesItems"                                       "item_bloodstone_strygwyr;item_bloodstone_strygwyr_2;item_bloodstone_strygwyr_3;item_bloodstone_strygwyr_4"
@@ -19046,37 +19537,37 @@
             "01"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_intellect"                                    "16 64 256 1024 2048 4096"
+                "bonus_intellect"                                    "16 32 48 64 80 96 112 128 144"
             }
 
             "02"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_health"                                    "425 850 1275 1700 3400 6800"
+                "bonus_health"                                    "425 850 1275 1700 2125 2550 2975 3400 3825"
             }
 
             "03"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_mana"                    "425 850 1275 1700 3400 6800"
+                "bonus_mana"                    "425 850 1275 1700 2125 2550 2975 3400 3825"
             }
 
             "04"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "spell_amp"                   "24 48 72 96 192 384"
+                "spell_amp"                   "8 16 24 32 40 48 56 64 72"
             }
 
             "05"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "hero_lifesteal"                                    "25 50 75 100 200 400"
+                "hero_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
             }
 
             "06"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "creep_lifesteal"                                    "25 50 75 100 200 400"
+                "creep_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
             }
 
             "07"
@@ -19088,19 +19579,19 @@
             "08"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "spell_lifesteal_amp"                    "25 50 75 100 200 400"
+                "spell_lifesteal_amp"                    "20"
             }
 
             "09"
             {
                 "var_type"              "FIELD_FLOAT"
-                "regen_per_charge"      "1.0 1.5 2.0 2.5 5.0 10.0"
+                "regen_per_charge"      "2 4 6 8 10 12 14 16 18"
             }
             
             "10"
             {
                 "var_type"              "FIELD_FLOAT"
-                "amp_per_charge"        "0.75 1.0 1.25 1.50 3.0 6.0"
+                "amp_per_charge"        "0.22 0.26 0.30 0.34 0.38 0.42 0.46 0.50 0.54"
             }
 
             "11"
@@ -19130,7 +19621,7 @@
             "15"
             {
                 "var_type"              "FIELD_FLOAT"
-                "restore_duration" "2.0 2.5 3.0 3.5 4.0 4.5"
+                "restore_duration" "7"
             }
 
             "16"
@@ -19148,31 +19639,31 @@
             "18"
             {
                 "var_type"              "FIELD_INTEGER"
-                "max_charges" "300"
+                "max_charges" "300 325 350 375 400 425 450 475 500"
             }
             "19"
         {
             "var_type"              "FIELD_INTEGER"
-            "agi_to_magic_pct"          "3 6 9 12 15 18"
+            "agi_to_magic_pct"          "30"
         }
         }
     }
-    "item_recipe_bloodstone_strygwyr_6"
+    "item_recipe_bloodstone_strygwyr_9"
     {
         "BaseClass"                                           "item_datadriven"
-        "ItemCost"                                            "6575"
+        "ItemCost"                                            "3288"
         "ItemShopTags"                                        ""
         "ItemRecipe"                                          "1"
-        "ItemResult"                                          "item_bloodstone_strygwyr_6"
+        "ItemResult"                                          "item_bloodstone_strygwyr_9"
         "AbilityTextureName"                                  "item_recipe"
 
         "ItemRequirements"
         {
-            "01"                                                "item_bloodstone_strygwyr_5;item_zeus_soul"
+            "01"                                                "item_bloodstone_strygwyr_8;item_zeus_soul"
         }
     }
 
-    "item_bloodstone_strygwyr_6"
+    "item_bloodstone_strygwyr_9"
     {
         "BaseClass"                                           "item_lua"
         "ScriptFile"                                          "bloodstone_strygwyr.lua"
@@ -19196,8 +19687,8 @@
         "ItemDeclarations"              "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
         "AllowedInBackpack"             "1"
         "ShouldBeSuggested"             "1"
-        "MaxUpgradeLevel"                                     "6"
-        "ItemBaseLevel"                                       "6"
+        "MaxUpgradeLevel"                                     "9"
+        "ItemBaseLevel"                                       "9"
         "ItemDisassembleRule"           "DOTA_ITEM_DISASSEMBLE_ALWAYS"
 
         "UpgradesItems"                                       "item_bloodstone_strygwyr;item_bloodstone_strygwyr_2;item_bloodstone_strygwyr_3;item_bloodstone_strygwyr_4"
@@ -19207,37 +19698,37 @@
             "01"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_intellect"                                    "16 64 256 1024 2048 4096"
+                "bonus_intellect"                                    "16 32 48 64 80 96 112 128 144"
             }
 
             "02"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_health"                                    "425 850 1275 1700 3400 6800"
+                "bonus_health"                                    "425 850 1275 1700 2125 2550 2975 3400 3825"
             }
 
             "03"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "bonus_mana"                    "425 850 1275 1700 3400 6800"
+                "bonus_mana"                    "425 850 1275 1700 2125 2550 2975 3400 3825"
             }
 
             "04"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "spell_amp"                   "24 48 72 96 192 384"
+                "spell_amp"                   "8 16 24 32 40 48 56 64 72"
             }
 
             "05"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "hero_lifesteal"                                    "25 50 75 100 200 400"
+                "hero_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
             }
 
             "06"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "creep_lifesteal"                                    "25 50 75 100 200 400"
+                "creep_lifesteal"                                    "10 20 30 40 50 60 70 80 90"
             }
 
             "07"
@@ -19249,19 +19740,19 @@
             "08"
             {
                 "var_type"                                        "FIELD_INTEGER"
-                "spell_lifesteal_amp"                    "25 50 75 100 200 400"
+                "spell_lifesteal_amp"                    "20"
             }
 
             "09"
             {
                 "var_type"              "FIELD_FLOAT"
-                "regen_per_charge"      "1.0 1.5 2.0 2.5 5.0 10.0"
+                "regen_per_charge"      "2 4 6 8 10 12 14 16 18"
             }
             
             "10"
             {
                 "var_type"              "FIELD_FLOAT"
-                "amp_per_charge"        "0.75 1.0 1.25 1.50 3.0 6.0"
+                "amp_per_charge"        "0.22 0.26 0.30 0.34 0.38 0.42 0.46 0.50 0.54"
             }
 
             "11"
@@ -19291,7 +19782,7 @@
             "15"
             {
                 "var_type"              "FIELD_FLOAT"
-                "restore_duration" "2.0 2.5 3.0 3.5 4.0 4.5"
+                "restore_duration" "7"
             }
 
             "16"
@@ -19309,12 +19800,12 @@
             "18"
             {
                 "var_type"              "FIELD_INTEGER"
-                "max_charges" "300"
+                "max_charges" "300 325 350 375 400 425 450 475 500"
             }
             "19"
         {
             "var_type"              "FIELD_INTEGER"
-            "agi_to_magic_pct"          "3 6 9 12 15 18"
+            "agi_to_magic_pct"          "30"
         }
         }
     }
@@ -22445,13 +22936,15 @@
                 "target_crit_multiplier"    "175 250 325 400"
                 "tooltip_crit_chance"       "100"
 
-                "aura_damage"           "10 20 30 40"
-                "aura_damage_flat"           "90 180 360 720"
-                "aura_damage_interval"           "1.0 0.85 0.7 0.55"
+                "burn_duration" "5"
+                "burn_max_stacks" "5"
+                "burn_damage" "90 180 360 720"
+                "burn_int_to_damage" "30"
+                "burn_interval" "0.5"
+
                 "upgrade_day_vision"    "250"
                 "evasion"               "15 20 25 30"
                 "blind_pct"             "10 15 20 25"
-                "aura_radius"           "600"
         }
     }
     "item_recipe_scorching_malevolence2"
@@ -22534,13 +23027,15 @@
                 "target_crit_multiplier"    "175 250 325 400"
                 "tooltip_crit_chance"       "100"
 
-                "aura_damage"           "10 20 30 40"
-                "aura_damage_flat"           "90 180 360 720"
-                "aura_damage_interval"           "1.0 0.85 0.7 0.55"
+                "burn_duration" "5"
+                "burn_max_stacks" "5"
+                "burn_damage" "90 180 360 720"
+                "burn_int_to_damage" "30"
+                "burn_interval" "0.5"
+
                 "upgrade_day_vision"    "250"
                 "evasion"               "15 20 25 30"
                 "blind_pct"             "10 15 20 25"
-                "aura_radius"           "600"
         }
     }
     "item_recipe_scorching_malevolence3"
@@ -22623,13 +23118,15 @@
                 "target_crit_multiplier"    "175 250 325 400"
                 "tooltip_crit_chance"       "100"
 
-                "aura_damage"           "10 20 30 40"
-                "aura_damage_flat"           "90 180 360 720"
-                "aura_damage_interval"           "1.0 0.85 0.7 0.55"
+                "burn_duration" "5"
+                "burn_max_stacks" "5"
+                "burn_damage" "90 180 360 720"
+                "burn_int_to_damage" "30"
+                "burn_interval" "0.5"
+
                 "upgrade_day_vision"    "250"
                 "evasion"               "15 20 25 30"
                 "blind_pct"             "10 15 20 25"
-                "aura_radius"           "600"
         }
     }
     "item_recipe_scorching_malevolence4"
@@ -22712,13 +23209,15 @@
                 "target_crit_multiplier"    "175 250 325 400"
                 "tooltip_crit_chance"       "100"
 
-                "aura_damage"           "10 20 30 40"
-                "aura_damage_flat"           "90 180 360 720"
-                "aura_damage_interval"           "1.0 0.85 0.7 0.55"
+                "burn_duration" "5"
+                "burn_max_stacks" "5"
+                "burn_damage" "90 180 360 720"
+                "burn_int_to_damage" "30"
+                "burn_interval" "0.5"
+
                 "upgrade_day_vision"    "250"
                 "evasion"               "15 20 25 30"
                 "blind_pct"             "10 15 20 25"
-                "aura_radius"           "600"
         }
     }
 
@@ -22790,7 +23289,7 @@
             "mana_regen_from_max_mana_pct"             "1.0 1.75 2.5 3.25 4.0"
             "damage_per_mana" "50 100 200 400 800"
             "int_to_damage_per_mana" "5"
-            "max_absorbed_damage_pct" "70"
+            "max_absorbed_damage_pct" "40"
             "immunity_duration" "1.0 1.5 2.0 2.5 3.0"
         }
     }
@@ -22862,7 +23361,7 @@
             "mana_regen_from_max_mana_pct"             "1.0 1.75 2.5 3.25 4.0"
             "damage_per_mana" "50 100 200 400 800"
             "int_to_damage_per_mana" "0.05"
-            "max_absorbed_damage_pct" "70"
+            "max_absorbed_damage_pct" "40"
             "immunity_duration" "1.0 1.5 2.0 2.5 3.0"
         }
     }
@@ -22934,7 +23433,7 @@
             "mana_regen_from_max_mana_pct"             "1.0 1.75 2.5 3.25 4.0"
             "damage_per_mana" "50 100 200 400 800"
             "int_to_damage_per_mana" "0.05"
-            "max_absorbed_damage_pct" "70"
+            "max_absorbed_damage_pct" "40"
             "immunity_duration" "1.0 1.5 2.0 2.5 3.0"
         }
     }
@@ -23006,7 +23505,7 @@
             "mana_regen_from_max_mana_pct"             "1.0 1.75 2.5 3.25 4.0"
             "damage_per_mana" "50 100 200 400 800"
             "int_to_damage_per_mana" "0.05"
-            "max_absorbed_damage_pct" "70"
+            "max_absorbed_damage_pct" "40"
             "immunity_duration" "1.0 1.5 2.0 2.5 3.0"
         }
     }
@@ -23078,7 +23577,7 @@
             "mana_regen_from_max_mana_pct"             "1.0 1.75 2.5 3.25 4.0"
             "damage_per_mana" "50 100 200 400 800"
             "int_to_damage_per_mana" "0.05"
-            "max_absorbed_damage_pct" "70"
+            "max_absorbed_damage_pct" "40"
             "immunity_duration" "1.0 1.5 2.0 2.5 3.0"
         }
     }
@@ -23689,7 +24188,7 @@
     "ItemResult"                    "item_mercure"
     "ItemRequirements"
     {
-        "01"                        "item_butterfly4;item_forest_soul"
+        "01"                        "item_butterfly4"
     }
 }
 
@@ -23883,7 +24382,7 @@
     "ItemResult"                    "item_mercure3"
     "ItemRequirements"
     {
-        "01"                        "item_mercure2;item_spider_soul"
+        "01"                        "item_mercure2;item_forest_soul"
     }
 }
 
@@ -23980,7 +24479,7 @@
     "ItemResult"                    "item_mercure4"
     "ItemRequirements"
     {
-        "01"                        "item_mercure3;item_reef_soul"
+        "01"                        "item_mercure3;item_spider_soul"
     }
 }
 
@@ -25086,7 +25585,7 @@
       "04"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "10 20 30 40 50 100 150 200"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "05"
       {
@@ -25230,7 +25729,7 @@
       "04"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "10 20 30 40 50 100 150 200"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "05"
       {
@@ -25373,7 +25872,7 @@
       "04"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "10 20 30 40 50 100 150 200"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "05"
       {
@@ -25516,7 +26015,7 @@
       "04"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "10 20 30 40 50 100 150 200"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "05"
       {
@@ -25659,7 +26158,7 @@
       "04"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "10 20 30 40 50 100 150 200"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "05"
       {
@@ -25802,7 +26301,7 @@
       "04"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "10 20 30 40 50 100 150 200"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "05"
       {
@@ -25947,7 +26446,7 @@
       "04"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "10 20 30 40 50 100 150 200"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "05"
       {
@@ -26092,7 +26591,7 @@
       "04"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "10 20 30 40 50 100 150 200"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "05"
       {
@@ -28203,7 +28702,7 @@
         "07"
         {
           "var_type"        "FIELD_FLOAT"
-          "puddle_dps_increase_pct"       "8 16 24 32 40 48"
+          "puddle_dps_increase_pct"       "4 8 12 16 20 24"
         }
         "08"
         {
@@ -28308,7 +28807,7 @@
         "07"
         {
           "var_type"        "FIELD_FLOAT"
-          "puddle_dps_increase_pct"       "8 16 24 32 40 48"
+          "puddle_dps_increase_pct"       "4 8 12 16 20 24"
         }
         "08"
         {
@@ -28414,7 +28913,7 @@
         "07"
         {
           "var_type"        "FIELD_FLOAT"
-          "puddle_dps_increase_pct"       "8 16 24 32 40 48"
+          "puddle_dps_increase_pct"       "4 8 12 16 20 24"
         }
         "08"
         {
@@ -28520,7 +29019,7 @@
         "07"
         {
           "var_type"        "FIELD_FLOAT"
-          "puddle_dps_increase_pct"       "8 16 24 32 40 48"
+          "puddle_dps_increase_pct"       "4 8 12 16 20 24"
         }
         "08"
         {
@@ -28626,7 +29125,7 @@
         "07"
         {
           "var_type"        "FIELD_FLOAT"
-          "puddle_dps_increase_pct"       "8 16 24 32 40 48"
+          "puddle_dps_increase_pct"       "4 8 12 16 20 24"
         }
         "08"
         {
@@ -28731,7 +29230,7 @@
         "07"
         {
           "var_type"        "FIELD_FLOAT"
-          "puddle_dps_increase_pct"       "8 16 24 32 40 48"
+          "puddle_dps_increase_pct"       "4 8 12 16 20 24"
         }
         "08"
         {
@@ -28813,7 +29312,7 @@
         "bonus_health"      "500 1100 1800 2600 3500"
         "bonus_health_regen"    "8.0 17 27 38 50"    
         "bonus_mana_regen"    "3 7 12 18 25"
-        "damage_block_pct" "50"
+        "damage_block_pct" "20 25 30 35 40"
         "radius" "900"
         "damage_to_healing_pct" "12 20 29 39 50"
         "health_sacrifice_pct" "20 30 40 50 60"
@@ -28877,7 +29376,7 @@
         "bonus_health"      "500 1100 1800 2600 3500"
         "bonus_health_regen"    "8.0 17 27 38 50"    
         "bonus_mana_regen"    "3 7 12 18 25"
-        "damage_block_pct" "50"
+        "damage_block_pct" "20 25 30 35 40"
         "radius" "900"
         "damage_to_healing_pct" "12 20 29 39 50"
         "health_sacrifice_pct" "20 30 40 50 60"
@@ -28942,7 +29441,7 @@
         "bonus_health"      "500 1100 1800 2600 3500"
         "bonus_health_regen"    "8.0 17 27 38 50"    
         "bonus_mana_regen"    "3 7 12 18 25"
-        "damage_block_pct" "50"
+        "damage_block_pct" "20 25 30 35 40"
         "radius" "900"
         "damage_to_healing_pct" "12 20 29 39 50"
         "health_sacrifice_pct" "20 30 40 50 60"
@@ -29006,7 +29505,7 @@
         "bonus_health"      "500 1100 1800 2600 3500"
         "bonus_health_regen"    "8.0 17 27 38 50"    
         "bonus_mana_regen"    "3 7 12 18 25"
-        "damage_block_pct" "50"
+        "damage_block_pct" "20 25 30 35 40"
         "radius" "900"
         "damage_to_healing_pct" "12 20 29 39 50"
         "health_sacrifice_pct" "20 30 40 50 60"
@@ -29071,7 +29570,7 @@
         "bonus_health"      "500 1100 1800 2600 3500"
         "bonus_health_regen"    "8.0 17 27 38 50"    
         "bonus_mana_regen"    "3 7 12 18 25"
-        "damage_block_pct" "50"
+        "damage_block_pct" "20 25 30 35 40"
         "radius" "900"
         "damage_to_healing_pct" "12 20 29 39 50"
         "health_sacrifice_pct" "20 30 40 50 60"
@@ -30025,12 +30524,12 @@
       "06"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "8 16 24 32 40 48 64 80"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "07"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "magic_shred"                             "-10 -20 -30 -40 -50 -60 -80 -100"
+        "magic_shred"                             "-10 -16 -22 -28 -34 -40 -46 -52"
       }
       "08"
       {
@@ -30109,12 +30608,12 @@
       "06"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "8 16 24 32 40 48 64 80"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "07"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "magic_shred"                             "-10 -20 -30 -40 -50 -60 -80 -100"
+        "magic_shred"                             "-10 -16 -22 -28 -34 -40 -46 -52"
       }
       "08"
       {
@@ -30193,12 +30692,12 @@
       "06"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "8 16 24 32 40 48 64 80"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "07"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "magic_shred"                             "-10 -20 -30 -40 -50 -60 -80 -100"
+        "magic_shred"                             "-10 -16 -22 -28 -34 -40 -46 -52"
       }
       "08"
       {
@@ -30277,12 +30776,12 @@
       "06"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "8 16 24 32 40 48 64 80"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "07"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "magic_shred"                             "-10 -20 -30 -40 -50 -60 -80 -100"
+        "magic_shred"                             "-10 -16 -22 -28 -34 -40 -46 -52"
       }
       "08"
       {
@@ -30361,12 +30860,12 @@
       "06"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "8 16 24 32 40 48 64 80"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "07"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "magic_shred"                             "-10 -20 -30 -40 -50 -60 -80 -100"
+        "magic_shred"                             "-10 -16 -22 -28 -34 -40 -46 -52"
       }
       "08"
       {
@@ -30445,12 +30944,12 @@
       "06"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "8 16 24 32 40 48 64 80"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "07"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "magic_shred"                             "-10 -20 -30 -40 -50 -60 -80 -100"
+        "magic_shred"                             "-10 -16 -22 -28 -34 -40 -46 -52"
       }
       "08"
       {
@@ -30530,12 +31029,12 @@
       "06"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "8 16 24 32 40 48 64 80"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "07"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "magic_shred"                             "-10 -20 -30 -40 -50 -60 -80 -100"
+        "magic_shred"                             "-10 -16 -22 -28 -34 -40 -46 -52"
       }
       "08"
       {
@@ -30616,12 +31115,12 @@
       "06"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "bonus_spell_amp"                             "8 16 24 32 40 48 64 80"
+        "bonus_spell_amp"                             "5 10 15 20 25 30 35 40"
       }
       "07"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "magic_shred"                             "-10 -20 -30 -40 -50 -60 -80 -100"
+        "magic_shred"                             "-10 -16 -22 -28 -34 -40 -46 -52"
       }
       "08"
       {
@@ -31485,8 +31984,8 @@
                 "bonus_damage"      "20 40 80 160 320 640"
                 "bonus_health" "250 500 750 1000 1250 1500"
                 "strength_ret"   "50"
-                "flat_ret" "360 540 720 940 1080 1260"
-                "pct_ret" "16 32 48 64 80 100"
+                "flat_ret" "40 100 160 220 280 340"
+                "pct_ret" "8 16 24 32 40 48"
                 "enrage_atk_spd"   "25 50 75 100 125 150"
                 "duration" "2"
                 "boss_reflection_pct" "40"
@@ -31547,8 +32046,8 @@
                 "bonus_damage"      "20 40 80 160 320 640"
                 "bonus_health" "250 500 750 1000 1250 1500"
                 "strength_ret"   "50"
-                "flat_ret" "360 540 720 940 1080 1260"
-                "pct_ret" "16 32 48 64 80 100"
+                "flat_ret" "40 100 160 220 280 340"
+                "pct_ret" "8 16 24 32 40 48"
                 "enrage_atk_spd"   "25 50 75 100 125 150"
                 "duration" "2"
                 "boss_reflection_pct" "40"
@@ -31610,8 +32109,8 @@
                 "bonus_damage"      "20 40 80 160 320 640"
                 "bonus_health" "250 500 750 1000 1250 1500"
                 "strength_ret"   "50"
-                "flat_ret" "360 540 720 940 1080 1260"
-                "pct_ret" "16 32 48 64 80 100"
+                "flat_ret" "40 100 160 220 280 340"
+                "pct_ret" "8 16 24 32 40 48"
                 "enrage_atk_spd"   "25 50 75 100 125 150"
                 "duration" "2"
                 "boss_reflection_pct" "40"
@@ -31673,8 +32172,8 @@
                 "bonus_damage"      "20 40 80 160 320 640"
                 "bonus_health" "250 500 750 1000 1250 1500"
                 "strength_ret"   "50"
-                "flat_ret" "360 540 720 940 1080 1260"
-                "pct_ret" "16 32 48 64 80 100"
+                "flat_ret" "40 100 160 220 280 340"
+                "pct_ret" "8 16 24 32 40 48"
                 "enrage_atk_spd"   "25 50 75 100 125 150"
                 "duration" "2"
                 "boss_reflection_pct" "40"
@@ -31736,8 +32235,8 @@
                 "bonus_damage"      "20 40 80 160 320 640"
                 "bonus_health" "250 500 750 1000 1250 1500"
                 "strength_ret"   "50"
-                "flat_ret" "360 540 720 940 1080 1260"
-                "pct_ret" "16 32 48 64 80 100"
+                "flat_ret" "40 100 160 220 280 340"
+                "pct_ret" "8 16 24 32 40 48"
                 "enrage_atk_spd"   "25 50 75 100 125 150"
                 "duration" "2"
                 "boss_reflection_pct" "40"
@@ -31799,8 +32298,8 @@
                 "bonus_damage"      "20 40 80 160 320 640"
                 "bonus_health" "250 500 750 1000 1250 1500"
                 "strength_ret"   "50"
-                "flat_ret" "360 540 720 940 1080 1260"
-                "pct_ret" "16 32 48 64 80 100"
+                "flat_ret" "40 100 160 220 280 340"
+                "pct_ret" "8 16 24 32 40 48"
                 "enrage_atk_spd"   "25 50 75 100 125 150"
                 "duration" "2"
                 "boss_reflection_pct" "40"
@@ -31862,7 +32361,7 @@
         {
                 "bonus_intellect" "32 64 128 256 512 1024"
                 "bonus_armor" "20 40 60 80 100 120"
-                "spell_amp" "25 35 45 55 65 75"
+                "spell_amp" "8 16 24 32 40 48"
                 "mana_flow" "1.0 1.25 1.75 2.0 2.25 2.50"
                 "cast_time_threshold" "90 80 70 60 50 40"
                 "mana_regen_spell_amp" "0.01"
@@ -31925,7 +32424,7 @@
         {
                 "bonus_intellect" "32 64 128 256 512 1024"
                 "bonus_armor" "20 40 60 80 100 120"
-                "spell_amp" "25 35 45 55 65 75"
+                "spell_amp" "8 16 24 32 40 48"
                 "mana_flow" "1.0 1.25 1.75 2.0 2.25 2.50"
                 "cast_time_threshold" "90 80 70 60 50 40"
                 "mana_regen_spell_amp" "0.01"
@@ -31989,7 +32488,7 @@
         {
                 "bonus_intellect" "32 64 128 256 512 1024"
                 "bonus_armor" "20 40 60 80 100 120"
-                "spell_amp" "25 35 45 55 65 75"
+                "spell_amp" "8 16 24 32 40 48"
                 "mana_flow" "1.0 1.25 1.75 2.0 2.25 2.50"
                 "cast_time_threshold" "90 80 70 60 50 40"
                 "mana_regen_spell_amp" "0.01"
@@ -32053,7 +32552,7 @@
         {
                 "bonus_intellect" "32 64 128 256 512 1024"
                 "bonus_armor" "20 40 60 80 100 120"
-                "spell_amp" "25 35 45 55 65 75"
+                "spell_amp" "8 16 24 32 40 48"
                 "mana_flow" "1.0 1.25 1.75 2.0 2.25 2.50"
                 "cast_time_threshold" "90 80 70 60 50 40"
                 "mana_regen_spell_amp" "0.01"
@@ -32117,7 +32616,7 @@
         {
                 "bonus_intellect" "32 64 128 256 512 1024"
                 "bonus_armor" "20 40 60 80 100 120"
-                "spell_amp" "25 35 45 55 65 75"
+                "spell_amp" "8 16 24 32 40 48"
                 "mana_flow" "1.0 1.25 1.75 2.0 2.25 2.50"
                 "cast_time_threshold" "90 80 70 60 50 40"
                 "mana_regen_spell_amp" "0.01"
@@ -32181,7 +32680,7 @@
         {
                 "bonus_intellect" "32 64 128 256 512 1024"
                 "bonus_armor" "20 40 60 80 100 120"
-                "spell_amp" "25 35 45 55 65 75"
+                "spell_amp" "8 16 24 32 40 48"
                 "mana_flow" "1.0 1.25 1.75 2.0 2.25 2.50"
                 "cast_time_threshold" "90 80 70 60 50 40"
                 "mana_regen_spell_amp" "0.01"
@@ -32208,7 +32707,7 @@
     "ItemResult"                    "item_crystalline"
     "ItemRequirements"
     {
-        "01"                        "item_skadi;item_eagle"
+        "01"                        "item_skadi;item_blade_of_alacrity"
     }
 }
 
@@ -32251,9 +32750,9 @@
     //special
     "AbilityValues"
         {
-            "bonus_agility" "50 100 200 400 800"
-            "bonus_strength" "25 50 100 200 400"
-            "bonus_intellect" "25 50 100 200 400"
+            "bonus_agility" "35 70 105 140 175"
+            "bonus_strength" "25 50 75 100 125"
+            "bonus_intellect" "25 50 75 100 125"
             "bonus_health" "250 500 1000 2000 4000"
             "bonus_mana" "250 500 1000 2000 4000"
             "healing_degen" "-20 -40 -60 -80 -100"
@@ -32323,9 +32822,9 @@
     //special
     "AbilityValues"
         {
-            "bonus_agility" "50 100 200 400 800"
-            "bonus_strength" "25 50 100 200 400"
-            "bonus_intellect" "25 50 100 200 400"
+            "bonus_agility" "35 70 105 140 175"
+            "bonus_strength" "25 50 75 100 125"
+            "bonus_intellect" "25 50 75 100 125"
             "bonus_health" "250 500 1000 2000 4000"
             "bonus_mana" "250 500 1000 2000 4000"
             "healing_degen" "-20 -40 -60 -80 -100"
@@ -32396,9 +32895,9 @@
     //special
     "AbilityValues"
         {
-            "bonus_agility" "50 100 200 400 800"
-            "bonus_strength" "25 50 100 200 400"
-            "bonus_intellect" "25 50 100 200 400"
+            "bonus_agility" "35 70 105 140 175"
+            "bonus_strength" "25 50 75 100 125"
+            "bonus_intellect" "25 50 75 100 125"
             "bonus_health" "250 500 1000 2000 4000"
             "bonus_mana" "250 500 1000 2000 4000"
             "healing_degen" "-20 -40 -60 -80 -100"
@@ -32469,9 +32968,9 @@
     //special
     "AbilityValues"
         {
-            "bonus_agility" "50 100 200 400 800"
-            "bonus_strength" "25 50 100 200 400"
-            "bonus_intellect" "25 50 100 200 400"
+            "bonus_agility" "35 70 105 140 175"
+            "bonus_strength" "25 50 75 100 125"
+            "bonus_intellect" "25 50 75 100 125"
             "bonus_health" "250 500 1000 2000 4000"
             "bonus_mana" "250 500 1000 2000 4000"
             "healing_degen" "-20 -40 -60 -80 -100"
@@ -32542,9 +33041,9 @@
     //special
     "AbilityValues"
         {
-            "bonus_agility" "50 100 200 400 800"
-            "bonus_strength" "25 50 100 200 400"
-            "bonus_intellect" "25 50 100 200 400"
+            "bonus_agility" "35 70 105 140 175"
+            "bonus_strength" "25 50 75 100 125"
+            "bonus_intellect" "25 50 75 100 125"
             "bonus_health" "250 500 1000 2000 4000"
             "bonus_mana" "250 500 1000 2000 4000"
             "healing_degen" "-20 -40 -60 -80 -100"
@@ -32576,7 +33075,7 @@
     
     // Item Info
     //-------------------------------------------------------------------------------------------------------------
-    "ItemCost"                      "10000"
+    "ItemCost"                      "99999"
     "ItemQuality"                   "component"
     "ItemStackable"                 "1"
     "ItemShareability"       "ITEM_NOT_SHAREABLE"
@@ -32623,7 +33122,7 @@
     
     // Item Info
     //-------------------------------------------------------------------------------------------------------------
-    "ItemCost"                      "10000"
+    "ItemCost"                      "99999"
     "ItemQuality"                   "component"
     "ItemStackable"                 "1"
     "ItemShareability"       "ITEM_NOT_SHAREABLE"
@@ -32670,7 +33169,7 @@
     
     // Item Info
     //-------------------------------------------------------------------------------------------------------------
-    "ItemCost"                      "10000"
+    "ItemCost"                      "99999"
     "ItemQuality"                   "component"
     "ItemStackable"                 "1"
     "ItemShareability"       "ITEM_NOT_SHAREABLE"
@@ -32726,7 +33225,7 @@
     "ItemKillable"                  "1"
     "ItemSellable"                  "0"
     "ItemDroppable"                 "1"
-    "ItemPurchasable"               "1"
+    "ItemPurchasable"               "0"
 
 
     "OnSpellStart"
@@ -32773,7 +33272,7 @@
     "ItemKillable"                  "1"
     "ItemSellable"                  "0"
     "ItemDroppable"                 "1"
-    "ItemPurchasable"               "1"
+    "ItemPurchasable"               "0"
 
 
     "OnSpellStart"
@@ -32820,7 +33319,7 @@
     "ItemKillable"                  "1"
     "ItemSellable"                  "0"
     "ItemDroppable"                 "1"
-    "ItemPurchasable"               "1"
+    "ItemPurchasable"               "0"
 
 
     "OnSpellStart"
@@ -33270,7 +33769,7 @@
       "05"
       {
         "var_type"        "FIELD_INTEGER"
-        "gold_per_kill"      "15"
+        "gold_per_kill"      "20"
       }
       "06"
       {
@@ -33388,7 +33887,7 @@
       "05"
       {
         "var_type"        "FIELD_INTEGER"
-        "gold_per_kill"      "20"
+        "gold_per_kill"      "30"
       }
       "06"
       {
@@ -33506,7 +34005,7 @@
       "05"
       {
         "var_type"        "FIELD_INTEGER"
-        "gold_per_kill"      "25"
+        "gold_per_kill"      "40"
       }
       "06"
       {
@@ -33624,7 +34123,7 @@
       "05"
       {
         "var_type"        "FIELD_INTEGER"
-        "gold_per_kill"      "30"
+        "gold_per_kill"      "50"
       }
       "06"
       {
@@ -33742,7 +34241,7 @@
       "05"
       {
         "var_type"        "FIELD_INTEGER"
-        "gold_per_kill"      "35"
+        "gold_per_kill"      "60"
       }
       "06"
       {
@@ -34667,6 +35166,11 @@
         "var_type"        "FIELD_FLOAT"
         "buff_health_regen_pct"   "5 6 7 8 9 10 11"
       }
+      "10"
+      {
+        "var_type"        "FIELD_FLOAT"
+        "damage_from_hp"   "1 2 3 4 5 6 7"
+      }
     }
   }
 
@@ -34760,6 +35264,11 @@
       {
         "var_type"        "FIELD_FLOAT"
         "buff_health_regen_pct"   "5 6 7 8 9 10 11"
+      }
+      "10"
+      {
+        "var_type"        "FIELD_FLOAT"
+        "damage_from_hp"   "1 2 3 4 5 6 7"
       }
     }
   }
@@ -34855,6 +35364,11 @@
         "var_type"        "FIELD_FLOAT"
         "buff_health_regen_pct"   "5 6 7 8 9 10 11"
       }
+      "10"
+      {
+        "var_type"        "FIELD_FLOAT"
+        "damage_from_hp"   "1 2 3 4 5 6 7"
+      }
     }
   }
 
@@ -34948,6 +35462,11 @@
       {
         "var_type"        "FIELD_FLOAT"
         "buff_health_regen_pct"   "5 6 7 8 9 10 11"
+      }
+      "10"
+      {
+        "var_type"        "FIELD_FLOAT"
+        "damage_from_hp"   "1 2 3 4 5 6 7"
       }
     }
   }
@@ -35043,6 +35562,11 @@
         "var_type"        "FIELD_FLOAT"
         "buff_health_regen_pct"   "5 6 7 8 9 10 11"
       }
+      "10"
+      {
+        "var_type"        "FIELD_FLOAT"
+        "damage_from_hp"   "1 2 3 4 5 6 7"
+      }
     }
   }
 
@@ -35137,6 +35661,11 @@
         "var_type"        "FIELD_FLOAT"
         "buff_health_regen_pct"   "5 6 7 8 9 10 11"
       }
+      "10"
+      {
+        "var_type"        "FIELD_FLOAT"
+        "damage_from_hp"   "1 2 3 4 5 6 7"
+      }
     }
   }
 
@@ -35230,6 +35759,11 @@
       {
         "var_type"        "FIELD_FLOAT"
         "buff_health_regen_pct"   "5 6 7 8 9 10 11"
+      }
+      "10"
+      {
+        "var_type"        "FIELD_FLOAT"
+        "damage_from_hp"   "1 2 3 4 5 6 7"
       }
     }
   }
@@ -35328,7 +35862,7 @@
     {
       "bonus_damage" "95 142 189 236 283 330 660 1320"
       "bonus_strength" "176 220 264 308 352 396 792 1584"
-      "bonus_agility" "176 220 264 308 352 396 792 1584"
+      "bonus_agility" "96 192 288 384 480 576 672 768"
       "bonus_hp_regen" "6 12 18 24 30 36 72 144"
       "bonus_mp_regen" "2.25 4.5 6.75 9.0 11.25 13.5 27 54"
       "bonus_status_resistance" "45"
@@ -35337,7 +35871,7 @@
       "bonus_regen_amp" "52 54 56 58 60 62 64 66"
       "cleave_radius" "450"
       "cleave_damage" "30 60 90 120 150 180 210 240"
-      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -2400 -4800"
+      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -1800 -2400"
       "corruption_duration" "15"
       "damage_buff_pct" "1 2 3 4 5 6 7 8"
       "damage_buff_duration" "10"
@@ -35398,7 +35932,7 @@
     {
       "bonus_damage" "95 142 189 236 283 330 660 1320"
       "bonus_strength" "176 220 264 308 352 396 792 1584"
-      "bonus_agility" "176 220 264 308 352 396 792 1584"
+      "bonus_agility" "96 192 288 384 480 576 672 768"
       "bonus_hp_regen" "6 12 18 24 30 36 72 144"
       "bonus_mp_regen" "2.25 4.5 6.75 9.0 11.25 13.5 27 54"
       "bonus_status_resistance" "45"
@@ -35407,7 +35941,7 @@
       "bonus_regen_amp" "52 54 56 58 60 62 64 66"
       "cleave_radius" "450"
       "cleave_damage" "30 60 90 120 150 180 210 240"
-      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -2400 -4800"
+      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -1800 -2400"
       "corruption_duration" "15"
       "damage_buff_pct" "1 2 3 4 5 6 7 8"
       "damage_buff_duration" "10"
@@ -35468,7 +36002,7 @@
     {
       "bonus_damage" "95 142 189 236 283 330 660 1320"
       "bonus_strength" "176 220 264 308 352 396 792 1584"
-      "bonus_agility" "176 220 264 308 352 396 792 1584"
+      "bonus_agility" "96 192 288 384 480 576 672 768"
       "bonus_hp_regen" "6 12 18 24 30 36 72 144"
       "bonus_mp_regen" "2.25 4.5 6.75 9.0 11.25 13.5 27 54"
       "bonus_status_resistance" "45"
@@ -35477,7 +36011,7 @@
       "bonus_regen_amp" "52 54 56 58 60 62 64 66"
       "cleave_radius" "450"
       "cleave_damage" "30 60 90 120 150 180 210 240"
-      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -2400 -4800"
+      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -1800 -2400"
       "corruption_duration" "15"
       "damage_buff_pct" "1 2 3 4 5 6 7 8"
       "damage_buff_duration" "10"
@@ -35538,7 +36072,7 @@
     {
       "bonus_damage" "95 142 189 236 283 330 660 1320"
       "bonus_strength" "176 220 264 308 352 396 792 1584"
-      "bonus_agility" "176 220 264 308 352 396 792 1584"
+      "bonus_agility" "96 192 288 384 480 576 672 768"
       "bonus_hp_regen" "6 12 18 24 30 36 72 144"
       "bonus_mp_regen" "2.25 4.5 6.75 9.0 11.25 13.5 27 54"
       "bonus_status_resistance" "45"
@@ -35547,7 +36081,7 @@
       "bonus_regen_amp" "52 54 56 58 60 62 64 66"
       "cleave_radius" "450"
       "cleave_damage" "30 60 90 120 150 180 210 240"
-      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -2400 -4800"
+      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -1800 -2400"
       "corruption_duration" "15"
       "damage_buff_pct" "1 2 3 4 5 6 7 8"
       "damage_buff_duration" "10"
@@ -35608,7 +36142,7 @@
     {
       "bonus_damage" "95 142 189 236 283 330 660 1320"
       "bonus_strength" "176 220 264 308 352 396 792 1584"
-      "bonus_agility" "176 220 264 308 352 396 792 1584"
+      "bonus_agility" "96 192 288 384 480 576 672 768"
       "bonus_hp_regen" "6 12 18 24 30 36 72 144"
       "bonus_mp_regen" "2.25 4.5 6.75 9.0 11.25 13.5 27 54"
       "bonus_status_resistance" "45"
@@ -35617,7 +36151,7 @@
       "bonus_regen_amp" "52 54 56 58 60 62 64 66"
       "cleave_radius" "450"
       "cleave_damage" "30 60 90 120 150 180 210 240"
-      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -2400 -4800"
+      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -1800 -2400"
       "corruption_duration" "15"
       "damage_buff_pct" "1 2 3 4 5 6 7 8"
       "damage_buff_duration" "10"
@@ -35678,7 +36212,7 @@
     {
       "bonus_damage" "95 142 189 236 283 330 660 1320"
       "bonus_strength" "176 220 264 308 352 396 792 1584"
-      "bonus_agility" "176 220 264 308 352 396 792 1584"
+      "bonus_agility" "96 192 288 384 480 576 672 768"
       "bonus_hp_regen" "6 12 18 24 30 36 72 144"
       "bonus_mp_regen" "2.25 4.5 6.75 9.0 11.25 13.5 27 54"
       "bonus_status_resistance" "45"
@@ -35687,7 +36221,7 @@
       "bonus_regen_amp" "52 54 56 58 60 62 64 66"
       "cleave_radius" "450"
       "cleave_damage" "30 60 90 120 150 180 210 240"
-      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -2400 -4800"
+      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -1800 -2400"
       "corruption_duration" "15"
       "damage_buff_pct" "1 2 3 4 5 6 7 8"
       "damage_buff_duration" "10"
@@ -35748,7 +36282,7 @@
     {
       "bonus_damage" "95 142 189 236 283 330 660 1320"
       "bonus_strength" "176 220 264 308 352 396 792 1584"
-      "bonus_agility" "176 220 264 308 352 396 792 1584"
+      "bonus_agility" "96 192 288 384 480 576 672 768"
       "bonus_hp_regen" "6 12 18 24 30 36 72 144"
       "bonus_mp_regen" "2.25 4.5 6.75 9.0 11.25 13.5 27 54"
       "bonus_status_resistance" "45"
@@ -35757,7 +36291,7 @@
       "bonus_regen_amp" "52 54 56 58 60 62 64 66"
       "cleave_radius" "450"
       "cleave_damage" "30 60 90 120 150 180 210 240"
-      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -2400 -4800"
+      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -1800 -2400"
       "corruption_duration" "15"
       "damage_buff_pct" "1 2 3 4 5 6 7 8"
       "damage_buff_duration" "10"
@@ -35818,7 +36352,7 @@
     {
       "bonus_damage" "95 142 189 236 283 330 660 1320"
       "bonus_strength" "176 220 264 308 352 396 792 1584"
-      "bonus_agility" "176 220 264 308 352 396 792 1584"
+      "bonus_agility" "96 192 288 384 480 576 672 768"
       "bonus_hp_regen" "6 12 18 24 30 36 72 144"
       "bonus_mp_regen" "2.25 4.5 6.75 9.0 11.25 13.5 27 54"
       "bonus_status_resistance" "45"
@@ -35827,7 +36361,7 @@
       "bonus_regen_amp" "52 54 56 58 60 62 64 66"
       "cleave_radius" "450"
       "cleave_damage" "30 60 90 120 150 180 210 240"
-      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -2400 -4800"
+      "corruption_amount" "-8 -75 -150 -300 -600 -1200 -1800 -2400"
       "corruption_duration" "15"
       "damage_buff_pct" "1 2 3 4 5 6 7 8"
       "damage_buff_duration" "10"
@@ -36478,7 +37012,7 @@
     "05"
     {
       "var_type"        "FIELD_INTEGER"
-      "base_attack_range"   "25 70 115 165 205 250 295"
+      "base_attack_range"   "150 175 200 225 250 275 300"
     }
     "06"
     {
@@ -36614,7 +37148,7 @@
     "05"
     {
       "var_type"        "FIELD_INTEGER"
-      "base_attack_range"   "25 70 115 165 205 250 295"
+      "base_attack_range"   "150 175 200 225 250 275 300"
     }
     "06"
     {
@@ -36751,7 +37285,7 @@
     "05"
     {
       "var_type"        "FIELD_INTEGER"
-      "base_attack_range"   "25 70 115 165 205 250 295"
+      "base_attack_range"   "150 175 200 225 250 275 300"
     }
     "06"
     {
@@ -36888,7 +37422,7 @@
     "05"
     {
       "var_type"        "FIELD_INTEGER"
-      "base_attack_range"   "25 70 115 165 205 250 295"
+      "base_attack_range"   "150 175 200 225 250 275 300"
     }
     "06"
     {
@@ -37025,7 +37559,7 @@
     "05"
     {
       "var_type"        "FIELD_INTEGER"
-      "base_attack_range"   "25 70 115 165 205 250 295"
+      "base_attack_range"   "150 175 200 225 250 275 300"
     }
     "06"
     {
@@ -37162,7 +37696,7 @@
     "05"
     {
       "var_type"        "FIELD_INTEGER"
-      "base_attack_range"   "25 70 115 165 205 250 295"
+      "base_attack_range"   "150 175 200 225 250 275 300"
     }
     "06"
     {
@@ -37299,7 +37833,7 @@
     "05"
     {
       "var_type"        "FIELD_INTEGER"
-      "base_attack_range"   "25 70 115 165 205 250 295"
+      "base_attack_range"   "150 175 200 225 250 275 300"
     }
     "06"
     {
@@ -37398,10 +37932,10 @@
     //-------------------------------------------------------------------------------------------------------------
     "AbilityValues"
     {
-      "bonus_health" "100"
+      "bonus_health" "250"
       "bonus_hp_regen" "20"
       "damage_block_pct" "50"
-      "max_damage_block" "500"
+      "max_damage_block" "300"
     }
   }
 
@@ -37493,6 +38027,768 @@
       "duration_minutes_tooltip"        "60"
     }
   }
-  
+
+  "item_recipe_quelling_fury"
+    {
+        "BaseClass"                                           "item_datadriven"
+        "ItemCost"                                            "25"
+        "ItemShopTags"                                        ""
+        "ItemRecipe"                                          "1"
+        "ItemResult"                                          "item_quelling_fury"
+        "AbilityTextureName"                                  "item_recipe"
+
+        "ItemRequirements"
+        {
+            "01"                                                "item_quelling_blade;item_ring_of_health"
+        }
+    }
+
+    "item_quelling_fury"
+    {
+        "BaseClass"                                           "item_lua"
+        "ScriptFile"                                          "items/item_quelling_fury/item_quelling_fury.lua"
+        "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"         "DOTA_UNIT_TARGET_TREE | DOTA_UNIT_TARGET_CUSTOM"
+        "AbilityTextureName"                                  "quellingfury"
+        "AbilityCooldown"               "5.0"
+        "AbilityCastRange"              "165"
+        "AbilityCastPoint"              "0.0"
+        // Item Info
+        //-------------------------------------------------------------------------------------------------------------
+        "ItemCost"                                            "955"
+        "ItemShopTags"                                        "quelling"
+        "ItemQuality"                                         "common"
+        "ItemAliases"                                         "quelling"
+        "ItemDeclarations"                                    "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+        "ItemDisassembleRule"                                 "DOTA_ITEM_DISASSEMBLE_NEVER"
+        "MaxUpgradeLevel"                                     "3"
+        "ItemBaseLevel"                                       "2"
+        "UpgradesItems"                                       "item_quelling_fury;item_quelling_blade;item_bfury"
+
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"                                        "FIELD_FLOAT"
+                "bonus_hp_regen"                                    "6.5"
+            }
+
+            "02"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "quelling_bonus"                                    "25"
+            }
+
+            "03"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "quelling_bonus_ranged"                                    "9"
+            }
+
+            "04"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "bonus_cleave_hero"                                    "35"
+            }
+
+            "05"
+            {
+                "var_type"                                        "FIELD_INTEGER"
+                "bonus_cleave_creep"                                    "20"
+            }
+        }
+    }
+
+    "item_ring_of_health"
+    {
+      "AbilityBehavior"       "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+      
+      // Item Info
+      //-------------------------------------------------------------------------------------------------------------
+      "ItemCost"            "325"
+      "ItemShopTags"          "regen_health"
+      "ItemQuality"         "secret_shop"
+      "ItemAliases"         "roh;ring of health"
+      "ItemShareability"        "ITEM_PARTIALLY_SHAREABLE"
+      "SecretShop"          "1"   
+      "SideShop"            "1"
+      
+      // Sound
+      //-------------------------------------------------------------------------------------------------------------     
+      "UIPickupSound"         "Item.PickUpRingShop"
+      "UIDropSound"         "Item.DropRingShop"
+      "WorldDropSound"        "Item.DropRingWorld"
+
+      // Special  
+      //-------------------------------------------------------------------------------------------------------------
+      "AbilitySpecial"
+      {
+        "01"
+        {
+          "var_type"        "FIELD_INTEGER"
+          "bonus_health_regen"  "5"
+        }
+      }
+    }
+
+    //=================================================================================================================
+  // Recipe: Moon Shard
+  //=================================================================================================================
+  "item_recipe_moon_shard_custom"
+  {
+    "BaseClass" "item_datadriven"
+    "Model"             "models/props_gameplay/recipe.vmdl"
+    
+    // Item Info
+    //-------------------------------------------------------------------------------------------------------------
+    "ItemCost"            "6000" 
+    "ItemShopTags"          ""
+    
+    // Recipe
+    //-------------------------------------------------------------------------------------------------------------
+    "ItemRecipe"          "1"
+    "ItemResult"          "item_moon_shard_custom"
+    "ItemRequirements"
+    {
+      "01"            "item_hyperstone;item_hyperstone"
+    }
+  }
+
+  //=================================================================================================================
+  // Moon Shard
+  //=================================================================================================================
+  "item_moon_shard_custom"
+  {
+    "BaseClass"                                           "item_lua"
+    "ScriptFile"                                          "items/item_moon_shard_custom/item_moon_shard_custom.lua"
+    "AbilityTextureName" "item_moon_shard"
+    "AbilityBehavior"       "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
+    "AbilityUnitTargetTeam"     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+    "AbilityUnitTargetType"     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CUSTOM"
+    
+    // Item Info
+    //-------------------------------------------------------------------------------------------------------------
+    "ItemCost"            "4000"
+    "ItemShopTags"          "attack_speed"
+    "ItemQuality"         "consumable"
+    "ItemAliases"         "moon shard"
+    "ShouldBeSuggested"       "1"
+
+    // Special  
+    //-------------------------------------------------------------------------------------------------------------
+    "AbilitySpecial"
+    {
+      "01"
+      {
+        "var_type"        "FIELD_INTEGER"
+        "attack_speed"  "60"
+      }
+    }
+  }
+
+  "item_recipe_bfury"
+  {
+    // Item Info
+    //-------------------------------------------------------------------------------------------------------------
+    "ItemCost"            "0" 
+    "ItemShopTags"          ""
+    
+    // Recipe
+    //-------------------------------------------------------------------------------------------------------------
+    "ItemRecipe"          "1"
+    "ItemResult"          "item_bfury"
+    "ItemRequirements"
+    {
+      "01"            "item_broadsword;item_claymore;item_pers;item_quelling_fury"
+    }
+  } 
+
+  "item_recipe_devastator"
+  {
+      "BaseClass"                                           "item_datadriven"
+      "ItemCost"                                            "750"
+      "ItemShopTags"                                        ""
+      "ItemRecipe"                                          "1"
+      "ItemResult"                                          "item_devastator"
+      "AbilityTextureName"                                  "item_recipe"
+
+      "ItemRequirements"
+      {
+          "01"                                                "item_falcon_blade;item_ogre_axe;item_vampire_claw"
+      }
+  }
+
+  "item_devastator"
+  {
+      "BaseClass"                                           "item_lua"
+      "ScriptFile"                                          "items/item_devastator/item_devastator.lua"
+      "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+      "AbilityTextureName"                                  "devastator"
+      // Item Info
+      //-------------------------------------------------------------------------------------------------------------
+      "ItemCost"                                            "955"
+      "ItemShopTags"                                        "devastator;lifesteal"
+      "ItemQuality"                                         "common"
+      "ItemAliases"                                         "devastator"
+      "ItemDeclarations"                                    "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+      "ItemDisassembleRule"                                 "DOTA_ITEM_DISASSEMBLE_NEVER"
+      "MaxUpgradeLevel"                                     "6"
+      "ItemBaseLevel"                                       "1"
+      "UpgradesItems"                                       "item_devastator;item_devastator_2;item_devastator_3;item_devastator_4;item_devastator_5;item_devastator_6"
+
+      "AbilityCooldown" "8"
+
+      "AbilityValues"
+      {
+          "bonus_damage" "34 68 102 136 170 204"
+          "bonus_strength" "12 24 36 48 60 72"
+          "bonus_health" "200 400 600 800 1000 1200"
+          "bonus_mana_regen" "1.8 3.6 5.4 7.2 9.0 10.8"
+          "lifesteal" "30 35 40 45 50 55"
+          "chance" "30"
+          "hp_cost_pct" "4 6 8 10 12 14"
+          "wounded_stack_damage_increase" "10"
+          "wounded_stack_duration" "3"
+          "wounded_max_stacks" "5"
+      }
+  }
+
+  "item_recipe_devastator_2"
+  {
+      "BaseClass"                                           "item_datadriven"
+      "ItemCost"                                            "750"
+      "ItemShopTags"                                        ""
+      "ItemRecipe"                                          "1"
+      "ItemResult"                                          "item_devastator_2"
+      "AbilityTextureName"                                  "item_recipe"
+
+      "ItemRequirements"
+      {
+          "01"                                                "item_devastator;item_forest_soul"
+      }
+  }
+
+  "item_devastator_2"
+  {
+      "BaseClass"                                           "item_lua"
+      "ScriptFile"                                          "items/item_devastator/item_devastator.lua"
+      "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+      "AbilityTextureName"                                  "devastator2"
+      // Item Info
+      //-------------------------------------------------------------------------------------------------------------
+      "ItemCost"                                            "955"
+      "ItemShopTags"                                        "devastator;lifesteal"
+      "ItemQuality"                                         "common"
+      "ItemAliases"                                         "devastator"
+      "ItemDeclarations"                                    "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+      "ItemDisassembleRule"                                 "DOTA_ITEM_DISASSEMBLE_NEVER"
+      "MaxUpgradeLevel"                                     "6"
+      "ItemBaseLevel"                                       "2"
+      "UpgradesItems"                                       "item_devastator;item_devastator_2;item_devastator_3;item_devastator_4;item_devastator_5;item_devastator_6"
+
+      "AbilityCooldown" "7"
+
+      "AbilityValues"
+      {
+          "bonus_damage" "34 68 102 136 170 204"
+          "bonus_strength" "12 24 36 48 60 72"
+          "bonus_health" "200 400 600 800 1000 1200"
+          "bonus_mana_regen" "1.8 3.6 5.4 7.2 9.0 10.8"
+          "lifesteal" "30 35 40 45 50 55"
+          "chance" "30"
+          "hp_cost_pct" "4 6 8 10 12 14"
+          "wounded_stack_damage_increase" "10"
+          "wounded_stack_duration" "3"
+          "wounded_max_stacks" "5"
+      }
+  }
+
+  "item_recipe_devastator_3"
+  {
+      "BaseClass"                                           "item_datadriven"
+      "ItemCost"                                            "750"
+      "ItemShopTags"                                        ""
+      "ItemRecipe"                                          "1"
+      "ItemResult"                                          "item_devastator_3"
+      "AbilityTextureName"                                  "item_recipe"
+
+      "ItemRequirements"
+      {
+          "01"                                                "item_devastator_2;item_spider_soul"
+      }
+  }
+
+  "item_devastator_3"
+  {
+      "BaseClass"                                           "item_lua"
+      "ScriptFile"                                          "items/item_devastator/item_devastator.lua"
+      "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+      "AbilityTextureName"                                  "devastator3"
+      // Item Info
+      //-------------------------------------------------------------------------------------------------------------
+      "ItemCost"                                            "955"
+      "ItemShopTags"                                        "devastator;lifesteal"
+      "ItemQuality"                                         "common"
+      "ItemAliases"                                         "devastator"
+      "ItemDeclarations"                                    "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+      "ItemDisassembleRule"                                 "DOTA_ITEM_DISASSEMBLE_NEVER"
+      "MaxUpgradeLevel"                                     "6"
+      "ItemBaseLevel"                                       "3"
+      "UpgradesItems"                                       "item_devastator;item_devastator_2;item_devastator_3;item_devastator_4;item_devastator_5;item_devastator_6"
+
+      "AbilityCooldown" "6"
+
+      "AbilityValues"
+      {
+          "bonus_damage" "34 68 102 136 170 204"
+          "bonus_strength" "12 24 36 48 60 72"
+          "bonus_health" "200 400 600 800 1000 1200"
+          "bonus_mana_regen" "1.8 3.6 5.4 7.2 9.0 10.8"
+          "lifesteal" "30 35 40 45 50 55"
+          "chance" "30"
+          "hp_cost_pct" "4 6 8 10 12 14"
+          "wounded_stack_damage_increase" "10"
+          "wounded_stack_duration" "3"
+          "wounded_max_stacks" "5"
+      }
+  }
+
+  "item_recipe_devastator_4"
+  {
+      "BaseClass"                                           "item_datadriven"
+      "ItemCost"                                            "750"
+      "ItemShopTags"                                        ""
+      "ItemRecipe"                                          "1"
+      "ItemResult"                                          "item_devastator_4"
+      "AbilityTextureName"                                  "item_recipe"
+
+      "ItemRequirements"
+      {
+          "01"                                                "item_devastator_3;item_reef_soul"
+      }
+  }
+
+  "item_devastator_4"
+  {
+      "BaseClass"                                           "item_lua"
+      "ScriptFile"                                          "items/item_devastator/item_devastator.lua"
+      "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+      "AbilityTextureName"                                  "devastator4"
+      // Item Info
+      //-------------------------------------------------------------------------------------------------------------
+      "ItemCost"                                            "955"
+      "ItemShopTags"                                        "devastator;lifesteal"
+      "ItemQuality"                                         "common"
+      "ItemAliases"                                         "devastator"
+      "ItemDeclarations"                                    "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+      "ItemDisassembleRule"                                 "DOTA_ITEM_DISASSEMBLE_NEVER"
+      "MaxUpgradeLevel"                                     "6"
+      "ItemBaseLevel"                                       "4"
+      "UpgradesItems"                                       "item_devastator;item_devastator_2;item_devastator_3;item_devastator_4;item_devastator_5;item_devastator_6"
+
+      "AbilityCooldown" "5"
+
+      "AbilityValues"
+      {
+          "bonus_damage" "34 68 102 136 170 204"
+          "bonus_strength" "12 24 36 48 60 72"
+          "bonus_health" "200 400 600 800 1000 1200"
+          "bonus_mana_regen" "1.8 3.6 5.4 7.2 9.0 10.8"
+          "lifesteal" "30 35 40 45 50 55"
+          "chance" "30"
+          "hp_cost_pct" "4 6 8 10 12 14"
+          "wounded_stack_damage_increase" "10"
+          "wounded_stack_duration" "3"
+          "wounded_max_stacks" "5"
+      }
+  }
+
+  "item_recipe_devastator_5"
+  {
+      "BaseClass"                                           "item_datadriven"
+      "ItemCost"                                            "750"
+      "ItemShopTags"                                        ""
+      "ItemRecipe"                                          "1"
+      "ItemResult"                                          "item_devastator_5"
+      "AbilityTextureName"                                  "item_recipe"
+
+      "ItemRequirements"
+      {
+          "01"                                                "item_devastator_4;item_warlock_soul"
+      }
+  }
+
+  "item_devastator_5"
+  {
+      "BaseClass"                                           "item_lua"
+      "ScriptFile"                                          "items/item_devastator/item_devastator.lua"
+      "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+      "AbilityTextureName"                                  "devastator5"
+      // Item Info
+      //-------------------------------------------------------------------------------------------------------------
+      "ItemCost"                                            "955"
+      "ItemShopTags"                                        "devastator;lifesteal"
+      "ItemQuality"                                         "common"
+      "ItemAliases"                                         "devastator"
+      "ItemDeclarations"                                    "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+      "ItemDisassembleRule"                                 "DOTA_ITEM_DISASSEMBLE_NEVER"
+      "MaxUpgradeLevel"                                     "6"
+      "ItemBaseLevel"                                       "5"
+      "UpgradesItems"                                       "item_devastator;item_devastator_2;item_devastator_3;item_devastator_4;item_devastator_5;item_devastator_6"
+
+      "AbilityCooldown" "4"
+
+      "AbilityValues"
+      {
+          "bonus_damage" "34 68 102 136 170 204"
+          "bonus_strength" "12 24 36 48 60 72"
+          "bonus_health" "200 400 600 800 1000 1200"
+          "bonus_mana_regen" "1.8 3.6 5.4 7.2 9.0 10.8"
+          "lifesteal" "30 35 40 45 50 55"
+          "chance" "30"
+          "hp_cost_pct" "4 6 8 10 12 14"
+          "wounded_stack_damage_increase" "10"
+          "wounded_stack_duration" "3"
+          "wounded_max_stacks" "5"
+      }
+  }
+
+  "item_recipe_devastator_6"
+  {
+      "BaseClass"                                           "item_datadriven"
+      "ItemCost"                                            "750"
+      "ItemShopTags"                                        ""
+      "ItemRecipe"                                          "1"
+      "ItemResult"                                          "item_devastator_6"
+      "AbilityTextureName"                                  "item_recipe"
+
+      "ItemRequirements"
+      {
+          "01"                                                "item_devastator_5;item_elder_soul"
+      }
+  }
+
+  "item_devastator_6"
+  {
+      "BaseClass"                                           "item_lua"
+      "ScriptFile"                                          "items/item_devastator/item_devastator.lua"
+      "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+      "AbilityTextureName"                                  "devastator6"
+      // Item Info
+      //-------------------------------------------------------------------------------------------------------------
+      "ItemCost"                                            "955"
+      "ItemShopTags"                                        "devastator;lifesteal"
+      "ItemQuality"                                         "common"
+      "ItemAliases"                                         "devastator"
+      "ItemDeclarations"                                    "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+      "ItemDisassembleRule"                                 "DOTA_ITEM_DISASSEMBLE_NEVER"
+      "MaxUpgradeLevel"                                     "6"
+      "ItemBaseLevel"                                       "6"
+      "UpgradesItems"                                       "item_devastator;item_devastator_2;item_devastator_3;item_devastator_4;item_devastator_5;item_devastator_6"
+
+      "AbilityCooldown" "3"
+
+      "AbilityValues"
+      {
+          "bonus_damage" "34 68 102 136 170 204"
+          "bonus_strength" "12 24 36 48 60 72"
+          "bonus_health" "200 400 600 800 1000 1200"
+          "bonus_mana_regen" "1.8 3.6 5.4 7.2 9.0 10.8"
+          "lifesteal" "30 35 40 45 50 55"
+          "chance" "30"
+          "hp_cost_pct" "4 6 8 10 12 14"
+          "wounded_stack_damage_increase" "10"
+          "wounded_stack_duration" "3"
+          "wounded_max_stacks" "5"
+      }
+  }
+
+  "item_recipe_spire_of_aggron"
+  {
+      "BaseClass"                                           "item_datadriven"
+      "ItemCost"                                            "1150"
+      "ItemShopTags"                                        ""
+      "ItemRecipe"                                          "1"
+      "ItemResult"                                          "item_spire_of_aggron"
+      "AbilityTextureName"                                  "item_recipe"
+
+      "ItemRequirements"
+      {
+          "01"                                                "item_excalibur;item_mystic_staff;item_energy_booster;item_void_stone"
+      }
+  }
+
+  "item_spire_of_aggron"
+  {
+      "BaseClass"                                           "item_lua"
+      "ScriptFile"                                          "items/item_spire_of_aggron/item_spire_of_aggron.lua"
+      "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+      "AbilityTextureName"                                  "chronos"
+      // Item Info
+      //-------------------------------------------------------------------------------------------------------------
+      "ItemCost"                                            "955"
+      "ItemShopTags"                                        "spire_of_aggron"
+      "ItemQuality"                                         "common"
+      "ItemAliases"                                         "spire_of_aggron"
+      "ItemDeclarations"                                    "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+      "ItemDisassembleRule"                                 "DOTA_ITEM_DISASSEMBLE_NEVER"
+      "MaxUpgradeLevel"                                     "6"
+      "ItemBaseLevel"                                       "1"
+      "UpgradesItems"                                       "item_spire_of_aggron;item_spire_of_aggron_2;item_spire_of_aggron_3;item_spire_of_aggron_4;item_spire_of_aggron_5;item_spire_of_aggron_6"
+
+      "AbilityValues"
+      {
+        "bonus_int" "35 70 105 140 175 210"
+        "bonus_str" "6 12 18 24 30 36"
+        "bonus_armor" "5 10 15 20 25 30"
+        "bonus_spell_amp" "8 16 24 32 40 48"
+        "bonus_move_speed" "40"
+        "bonus_mana" "250 500 750 1000 1250 1500"
+        "bonus_mana_regen" "2.25 4.5 6.75 9.0 11.25 13.5"
+        "chance" "20 30 40 50 60 70"
+        "consec_spell_amp" "10"
+        "consec_spell_amp_duration" "5"
+      }
+  }
+
+  "item_recipe_spire_of_aggron_2"
+  {
+      "BaseClass"                                           "item_datadriven"
+      "ItemCost"                                            "1150"
+      "ItemShopTags"                                        ""
+      "ItemRecipe"                                          "1"
+      "ItemResult"                                          "item_spire_of_aggron_2"
+      "AbilityTextureName"                                  "item_recipe"
+
+      "ItemRequirements"
+      {
+          "01"                                                "item_spire_of_aggron;item_forest_soul"
+      }
+  }
+
+  "item_spire_of_aggron_2"
+  {
+      "BaseClass"                                           "item_lua"
+      "ScriptFile"                                          "items/item_spire_of_aggron/item_spire_of_aggron.lua"
+      "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+      "AbilityTextureName"                                  "chronos2"
+      // Item Info
+      //-------------------------------------------------------------------------------------------------------------
+      "ItemCost"                                            "955"
+      "ItemShopTags"                                        "spire_of_aggron"
+      "ItemQuality"                                         "common"
+      "ItemAliases"                                         "spire_of_aggron"
+      "ItemDeclarations"                                    "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+      "ItemDisassembleRule"                                 "DOTA_ITEM_DISASSEMBLE_NEVER"
+      "MaxUpgradeLevel"                                     "6"
+      "ItemBaseLevel"                                       "2"
+      "UpgradesItems"                                       "item_spire_of_aggron;item_spire_of_aggron_2;item_spire_of_aggron_3;item_spire_of_aggron_4;item_spire_of_aggron_5;item_spire_of_aggron_6"
+
+      "AbilityValues"
+      {
+        "bonus_int" "35 70 105 140 175 210"
+        "bonus_str" "6 12 18 24 30 36"
+        "bonus_armor" "5 10 15 20 25 30"
+        "bonus_spell_amp" "8 16 24 32 40 48"
+        "bonus_move_speed" "40"
+        "bonus_mana" "250 500 750 1000 1250 1500"
+        "bonus_mana_regen" "2.25 4.5 6.75 9.0 11.25 13.5"
+        "chance" "20 30 40 50 60 70"
+        "consec_spell_amp" "10"
+        "consec_spell_amp_duration" "5"
+      }
+  }
+
+  "item_recipe_spire_of_aggron_3"
+  {
+      "BaseClass"                                           "item_datadriven"
+      "ItemCost"                                            "1150"
+      "ItemShopTags"                                        ""
+      "ItemRecipe"                                          "1"
+      "ItemResult"                                          "item_spire_of_aggron_3"
+      "AbilityTextureName"                                  "item_recipe"
+
+      "ItemRequirements"
+      {
+          "01"                                                "item_spire_of_aggron_2;item_spider_soul"
+      }
+  }
+
+  "item_spire_of_aggron_3"
+  {
+      "BaseClass"                                           "item_lua"
+      "ScriptFile"                                          "items/item_spire_of_aggron/item_spire_of_aggron.lua"
+      "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+      "AbilityTextureName"                                  "chronos3"
+      // Item Info
+      //-------------------------------------------------------------------------------------------------------------
+      "ItemCost"                                            "955"
+      "ItemShopTags"                                        "spire_of_aggron"
+      "ItemQuality"                                         "common"
+      "ItemAliases"                                         "spire_of_aggron"
+      "ItemDeclarations"                                    "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+      "ItemDisassembleRule"                                 "DOTA_ITEM_DISASSEMBLE_NEVER"
+      "MaxUpgradeLevel"                                     "6"
+      "ItemBaseLevel"                                       "3"
+      "UpgradesItems"                                       "item_spire_of_aggron;item_spire_of_aggron_2;item_spire_of_aggron_3;item_spire_of_aggron_4;item_spire_of_aggron_5;item_spire_of_aggron_6"
+
+      "AbilityValues"
+      {
+        "bonus_int" "35 70 105 140 175 210"
+        "bonus_str" "6 12 18 24 30 36"
+        "bonus_armor" "5 10 15 20 25 30"
+        "bonus_spell_amp" "8 16 24 32 40 48"
+        "bonus_move_speed" "40"
+        "bonus_mana" "250 500 750 1000 1250 1500"
+        "bonus_mana_regen" "2.25 4.5 6.75 9.0 11.25 13.5"
+        "chance" "20 30 40 50 60 70"
+        "consec_spell_amp" "10"
+        "consec_spell_amp_duration" "5"
+      }
+  }
+
+  "item_recipe_spire_of_aggron_4"
+  {
+      "BaseClass"                                           "item_datadriven"
+      "ItemCost"                                            "1150"
+      "ItemShopTags"                                        ""
+      "ItemRecipe"                                          "1"
+      "ItemResult"                                          "item_spire_of_aggron_4"
+      "AbilityTextureName"                                  "item_recipe"
+
+      "ItemRequirements"
+      {
+          "01"                                                "item_spire_of_aggron_3;item_reef_soul"
+      }
+  }
+
+  "item_spire_of_aggron_4"
+  {
+      "BaseClass"                                           "item_lua"
+      "ScriptFile"                                          "items/item_spire_of_aggron/item_spire_of_aggron.lua"
+      "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+      "AbilityTextureName"                                  "chronos4"
+      // Item Info
+      //-------------------------------------------------------------------------------------------------------------
+      "ItemCost"                                            "955"
+      "ItemShopTags"                                        "spire_of_aggron"
+      "ItemQuality"                                         "common"
+      "ItemAliases"                                         "spire_of_aggron"
+      "ItemDeclarations"                                    "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+      "ItemDisassembleRule"                                 "DOTA_ITEM_DISASSEMBLE_NEVER"
+      "MaxUpgradeLevel"                                     "6"
+      "ItemBaseLevel"                                       "4"
+      "UpgradesItems"                                       "item_spire_of_aggron;item_spire_of_aggron_2;item_spire_of_aggron_3;item_spire_of_aggron_4;item_spire_of_aggron_5;item_spire_of_aggron_6"
+
+      "AbilityValues"
+      {
+        "bonus_int" "35 70 105 140 175 210"
+        "bonus_str" "6 12 18 24 30 36"
+        "bonus_armor" "5 10 15 20 25 30"
+        "bonus_spell_amp" "8 16 24 32 40 48"
+        "bonus_move_speed" "40"
+        "bonus_mana" "250 500 750 1000 1250 1500"
+        "bonus_mana_regen" "2.25 4.5 6.75 9.0 11.25 13.5"
+        "chance" "20 30 40 50 60 70"
+        "consec_spell_amp" "10"
+        "consec_spell_amp_duration" "5"
+      }
+  }
+
+  "item_recipe_spire_of_aggron_5"
+  {
+      "BaseClass"                                           "item_datadriven"
+      "ItemCost"                                            "1150"
+      "ItemShopTags"                                        ""
+      "ItemRecipe"                                          "1"
+      "ItemResult"                                          "item_spire_of_aggron_5"
+      "AbilityTextureName"                                  "item_recipe"
+
+      "ItemRequirements"
+      {
+          "01"                                                "item_spire_of_aggron_4;item_warlock_soul"
+      }
+  }
+
+  "item_spire_of_aggron_5"
+  {
+      "BaseClass"                                           "item_lua"
+      "ScriptFile"                                          "items/item_spire_of_aggron/item_spire_of_aggron.lua"
+      "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+      "AbilityTextureName"                                  "chronos5"
+      // Item Info
+      //-------------------------------------------------------------------------------------------------------------
+      "ItemCost"                                            "955"
+      "ItemShopTags"                                        "spire_of_aggron"
+      "ItemQuality"                                         "common"
+      "ItemAliases"                                         "spire_of_aggron"
+      "ItemDeclarations"                                    "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+      "ItemDisassembleRule"                                 "DOTA_ITEM_DISASSEMBLE_NEVER"
+      "MaxUpgradeLevel"                                     "6"
+      "ItemBaseLevel"                                       "5"
+      "UpgradesItems"                                       "item_spire_of_aggron;item_spire_of_aggron_2;item_spire_of_aggron_3;item_spire_of_aggron_4;item_spire_of_aggron_5;item_spire_of_aggron_6"
+
+      "AbilityValues"
+      {
+        "bonus_int" "35 70 105 140 175 210"
+        "bonus_str" "6 12 18 24 30 36"
+        "bonus_armor" "5 10 15 20 25 30"
+        "bonus_spell_amp" "8 16 24 32 40 48"
+        "bonus_move_speed" "40"
+        "bonus_mana" "250 500 750 1000 1250 1500"
+        "bonus_mana_regen" "2.25 4.5 6.75 9.0 11.25 13.5"
+        "chance" "20 30 40 50 60 70"
+        "consec_spell_amp" "10"
+        "consec_spell_amp_duration" "5"
+      }
+  }
+
+  "item_recipe_spire_of_aggron_6"
+  {
+      "BaseClass"                                           "item_datadriven"
+      "ItemCost"                                            "1150"
+      "ItemShopTags"                                        ""
+      "ItemRecipe"                                          "1"
+      "ItemResult"                                          "item_spire_of_aggron_6"
+      "AbilityTextureName"                                  "item_recipe"
+
+      "ItemRequirements"
+      {
+          "01"                                                "item_spire_of_aggron_5;item_elder_soul"
+      }
+  }
+
+  "item_spire_of_aggron_6"
+  {
+      "BaseClass"                                           "item_lua"
+      "ScriptFile"                                          "items/item_spire_of_aggron/item_spire_of_aggron.lua"
+      "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+      "AbilityTextureName"                                  "chronos6"
+      // Item Info
+      //-------------------------------------------------------------------------------------------------------------
+      "ItemCost"                                            "955"
+      "ItemShopTags"                                        "spire_of_aggron"
+      "ItemQuality"                                         "common"
+      "ItemAliases"                                         "spire_of_aggron"
+      "ItemDeclarations"                                    "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+      "ItemDisassembleRule"                                 "DOTA_ITEM_DISASSEMBLE_NEVER"
+      "MaxUpgradeLevel"                                     "6"
+      "ItemBaseLevel"                                       "6"
+      "UpgradesItems"                                       "item_spire_of_aggron;item_spire_of_aggron_2;item_spire_of_aggron_3;item_spire_of_aggron_4;item_spire_of_aggron_5;item_spire_of_aggron_6"
+
+      "AbilityValues"
+      {
+        "bonus_int" "35 70 105 140 175 210"
+        "bonus_str" "6 12 18 24 30 36"
+        "bonus_armor" "5 10 15 20 25 30"
+        "bonus_spell_amp" "8 16 24 32 40 48"
+        "bonus_move_speed" "40"
+        "bonus_mana" "250 500 750 1000 1250 1500"
+        "bonus_mana_regen" "2.25 4.5 6.75 9.0 11.25 13.5"
+        "chance" "20 30 40 50 60 70"
+        "consec_spell_amp" "10"
+        "consec_spell_amp_duration" "5"
+      }
+  }
 }
 
