@@ -2784,10 +2784,10 @@
   "DOTA_Tooltip_ability_huskar_berserkers_blood_custom_hp_threshold_max" "%ЗДОРОВЬЯ ДЛЯ МАКСИМАЛЬНОГО ЭФФЕКТА:"
 
   "DOTA_Tooltip_ability_huskar_burning_spear_custom" "Burning Spear"
-  "DOTA_Tooltip_ability_huskar_burning_spear_custom_Description" "Huskar поджигает свои копья, нанося урон с течением времени при обычной атаке. Многократные атаки наносят дополнительный урон. Каждая атака отнимает часть здоровья Huskar и преобразует его в урон.<br><br>Наносит несмертельный урон боссам."
+  "DOTA_Tooltip_ability_huskar_burning_spear_custom_Description" "Хускар поджигает свои копья, нанося урон с течением времени при обычной атаке. При многократных атаках дополнительный урон суммируется. Каждая атака отнимает часть здоровья Хускара и преобразует его в урон, а также наносит цели бонусный урон в зависимости от урона атаки Хускара."
   "DOTA_Tooltip_ability_huskar_burning_spear_custom_health_cost" "%МАКСИМАЛЬНОЕ КОЛИЧЕСТВО ЗДОРОВЬЯ В УРОН:"
   "DOTA_Tooltip_ability_huskar_burning_spear_custom_AbilityDuration" "ДЛИТЕЛЬНОСТЬ:"
-  "DOTA_Tooltip_ability_huskar_burning_spear_custom_max_stacks" "МАКС СТАКОВ:"
+  "DOTA_Tooltip_ability_huskar_burning_spear_custom_damage_from_attack" "%DAMAGE FROM ATTACK:"
 
   "DOTA_Tooltip_Ability_item_mercure7" "Lost Mercure"
   "DOTA_Tooltip_Ability_item_mercure7_bonus_damage" "+$damage"
@@ -4831,6 +4831,7 @@
         "DOTA_Tooltip_Ability_lion_finger_of_death_custom_mana_cost_scepter" "СТОИМОСТЬ МАНЫ:"
         "DOTA_Tooltip_Ability_lion_finger_of_death_custom_damage_delay" "ЗАДЕРЖКА:"
         "DOTA_Tooltip_Ability_lion_finger_of_death_custom_cooldown_scepter" "ПЕРЕЗАРЯДКА:"
+        "DOTA_Tooltip_Ability_lion_finger_of_death_custom_int_to_damage" "%DAMAGE FROM INTELLECT:"
         "DOTA_Tooltip_Ability_lion_finger_of_death_custom_splash_radius_scepter" "РАДИУС ОБЛАСТИ:"
         "DOTA_Tooltip_Ability_lion_finger_of_death_custom_damage_per_kill" "УРОНА ЗА УБИЙСТВО:"
         "DOTA_Tooltip_modifier_lion_finger_of_death_custom_stacks" "Finger of Death: УБИЙСТВА"
@@ -7315,37 +7316,37 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_modifier_lich_ice_spire_custom_icy_aura_aura_enemy_Description" "Магическое сопротивление уменьшено на -%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%."
 
 		"DOTA_Tooltip_Ability_item_blood_drainer" "Soul Reaver"
-		"DOTA_Tooltip_Ability_item_blood_drainer_Description" "<h1>Toggle: Soul Vortex</h1>Toggle to surround yourself in a deadly vortex of the souls of the damned, draining %health_drain_pct%%% of your max health every %interval% seconds and dealing %base_damage% + the health drained as damage to all enemies in a %radius% radius around you.<br><br>The health drain gradually increases by +%health_drain_increment_pct%%% for every second it's toggled on, but is toggled off if the damage would kill you."
+		"DOTA_Tooltip_Ability_item_blood_drainer_Description" "<h1>Toggle: Soul Vortex</h1>Toggle to surround yourself in a deadly vortex of the souls of the damned, draining %health_drain_pct%%% of your max health every %interval% seconds and dealing %base_damage% + the health drained as damage to all enemies in a %radius% radius around you.<br><br>The health drain gradually increases by +%health_drain_increment_pct%%% for every second it's toggled on, draining up to a total of %max_health_drain%%% max health, but is toggled off if the damage would kill you."
 		"DOTA_Tooltip_Ability_item_blood_drainer_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_blood_drainer_bonus_armor" "+$armor"
 
 		"DOTA_Tooltip_Ability_item_blood_drainer_2" "Soul Reaver LVL2"
-		"DOTA_Tooltip_Ability_item_blood_drainer_2_Description" "<h1>Toggle: Soul Vortex</h1>Toggle to surround yourself in a deadly vortex of the souls of the damned, draining %health_drain_pct%%% of your max health every %interval% seconds and dealing %base_damage% + the health drained as damage to all enemies in a %radius% radius around you.<br><br>The health drain gradually increases by +%health_drain_increment_pct%%% for every second it's toggled on, but is toggled off if the damage would kill you."
+		"DOTA_Tooltip_Ability_item_blood_drainer_2_Description" "<h1>Toggle: Soul Vortex</h1>Toggle to surround yourself in a deadly vortex of the souls of the damned, draining %health_drain_pct%%% of your max health every %interval% seconds and dealing %base_damage% + the health drained as damage to all enemies in a %radius% radius around you.<br><br>The health drain gradually increases by +%health_drain_increment_pct%%% for every second it's toggled on, draining up to a total of %max_health_drain%%% max health, but is toggled off if the damage would kill you."
 		"DOTA_Tooltip_Ability_item_blood_drainer_2_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_blood_drainer_2_bonus_armor" "+$armor"
 
 		"DOTA_Tooltip_Ability_item_blood_drainer_3" "Soul Reaver LVL3"
-		"DOTA_Tooltip_Ability_item_blood_drainer_3_Description" "<h1>Toggle: Soul Vortex</h1>Toggle to surround yourself in a deadly vortex of the souls of the damned, draining %health_drain_pct%%% of your max health every %interval% seconds and dealing %base_damage% + the health drained as damage to all enemies in a %radius% radius around you.<br><br>The health drain gradually increases by +%health_drain_increment_pct%%% for every second it's toggled on, but is toggled off if the damage would kill you."
+		"DOTA_Tooltip_Ability_item_blood_drainer_3_Description" "<h1>Toggle: Soul Vortex</h1>Toggle to surround yourself in a deadly vortex of the souls of the damned, draining %health_drain_pct%%% of your max health every %interval% seconds and dealing %base_damage% + the health drained as damage to all enemies in a %radius% radius around you.<br><br>The health drain gradually increases by +%health_drain_increment_pct%%% for every second it's toggled on, draining up to a total of %max_health_drain%%% max health, but is toggled off if the damage would kill you."
 		"DOTA_Tooltip_Ability_item_blood_drainer_3_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_blood_drainer_3_bonus_armor" "+$armor"
 
 		"DOTA_Tooltip_Ability_item_blood_drainer_4" "Soul Reaver LVL4"
-		"DOTA_Tooltip_Ability_item_blood_drainer_4_Description" "<h1>Toggle: Soul Vortex</h1>Toggle to surround yourself in a deadly vortex of the souls of the damned, draining %health_drain_pct%%% of your max health every %interval% seconds and dealing %base_damage% + the health drained as damage to all enemies in a %radius% radius around you.<br><br>The health drain gradually increases by +%health_drain_increment_pct%%% for every second it's toggled on, but is toggled off if the damage would kill you."
+		"DOTA_Tooltip_Ability_item_blood_drainer_4_Description" "<h1>Toggle: Soul Vortex</h1>Toggle to surround yourself in a deadly vortex of the souls of the damned, draining %health_drain_pct%%% of your max health every %interval% seconds and dealing %base_damage% + the health drained as damage to all enemies in a %radius% radius around you.<br><br>The health drain gradually increases by +%health_drain_increment_pct%%% for every second it's toggled on, draining up to a total of %max_health_drain%%% max health, but is toggled off if the damage would kill you."
 		"DOTA_Tooltip_Ability_item_blood_drainer_4_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_blood_drainer_4_bonus_armor" "+$armor"
 
 		"DOTA_Tooltip_Ability_item_blood_drainer_5" "Soul Reaver LVL5"
-		"DOTA_Tooltip_Ability_item_blood_drainer_5_Description" "<h1>Toggle: Soul Vortex</h1>Toggle to surround yourself in a deadly vortex of the souls of the damned, draining %health_drain_pct%%% of your max health every %interval% seconds and dealing %base_damage% + the health drained as damage to all enemies in a %radius% radius around you.<br><br>The health drain gradually increases by +%health_drain_increment_pct%%% for every second it's toggled on, but is toggled off if the damage would kill you."
+		"DOTA_Tooltip_Ability_item_blood_drainer_5_Description" "<h1>Toggle: Soul Vortex</h1>Toggle to surround yourself in a deadly vortex of the souls of the damned, draining %health_drain_pct%%% of your max health every %interval% seconds and dealing %base_damage% + the health drained as damage to all enemies in a %radius% radius around you.<br><br>The health drain gradually increases by +%health_drain_increment_pct%%% for every second it's toggled on, draining up to a total of %max_health_drain%%% max health, but is toggled off if the damage would kill you."
 		"DOTA_Tooltip_Ability_item_blood_drainer_5_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_blood_drainer_5_bonus_armor" "+$armor"
 
 		"DOTA_Tooltip_Ability_item_blood_drainer_6" "Soul Reaver LVL6"
-		"DOTA_Tooltip_Ability_item_blood_drainer_6_Description" "<h1>Toggle: Soul Vortex</h1>Toggle to surround yourself in a deadly vortex of the souls of the damned, draining %health_drain_pct%%% of your max health every %interval% seconds and dealing %base_damage% + the health drained as damage to all enemies in a %radius% radius around you.<br><br>The health drain gradually increases by +%health_drain_increment_pct%%% for every second it's toggled on, but is toggled off if the damage would kill you."
+		"DOTA_Tooltip_Ability_item_blood_drainer_6_Description" "<h1>Toggle: Soul Vortex</h1>Toggle to surround yourself in a deadly vortex of the souls of the damned, draining %health_drain_pct%%% of your max health every %interval% seconds and dealing %base_damage% + the health drained as damage to all enemies in a %radius% radius around you.<br><br>The health drain gradually increases by +%health_drain_increment_pct%%% for every second it's toggled on, draining up to a total of %max_health_drain%%% max health, but is toggled off if the damage would kill you."
 		"DOTA_Tooltip_Ability_item_blood_drainer_6_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_blood_drainer_6_bonus_armor" "+$armor"
 
 		"DOTA_Tooltip_Ability_item_blood_drainer_7" "Soul Reaver LVL7"
-		"DOTA_Tooltip_Ability_item_blood_drainer_7_Description" "<h1>Toggle: Soul Vortex</h1>Toggle to surround yourself in a deadly vortex of the souls of the damned, draining %health_drain_pct%%% of your max health every %interval% seconds and dealing %base_damage% + the health drained as damage to all enemies in a %radius% radius around you.<br><br>The health drain gradually increases by +%health_drain_increment_pct%%% for every second it's toggled on, but is toggled off if the damage would kill you."
+		"DOTA_Tooltip_Ability_item_blood_drainer_7_Description" "<h1>Toggle: Soul Vortex</h1>Toggle to surround yourself in a deadly vortex of the souls of the damned, draining %health_drain_pct%%% of your max health every %interval% seconds and dealing %base_damage% + the health drained as damage to all enemies in a %radius% radius around you.<br><br>The health drain gradually increases by +%health_drain_increment_pct%%% for every second it's toggled on, draining up to a total of %max_health_drain%%% max health, but is toggled off if the damage would kill you."
 		"DOTA_Tooltip_Ability_item_blood_drainer_7_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_blood_drainer_7_bonus_armor" "+$armor"
 
