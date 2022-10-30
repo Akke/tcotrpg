@@ -2171,7 +2171,7 @@
         "DOTA_Tooltip_Ability_item_satanic_2_lifesteal_percent"    "%+$lifesteal"
 
         "DOTA_Tooltip_ability_item_scorching_malevolence" "Scorching Malevolence"
-		"DOTA_Tooltip_ability_item_scorching_malevolence_Description" "<h1>Активное: Soul Scorch</h1>Заставляет цель замолчать на %silence_duration% секунд и отключает ее пассивные способности. По окончании безмолвия дополнительно %silence_damage_percent%%% всего урона, полученного во время безмолвия, будет нанесено цели в виде магического урона.<br><br>Все атаки по обезмолвленной цели будут иметь True Strike и %tooltip_crit_chance %%% шанс критического удара, наносящего %target_crit_multiplier%%% урона.\n<h1>Пассивно: Scorching Flames</h1>Атаки накладывают на цель стек Scorching Flames на %burn_duration% секунд, нанося %burn_damage% + %burn_int_to_damage%%% вашего интеллекта в виде магического урона за стак. Цели, пораженные Scorching Flames, также пропускают %blind_pct%%% своих атак. Максимум стаков %burn_max_stacks%."
+		"DOTA_Tooltip_ability_item_scorching_malevolence_Description" "<h1>Активное: Soul Scorch</h1>Заставляет цель замолчать на %silence_duration% секунд и отключает ее пассивные способности. По окончании безмолвия дополнительно %silence_damage_percent%%% всего урона, полученного во время безмолвия, будет нанесено цели в виде магического урона.<br><br>Все атаки по обезмолвленной цели будут иметь True Strike и %tooltip_crit_chance%%% шанс критического удара, наносящего %target_crit_multiplier%%% урона.\n<h1>Пассивно: Scorching Flames</h1>Атаки накладывают на цель стек Scorching Flames на %burn_duration% секунд, нанося %burn_damage% + %burn_int_to_damage%%% вашего интеллекта в виде магического урона за стак. Цели, пораженные Scorching Flames, также пропускают %blind_pct%%% своих атак. Максимум стаков %burn_max_stacks%."
 		"DOTA_Tooltip_ability_item_scorching_malevolence_bonus_intellect" "+$int"
 		"DOTA_Tooltip_ability_item_scorching_malevolence_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_ability_item_scorching_malevolence_bonus_damage" "+$damage"
@@ -2181,7 +2181,7 @@
 		"DOTA_Tooltip_ability_item_scorching_malevolence_evasion" "%+$evasion"
 
 		"DOTA_Tooltip_ability_item_scorching_malevolence2" "Scorching Malevolence LVL2"
-		"DOTA_Tooltip_ability_item_scorching_malevolence2_Description" "<h1>Активное: Soul Scorch</h1>Заставляет цель замолчать на %silence_duration% секунд и отключает ее пассивные способности. По окончании безмолвия дополнительно %silence_damage_percent%%% всего урона, полученного во время безмолвия, будет нанесено цели в виде магического урона.<br><br>Все атаки по обезмолвленной цели будут иметь True Strike и %tooltip_crit_chance %%% шанс критического удара, наносящего %target_crit_multiplier%%% урона.\n<h1>Пассивно: Scorching Flames</h1>Атаки накладывают на цель стек Scorching Flames на %burn_duration% секунд, нанося %burn_damage% + %burn_int_to_damage%%% вашего интеллекта в виде магического урона за стак. Цели, пораженные Scorching Flames, также пропускают %blind_pct%%% своих атак. Максимум стаков %burn_max_stacks%."
+		"DOTA_Tooltip_ability_item_scorching_malevolence2_Description" "<h1>Активное: Soul Scorch</h1>Заставляет цель замолчать на %silence_duration% секунд и отключает ее пассивные способности. По окончании безмолвия дополнительно %silence_damage_percent%%% всего урона, полученного во время безмолвия, будет нанесено цели в виде магического урона.<br><br>Все атаки по обезмолвленной цели будут иметь True Strike и %tooltip_crit_chance%%% шанс критического удара, наносящего %target_crit_multiplier%%% урона.\n<h1>Пассивно: Scorching Flames</h1>Атаки накладывают на цель стек Scorching Flames на %burn_duration% секунд, нанося %burn_damage% + %burn_int_to_damage%%% вашего интеллекта в виде магического урона за стак. Цели, пораженные Scorching Flames, также пропускают %blind_pct%%% своих атак. Максимум стаков %burn_max_stacks%."
 		"DOTA_Tooltip_ability_item_scorching_malevolence2_bonus_intellect" "+$int"
 		"DOTA_Tooltip_ability_item_scorching_malevolence2_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_ability_item_scorching_malevolence2_bonus_damage" "+$damage"
@@ -2191,7 +2191,7 @@
 		"DOTA_Tooltip_ability_item_scorching_malevolence2_evasion" "%+$evasion"
 
 		"DOTA_Tooltip_ability_item_scorching_malevolence3" "Scorching Malevolence LVL3"
-		"DOTA_Tooltip_ability_item_scorching_malevolence3_Description" "<h1>Активное: Soul Scorch</h1>Заставляет цель замолчать на %silence_duration% секунд и отключает ее пассивные способности. По окончании безмолвия дополнительно %silence_damage_percent%%% всего урона, полученного во время безмолвия, будет нанесено цели в виде магического урона.<br><br>Все атаки по обезмолвленной цели будут иметь True Strike и %tooltip_crit_chance %%% шанс критического удара, наносящего %target_crit_multiplier%%% урона.\n<h1>Пассивно: Scorching Flames</h1>Атаки накладывают на цель стек Scorching Flames на %burn_duration% секунд, нанося %burn_damage% + %burn_int_to_damage%%% вашего интеллекта в виде магического урона за стак. Цели, пораженные Scorching Flames, также пропускают %blind_pct%%% своих атак. Максимум стаков %burn_max_stacks%."
+		"DOTA_Tooltip_ability_item_scorching_malevolence3_Description" "<h1>Активное: Soul Scorch</h1>Заставляет цель замолчать на %silence_duration% секунд и отключает ее пассивные способности. По окончании безмолвия дополнительно %silence_damage_percent%%% всего урона, полученного во время безмолвия, будет нанесено цели в виде магического урона.<br><br>Все атаки по обезмолвленной цели будут иметь True Strike и %tooltip_crit_chance%%% шанс критического удара, наносящего %target_crit_multiplier%%% урона.\n<h1>Пассивно: Scorching Flames</h1>Атаки накладывают на цель стек Scorching Flames на %burn_duration% секунд, нанося %burn_damage% + %burn_int_to_damage%%% вашего интеллекта в виде магического урона за стак. Цели, пораженные Scorching Flames, также пропускают %blind_pct%%% своих атак. Максимум стаков %burn_max_stacks%."
 		"DOTA_Tooltip_ability_item_scorching_malevolence3_bonus_intellect" "+$int"
 		"DOTA_Tooltip_ability_item_scorching_malevolence3_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_ability_item_scorching_malevolence3_bonus_damage" "+$damage"
@@ -2201,7 +2201,7 @@
 		"DOTA_Tooltip_ability_item_scorching_malevolence3_evasion" "%+$evasion"
 
 		"DOTA_Tooltip_ability_item_scorching_malevolence4" "Scorching Malevolence LVL4"
-		"DOTA_Tooltip_ability_item_scorching_malevolence4_Description" "<h1>Активное: Soul Scorch</h1>Заставляет цель замолчать на %silence_duration% секунд и отключает ее пассивные способности. По окончании безмолвия дополнительно %silence_damage_percent%%% всего урона, полученного во время безмолвия, будет нанесено цели в виде магического урона.<br><br>Все атаки по обезмолвленной цели будут иметь True Strike и %tooltip_crit_chance %%% шанс критического удара, наносящего %target_crit_multiplier%%% урона.\n<h1>Пассивно: Scorching Flames</h1>Атаки накладывают на цель стек Scorching Flames на %burn_duration% секунд, нанося %burn_damage% + %burn_int_to_damage%%% вашего интеллекта в виде магического урона за стак. Цели, пораженные Scorching Flames, также пропускают %blind_pct%%% своих атак. Максимум стаков %burn_max_stacks%."
+		"DOTA_Tooltip_ability_item_scorching_malevolence4_Description" "<h1>Активное: Soul Scorch</h1>Заставляет цель замолчать на %silence_duration% секунд и отключает ее пассивные способности. По окончании безмолвия дополнительно %silence_damage_percent%%% всего урона, полученного во время безмолвия, будет нанесено цели в виде магического урона.<br><br>Все атаки по обезмолвленной цели будут иметь True Strike и %tooltip_crit_chance%%% шанс критического удара, наносящего %target_crit_multiplier%%% урона.\n<h1>Пассивно: Scorching Flames</h1>Атаки накладывают на цель стек Scorching Flames на %burn_duration% секунд, нанося %burn_damage% + %burn_int_to_damage%%% вашего интеллекта в виде магического урона за стак. Цели, пораженные Scorching Flames, также пропускают %blind_pct%%% своих атак. Максимум стаков %burn_max_stacks%."
 		"DOTA_Tooltip_ability_item_scorching_malevolence4_bonus_intellect" "+$int"
 		"DOTA_Tooltip_ability_item_scorching_malevolence4_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_ability_item_scorching_malevolence4_bonus_damage" "+$damage"
@@ -2571,27 +2571,27 @@
   "DOTA_Tooltip_ability_huskar_mayhem_custom_damage_per_missing_hp" "УРОН ЗА КАЖДЫЙ НЕДОСТАЮЩИЙ ПУНКТ МАКСИМАЛЬНОГО ЗДОРОВЬЯ:"
 
    "DOTA_Tooltip_Ability_item_armor_piercing_crossbow"						"Piercing Crossbow"
-		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_Description"			"<h1>Пассивное: Critical Strike</h1>Каждая атака имеет %crit_chance%%% шанс нанести %crit_multiplier%%% критического урона. \n<h1>Пассивное: True Strike</h1>Ваши атаки никогда не промахиваются."
+		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_Description"			"<h1>Active: Critical Frenzy</h1>Temporarily increase your critical chance by 100% for %active_duration% seconds.\n<h1>Passive: Piercing Critical Strike</h1>Grants each attack a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets base armor.\n<h1>Passive: True Strike</h1>Your attacks can never miss."
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_bonus_attack_speed"		"+$attack"
 
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_2"						"Piercing Crossbow LVL2"
-		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_2_Description"			"<h1>Пассивное: Critical Strike</h1>Каждая атака имеет %crit_chance%%% шанс нанести %crit_multiplier%%% критического урона. \n<h1>Пассивное: True Strike</h1>Ваши атаки никогда не промахиваются."
+		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_2_Description"			"<h1>Active: Critical Frenzy</h1>Temporarily increase your critical chance by 100% for %active_duration% seconds.\n<h1>Passive: Piercing Critical Strike</h1>Grants each attack a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets base armor.\n<h1>Passive: True Strike</h1>Your attacks can never miss."
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_2_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_2_bonus_attack_speed"		"+$attack"
 
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_3"						"Piercing Crossbow LVL3"
-		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_3_Description"			"<h1>Пассивное: Critical Strike</h1>Каждая атака имеет %crit_chance%%% шанс нанести %crit_multiplier%%% критического урона. \n<h1>Пассивное: True Strike</h1>Ваши атаки никогда не промахиваются."
+		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_3_Description"			"<h1>Active: Critical Frenzy</h1>Temporarily increase your critical chance by 100% for %active_duration% seconds.\n<h1>Passive: Piercing Critical Strike</h1>Grants each attack a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets base armor.\n<h1>Passive: True Strike</h1>Your attacks can never miss."
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_3_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_3_bonus_attack_speed"		"+$attack"
 
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_4"						"Piercing Crossbow LVL4"
-		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_4_Description"			"<h1>Пассивное: Critical Strike</h1>Каждая атака имеет %crit_chance%%% шанс нанести %crit_multiplier%%% критического урона. \n<h1>Пассивное: True Strike</h1>Ваши атаки никогда не промахиваются."
+		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_4_Description"			"<h1>Active: Critical Frenzy</h1>Temporarily increase your critical chance by 100% for %active_duration% seconds.\n<h1>Passive: Piercing Critical Strike</h1>Grants each attack a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets base armor.\n<h1>Passive: True Strike</h1>Your attacks can never miss."
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_4_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_4_bonus_attack_speed"		"+$attack"
 
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_5"						"Piercing Crossbow LVL5"
-		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_5_Description"			"<h1>Пассивное: Critical Strike</h1>Каждая атака имеет %crit_chance%%% шанс нанести %crit_multiplier%%% критического урона. \n<h1>Пассивное: True Strike</h1>Ваши атаки никогда не промахиваются."
+		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_5_Description"			"<h1>Active: Critical Frenzy</h1>Temporarily increase your critical chance by 100% for %active_duration% seconds.\n<h1>Passive: Piercing Critical Strike</h1>Grants each attack a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets base armor.\n<h1>Passive: True Strike</h1>Your attacks can never miss."
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_5_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_5_bonus_attack_speed"		"+$attack"
 
@@ -2768,9 +2768,9 @@
 
         "difficulty_unfair_info" "<h1>Кошмар</h1><font color='red'>• У врагов на <b>160%</b> больше здоровья<br>• Враги наносят на <b>160%</b> больше урона</font>"
 
-        "difficulty_impossible_info" "<h1>Невозможно</h1><font color='red'>- У врагов на <b>200%</b> больше здоровья<br>- Враги наносят на <b>200%</b> больше урона<br>- Ваш лимит <b>x5</b> жизней на игрока</font>"
+        "difficulty_impossible_info" "<h1>Невозможно</h1><font color='red'>- У врагов на <b>200%</b> больше здоровья<br>- Враги наносят на <b>200%</b> больше урона<br>- Ваш лимит <b>x5</b> жизней на игрока<br>- Режим выживания всегда включен</font>"
 
-        "difficulty_infinity_info" "<h1>Ад</h1><font color='red'>- У врагов на <b>250%</b> больше здоровья<br>- Враги наносят на <b>250%</b> больше урона<br>- Ваш лимит <b>x3</b> жизней на игрока</font>"
+        "difficulty_infinity_info" "<h1>Ад</h1><font color='red'>- У врагов на <b>250%</b> больше здоровья<br>- Враги наносят на <b>250%</b> больше урона<br>- Ваш лимит <b>x3</b> жизней на игрока<br>- Режим выживания всегда включен</font>"
 
         "difficulty_hardcore_info" "<h1>Беспощадный</h1><font color='red'>- У врагов на <b>300%</b> больше здоровья<br>- Враги наносят на <b>300%</b> больше урона<br>- Ваш лимит <b>x1</b> жизней на игрока<br>- Враги становятся более устойчивыми к повреждениям по мере прохождения игры<br>- Режим выживания всегда включен</font>"
 
@@ -2784,10 +2784,10 @@
   "DOTA_Tooltip_ability_huskar_berserkers_blood_custom_hp_threshold_max" "%ЗДОРОВЬЯ ДЛЯ МАКСИМАЛЬНОГО ЭФФЕКТА:"
 
   "DOTA_Tooltip_ability_huskar_burning_spear_custom" "Burning Spear"
-  "DOTA_Tooltip_ability_huskar_burning_spear_custom_Description" "Huskar поджигает свои копья, нанося урон с течением времени при обычной атаке. Многократные атаки наносят дополнительный урон. Каждая атака отнимает часть здоровья Huskar и преобразует его в урон.<br><br>Наносит несмертельный урон боссам."
+  "DOTA_Tooltip_ability_huskar_burning_spear_custom_Description" "Хускар поджигает свои копья, нанося урон с течением времени при обычной атаке. При многократных атаках дополнительный урон суммируется. Каждая атака отнимает часть здоровья Хускара и преобразует его в урон, а также наносит цели бонусный урон в зависимости от урона атаки Хускара."
   "DOTA_Tooltip_ability_huskar_burning_spear_custom_health_cost" "%МАКСИМАЛЬНОЕ КОЛИЧЕСТВО ЗДОРОВЬЯ В УРОН:"
   "DOTA_Tooltip_ability_huskar_burning_spear_custom_AbilityDuration" "ДЛИТЕЛЬНОСТЬ:"
-  "DOTA_Tooltip_ability_huskar_burning_spear_custom_max_stacks" "МАКС СТАКОВ:"
+  "DOTA_Tooltip_ability_huskar_burning_spear_custom_damage_from_attack" "%DAMAGE FROM ATTACK:"
 
   "DOTA_Tooltip_Ability_item_mercure7" "Lost Mercure"
   "DOTA_Tooltip_Ability_item_mercure7_bonus_damage" "+$damage"
@@ -3259,11 +3259,13 @@
 
         "DOTA_Tooltip_Ability_undying_flesh_golem_custom"    "Living Dead"
         "DOTA_Tooltip_Ability_undying_flesh_golem_custom_Description"    "Undying является живым мертвецом и более устойчив к урону, что увеличивает его силу и уменьшает входящий урон.<br><br> Его гниющее присутствие излучает ауру разложения, которая замедляет ближайших врагов и позволяет Undying исцеляться на процент от их максимального здоровья, когда они умирают."
+        "DOTA_Tooltip_Ability_undying_flesh_golem_custom_scepter_Description"    "Living Dead now damages nearby enemies based on a portion of Undying's Strength."
         "DOTA_Tooltip_Ability_undying_flesh_golem_custom_str_pct"    "%БОНУСНАЯ СИЛА:"
         "DOTA_Tooltip_Ability_undying_flesh_golem_custom_slow_pct"    "%ЗАМЕДЛЕНИЕ:"
         "DOTA_Tooltip_Ability_undying_flesh_golem_custom_dmg_reduction_pct"    "%УМЕНЬШЕНИЕ УРОНА:"
         "DOTA_Tooltip_Ability_undying_flesh_golem_custom_heal_per_kill_pct"    "%ЛЕЧЕНИЕ ЗА УБИЙСТВО:"
         "DOTA_Tooltip_Ability_undying_flesh_golem_custom_radius"    "РАДИУС:"
+        "DOTA_Tooltip_Ability_undying_flesh_golem_custom_str_to_damage"    "%DAMAGE FROM STRENGTH:"
 
         "DOTA_Tooltip_Ability_undying_consume_custom"    "Consume Flesh"
         "DOTA_Tooltip_Ability_undying_consume_custom_Description"    "Undying поглощает плоть своих поверженных врагов, получая постоянное увеличение своей силы."
@@ -3281,11 +3283,13 @@
         "DOTA_Tooltip_Ability_undying_infection_custom_spread_chance"    "%ШАНС РАСПРОСТРАНЕНИЯ:"
         "DOTA_Tooltip_Ability_undying_infection_custom_spread_radius"    "РАДИУС РАСПРОСТРАНЕНИЯ:"
         "DOTA_Tooltip_Ability_undying_infection_custom_spread_duration"    "ДЛИТЕЛЬНОСТЬ РАСПРОСТРАНЕНИЯ:"
+        "DOTA_Tooltip_Ability_undying_infection_custom_base_damage"    "BASE DAMAGE:"
+        "DOTA_Tooltip_Ability_undying_infection_custom_str_to_damage"    "%DAMAGE FROM STRENGTH:"
 
         "DOTA_Tooltip_Ability_undying_grave_custom"    "Undying"
-        "DOTA_Tooltip_Ability_undying_grave_custom_Description"    "Надгробие Undying извергается из-под земли, позволяя ему воскреснуть с частью здоровья после небольшой задержки, если он должен был умереть." 
-        "DOTA_Tooltip_Ability_undying_grave_custom_duration"    "ДЛИТЕЛЬНОСТЬ:"
-        "DOTA_Tooltip_Ability_undying_grave_custom_max_hp_restore_pct"    "%ЗДОРОВЬЯ ПРИ ВОЗРОЖДЕНИИ:"
+        "DOTA_Tooltip_Ability_undying_grave_custom_Description"    "Undying leaves a tombstone behind when dying and resurrects at the same location after a short delay."
+        //"DOTA_Tooltip_Ability_undying_grave_custom_duration"    "DURATION:"
+        //"DOTA_Tooltip_Ability_undying_grave_custom_max_hp_restore_pct"    "%MAX HEALTH RESTORED:"
 
         "DOTA_Tooltip_Ability_undying_frenzy_custom"    "Frenzy"
         "DOTA_Tooltip_Ability_undying_frenzy_custom_Description"    "Undying впадает в безумие и становится неуязвимым, повышая скорость передвижения, уменьшая базовое время атаки и нанося урон, зависящий от его максимального запаса здоровья, всем врагам вокруг него."
@@ -3360,7 +3364,7 @@
         "DOTA_Tooltip_Ability_item_burning_blades6_spell_amp"						"%+к урону от заклинаний"
 		"DOTA_Tooltip_Ability_item_burning_blades6_Description"			"<h1>Пассивно: Огненный взрыв</h1>Каждая атака имеет %explosion_chance%%% шанс вызвать взрыв, который наносит %explosion_damage% урона, оглушает и снижает сопротивление магии всех врагов на %magic_reduce%%% в радиусе %explosion_radius% на %explosion_debuff_duration% секунд. <br><br>ПЕРЕЗАРЯДКА: %proc_cooldown% секунд.\n<h1>Переключаемый: Burning Aura</h1>Ближайшие враги подожжены, пропускают %burn_miss%%% своих атак и получают %flat_burn% + %max_hp_burn%%% урона от вашей атаки каждую секунду."
 
-        "DOTA_Tooltip_Ability_undying_infection_custom_scepter_Description"    "Враги под эффектои Virulent Contagion взрываются после смерти и наносят магический урон всем ближайшим врагам."
+        "DOTA_Tooltip_Ability_undying_infection_custom_scepter_Description"    "When Virulent Contagion expires or when an enemy affected by it dies, they erupt into a violent explosion, damaging nearby enemies."
         "DOTA_Tooltip_Ability_undying_infection_custom_explosion_radius"    "Радиус:"
         "DOTA_Tooltip_Ability_undying_infection_custom_explosion_damage"    "Урон:"
         "DOTA_Tooltip_Ability_undying_infection_custom_explosion_damage_str_conversion"    "%Урон от силы:"
@@ -3939,8 +3943,8 @@
 		"DOTA_Tooltip_modifier_item_star_shard_debuff" "Lowered Magic Resistance"
 		"DOTA_Tooltip_modifier_item_star_shard_debuff_Description" "Сопротивление магии снижено на %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%"
 
-		"DOTA_Tooltip_Ability_item_star_shard"    "Star Shard"
-		"DOTA_Tooltip_Ability_item_star_shard_Description"    "<h1>Активация: Starfall</h1>Заставляет ваши атаки стрелять дополнительными звездами, которые наносят %active_agi_as_damage_pct%%% от вашей максимальной маны в виде магического урона всем врагам в радиусе %star_aoe% вокруг цели и снижают их сопротивление магии на %star_magic_res%%% на %star_magic_res_duration% секунд. \n<h1>Пассивно: Comet</h1>Существует %star_chance%%% шанс вызвать один звездопад при атаке."
+		"DOTA_Tooltip_Ability_item_star_shard"    "Starforge"
+		"DOTA_Tooltip_Ability_item_star_shard_Description"    "<h1>Active: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Passive: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
 		"DOTA_Tooltip_ability_item_star_shard_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_bonus_attack_speed"			"+$attack"
@@ -3948,8 +3952,8 @@
 		"DOTA_Tooltip_ability_item_star_shard_spell_amp"			"%+к урону от заклинаний"
 		"DOTA_Tooltip_ability_item_star_shard_mana_regen"			"+$mana_regen"
 
-		"DOTA_Tooltip_Ability_item_star_shard_2"    "Star Shard LVL2"
-		"DOTA_Tooltip_Ability_item_star_shard_2_Description"    "<h1>Активация: Starfall</h1>Заставляет ваши атаки стрелять дополнительными звездами, которые наносят %active_agi_as_damage_pct%%% от вашей максимальной маны в виде магического урона всем врагам в радиусе %star_aoe% вокруг цели и снижают их сопротивление магии на %star_magic_res%%% на %star_magic_res_duration% секунд. \n<h1>Пассивно: Comet</h1>Существует %star_chance%%% шанс вызвать один звездопад при атаке."
+		"DOTA_Tooltip_Ability_item_star_shard_2"    "Starforge LVL2"
+		"DOTA_Tooltip_Ability_item_star_shard_2_Description"    "<h1>Active: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Passive: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
 		"DOTA_Tooltip_ability_item_star_shard_2_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_2_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_2_bonus_attack_speed"			"+$attack"
@@ -3957,8 +3961,8 @@
 		"DOTA_Tooltip_ability_item_star_shard_2_spell_amp"			"%+к урону от заклинаний"
 		"DOTA_Tooltip_ability_item_star_shard_2_mana_regen"			"+$mana_regen"
 
-		"DOTA_Tooltip_Ability_item_star_shard_3"    "Star Shard LVL3"
-		"DOTA_Tooltip_Ability_item_star_shard_3_Description"    "<h1>Активация: Starfall</h1>Заставляет ваши атаки стрелять дополнительными звездами, которые наносят %active_agi_as_damage_pct%%% от вашей максимальной маны в виде магического урона всем врагам в радиусе %star_aoe% вокруг цели и снижают их сопротивление магии на %star_magic_res%%% на %star_magic_res_duration% секунд. \n<h1>Пассивно: Comet</h1>Существует %star_chance%%% шанс вызвать один звездопад при атаке."
+		"DOTA_Tooltip_Ability_item_star_shard_3"    "Starforge LVL3"
+		"DOTA_Tooltip_Ability_item_star_shard_3_Description"    "<h1>Active: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Passive: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
 		"DOTA_Tooltip_ability_item_star_shard_3_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_3_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_3_bonus_attack_speed"			"+$attack"
@@ -3966,8 +3970,8 @@
 		"DOTA_Tooltip_ability_item_star_shard_3_spell_amp"			"%+к урону от заклинаний"
 		"DOTA_Tooltip_ability_item_star_shard_3_mana_regen"			"+$mana_regen"
 
-		"DOTA_Tooltip_Ability_item_star_shard_4"    "Star Shard LVL4"
-		"DOTA_Tooltip_Ability_item_star_shard_4_Description"    "<h1>Активация: Starfall</h1>Заставляет ваши атаки стрелять дополнительными звездами, которые наносят %active_agi_as_damage_pct%%% от вашей максимальной маны в виде магического урона всем врагам в радиусе %star_aoe% вокруг цели и снижают их сопротивление магии на %star_magic_res%%% на %star_magic_res_duration% секунд. \n<h1>Пассивно: Comet</h1>Существует %star_chance%%% шанс вызвать один звездопад при атаке."
+		"DOTA_Tooltip_Ability_item_star_shard_4"    "Starforge LVL4"
+		"DOTA_Tooltip_Ability_item_star_shard_4_Description"    "<h1>Active: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Passive: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
 		"DOTA_Tooltip_ability_item_star_shard_4_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_4_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_4_bonus_attack_speed"			"+$attack"
@@ -3975,8 +3979,8 @@
 		"DOTA_Tooltip_ability_item_star_shard_4_spell_amp"			"%+к урону от заклинаний"
 		"DOTA_Tooltip_ability_item_star_shard_4_mana_regen"			"+$mana_regen"
 
-		"DOTA_Tooltip_Ability_item_star_shard_5"    "Star Shard LVL5"
-		"DOTA_Tooltip_Ability_item_star_shard_5_Description"    "<h1>Активация: Starfall</h1>Заставляет ваши атаки стрелять дополнительными звездами, которые наносят %active_agi_as_damage_pct%%% от вашей максимальной маны в виде магического урона всем врагам в радиусе %star_aoe% вокруг цели и снижают их сопротивление магии на %star_magic_res%%% на %star_magic_res_duration% секунд. \n<h1>Пассивно: Comet</h1>Существует %star_chance%%% шанс вызвать один звездопад при атаке."
+		"DOTA_Tooltip_Ability_item_star_shard_5"    "Starforge LVL5"
+		"DOTA_Tooltip_Ability_item_star_shard_5_Description"    "<h1>Active: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Passive: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
 		"DOTA_Tooltip_ability_item_star_shard_5_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_5_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_5_bonus_attack_speed"			"+$attack"
@@ -3984,8 +3988,8 @@
 		"DOTA_Tooltip_ability_item_star_shard_5_spell_amp"			"%+к урону от заклинаний"
 		"DOTA_Tooltip_ability_item_star_shard_5_mana_regen"			"+$mana_regen"
 
-		"DOTA_Tooltip_Ability_item_star_shard_6"    "Star Shard LVL6"
-		"DOTA_Tooltip_Ability_item_star_shard_6_Description"    "<h1>Активация: Starfall</h1>Заставляет ваши атаки стрелять дополнительными звездами, которые наносят %active_agi_as_damage_pct%%% от вашей максимальной маны в виде магического урона всем врагам в радиусе %star_aoe% вокруг цели и снижают их сопротивление магии на %star_magic_res%%% на %star_magic_res_duration% секунд. \n<h1>Пассивно: Comet</h1>Существует %star_chance%%% шанс вызвать один звездопад при атаке."
+		"DOTA_Tooltip_Ability_item_star_shard_6"    "Starforge LVL6"
+		"DOTA_Tooltip_Ability_item_star_shard_6_Description"    "<h1>Active: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Passive: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
 		"DOTA_Tooltip_ability_item_star_shard_6_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_6_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_6_bonus_attack_speed"			"+$attack"
@@ -4674,7 +4678,7 @@
 		"DOTA_Tooltip_ability_boss_shell_custom_max_debuff_duration" "МАКСИМАЛЬНАЯ ПРОДОЛЖИТЕЛЬНОСТЬ ДЕБАФФА:"
 
 		"DOTA_Tooltip_ability_item_staff_of_dragons" "Dragon Head Staff"
-		"DOTA_Tooltip_ability_item_staff_of_dragons_Description" "<h1>Пассивно: Draconic Power</h1>После нанесения магического урона врагу, накладывает на него отрицательный эффект, снижающий его сопротивление магии на %magic_shred%%%"
+		"DOTA_Tooltip_ability_item_staff_of_dragons_Description" "<h1>Passive: Draconic Flames</h1>Magical damage applies stacks of Draconic Flames on targets, dealing %damage% damage for %duration% seconds, multiplied for each stack the target has. Max %max_stacks% stacks.\n<h1>Passive: Magical Weakness</h1>Dealing Magical damage to an enemy applies a debuff to them that decreased their magical resistance by %magic_shred%%%."
 		"DOTA_Tooltip_ability_item_staff_of_dragons_bonus_agility"    "+$agi"
         "DOTA_Tooltip_ability_item_staff_of_dragons_bonus_strength"    "+$str"
         "DOTA_Tooltip_ability_item_staff_of_dragons_bonus_intellect"    "+$int"
@@ -4683,7 +4687,7 @@
         "DOTA_Tooltip_ability_item_staff_of_dragons_bonus_armor"    "+$armor"
 
         "DOTA_Tooltip_ability_item_staff_of_dragons_2" "Dragon Head Staff LVL2"
-		"DOTA_Tooltip_ability_item_staff_of_dragons_2_Description" "<h1>Пассивно: Draconic Power</h1>После нанесения магического урона врагу, накладывает на него отрицательный эффект, снижающий его сопротивление магии на %magic_shred%%%"
+		"DOTA_Tooltip_ability_item_staff_of_dragons_2_Description" "<h1>Passive: Draconic Flames</h1>Magical damage applies stacks of Draconic Flames on targets, dealing %damage% damage for %duration% seconds, multiplied for each stack the target has. Max %max_stacks% stacks.\n<h1>Passive: Magical Weakness</h1>Dealing Magical damage to an enemy applies a debuff to them that decreased their magical resistance by %magic_shred%%%."
 		"DOTA_Tooltip_ability_item_staff_of_dragons_2_bonus_agility"    "+$agi"
         "DOTA_Tooltip_ability_item_staff_of_dragons_2_bonus_strength"    "+$str"
         "DOTA_Tooltip_ability_item_staff_of_dragons_2_bonus_intellect"    "+$int"
@@ -4692,7 +4696,7 @@
         "DOTA_Tooltip_ability_item_staff_of_dragons_2_bonus_armor"    "+$armor"
 
         "DOTA_Tooltip_ability_item_staff_of_dragons_3" "Dragon Head Staff LVL3"
-		"DOTA_Tooltip_ability_item_staff_of_dragons_3_Description" "<h1>Пассивно: Draconic Power</h1>После нанесения магического урона врагу, накладывает на него отрицательный эффект, снижающий его сопротивление магии на %magic_shred%%%"
+		"DOTA_Tooltip_ability_item_staff_of_dragons_3_Description" "<h1>Passive: Draconic Flames</h1>Magical damage applies stacks of Draconic Flames on targets, dealing %damage% damage for %duration% seconds, multiplied for each stack the target has. Max %max_stacks% stacks.\n<h1>Passive: Magical Weakness</h1>Dealing Magical damage to an enemy applies a debuff to them that decreased their magical resistance by %magic_shred%%%."
 		"DOTA_Tooltip_ability_item_staff_of_dragons_3_bonus_agility"    "+$agi"
         "DOTA_Tooltip_ability_item_staff_of_dragons_3_bonus_strength"    "+$str"
         "DOTA_Tooltip_ability_item_staff_of_dragons_3_bonus_intellect"    "+$int"
@@ -4701,7 +4705,7 @@
         "DOTA_Tooltip_ability_item_staff_of_dragons_3_bonus_armor"    "+$armor"
 
         "DOTA_Tooltip_ability_item_staff_of_dragons_4" "Dragon Head Staff LVL4"
-		"DOTA_Tooltip_ability_item_staff_of_dragons_4_Description" "<h1>Пассивно: Draconic Power</h1>После нанесения магического урона врагу, накладывает на него отрицательный эффект, снижающий его сопротивление магии на %magic_shred%%%"
+		"DOTA_Tooltip_ability_item_staff_of_dragons_4_Description" "<h1>Passive: Draconic Flames</h1>Magical damage applies stacks of Draconic Flames on targets, dealing %damage% damage for %duration% seconds, multiplied for each stack the target has. Max %max_stacks% stacks.\n<h1>Passive: Magical Weakness</h1>Dealing Magical damage to an enemy applies a debuff to them that decreased their magical resistance by %magic_shred%%%."
 		"DOTA_Tooltip_ability_item_staff_of_dragons_4_bonus_agility"    "+$agi"
         "DOTA_Tooltip_ability_item_staff_of_dragons_4_bonus_strength"    "+$str"
         "DOTA_Tooltip_ability_item_staff_of_dragons_4_bonus_intellect"    "+$int"
@@ -4710,7 +4714,7 @@
         "DOTA_Tooltip_ability_item_staff_of_dragons_4_bonus_armor"    "+$armor"
 
         "DOTA_Tooltip_ability_item_staff_of_dragons_5" "Dragon Head Staff LVL5"
-		"DOTA_Tooltip_ability_item_staff_of_dragons_5_Description" "<h1>Пассивно: Draconic Power</h1>После нанесения магического урона врагу, накладывает на него отрицательный эффект, снижающий его сопротивление магии на %magic_shred%%%"
+		"DOTA_Tooltip_ability_item_staff_of_dragons_5_Description" "<h1>Passive: Draconic Flames</h1>Magical damage applies stacks of Draconic Flames on targets, dealing %damage% damage for %duration% seconds, multiplied for each stack the target has. Max %max_stacks% stacks.\n<h1>Passive: Magical Weakness</h1>Dealing Magical damage to an enemy applies a debuff to them that decreased their magical resistance by %magic_shred%%%."
 		"DOTA_Tooltip_ability_item_staff_of_dragons_5_bonus_agility"    "+$agi"
         "DOTA_Tooltip_ability_item_staff_of_dragons_5_bonus_strength"    "+$str"
         "DOTA_Tooltip_ability_item_staff_of_dragons_5_bonus_intellect"    "+$int"
@@ -4719,7 +4723,7 @@
         "DOTA_Tooltip_ability_item_staff_of_dragons_5_bonus_armor"    "+$armor"
 
         "DOTA_Tooltip_ability_item_staff_of_dragons_6" "Dragon Head Staff LVL6"
-		"DOTA_Tooltip_ability_item_staff_of_dragons_6_Description" "<h1>Пассивно: Draconic Power</h1>После нанесения магического урона врагу, накладывает на него отрицательный эффект, снижающий его сопротивление магии на %magic_shred%%%"
+		"DOTA_Tooltip_ability_item_staff_of_dragons_6_Description" "<h1>Passive: Draconic Flames</h1>Magical damage applies stacks of Draconic Flames on targets, dealing %damage% damage for %duration% seconds, multiplied for each stack the target has. Max %max_stacks% stacks.\n<h1>Passive: Magical Weakness</h1>Dealing Magical damage to an enemy applies a debuff to them that decreased their magical resistance by %magic_shred%%%."
 		"DOTA_Tooltip_ability_item_staff_of_dragons_6_bonus_agility"    "+$agi"
         "DOTA_Tooltip_ability_item_staff_of_dragons_6_bonus_strength"    "+$str"
         "DOTA_Tooltip_ability_item_staff_of_dragons_6_bonus_intellect"    "+$int"
@@ -4728,7 +4732,7 @@
         "DOTA_Tooltip_ability_item_staff_of_dragons_6_bonus_armor"    "+$armor"
 
         "DOTA_Tooltip_ability_item_staff_of_dragons_7" "Lost Dragon Head Staff"
-		"DOTA_Tooltip_ability_item_staff_of_dragons_7_Description" "<h1>Пассивно: Draconic Power</h1>После нанесения магического урона врагу, накладывает на него отрицательный эффект, снижающий его сопротивление магии на %magic_shred%%%"
+		"DOTA_Tooltip_ability_item_staff_of_dragons_7_Description" "<h1>Passive: Draconic Flames</h1>Magical damage applies stacks of Draconic Flames on targets, dealing %damage% damage for %duration% seconds, multiplied for each stack the target has. Max %max_stacks% stacks.\n<h1>Passive: Magical Weakness</h1>Dealing Magical damage to an enemy applies a debuff to them that decreased their magical resistance by %magic_shred%%%."
 		"DOTA_Tooltip_ability_item_staff_of_dragons_7_bonus_agility"    "+$agi"
         "DOTA_Tooltip_ability_item_staff_of_dragons_7_bonus_strength"    "+$str"
         "DOTA_Tooltip_ability_item_staff_of_dragons_7_bonus_intellect"    "+$int"
@@ -4737,7 +4741,7 @@
         "DOTA_Tooltip_ability_item_staff_of_dragons_7_bonus_armor"    "+$armor"
 
         "DOTA_Tooltip_ability_item_staff_of_dragons_8" "Rainbow Dragon Head Staff"
-		"DOTA_Tooltip_ability_item_staff_of_dragons_8_Description" "<h1>Пассивно: Draconic Power</h1>После нанесения магического урона врагу, накладывает на него отрицательный эффект, снижающий его сопротивление магии на %magic_shred%%%"
+		"DOTA_Tooltip_ability_item_staff_of_dragons_8_Description" "<h1>Passive: Draconic Flames</h1>Magical damage applies stacks of Draconic Flames on targets, dealing %damage% damage for %duration% seconds, multiplied for each stack the target has. Max %max_stacks% stacks.\n<h1>Passive: Magical Weakness</h1>Dealing Magical damage to an enemy applies a debuff to them that decreased their magical resistance by %magic_shred%%%."
 		"DOTA_Tooltip_ability_item_staff_of_dragons_8_bonus_agility"    "+$agi"
         "DOTA_Tooltip_ability_item_staff_of_dragons_8_bonus_strength"    "+$str"
         "DOTA_Tooltip_ability_item_staff_of_dragons_8_bonus_intellect"    "+$int"
@@ -4831,6 +4835,7 @@
         "DOTA_Tooltip_Ability_lion_finger_of_death_custom_mana_cost_scepter" "СТОИМОСТЬ МАНЫ:"
         "DOTA_Tooltip_Ability_lion_finger_of_death_custom_damage_delay" "ЗАДЕРЖКА:"
         "DOTA_Tooltip_Ability_lion_finger_of_death_custom_cooldown_scepter" "ПЕРЕЗАРЯДКА:"
+        "DOTA_Tooltip_Ability_lion_finger_of_death_custom_int_to_damage" "%DAMAGE FROM INTELLECT:"
         "DOTA_Tooltip_Ability_lion_finger_of_death_custom_splash_radius_scepter" "РАДИУС ОБЛАСТИ:"
         "DOTA_Tooltip_Ability_lion_finger_of_death_custom_damage_per_kill" "УРОНА ЗА УБИЙСТВО:"
         "DOTA_Tooltip_modifier_lion_finger_of_death_custom_stacks" "Finger of Death: УБИЙСТВА"
@@ -4994,6 +4999,18 @@
         "DOTA_Tooltip_Ability_item_gladiator_armor_6_bonus_damage" "+$damage"
         "DOTA_Tooltip_Ability_item_gladiator_armor_6_bonus_health" "+$health"
 
+        "DOTA_Tooltip_Ability_item_gladiator_armor_7" "Lost Gladiator's Armor"
+        "DOTA_Tooltip_Ability_item_gladiator_armor_7_Description" "<h1>Пассивно: Return</h1>При атаке вы возвращаете %pct_ret%%% полученного урона атакующему, а также %flat_ret% + %strength_ret%%% вашей силы. <br><br>(Наносит урон только врагам того же или более низкого уровня, что и владелец.)</i>\n<h1>Пассивно: Enrage</h1> Враги, атакующие вас, впадают в ярость и получают бонус %enrage_atk_spd% скорость атаки на %duration% секунд."
+        "DOTA_Tooltip_Ability_item_gladiator_armor_7_bonus_armor" "+$armor"
+        "DOTA_Tooltip_Ability_item_gladiator_armor_7_bonus_damage" "+$damage"
+        "DOTA_Tooltip_Ability_item_gladiator_armor_7_bonus_health" "+$health"
+
+        "DOTA_Tooltip_Ability_item_gladiator_armor_8" "Rainbow Gladiator's Armor"
+        "DOTA_Tooltip_Ability_item_gladiator_armor_8_Description" "<h1>Пассивно: Return</h1>При атаке вы возвращаете %pct_ret%%% полученного урона атакующему, а также %flat_ret% + %strength_ret%%% вашей силы. <br><br>(Наносит урон только врагам того же или более низкого уровня, что и владелец.)</i>\n<h1>Пассивно: Enrage</h1> Враги, атакующие вас, впадают в ярость и получают бонус %enrage_atk_spd% скорость атаки на %duration% секунд."
+        "DOTA_Tooltip_Ability_item_gladiator_armor_8_bonus_armor" "+$armor"
+        "DOTA_Tooltip_Ability_item_gladiator_armor_8_bonus_damage" "+$damage"
+        "DOTA_Tooltip_Ability_item_gladiator_armor_9_bonus_health" "+$health"
+
         "npc_dota_hero_dark_seer" "Saitama" 
 		"npc_arena_hero_saitama_hype" "Внешний вид обманчив. Проходя жестокие тренировки, Сайтама разрушает предел своих сил, что позволяет ему приумножать их. Хватит ли у вас воли, чтобы пройти через них?" 
 		"npc_arena_hero_saitama_bio" "По словам Сайтамы, еще в детстве он много времени проводил за просмотром шоу супергероев и мечтал, что однажды сможет стать таким же героем, как они. Сайтама был обычным офисным планктоном, которого постоянно встраивали в работу, но ему отказывали. Однажды, после очередного интервью, Сайтама возвращался домой с одной из улиц, когда услышал, как люди кричат, что впереди опасность и что все спасаются, но он движется дальше и встречает огромного краба-монстра. «Я хотел стать супергероем, который делает таких штампованных злодеев, как ты… Одним махом». Тот сердито говорит, что закончил поиски работы и сам отвлекает краба, Крабинатор лишь несколько раз бьет Сайтаму, говоря, что он не герой, а всего лишь бюджетник, и что против него у него нет шансов, а стоит только Крабинатор, чтобы расслабиться, как Сайтама хватает одного за глаз и вытаскивает его, тем самым побеждая краба-монстра. После этой битвы Сайтама решает стать могущественным супергероем, у него начинается ежедневный график тренировок, который состоит из 100 отжиманий, 100 приседаний и бега на 10 км каждый день. Он тоже ел три раза в день, но только бананы, как завтра, а также не использовал кондиционер для укрепления своего морального сопротивления. Эти ежедневные действия были очень жестокими и вызывали у него мучительные боли, такие как мышечные боли и внутреннее кровотечение. Однако Сайтама не сдавался и день за днем ​​продолжал тренироваться, чтобы стать супергероем." 
@@ -5021,19 +5038,20 @@
 		"DOTA_Tooltip_modifier_saitama_jogging_Description" "Каждые 100%% (теперь %dMODIFIER_PROPERTY_TOOLTIP%%%) Saitama получает эффект способности Jogging ." 
 		
 		"DOTA_Tooltip_ability_saitama_serious_punch" 
-		"Serious Punch" "DOTA_Tooltip_ability_saitama_serious_punch_Description" "Saitama прикладывает немного больше усилий к своей атаке, отталкивая цель и нанося больший урон в зависимости от его текущего урона от атаки. Каждый стак Limiter увеличивает множитель урона на %damage_multiplier_per_stack_pct%%%." 
+		"Serious Punch" "DOTA_Tooltip_ability_saitama_serious_punch_Description" "Saitama has a chance to unleash a devastating strike when attacking an enemy, dealing massive damage based on his current attack damage.<br><br>The damage is further increased by %damage_multiplier_per_stack_pct%%% for each stack of Limiter Saitama has." 
 		"DOTA_Tooltip_ability_saitama_serious_punch_Lore" "Let me become a bit more serious, so that you put all of yourself into this battle..." 
 		"DOTA_Tooltip_ability_saitama_serious_punch_base_damage_multiplier_pct" "%БАЗОВЫЙ МНОЖИТЕЛЬ УРОНА:" 
 		"DOTA_Tooltip_ability_saitama_serious_punch_damage_multiplier_per_stack_pct" "%БОНУС МНОЖИТЕЛЯ УРОНА ЗА СТАК:" 
-		"DOTA_Tooltip_ability_saitama_serious_punch_knockback_duration_step" "УРОН ЗА СЕКУНДУ НАКАУТА:" 
+		"DOTA_Tooltip_ability_saitama_serious_punch_chance" "%CHANCE:" 
 		
 		"DOTA_Tooltip_ability_saitama_limiter" "Limiter" 
-		"DOTA_Tooltip_ability_saitama_limiter_Description" "Докажите, что у вас достаточно воли, чтобы уничтожить свой Limiter.<br><br>Каждые 100 стеков Limiter навсегда увеличивают урон Saitama на часть его базовой силы и потребляют %manacost_pct%%% от вашего максимального запаса маны.<br><br> >Saitama получает стак за каждого убитого врага. При смерти будет потеряно %loss_stacks_pct%%% стаков." 
+		"DOTA_Tooltip_ability_saitama_limiter_Description" "Saitama has a chance to increase his damage when he attacks, based on his current stacks of Limiter.<br><br>Every 10 stacks of Limiter permanently increases Saitama's damage by a portion of his base Strength. Saitama also gets a stack of Limiter when killing an enemy.<br><br>At death, Saitama loses %loss_stacks_pct%%% of his Limiter stacks." 
 		"DOTA_Tooltip_ability_saitama_limiter_bonus_strength_pct" "%ПРОЦЕНТ СИЛЫ:" 
 		"DOTA_Tooltip_ability_saitama_limiter_aghanim_description" "Добавляет новую способность - Serious Punch" 
 		"DOTA_Tooltip_ability_saitama_limiter_Lore" "КАЖДЫЙ ДЕНЬ!!" 
 		"Dota_Tooltip_modifier_saitama_limiter" "Limiter" 
 		"Dota_Tooltip_modifier_saitama_limiter_Description" "Saitama получает стаки, тренируясь и убивая врагов. Каждый стак Limiter влияет на способности Limiter и Serious Punch."
+		"DOTA_Tooltip_ability_saitama_limiter_chance" "%CHANCE:"
 
         
 
@@ -7213,4 +7231,377 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_Ability_templar_assassin_psionic_explosion_custom_radius" "РАДИУС:"
 		"DOTA_Tooltip_modifier_templar_assassin_psionic_explosion_custom_debuff" "Psionic Explosion"
 		"DOTA_Tooltip_modifier_templar_assassin_psionic_explosion_custom_debuff_Description" "Получает повышенный урон от Templar Assassin."
+
+		"DOTA_Tooltip_Ability_lich_frost_nova_custom" "Frost Blast"
+		"DOTA_Tooltip_Ability_lich_frost_nova_custom_Description" "Поражает целевую вражескую единицу разрушительным морозом, нанося урон по площади и снижая скорость передвижения и атаки на %duration% секунд. Основная цель получает как базовый урон, так и урон по площади. Можно использовать автоматически, чтобы атаки Lich вызывали срабатывание Frost Blast."
+		"DOTA_Tooltip_Ability_lich_frost_nova_custom_radius" "РАДИУС:"
+		"DOTA_Tooltip_Ability_lich_frost_nova_custom_slow_movement_speed" "ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ, %:"
+		"DOTA_Tooltip_Ability_lich_frost_nova_custom_slow_attack_speed_primary" "ЗАМЕДЛЕНИЕ АТАКИ:"
+		"DOTA_Tooltip_Ability_lich_frost_nova_custom_duration" "ДЛИТЕЛЬНОСТЬ:"
+		"DOTA_Tooltip_Ability_lich_frost_nova_custom_damage" "УРОН:"
+		"DOTA_Tooltip_Ability_lich_frost_nova_custom_aoe_damage" "УРОН ПО ОБЛАСТИ:"
+		"DOTA_Tooltip_Ability_lich_frost_nova_custom_int_to_damage" "ИНТЕЛЛЕКТА В УРОН, %:"
+		"DOTA_Tooltip_modifier_lich_frost_nova_custom_debuff" "Frost Blast"
+		"DOTA_Tooltip_modifier_lich_frost_nova_custom_debuff_Description" "Движение замедлено на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, а скорость атаки снижена на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+		"DOTA_Tooltip_ability_special_bonus_unique_lich_1_custom" "-{s:value}с Frost Blast перезарядка"
+		"DOTA_Tooltip_ability_special_bonus_unique_lich_2_custom" "+{s:value} Frost Shield брони за интеллект"
+
+		"DOTA_Tooltip_Ability_lich_frost_shield_custom" "Frost Shield"
+		"DOTA_Tooltip_Ability_lich_frost_shield_custom_Lore" "Впервые задуманная, чтобы защитить его в его смертные годы, ледяная магия, которую Этриан сплетает вокруг себя, со временем стала только холоднее."
+		"DOTA_Tooltip_Ability_lich_frost_shield_custom_shard_Description" "Frost Shield применяется ко всем союзникам в области вокруг цели и дает цели максимальное восстановление здоровья."
+		"DOTA_Tooltip_Ability_lich_frost_shield_custom_Description" "Накладывает магический ледяной щит вокруг цели, увеличивая ее броню в зависимости от интеллекта Lich. Пока щит активен, ледяная магия будет воздействовать на ближайших вражеских юнитов каждые %interval% секунды, нанося урон и замедляя их скорость передвижения и атаки. Урон увеличивается на %stack_increase%%% за каждого героя, пораженного Frost Shield, когда он наносит урон. Можно использовать на Ice Spire.<br><br>Можно использовать автоматически, чтобы автоматически применить на Lich, когда это возможно."
+		"DOTA_Tooltip_Ability_lich_frost_shield_custom_int_to_armor" "БРОНИ ЗА ИНТЕЛЛЕКТ, 1ЕД.:"
+		"DOTA_Tooltip_Ability_lich_frost_shield_custom_movement_slow" "ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ, %:"
+		"DOTA_Tooltip_Ability_lich_frost_shield_custom_attack_slow" "ЗАМЕДЛЕНИЕ АТАКИ:"
+		"DOTA_Tooltip_Ability_lich_frost_shield_custom_slow_duration" "ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ:"
+		"DOTA_Tooltip_Ability_lich_frost_shield_custom_damage" "УРОН:"
+		"DOTA_Tooltip_Ability_lich_frost_shield_custom_int_to_damage" "ИНТЕЛЛЕКТА В УРОН, %:"
+		"DOTA_Tooltip_Ability_lich_frost_shield_custom_radius" "РАДИУС:"
+		"DOTA_Tooltip_Ability_lich_frost_shield_custom_duration" "ДЛИТЕЛЬНОСТЬ:"
+		"DOTA_Tooltip_Ability_lich_frost_shield_custom_max_health_regen" "%РЕГЕНЕРАЦИЯ ОТ МАКС. ЗДОРОВЬЯ:"
+		"DOTA_Tooltip_Ability_lich_frost_shield_custom_target_radius" "РАДИУС:"
+		"DOTA_Tooltip_modifier_lich_frost_shield_custom_buff" "Frost Shield"
+		"DOTA_Tooltip_modifier_lich_frost_shield_custom_buff_Description" "Наносит урон и замедляет ближайших врагов. Получает %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% дополнительной брони."
+		"DOTA_Tooltip_modifier_lich_frost_shield_custom_debuff" "Frost Shield"
+		"DOTA_Tooltip_modifier_lich_frost_shield_custom_debuff_Description" "Скорость передвижения уменьшилась на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, а скорость атаки уменьшилась на %dMODIFIER_PROPERTY_ATTACKSPEED_PERCENTAGE%%%."
+		"DOTA_Tooltip_Ability_special_bonus_unique_lich_4_custom" "+{s:value}с Frost Shield Длительность"
+
+		"DOTA_Tooltip_Ability_lich_sacrifice_custom" "Sacrifice"
+		"DOTA_Tooltip_Ability_lich_sacrifice_custom_Lore" "Жертва ради общего блага."
+		"DOTA_Tooltip_Ability_lich_sacrifice_custom_shard_Description" "Sacrifice становится нацеленным на область, позволяя Lich пожертвовать сразу несколькими врагами."
+		"DOTA_Tooltip_Ability_lich_sacrifice_custom_Description" "Lich приносит в жертву крипа, мгновенно убивая его и исцеляя себя в зависимости от части здоровья цели. Lich получает постоянное увеличение своего интеллекта за каждую жертву."
+		"DOTA_Tooltip_Ability_lich_sacrifice_custom_health_conversion" "ЛЕЧЕНИЕ ОТ ЗДОРОВЬЯ ЦЕЛИ, %:"
+		"DOTA_Tooltip_Ability_lich_sacrifice_custom_int_per_kill" "БОНУС ИНТЕЛЛЕКТА:"
+		"DOTA_Tooltip_Ability_lich_sacrifice_custom_radius" "РАДИУС:"
+		"DOTA_Tooltip_modifier_lich_sacrifice_custom_buff_permanent" "Sacrifice"
+		"DOTA_Tooltip_modifier_lich_sacrifice_custom_buff_permanent_Description" "Получает %dMODIFIER_PROPERTY_TOOLTIP% за стак постоянного бонуса к интеллекту."
+
+		"npc_dota_lich_ice_spire_custom" "Ice Spire"
+
+		"DOTA_Tooltip_Ability_lich_ice_spire_custom" "Ice Spire"
+		"DOTA_Tooltip_Ability_lich_ice_spire_custom_Lore" "Ледяная конструкция."
+		"DOTA_Tooltip_Ability_lich_ice_spire_custom_Description" "Lich призывает неуправляемый Ice Spire, парящий над землей, с собственным набором умений. Он не может двигаться, быть атакованным или убитым, но истекает через установленное время."
+		"DOTA_Tooltip_Ability_lich_ice_spire_custom_int_to_damage" "ИНТЕЛЛЕКТА В УРОН, %:"
+		"DOTA_Tooltip_Ability_lich_ice_spire_custom_duration" "ДЛИТЕЛЬНОСТЬ"
+
+		"DOTA_Tooltip_Ability_lich_ice_spire_custom_field" "Ice Field"
+		"DOTA_Tooltip_Ability_lich_ice_spire_custom_field_Description" "Ice Spire постоянно создает вокруг себя леденящее поле льда, замедляя и нанося урон ближайшим врагам."
+		"DOTA_Tooltip_Ability_lich_ice_spire_custom_field_damage" "УРОН:"
+		"DOTA_Tooltip_Ability_lich_ice_spire_custom_field_slow" "ЗАМЕДЛЕНИЕ, %:"
+		"DOTA_Tooltip_Ability_lich_ice_spire_custom_field_interval" "ИНТЕРВАЛ:"
+		"DOTA_Tooltip_Ability_lich_ice_spire_custom_field_radius" "РАДИУС:"
+		"DOTA_Tooltip_modifier_lich_ice_spire_custom_field_aura" "Ice Field"
+		"DOTA_Tooltip_modifier_lich_ice_spire_custom_field_aura_Description" "Получение постоянного урона внутри Ice Field. Скорость передвижения снижена на -%dMODIFIER_PROPERTY_MOVESPEED BONUS PERCENTAGE%%%."
+
+		"DOTA_Tooltip_Ability_lich_chain_frost_custom" "Chain Frost"
+		"DOTA_Tooltip_Ability_lich_chain_frost_custom_Lore" "Сфера замороженной смерти Этриана, почти повсеместно считающаяся совершенством магии льда, вселяет страх в тех, кто осмеливается выступить против него."
+		"DOTA_Tooltip_Ability_lich_chain_frost_custom_scepter_Description" "Каждый раз, когда Chain Frost прыгает с ледяного шпиля, урон от последующих отскоков увеличивается."
+		"DOTA_Tooltip_Ability_lich_chain_frost_custom_Description" "Выпускает сферу льда, которая прыгает между ближайшими вражескими юнитами до %jumps% раз, замедляя и нанося урон при каждом попадании. Может искать цель и прыгать между Ice Spires неограниченное количество раз."
+		"DOTA_Tooltip_Ability_lich_chain_frost_custom_damage" "УРОН:"
+		"DOTA_Tooltip_Ability_lich_chain_frost_custom_jumps" "ОТСКОКИ:"
+		"DOTA_Tooltip_Ability_lich_chain_frost_custom_jump_range" "ДИСТАНЦИЯ ОТСКОКОВ:"
+		"DOTA_Tooltip_Ability_lich_chain_frost_custom_slow_movement_speed" "ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ, %:"
+		"DOTA_Tooltip_Ability_lich_chain_frost_custom_slow_attack_speed" "ЗАМЕДЛЕНИЕ АТАКИ:"
+		"DOTA_Tooltip_Ability_lich_chain_frost_custom_slow_duration" "ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ:"
+		"DOTA_Tooltip_Ability_lich_chain_frost_custom_int_to_damage" "ИНТЕЛЛЕКТА В УРОН, %:"
+		"DOTA_Tooltip_Ability_lich_chain_frost_custom_damage_increase_per_spire_jump" "%SUBSEQUENT ПОВЫШЕНИЕ УРОНА:"
+		"DOTA_Tooltip_Ability_special_bonus_unique_lich_3_custom" "+{s:value} Chain Frost Скорость снаряда"
+		"DOTA_Tooltip_modifier_lich_chain_frost_custom" "Chain Frost"
+		"DOTA_Tooltip_modifier_lich_chain_frost_custom_Description" "Скорость передвижения уменьшилась на -%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, а скорость атаки уменьшилась на -%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+		"DOTA_Tooltip_modifier_lich_chain_frost_custom_thinker" "Chain Frost"
+
+		"DOTA_Tooltip_Ability_lich_ice_spire_custom_icy_aura" "Ethreain's Whisper"
+		"DOTA_Tooltip_Ability_lich_ice_spire_custom_icy_aura_Description" "Создает ауру, которая дает ближайшим союзникам повышенное усиление заклинаний и снижает магическое сопротивление ближайших врагов."
+		"DOTA_Tooltip_Ability_lich_ice_spire_custom_icy_aura_magic_res" "СНИЖЕНИЕ МАГИЧЕСКОГО СОПРОТИВЛЕНИЯ, %:"
+		"DOTA_Tooltip_Ability_lich_ice_spire_custom_icy_aura_spell_amp" "УСИЛЕНИЕ ЗАКЛИНАНИЙ СОЮЗНИКОВ, %:"
+		"DOTA_Tooltip_modifier_lich_ice_spire_custom_icy_aura_aura" "Ethreain's Worshiper"
+		"DOTA_Tooltip_modifier_lich_ice_spire_custom_icy_aura_aura_Description" "Получает %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%% дополнительного усиления заклинаний."
+		"DOTA_Tooltip_modifier_lich_ice_spire_custom_icy_aura_aura_enemy" "Ethreain's Whisper"
+		"DOTA_Tooltip_modifier_lich_ice_spire_custom_icy_aura_aura_enemy_Description" "Магическое сопротивление уменьшено на -%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%."
+
+		"DOTA_Tooltip_Ability_item_blood_drainer" "Soul Reaver"
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_Description" "<h1>Переключаемый: Soul Vortex</h1>Включите, чтобы окружить себя смертоносным вихрем душ проклятых, высасывающим %health_drain_pct%%% вашего максимального здоровья каждые %interval% секунд и наносящим %base_damage% + истощенное здоровье, как урон всем врагам в радиусе %radius% вокруг вас.<br><br>Истощение здоровья постепенно увеличивается на +%health_drain_increment_pct%%% за каждую секунду, когда оно включено, но отключается, если урон может вас убить."
+		"DOTA_Tooltip_Ability_item_blood_drainer_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_blood_drainer_bonus_armor" "+$armor"
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_2" "Soul Reaver LVL2"
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_2_Description" "<h1>Переключаемый: Soul Vortex</h1>Включите, чтобы окружить себя смертоносным вихрем душ проклятых, высасывающим %health_drain_pct%%% вашего максимального здоровья каждые %interval% секунд и наносящим %base_damage% + истощенное здоровье, как урон всем врагам в радиусе %radius% вокруг вас.<br><br>Истощение здоровья постепенно увеличивается на +%health_drain_increment_pct%%% за каждую секунду, когда оно включено, но отключается, если урон может вас убить."
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_2_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_blood_drainer_2_bonus_armor" "+$armor"
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_3" "Soul Reaver LVL3"
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_3_Description" "<h1>Переключаемый: Soul Vortex</h1>Включите, чтобы окружить себя смертоносным вихрем душ проклятых, высасывающим %health_drain_pct%%% вашего максимального здоровья каждые %interval% секунд и наносящим %base_damage% + истощенное здоровье, как урон всем врагам в радиусе %radius% вокруг вас.<br><br>Истощение здоровья постепенно увеличивается на +%health_drain_increment_pct%%% за каждую секунду, когда оно включено, но отключается, если урон может вас убить."
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_3_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_blood_drainer_3_bonus_armor" "+$armor"
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_4" "Soul Reaver LVL4"
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_4_Description" "<h1>Переключаемый: Soul Vortex</h1>Включите, чтобы окружить себя смертоносным вихрем душ проклятых, высасывающим %health_drain_pct%%% вашего максимального здоровья каждые %interval% секунд и наносящим %base_damage% + истощенное здоровье, как урон всем врагам в радиусе %radius% вокруг вас.<br><br>Истощение здоровья постепенно увеличивается на +%health_drain_increment_pct%%% за каждую секунду, когда оно включено, но отключается, если урон может вас убить."
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_4_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_blood_drainer_4_bonus_armor" "+$armor"
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_5" "Soul Reaver LVL5"
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_5_Description" "<h1>Переключаемый: Soul Vortex</h1>Включите, чтобы окружить себя смертоносным вихрем душ проклятых, высасывающим %health_drain_pct%%% вашего максимального здоровья каждые %interval% секунд и наносящим %base_damage% + истощенное здоровье, как урон всем врагам в радиусе %radius% вокруг вас.<br><br>Истощение здоровья постепенно увеличивается на +%health_drain_increment_pct%%% за каждую секунду, когда оно включено, но отключается, если урон может вас убить."
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_5_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_blood_drainer_5_bonus_armor" "+$armor"
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_6" "Soul Reaver LVL6"
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_6_Description" "<h1>Переключаемый: Soul Vortex</h1>Включите, чтобы окружить себя смертоносным вихрем душ проклятых, высасывающим %health_drain_pct%%% вашего максимального здоровья каждые %interval% секунд и наносящим %base_damage% + истощенное здоровье, как урон всем врагам в радиусе %radius% вокруг вас.<br><br>Истощение здоровья постепенно увеличивается на +%health_drain_increment_pct%%% за каждую секунду, когда оно включено, но отключается, если урон может вас убить."
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_6_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_blood_drainer_6_bonus_armor" "+$armor"
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_7" "Soul Reaver LVL7"
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_7_Description" "<h1>Переключаемый: Soul Vortex</h1>Включите, чтобы окружить себя смертоносным вихрем душ проклятых, высасывающим %health_drain_pct%%% вашего максимального здоровья каждые %interval% секунд и наносящим %base_damage% + истощенное здоровье, как урон всем врагам в радиусе %radius% вокруг вас.<br><br>Истощение здоровья постепенно увеличивается на +%health_drain_increment_pct%%% за каждую секунду, когда оно включено, но отключается, если урон может вас убить."
+
+		"DOTA_Tooltip_Ability_item_blood_drainer_7_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_blood_drainer_7_bonus_armor" "+$armor"
+
+		"DOTA_Tooltip_Ability_item_heavens_counter" "Heaven's Counter"
+
+		"DOTA_Tooltip_Ability_item_heavens_counter_Description" "<h1>Активный: Disarm</h1>Предотвращает атаку цели на %duration% секунд.\n<h1>Пассивно: Counter</h1>У вас есть %chance%%% шанс контратаковать врага при атаке, ударив их и оставив тебя невредимым."
+
+		//"DOTA_Tooltip_Ability_item_heavens_counter_bonus_evasion" "%+$evasion"
+		"DOTA_Tooltip_Ability_item_heavens_counter_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_heavens_counter_bonus_status_resistance" "%+Сопротивление эффектам"
+		"DOTA_Tooltip_Ability_item_heavens_counter_bonus_regen_amp" "%+ Усиление восстановление здоровья и вампиризма"
+
+		"DOTA_Tooltip_Ability_item_heavens_counter_2" "Heaven's Counter LVL2"
+		"DOTA_Tooltip_Ability_item_heavens_counter_2_Description" "<h1>Активный: Disarm</h1>Предотвращает атаку цели на %duration% секунд.\n<h1>Пассивно: Counter</h1>У вас есть %chance%%% шанс контратаковать врага при атаке, ударив их и оставив тебя невредимым."
+
+		//"DOTA_Tooltip_Ability_item_heavens_counter_2_bonus_evasion" "%+$evasion"
+		"DOTA_Tooltip_Ability_item_heavens_counter_2_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_heavens_counter_2_bonus_status_resistance" "%+Сопротивление эффектам"
+		"DOTA_Tooltip_Ability_item_heavens_counter_2_bonus_regen_amp" "%+ Усиление восстановление здоровья и вампиризма"
+
+		"DOTA_Tooltip_Ability_item_heavens_counter_3" "Heaven's Counter LVL3"
+		"DOTA_Tooltip_Ability_item_heavens_counter_3_Description" "<h1>Активный: Disarm</h1>Предотвращает атаку цели на %duration% секунд.\n<h1>Пассивно: Counter</h1>У вас есть %chance%%% шанс контратаковать врага при атаке, ударив их и оставив тебя невредимым."
+
+		//"DOTA_Tooltip_Ability_item_heavens_counter_3_bonus_evasion" "%+$evasion"
+		"DOTA_Tooltip_Ability_item_heavens_counter_3_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_heavens_counter_3_bonus_status_resistance" "%+Сопротивление эффектам"
+		"DOTA_Tooltip_Ability_item_heavens_counter_3_bonus_regen_amp" "%+ Усиление восстановление здоровья и вампиризма"
+
+		"DOTA_Tooltip_Ability_item_heavens_counter_4" "Heaven's Counter LVL4"
+		"DOTA_Tooltip_Ability_item_heavens_counter_4_Description" "<h1>Активный: Disarm</h1>Предотвращает атаку цели на %duration% секунд.\n<h1>Пассивно: Counter</h1>У вас есть %chance%%% шанс контратаковать врага при атаке, ударив их и оставив тебя невредимым."
+
+		//"DOTA_Tooltip_Ability_item_heavens_counter_4_bonus_evasion" "%+$evasion"
+		"DOTA_Tooltip_Ability_item_heavens_counter_4_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_heavens_counter_4_bonus_status_resistance" "%+Сопротивление эффектам"
+		"DOTA_Tooltip_Ability_item_heavens_counter_4_bonus_regen_amp" "%+ Усиление восстановление здоровья и вампиризма"
+
+		"DOTA_Tooltip_Ability_item_heavens_counter_5" "Heaven's Counter LVL5"
+		"DOTA_Tooltip_Ability_item_heavens_counter_5_Description" "<h1>Активный: Disarm</h1>Предотвращает атаку цели на %duration% секунд.\n<h1>Пассивно: Counter</h1>У вас есть %chance%%% шанс контратаковать врага при атаке, ударив их и оставив тебя невредимым."
+
+		//"DOTA_Tooltip_Ability_item_heavens_counter_5_bonus_evasion" "%+$evasion"
+		"DOTA_Tooltip_Ability_item_heavens_counter_5_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_heavens_counter_5_bonus_status_resistance" "%+Сопротивление эффектам"
+		"DOTA_Tooltip_Ability_item_heavens_counter_5_bonus_regen_amp" "%+ Усиление восстановление здоровья и вампиризма"
+
+		"DOTA_Tooltip_Ability_item_heavens_counter_6" "Heaven's Counter LVL6"
+		"DOTA_Tooltip_Ability_item_heavens_counter_6_Description" "<h1>Активный: Disarm</h1>Предотвращает атаку цели на %duration% секунд.\n<h1>Пассивно: Counter</h1>У вас есть %chance%%% шанс контратаковать врага при атаке, ударив их и оставив тебя невредимым."
+
+		//"DOTA_Tooltip_Ability_item_heavens_counter_6_bonus_evasion" "%+$evasion"
+		"DOTA_Tooltip_Ability_item_heavens_counter_6_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_heavens_counter_6_bonus_status_resistance" "%+Сопротивление эффектам"
+		"DOTA_Tooltip_Ability_item_heavens_counter_6_bonus_regen_amp" "%+ Усиление восстановление здоровья и вампиризма"
+
+		"DOTA_Tooltip_Ability_item_heavens_counter_7" "Heaven's Counter LVL7"
+		"DOTA_Tooltip_Ability_item_heavens_counter_7_Description" "<h1>Активный: Disarm</h1>Предотвращает атаку цели на %duration% секунд.\n<h1>Пассивно: Counter</h1>У вас есть %chance%%% шанс контратаковать врага при атаке, ударив их и оставив тебя невредимым."
+
+		//"DOTA_Tooltip_Ability_item_heavens_counter_7_bonus_evasion" "%+$evasion"
+		"DOTA_Tooltip_Ability_item_heavens_counter_7_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_heavens_counter_7_bonus_status_resistance" "%+Сопротивление эффектам"
+		"DOTA_Tooltip_Ability_item_heavens_counter_7_bonus_regen_amp" "%+ Усиление восстановление здоровья и вампиризма"
+
+		"DOTA_Tooltip_Ability_item_heavens_counter_8" "Lost Heaven's Counter"
+		"DOTA_Tooltip_Ability_item_heavens_counter_8_Description" "<h1>Активный: Disarm</h1>Предотвращает атаку цели на %duration% секунд.\n<h1>Пассивно: Counter</h1>У вас есть %chance%%% шанс контратаковать врага при атаке, ударив их и оставив тебя невредимым."
+
+		//"DOTA_Tooltip_Ability_item_heavens_counter_8_bonus_evasion" "%+$evasion"
+		"DOTA_Tooltip_Ability_item_heavens_counter_8_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_heavens_counter_8_bonus_status_resistance" "%+Сопротивление эффектам"
+		"DOTA_Tooltip_Ability_item_heavens_counter_8_bonus_regen_amp" "%+ Усиление восстановление здоровья и вампиризма"
+
+		"DOTA_Tooltip_Ability_item_heavens_counter_9" "Rainbow Heaven's Counter"
+		"DOTA_Tooltip_Ability_item_heavens_counter_9_Description" "<h1>Активный: Disarm</h1>Предотвращает атаку цели на %duration% секунд.\n<h1>Пассивно: Counter</h1>У вас есть %chance%%% шанс контратаковать врага при атаке, ударив их и оставив тебя невредимым."
+
+		//"DOTA_Tooltip_Ability_item_heavens_counter_9_bonus_evasion" "%+$evasion"
+		"DOTA_Tooltip_Ability_item_heavens_counter_9_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_heavens_counter_9_bonus_status_resistance" "%+Сопротивление эффектам"
+		"DOTA_Tooltip_Ability_item_heavens_counter_9_bonus_regen_amp" "%+ Усиление восстановление здоровья и вампиризма"
+
+		"DOTA_Tooltip_modifier_apocalypse_corpse_explosion" "Corpse Explosion"
+		"DOTA_Tooltip_modifier_apocalypse_corpse_explosion_Description" "Враги яростно взрываются через несколько секунд после смерти, нанося 30%%% своего максимального здоровья в виде урона всем врагам в области."
+
+		"DOTA_Tooltip_modifier_apocalypse_increased_speed" "Haste"
+		"DOTA_Tooltip_modifier_apocalypse_increased_speed_Description" "Скорость передвижения врагов увеличена на +50%%%."
+
+		"DOTA_Tooltip_modifier_apocalypse_attack_range" "Attack Range"
+		"DOTA_Tooltip_modifier_apocalypse_attack_range_Description" "Дальность атаки врагов увеличена на +300."
+
+		"DOTA_Tooltip_modifier_apocalypse_magic_resistance" "Magic Resistance"
+		"DOTA_Tooltip_modifier_apocalypse_magic_resistance_Description" "Магическое сопротивление врагов увеличено на +50%%%."
+
+		"DOTA_Tooltip_modifier_apocalypse_armor" "Armor"
+		"DOTA_Tooltip_modifier_apocalypse_armor_Description" "Броня врагов увеличена на +50%%%."
+
+		"DOTA_Tooltip_modifier_apocalypse_evasion" "Evasion"
+		"DOTA_Tooltip_modifier_apocalypse_evasion_Description" "Уклонение врагов увеличено на +30%%%."
+
+		"DOTA_Tooltip_modifier_apocalypse_magic_attacks" "Magic Attacks"
+		"DOTA_Tooltip_modifier_apocalypse_magic_attacks_Description" "Атаки врагов наносят 50%% физического урона и 50%% магического урона."
+
+		"DOTA_Tooltip_modifier_apocalypse_mana_burn" "Mana Burn"
+		"DOTA_Tooltip_modifier_apocalypse_mana_burn_Description" "Атаки врагов сжигают -5%%% вашей максимальной маны и наносят цели дополнительный магический урон."
+
+		"DOTA_Tooltip_modifier_apocalypse_life_blood" "Life Blood"
+		"DOTA_Tooltip_modifier_apocalypse_life_blood_Description" "Увеличивает скорость атаки врагов на +25 за каждые 10%%% недостающего здоровья."
+
+		"DOTA_Tooltip_modifier_apocalypse_life_blood_Description" "Increases the attack speed of enemies by +25 for every 10%%% of its missing health."
+
+		"DOTA_Tooltip_modifier_undying_infection_custom_debuff" "Virulent Contagion"
+		"DOTA_Tooltip_modifier_undying_infection_custom_debuff_Description" "Infected with Undying's Virulent Contagion, taking damage every second with a chance to spread it to nearby enemies."
+		"DOTA_Tooltip_modifier_undying_infection_custom_debuff_threshold" "Virulent Contagion: Rupture"
+		"DOTA_Tooltip_modifier_undying_infection_custom_debuff_threshold_Description" "Your skin is ruptured, taking heavy bleed damage."
+
+		"DOTA_Tooltip_modifier_undying_frenzy_custom_buff" "Frenzy"
+		"DOTA_Tooltip_modifier_undying_frenzy_custom_buff_Description" "Damaging nearby enemies."
+		"DOTA_Tooltip_modifier_undying_frenzy_custom_buff_aura" "Frenzy"
+		"DOTA_Tooltip_modifier_undying_frenzy_custom_buff_aura_Description" "Taking damage from Undying."
+
+		"DOTA_Tooltip_modifier_undying_flesh_golem_custom_aura" "Living Dead"
+		"DOTA_Tooltip_modifier_undying_flesh_golem_custom_aura_Description" "Being slowed by Undying."
+
+		"DOTA_Tooltip_modifier_item_staff_of_dragons_debuff_burning" "Draconic Flames"
+		"DOTA_Tooltip_modifier_item_staff_of_dragons_debuff_burning_Description" "Taking periodic damage."
+
+		"DOTA_Tooltip_Ability_item_havoc" "Havoc Hammer"
+		"DOTA_Tooltip_Ability_item_havoc_Description" "<h1>Passive: Havoc</h1>Attacks have a %chance%%% chance to explode, dealing %damage% + %damage_strength_pct%%% of your Strength as damage to all enemies in a %radius% radius around you, stunning them for %stun_duration% seconds and then slowing them by %slow%%% for %slow_duration% seconds."
+		"DOTA_Tooltip_Ability_item_havoc_bonus_damage" "+$damage"
+		"DOTA_Tooltip_Ability_item_havoc_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_havoc_bonus_attack_speed" "+$attack"
+
+		"DOTA_Tooltip_Ability_item_havoc_2" "Havoc Hammer LVL2"
+		"DOTA_Tooltip_Ability_item_havoc_2_Description" "<h1>Passive: Havoc</h1>Attacks have a %chance%%% chance to explode, dealing %damage% + %damage_strength_pct%%% of your Strength as damage to all enemies in a %radius% radius around you, stunning them for %stun_duration% seconds and then slowing them by %slow%%% for %slow_duration% seconds."
+		"DOTA_Tooltip_Ability_item_havoc_2_bonus_damage" "+$damage"
+		"DOTA_Tooltip_Ability_item_havoc_2_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_havoc_2_bonus_attack_speed" "+$attack"
+
+		"DOTA_Tooltip_Ability_item_havoc_3" "Havoc Hammer LVL3"
+		"DOTA_Tooltip_Ability_item_havoc_3_Description" "<h1>Passive: Havoc</h1>Attacks have a %chance%%% chance to explode, dealing %damage% + %damage_strength_pct%%% of your Strength as damage to all enemies in a %radius% radius around you, stunning them for %stun_duration% seconds and then slowing them by %slow%%% for %slow_duration% seconds."
+		"DOTA_Tooltip_Ability_item_havoc_3_bonus_damage" "+$damage"
+		"DOTA_Tooltip_Ability_item_havoc_3_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_havoc_3_bonus_attack_speed" "+$attack"
+
+		"DOTA_Tooltip_Ability_item_havoc_4" "Havoc Hammer LVL4"
+		"DOTA_Tooltip_Ability_item_havoc_4_Description" "<h1>Passive: Havoc</h1>Attacks have a %chance%%% chance to explode, dealing %damage% + %damage_strength_pct%%% of your Strength as damage to all enemies in a %radius% radius around you, stunning them for %stun_duration% seconds and then slowing them by %slow%%% for %slow_duration% seconds."
+		"DOTA_Tooltip_Ability_item_havoc_4_bonus_damage" "+$damage"
+		"DOTA_Tooltip_Ability_item_havoc_4_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_havoc_4_bonus_attack_speed" "+$attack"
+
+		"DOTA_Tooltip_Ability_item_havoc_5" "Havoc Hammer LVL5"
+		"DOTA_Tooltip_Ability_item_havoc_5_Description" "<h1>Passive: Havoc</h1>Attacks have a %chance%%% chance to explode, dealing %damage% + %damage_strength_pct%%% of your Strength as damage to all enemies in a %radius% radius around you, stunning them for %stun_duration% seconds and then slowing them by %slow%%% for %slow_duration% seconds."
+		"DOTA_Tooltip_Ability_item_havoc_5_bonus_damage" "+$damage"
+		"DOTA_Tooltip_Ability_item_havoc_5_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_havoc_5_bonus_attack_speed" "+$attack"
+
+		"DOTA_Tooltip_Ability_item_havoc_6" "Havoc Hammer LVL6"
+		"DOTA_Tooltip_Ability_item_havoc_6_Description" "<h1>Passive: Havoc</h1>Attacks have a %chance%%% chance to explode, dealing %damage% + %damage_strength_pct%%% of your Strength as damage to all enemies in a %radius% radius around you, stunning them for %stun_duration% seconds and then slowing them by %slow%%% for %slow_duration% seconds."
+		"DOTA_Tooltip_Ability_item_havoc_6_bonus_damage" "+$damage"
+		"DOTA_Tooltip_Ability_item_havoc_6_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_havoc_6_bonus_attack_speed" "+$attack"
+
+		"DOTA_Tooltip_Ability_item_havoc_7" "Havoc Hammer LVL7"
+		"DOTA_Tooltip_Ability_item_havoc_7_Description" "<h1>Passive: Havoc</h1>Attacks have a %chance%%% chance to explode, dealing %damage% + %damage_strength_pct%%% of your Strength as damage to all enemies in a %radius% radius around you, stunning them for %stun_duration% seconds and then slowing them by %slow%%% for %slow_duration% seconds."
+		"DOTA_Tooltip_Ability_item_havoc_7_bonus_damage" "+$damage"
+		"DOTA_Tooltip_Ability_item_havoc_7_bonus_strength" "+$str"
+		"DOTA_Tooltip_Ability_item_havoc_7_bonus_attack_speed" "+$attack"
+
+		"DOTA_Tooltip_modifier_item_havoc_stunned" "Stunned"
+		"DOTA_Tooltip_modifier_item_havoc_slowed" "Slowed"
+		"DOTA_Tooltip_modifier_item_havoc_slowed_Description" "Slowed by -%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_switch_custom" "Transform"
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_switch_custom_Lore" "Three becomes one."
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_switch_custom_scepter_Description" "<b color='#617db5'>BLACK ELDER DRAGON (PHYSICAL)</b><br>Applies %black_drake_stacks% corruption stacks to enemies hit."
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_switch_custom_Description" "Dragon Knight unleashes draconic energy as he swaps between one of the three powerful elder dragons at will, damaging nearby enemies and applying different effects to them depending on the dragon form.\n<b color='#61de2a'>GREEN ELDER DRAGON (POISON)</b><br>Applies %poison_drake_stacks% poison stacks to enemies hit.\n<b color='#DC3545'>RED ELDER DRAGON (FIRE)</b><br>Applies the fire dragon debuff to enemies hit.\n<b color='#bddeec'>BLUE ELDER DRAGON (ICE)</b><br>Applies the ice dragon debuff to enemies hit."
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_switch_custom_radius" "RADIUS:"
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_switch_custom_damage" "DAMAGE:"
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_switch_custom_str_to_damage" "%DAMAGE FROM STRENGTH:"
+
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_custom" "Elder Dragon Form"
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_custom_Lore" "The dormant dragon power springs forth from within Davion, combining the powers of a legendary knight with a legendary Eldwurm."
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_custom_scepter_Description" "Unlocks the fourth dragon form, the Black Elder Dragon.<br><br><b color='#617db5'>BLACK ELDER DRAGON (PHYSICAL)</b><br>Dragon Knight gains %black_drake_bonus_damage_pct%%% bonus damage and a %black_drake_crit_chance%%% chance to deal %black_drake_crit_multiplier%%% critical damage. Attacks apply a stacking corruption effect on enemies, decreasing their armor by %black_drake_debuff_armor_reduction% per stack for %black_drake_debuff_duration% seconds."
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_custom_Description" "Dragon Knight takes the form of one of three powerful elder dragons, gaining flying movement, increasing his speed and attack range while also gaining unique attack modifiers and giving his other abilities unique properties.\n<b color='#61de2a'>GREEN ELDER DRAGON (POISON)</b><br>Attacks apply a stacking poison effect that deals %poison_drake_debuff_damage_from_attack%%% of Dragon Knight's attack damage per stack every %poison_drake_debuff_interval% seconds for %poison_drake_debuff_duration% seconds.\n<b color='#DC3545'>RED ELDER DRAGON (FIRE)</b><br>Attacks have a splash effect, damaging enemies in a %fire_drake_splash_radius% radius around the target for %fire_drake_splash_damage%%% of the damage dealt and decreases their magical resistance by %fire_drake_debuff_magical_resistance_reduction%%% for %fire_drake_debuff_duration% seconds.\n<b color='#bddeec'>BLUE ELDER DRAGON (ICE)</b><br>Attacks apply a chilling effect that slows the targets movement speed by %ice_drake_debuff_movement_slow_pct%%% and attack speed by %ice_drake_debuff_attack_slow% for %ice_drake_debuff_duration% seconds."
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_custom_bonus_attack_range" "BONUS ATTACK RANGE:"
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_custom_bonus_movespeed" "BONUS MOVEMENT SPEED:"
+
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_form_custom" "Elder Dragon Form"
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_form_custom_green" "Green Elder Dragon (Poison)"
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_form_custom_red" "Red Elder Dragon (Fire)"
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_form_custom_blue" "Blue Elder Dragon (Ice)"
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_form_custom_black" "Black Elder Dragon (Physical)"
+
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_form_custom_green_poison_debuff" "Poisoned"
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_form_custom_green_poison_debuff_Description" "Taking periodic damage."
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_form_custom_red_magic_debuff" "Magic Resistance Reduction"
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_form_custom_red_magic_debuff_Description" "Magic resistance decreased by -%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%."
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_form_custom_blue_slow_debuff" "Slowed"
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_form_custom_blue_slow_debuff_Description" "Movement Speed decreased by -%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and Attack Speed decreased by -%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_blood_custom" "Dragon Blood"
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_blood_custom_Lore" "Slyrak's blood still courses through Davion's veins, giving him twice the vitality of an ordinary knight."
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_blood_custom_scepter_Description" "<b color='#617db5'>BLACK ELDER DRAGON (PHYSICAL)</b><br>The Black Dragon's mystic properties grants Dragon Knight an additional %black_drake_evasion%%% evasion."
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_blood_custom_Description" "The life blood of the Dragon improves health regeneration and strengthens armor, as well as unique properties depending on which dragon form Dragon Knight is in.\n<b color='#61de2a'>GREEN ELDER DRAGON (POISON)</b><br>Enemies that attack Dragon Knight are inflicted with poison, having their attack speed decreased by %poison_drake_debuff_attack_slow% and movement speed decreased by %poison_drake_debuff_move_slow%%%, and take %poison_drake_debuff_damage% damage every second for %poison_drake_debuff_duration% seconds.\n<b color='#DC3545'>RED ELDER DRAGON (FIRE)</b><br>Dragon Knight surrounds himself in a fiery aura that deals %fire_drake_damage% damage to enemies in a %fire_drake_radius% radius around him every %fire_drake_interval% seconds.\n<b color='#bddeec'>BLUE ELDER DRAGON (ICE)</b><br>Dragon Knight's ice covered scales protects him from harm, decreasing the damage he takes by %ice_drake_damage_reduction%%%."
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_blood_custom_max_hp_regen" "%MAX HP REGEN:"
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_blood_custom_armor" "BONUS ARMOR:"
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_blood_custom_str_to_damage" "%DAMAGE FROM STRENGTH:"
+
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_blood_custom_poison_debuff" "Poisoned"
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_blood_custom_poison_debuff_Description" "Slowed and taking periodic damage."
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_blood_custom_fire_shield" "Fiery Shield"
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_blood_custom_fire_shield_Description" "Damaging nearby enemies."
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_blood_custom_fire_shield_aura" "Burning"
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_blood_custom_fire_shield_aura_Description" "Taking damage every second."
+
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_tail_custom" "Dragon Tail"
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_tail_custom_Description" "Dragon Knight has a chance to counter enemies when attacked, damaging and stunning them for a short duration."
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_tail_custom_lore" "Davion's combination of dragon talents and knightly skills makes him a vicious opponent in melee combat."
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_tail_custom_chance" "%CHANCE:"
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_tail_custom_stun_duration" "DURATION:"
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_tail_custom_damage" "DAMAGE:"
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_tail_custom_str_to_damage" "%DAMAGE FROM STRENGTH:"
+
+		"DOTA_Tooltip_Ability_dragon_knight_breathe_fire_str_to_damage" "%DAMAGE FROM STRENGTH:"
+		"DOTA_Tooltip_Ability_dragon_knight_fireball_str_to_damage" "%DAMAGE FROM STRENGTH:"
+
+		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom"								"Breathe Fire"
+		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_shard_Description"					"Dragon Knight has a chance to cast Breathe Fire when attacking."
+		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_Description"					"Unleashes a breath of fire in front of Dragon Knight that burns enemies and reduces the damage their attacks deal."
+		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_reduction"		"%DAMAGE REDUCTION:"
+		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_duration"							"REDUCTION DURATION:"
+		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_damage"							"DAMAGE:"
+		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_str_to_damage"							"%DAMAGE FROM STRENGTH:"
+		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_chance"							"%CHANCE:"
+		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_Lore"							"Knight Davion's breath has become that of the mighty Eldwurm Slyrak, remembered for burning numerous other knights to a crisp."
+		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_Note0"							"Hits units up to 900 away."
+
+		"DOTA_Tooltip_ability_special_bonus_unique_dragon_knight_1_custom" "-{s:value}s Transform Cooldown"
+		"DOTA_Tooltip_ability_special_bonus_unique_dragon_knight_2_custom" "x{s:value} Dragon Blood HP Regen/Armor"
+		"DOTA_Tooltip_ability_special_bonus_unique_dragon_knight_3_custom" "-{s:value}s Dragon Tail Cooldown"
+		"DOTA_Tooltip_ability_special_bonus_unique_dragon_knight_4_custom" "-{s:value}s Breathe Fire Cooldown"
+
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_form_custom_black_armor_debuff" "Corruption"
+		"DOTA_Tooltip_modifier_dragon_knight_dragon_form_custom_black_armor_debuff_Description" "Armor decreased by -%dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
 }	
+
