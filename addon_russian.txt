@@ -2123,7 +2123,7 @@
         "DOTA_Tooltip_Ability_item_black_king_blade_bonus_magic_res"    "%+$spell_resist"
 
         "DOTA_Tooltip_Ability_item_black_king_blade_2"    "Black King Blade LVL2"
-        "DOTA_Tooltip_Ability_item_black_king_blade_2_description"    "<h1>Use: Invulnerability</h1>Applies a hard dispell on you and makes you immune to magic for %magic_immunity_duration% seconds. Damage taken is reduced by %damage_reduction%%% for the duration.
+        "DOTA_Tooltip_Ability_item_black_king_blade_2_description"    "<h1>Использовать: Invulnerability</h1>Applies a hard dispell on you and makes you immune to magic for %magic_immunity_duration% seconds. Damage taken is reduced by %damage_reduction%%% for the duration.
 <h1>Пассивно: Mage Slayer</h1>Places a debuff when you attack enemies, causing them to do %magical_damage_reduction_amount%%% less magical damage for %magical_damage_reduction_duration% seconds."
         "DOTA_Tooltip_Ability_item_black_king_blade_2_Lore"    "It's said it once belonged to one of the greatest kings in history."
         "DOTA_Tooltip_Ability_item_black_king_blade_2_bonus_health"    "+$health"
@@ -2582,27 +2582,27 @@
   "DOTA_Tooltip_ability_huskar_mayhem_custom_damage_per_missing_hp" "УРОН ЗА КАЖДЫЙ НЕДОСТАЮЩИЙ ПУНКТ МАКСИМАЛЬНОГО ЗДОРОВЬЯ:"
 
    "DOTA_Tooltip_Ability_item_armor_piercing_crossbow"						"Piercing Crossbow"
-		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_Description"			"<h1>Active: Critical Frenzy</h1>Temporarily increase your critical chance by 100% for %active_duration% seconds.\n<h1>Пассивно: Piercing Critical Strike</h1>Grants each attack a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets base armor.\n<h1>Пассивно: True Strike</h1>Your attacks can never miss."
+		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_Description"			"<h1>Активно: Critical Frenzy</h1>Temporarily increase your critical chance by 100% for %active_duration% seconds.\n<h1>Пассивно: Piercing Critical Strike</h1>Grants each attack a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets base armor.\n<h1>Пассивно: True Strike</h1>Your attacks can never miss."
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_bonus_attack_speed"		"+$attack"
 
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_2"						"Piercing Crossbow LVL2"
-		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_2_Description"			"<h1>Active: Critical Frenzy</h1>Temporarily increase your critical chance by 100% for %active_duration% seconds.\n<h1>Пассивно: Piercing Critical Strike</h1>Grants each attack a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets base armor.\n<h1>Пассивно: True Strike</h1>Your attacks can never miss."
+		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_2_Description"			"<h1>Активно: Critical Frenzy</h1>Temporarily increase your critical chance by 100% for %active_duration% seconds.\n<h1>Пассивно: Piercing Critical Strike</h1>Grants each attack a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets base armor.\n<h1>Пассивно: True Strike</h1>Your attacks can never miss."
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_2_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_2_bonus_attack_speed"		"+$attack"
 
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_3"						"Piercing Crossbow LVL3"
-		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_3_Description"			"<h1>Active: Critical Frenzy</h1>Temporarily increase your critical chance by 100% for %active_duration% seconds.\n<h1>Пассивно: Piercing Critical Strike</h1>Grants each attack a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets base armor.\n<h1>Пассивно: True Strike</h1>Your attacks can never miss."
+		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_3_Description"			"<h1>Активно: Critical Frenzy</h1>Temporarily increase your critical chance by 100% for %active_duration% seconds.\n<h1>Пассивно: Piercing Critical Strike</h1>Grants each attack a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets base armor.\n<h1>Пассивно: True Strike</h1>Your attacks can never miss."
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_3_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_3_bonus_attack_speed"		"+$attack"
 
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_4"						"Piercing Crossbow LVL4"
-		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_4_Description"			"<h1>Active: Critical Frenzy</h1>Temporarily increase your critical chance by 100% for %active_duration% seconds.\n<h1>Пассивно: Piercing Critical Strike</h1>Grants each attack a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets base armor.\n<h1>Пассивно: True Strike</h1>Your attacks can never miss."
+		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_4_Description"			"<h1>Активно: Critical Frenzy</h1>Temporarily increase your critical chance by 100% for %active_duration% seconds.\n<h1>Пассивно: Piercing Critical Strike</h1>Grants each attack a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets base armor.\n<h1>Пассивно: True Strike</h1>Your attacks can never miss."
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_4_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_4_bonus_attack_speed"		"+$attack"
 
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_5"						"Piercing Crossbow LVL5"
-		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_5_Description"			"<h1>Active: Critical Frenzy</h1>Temporarily increase your critical chance by 100% for %active_duration% seconds.\n<h1>Пассивно: Piercing Critical Strike</h1>Grants each attack a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets base armor.\n<h1>Пассивно: True Strike</h1>Your attacks can never miss."
+		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_5_Description"			"<h1>Активно: Critical Frenzy</h1>Temporarily increase your critical chance by 100% for %active_duration% seconds.\n<h1>Пассивно: Piercing Critical Strike</h1>Grants each attack a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets base armor.\n<h1>Пассивно: True Strike</h1>Your attacks can never miss."
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_5_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_armor_piercing_crossbow_5_bonus_attack_speed"		"+$attack"
 
@@ -2684,8 +2684,8 @@
 
         "DOTA_Tooltip_Ability_centaur_double_edge_custom"    "Double Edge"
         "DOTA_Tooltip_Ability_centaur_double_edge_custom_description"    "Centaur has a chance to fiercly slice through enemies with this greataxe, dealing damage based on a portion of his max health and his Strength."
-		"DOTA_Tooltip_Ability_centaur_double_edge_custom_edge_damage"    "BASE DAMAGE:"
-		"DOTA_Tooltip_Ability_centaur_double_edge_custom_strength_damage"    "%DAMAGE FROM STRENGTH:"
+		"DOTA_Tooltip_Ability_centaur_double_edge_custom_edge_damage"    "БАЗОВЫЙ УРОН:"
+		"DOTA_Tooltip_Ability_centaur_double_edge_custom_strength_damage"    "УРОН ОТ СИЛЫ, %:"
 		"DOTA_Tooltip_Ability_centaur_double_edge_custom_chance"    "ШАНС, %:"
 		"DOTA_Tooltip_Ability_centaur_double_edge_custom_radius"    "РАДИУС:"
 		"DOTA_Tooltip_Ability_centaur_double_edge_custom_hp_damage"    "%DAMAGE FROM MAX HEALTH:"
@@ -3278,7 +3278,7 @@
         "DOTA_Tooltip_Ability_undying_flesh_golem_custom_dmg_reduction_pct"    "%DAMAGE REDUCTION:"
         "DOTA_Tooltip_Ability_undying_flesh_golem_custom_heal_per_kill_pct"    "%ENEMY MAX HP TO HEAL:"
         "DOTA_Tooltip_Ability_undying_flesh_golem_custom_radius"    "РАДИУС:"
-        "DOTA_Tooltip_Ability_undying_flesh_golem_custom_str_to_damage"    "%DAMAGE FROM STRENGTH:"
+        "DOTA_Tooltip_Ability_undying_flesh_golem_custom_str_to_damage"    "УРОН ОТ СИЛЫ, %:"
 
         "DOTA_Tooltip_Ability_undying_consume_custom"    "Consume Flesh"
         "DOTA_Tooltip_Ability_undying_consume_custom_Description"    "Undying поглощает плоть своих поверженных врагов, получая постоянное увеличение своей силы."
@@ -3296,8 +3296,8 @@
         "DOTA_Tooltip_Ability_undying_infection_custom_spread_chance"    "%ШАНС РАСПРОСТРАНЕНИЯ:"
         "DOTA_Tooltip_Ability_undying_infection_custom_spread_radius"    "РАДИУС РАСПРОСТРАНЕНИЯ:"
         "DOTA_Tooltip_Ability_undying_infection_custom_spread_duration"    "ДЛИТЕЛЬНОСТЬ РАСПРОСТРАНЕНИЯ:"
-        "DOTA_Tooltip_Ability_undying_infection_custom_base_damage"    "BASE DAMAGE:"
-        "DOTA_Tooltip_Ability_undying_infection_custom_str_to_damage"    "%DAMAGE FROM STRENGTH:"
+        "DOTA_Tooltip_Ability_undying_infection_custom_base_damage"    "БАЗОВЫЙ УРОН:"
+        "DOTA_Tooltip_Ability_undying_infection_custom_str_to_damage"    "УРОН ОТ СИЛЫ, %:"
 
         "DOTA_Tooltip_Ability_undying_grave_custom"    "Undying"
         "DOTA_Tooltip_Ability_undying_grave_custom_Description"    "Undying leaves a tombstone behind when dying and resurrects at the same location after a short delay."
@@ -3401,7 +3401,7 @@
         "DOTA_Tooltip_Ability_secret_zeus_storm_duration" "Длительность:"
 
         "DOTA_Tooltip_Ability_item_wings" "Wings"
-        "DOTA_Tooltip_Ability_item_wings_Description" "<h1>Use: Permanent Flight</h1>Grants permanent flight to the wearer."
+        "DOTA_Tooltip_Ability_item_wings_Description" "<h1>Использовать: Permanent Flight</h1>Grants permanent flight to the wearer."
         "DOTA_Tooltip_modifier_item_wings_active" "Flight"
         "DOTA_Tooltip_modifier_item_wings_active_Description" "You can move through terrain unhindered."
 
@@ -3958,7 +3958,7 @@
 		"DOTA_Tooltip_modifier_item_star_shard_debuff_Description" "Сопротивление магии снижено на %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%"
 
 		"DOTA_Tooltip_Ability_item_star_shard"    "Starforge"
-		"DOTA_Tooltip_Ability_item_star_shard_Description"    "<h1>Active: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Пассивно: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
+		"DOTA_Tooltip_Ability_item_star_shard_Description"    "<h1>Активно: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Пассивно: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
 		"DOTA_Tooltip_ability_item_star_shard_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_bonus_attack_speed"			"+$attack"
@@ -3967,7 +3967,7 @@
 		"DOTA_Tooltip_ability_item_star_shard_mana_regen"			"+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_star_shard_2"    "Starforge LVL2"
-		"DOTA_Tooltip_Ability_item_star_shard_2_Description"    "<h1>Active: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Пассивно: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
+		"DOTA_Tooltip_Ability_item_star_shard_2_Description"    "<h1>Активно: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Пассивно: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
 		"DOTA_Tooltip_ability_item_star_shard_2_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_2_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_2_bonus_attack_speed"			"+$attack"
@@ -3976,7 +3976,7 @@
 		"DOTA_Tooltip_ability_item_star_shard_2_mana_regen"			"+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_star_shard_3"    "Starforge LVL3"
-		"DOTA_Tooltip_Ability_item_star_shard_3_Description"    "<h1>Active: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Пассивно: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
+		"DOTA_Tooltip_Ability_item_star_shard_3_Description"    "<h1>Активно: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Пассивно: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
 		"DOTA_Tooltip_ability_item_star_shard_3_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_3_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_3_bonus_attack_speed"			"+$attack"
@@ -3985,7 +3985,7 @@
 		"DOTA_Tooltip_ability_item_star_shard_3_mana_regen"			"+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_star_shard_4"    "Starforge LVL4"
-		"DOTA_Tooltip_Ability_item_star_shard_4_Description"    "<h1>Active: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Пассивно: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
+		"DOTA_Tooltip_Ability_item_star_shard_4_Description"    "<h1>Активно: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Пассивно: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
 		"DOTA_Tooltip_ability_item_star_shard_4_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_4_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_4_bonus_attack_speed"			"+$attack"
@@ -3994,7 +3994,7 @@
 		"DOTA_Tooltip_ability_item_star_shard_4_mana_regen"			"+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_star_shard_5"    "Starforge LVL5"
-		"DOTA_Tooltip_Ability_item_star_shard_5_Description"    "<h1>Active: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Пассивно: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
+		"DOTA_Tooltip_Ability_item_star_shard_5_Description"    "<h1>Активно: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Пассивно: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
 		"DOTA_Tooltip_ability_item_star_shard_5_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_5_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_5_bonus_attack_speed"			"+$attack"
@@ -4003,7 +4003,7 @@
 		"DOTA_Tooltip_ability_item_star_shard_5_mana_regen"			"+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_star_shard_6"    "Starforge LVL6"
-		"DOTA_Tooltip_Ability_item_star_shard_6_Description"    "<h1>Active: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Пассивно: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
+		"DOTA_Tooltip_Ability_item_star_shard_6_Description"    "<h1>Активно: Starfall Shower</h1>Stars periodically fall down on all enemies within a %star_aoe% radius around you every %active_interval% seconds for %duration% seconds.\n<h1>Пассивно: Starfall</h1>Attacks have a %star_chance%%% chance for stars to fall down on all enemies in a %star_aoe% radius around the target.<br><br>Each star does %active_agi_as_damage_pct%%% of your maximum mana as magical damage and applies a debuff that decreases the targets magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds."
 		"DOTA_Tooltip_ability_item_star_shard_6_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_6_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_6_bonus_attack_speed"			"+$attack"
@@ -7549,7 +7549,7 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_switch_custom_Description" "Dragon Knight unleashes draconic energy as he swaps between one of the three powerful elder dragons at will, damaging nearby enemies and applying different effects to them depending on the dragon form.\n<b color='#61de2a'>GREEN ELDER DRAGON (POISON)</b><br>Applies %poison_drake_stacks% poison stacks to enemies hit.\n<b color='#DC3545'>RED ELDER DRAGON (FIRE)</b><br>Applies the fire dragon debuff to enemies hit.\n<b color='#bddeec'>BLUE ELDER DRAGON (ICE)</b><br>Applies the ice dragon debuff to enemies hit."
 		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_switch_custom_radius" "РАДИУС:"
 		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_switch_custom_damage" "УРОН:"
-		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_switch_custom_str_to_damage" "%DAMAGE FROM STRENGTH:"
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_switch_custom_str_to_damage" "УРОН ОТ СИЛЫ, %:"
 
 		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_custom" "Elder Dragon Form"
 		"DOTA_Tooltip_Ability_dragon_knight_dragon_form_custom_Lore" "The dormant dragon power springs forth from within Davion, combining the powers of a legendary knight with a legendary Eldwurm."
@@ -7577,7 +7577,7 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_Ability_dragon_knight_dragon_blood_custom_Description" "The life blood of the Dragon improves health regeneration and strengthens armor, as well as unique properties depending on which dragon form Dragon Knight is in.\n<b color='#61de2a'>GREEN ELDER DRAGON (POISON)</b><br>Enemies that attack Dragon Knight are inflicted with poison, having their attack speed decreased by %poison_drake_debuff_attack_slow% and movement speed decreased by %poison_drake_debuff_move_slow%%%, and take %poison_drake_debuff_damage% damage every second for %poison_drake_debuff_duration% seconds.\n<b color='#DC3545'>RED ELDER DRAGON (FIRE)</b><br>Dragon Knight surrounds himself in a fiery aura that deals %fire_drake_damage% damage to enemies in a %fire_drake_radius% radius around him every %fire_drake_interval% seconds.\n<b color='#bddeec'>BLUE ELDER DRAGON (ICE)</b><br>Dragon Knight's ice covered scales protects him from harm, decreasing the damage he takes by %ice_drake_damage_reduction%%%."
 		"DOTA_Tooltip_Ability_dragon_knight_dragon_blood_custom_max_hp_regen" "%MAX HP REGEN:"
 		"DOTA_Tooltip_Ability_dragon_knight_dragon_blood_custom_armor" "BONUS ARMOR:"
-		"DOTA_Tooltip_Ability_dragon_knight_dragon_blood_custom_str_to_damage" "%DAMAGE FROM STRENGTH:"
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_blood_custom_str_to_damage" "УРОН ОТ СИЛЫ, %:"
 
 		"DOTA_Tooltip_modifier_dragon_knight_dragon_blood_custom_poison_debuff" "Poisoned"
 		"DOTA_Tooltip_modifier_dragon_knight_dragon_blood_custom_poison_debuff_Description" "Slowed and taking periodic damage."
@@ -7592,10 +7592,10 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_Ability_dragon_knight_dragon_tail_custom_chance" "ШАНС, %:"
 		"DOTA_Tooltip_Ability_dragon_knight_dragon_tail_custom_stun_duration" "ДЛИТЕЛЬНОСТЬ:"
 		"DOTA_Tooltip_Ability_dragon_knight_dragon_tail_custom_damage" "УРОН:"
-		"DOTA_Tooltip_Ability_dragon_knight_dragon_tail_custom_str_to_damage" "%DAMAGE FROM STRENGTH:"
+		"DOTA_Tooltip_Ability_dragon_knight_dragon_tail_custom_str_to_damage" "УРОН ОТ СИЛЫ, %:"
 
-		"DOTA_Tooltip_Ability_dragon_knight_breathe_fire_str_to_damage" "%DAMAGE FROM STRENGTH:"
-		"DOTA_Tooltip_Ability_dragon_knight_fireball_str_to_damage" "%DAMAGE FROM STRENGTH:"
+		"DOTA_Tooltip_Ability_dragon_knight_breathe_fire_str_to_damage" "УРОН ОТ СИЛЫ, %:"
+		"DOTA_Tooltip_Ability_dragon_knight_fireball_str_to_damage" "УРОН ОТ СИЛЫ, %:"
 
 		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom"								"Breathe Fire"
 		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_shard_Description"					"Dragon Knight has a chance to cast Breathe Fire when attacking."
@@ -7603,7 +7603,7 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_reduction"		"%DAMAGE REDUCTION:"
 		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_duration"							"REDUCTION DURATION:"
 		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_damage"							"УРОН:"
-		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_str_to_damage"							"%DAMAGE FROM STRENGTH:"
+		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_str_to_damage"							"УРОН ОТ СИЛЫ, %:"
 		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_chance"							"ШАНС, %:"
 		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_Lore"							"Knight Davion's breath has become that of the mighty Eldwurm Slyrak, remembered for burning numerous other knights to a crisp."
 		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_custom_Note0"							"Hits units up to 900 away."
@@ -7616,11 +7616,11 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_modifier_dragon_knight_dragon_form_custom_black_armor_debuff" "Corruption"
 		"DOTA_Tooltip_modifier_dragon_knight_dragon_form_custom_black_armor_debuff_Description" "Armor decreased by -%dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
 
-		"DOTA_Tooltip_ability_treant_leech_seed_str_to_damage" "%DAMAGE FROM STRENGTH:"
-		"DOTA_Tooltip_ability_treant_natures_grasp_str_to_damage" "%DAMAGE FROM STRENGTH:"
+		"DOTA_Tooltip_ability_treant_leech_seed_str_to_damage" "УРОН ОТ СИЛЫ, %:"
+		"DOTA_Tooltip_ability_treant_natures_grasp_str_to_damage" "УРОН ОТ СИЛЫ, %:"
 
 		"DOTA_Tooltip_Ability_item_edible_aegis"    "Edible Aegis of the Immortal"
-        "DOTA_Tooltip_Ability_item_edible_aegis_description"    "<h1>Use: Gain Immortality</h1> Consume to gain a buff, preventing the next death and instead bringing you back to life with full health and mana 5 seconds after you die, at the location where you died.
+        "DOTA_Tooltip_Ability_item_edible_aegis_description"    "<h1>Использовать: Gain Immortality</h1> Consume to gain a buff, preventing the next death and instead bringing you back to life with full health and mana 5 seconds after you die, at the location where you died.
 You must die once within 5 minutes or the buff disappears.
 Does not stack with any other type of reincarnation."
 "DOTA_Tooltip_modifier_edible_aegis_buff"    "Edible Aegis"
@@ -7968,7 +7968,7 @@ Does not stack with any other type of reincarnation."
         "DOTA_Tooltip_ability_creature_lava_melting_strike"                         "Melting Strike"
         "DOTA_Tooltip_ability_creature_lava_melting_strike_Description"             "Melts away the armor of heroes hit by the spirit's attack. Each successive hit increases the amount of armor melted."
         "DOTA_Tooltip_ability_creature_lava_melting_strike_armor_removed"           "ARMOR REMOVED PER HIT:"
-        "DOTA_Tooltip_ability_creature_lava_melting_strike_max_armor_removed"       "MAX STACKS:"
+        "DOTA_Tooltip_ability_creature_lava_melting_strike_max_armor_removed"       "МАКСИМУМ СТЕКОВ:"
         "DOTA_Tooltip_ability_creature_lava_melting_strike_duration"                "ДЛИТЕЛЬНОСТЬ:"
 
         "DOTA_Tooltip_ability_creature_lava_flame_guard"                         "Flame Guard"
@@ -8014,7 +8014,7 @@ Does not stack with any other type of reincarnation."
         "DOTA_Tooltip_Ability_fenrir_icy_exterior_Description" "Gives a unit an icy shield that blocks both incoming physical and magical damage based on Garm's max health."
         "DOTA_Tooltip_Ability_fenrir_icy_exterior_duration" "ДЛИТЕЛЬНОСТЬ:"
         "DOTA_Tooltip_Ability_fenrir_icy_exterior_block_hp_pct" "%BLOCK FROM MAX HEALTH"
-        "DOTA_Tooltip_Ability_fenrir_icy_exterior_max_stacks" "MAX STACKS:"
+        "DOTA_Tooltip_Ability_fenrir_icy_exterior_max_stacks" "МАКСИМУМ СТЕКОВ:"
         "DOTA_Tooltip_Ability_fenrir_icy_exterior_icicle_max_hp_damage" "%DAMAGE FROM MAX HEALTH:"
         "DOTA_Tooltip_Ability_fenrir_icy_exterior_icicle_explosion_radius" "EXPLOSION RADIUS:"
 
@@ -8061,7 +8061,7 @@ Does not stack with any other type of reincarnation."
 
         "DOTA_Tooltip_Ability_item_meteorite_sword" "Meteorite Sword"
         "DOTA_Tooltip_Ability_item_meteorite_sword_Lore" "A powerful magical artifact said to have belonged to a cruel ruler many eons ago."
-        "DOTA_Tooltip_Ability_item_meteorite_sword_Description" "<h1>Active: Meteor Rain</h1>Call down several meteors from the sky to strike down at random points in a %radius% radius around you every %interval% seconds for %duration% seconds.<br><br>The meteors do %main_damage%+%int_to_damage%%% of your Intellect as magical damage on impact and then continues to burn enemies hit for %burn_dps%+%int_to_damage%%% of your Intellect as magical damage for %burn_duration% seconds as they continue to travel before eventually breaking."
+        "DOTA_Tooltip_Ability_item_meteorite_sword_Description" "<h1>Активно: Meteor Rain</h1>Call down several meteors from the sky to strike down at random points in a %radius% radius around you every %interval% seconds for %duration% seconds.<br><br>The meteors do %main_damage%+%int_to_damage%%% of your Intellect as magical damage on impact and then continues to burn enemies hit for %burn_dps%+%int_to_damage%%% of your Intellect as magical damage for %burn_duration% seconds as they continue to travel before eventually breaking."
         "DOTA_Tooltip_Ability_item_meteorite_sword_bonus_int" "+$int"
         "DOTA_Tooltip_Ability_item_meteorite_sword_bonus_mana" "+$mana"
         "DOTA_Tooltip_Ability_item_meteorite_sword_bonus_spell_amp" "%+$spell_amp"
@@ -8134,7 +8134,7 @@ Does not stack with any other type of reincarnation."
 		"DOTA_Tooltip_Ability_hero_akasha_sadist_Lore" "Akasha loves inflicting pain to others, it brings her great pleasure."
 		"DOTA_Tooltip_Ability_hero_akasha_sadist_Description" "Every time Akasha deals damage to an enemy with a magical ability she gains a buff that temporarily increases her spell damage."
 		"DOTA_Tooltip_Ability_hero_akasha_sadist_lifesteal_per_stack" "%SPELL DAMAGE PER STACK:"
-		"DOTA_Tooltip_Ability_hero_akasha_sadist_max_stacks" "MAX STACKS:"
+		"DOTA_Tooltip_Ability_hero_akasha_sadist_max_stacks" "МАКСИМУМ СТЕКОВ:"
 		"DOTA_Tooltip_Ability_hero_akasha_sadist_duration" "ДЛИТЕЛЬНОСТЬ:"
 
 		"DOTA_Tooltip_Ability_hero_akasha_scream_of_pain" "Scream of Pain"
@@ -8172,7 +8172,7 @@ Does not stack with any other type of reincarnation."
         "DOTA_Tooltip_hero_akasha_sonic_wave_debuff_Description" "Slowed."
 
         "DOTA_Tooltip_Ability_item_akasha_conversion" "Akasha, the Queen of Pain"
-        "DOTA_Tooltip_Ability_item_akasha_conversion_Description" "<h1>Active: Convert</h1>Permanently change your hero this game to Akasha, the Queen of Pain."
+        "DOTA_Tooltip_Ability_item_akasha_conversion_Description" "<h1>Активно: Convert</h1>Permanently change your hero this game to Akasha, the Queen of Pain."
 
         "npc_dota_boss_aghanim" "Aghanim"
 
@@ -8303,44 +8303,44 @@ Does not stack with any other type of reincarnation."
         "DOTA_Tooltip_ability_carl_ghost_walk_enemy_slow"                        "%ENEMY SLOW (<font color='#7998b5'>QUAS</font>):\n"  
 
         "DOTA_Tooltip_Ability_item_carl_conversion" "Carl, the Kid Invoker"
-        "DOTA_Tooltip_Ability_item_carl_conversion_Description" "<h1>Active: Convert</h1>Permanently change your hero this game to Carl, the Kid Invoker."
+        "DOTA_Tooltip_Ability_item_carl_conversion_Description" "<h1>Активно: Convert</h1>В этой игре навсегда измените своего героя на Карла, малыша-заклинателя."
 
         "DOTA_Tooltip_Ability_item_ability_point_reset_book"						"Ability Point Reset Book"
-		"DOTA_Tooltip_Ability_item_ability_point_reset_book_Description"			"<h1>Use: Consume</h1> Resets your ability points."
+		"DOTA_Tooltip_Ability_item_ability_point_reset_book_Description"			"<h1>Использовать: Consume</h1> Сбрасывает ваши очки способностей."
 
 		"DOTA_Tooltip_Ability_item_extra_life" "+1 Remaining Lives"
-		"DOTA_Tooltip_Ability_item_extra_life_Description" "<h1>Active: Use</h1> Adds +1 to your Remaining Lives. Cannot be used on lower difficulties where Remaining Lives is inactive."
+		"DOTA_Tooltip_Ability_item_extra_life_Description" "<h1>Активно: Use</h1> Добавляет +1 к вашим оставшимся жизням. Нельзя использовать на более низких уровнях сложности, когда функция «Оставшиеся жизни» неактивна."
 
 		"DOTA_Tooltip_Ability_item_heart_transplant" "Heart Transplant"
-		"DOTA_Tooltip_Ability_item_heart_transplant_Description" "<h1><font color='red'>Пассивно: Weakened</font></h1><font color='red'>Decreases your outgoing damage by -%damage_penalty%%%.</font>"
+		"DOTA_Tooltip_Ability_item_heart_transplant_Description" "<h1><font color='red'>Пассивно: Weakened</font></h1><font color='red'>Уменьшает исходящий урон на -%damage_penalty%%%.</font>"
 		"DOTA_Tooltip_Ability_item_heart_transplant_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_heart_transplant_bonus_health" "+$health"
-		"DOTA_Tooltip_Ability_item_heart_transplant_bonus_max_hp_regen" "%+Max Health Regen"
+		"DOTA_Tooltip_Ability_item_heart_transplant_bonus_max_hp_regen" "РЕГЕНЕРАЦИЯ МАКСИМАЛЬНОГО ЗДОРОВЬЯ, %:"
 
 		"DOTA_Tooltip_Ability_centaur_hoof_stomp_custom"    "Hoof Stomp"
-        "DOTA_Tooltip_Ability_centaur_hoof_stomp_custom_description"    "Centaur has a chance to stomp the ground around him when he attacks, damaging and trembling enemies, applying a stacking debuff that decreases their movement speed, attack speed and magical resistance for a short time."
-		"DOTA_Tooltip_Ability_centaur_hoof_stomp_custom_damage"    "BASE DAMAGE:"
-		"DOTA_Tooltip_Ability_centaur_hoof_stomp_custom_slow_per_stack"    "%SLOW PER:"
-		"DOTA_Tooltip_Ability_centaur_hoof_stomp_custom_magic_res_per_stack"    "%MAGIC RESISTANCE:"
-		"DOTA_Tooltip_Ability_centaur_hoof_stomp_custom_max_stacks"    "MAX STACKS:"
+        "DOTA_Tooltip_Ability_centaur_hoof_stomp_custom_description"    "У Кентавра есть шанс растоптать всех вокруг себя, когда он атакует, нанося урон и тряся врагов, накладывая суммирующийся дебафф, который на короткое время снижает их скорость передвижения, скорость атаки и сопротивление магии."
+		"DOTA_Tooltip_Ability_centaur_hoof_stomp_custom_damage"    "БАЗОВЫЙ УРОН:"
+		"DOTA_Tooltip_Ability_centaur_hoof_stomp_custom_slow_per_stack"    "ЗАМЕДЛЕНИЕ ЗА СТЕК, %:"
+		"DOTA_Tooltip_Ability_centaur_hoof_stomp_custom_magic_res_per_stack"    "СОПРОТИВЛЕНИЕ МАГИИ, %:"
+		"DOTA_Tooltip_Ability_centaur_hoof_stomp_custom_max_stacks"    "МАКСИМУМ СТЕКОВ:"
 		"DOTA_Tooltip_Ability_centaur_hoof_stomp_custom_stack_duration"    "ДЛИТЕЛЬНОСТЬ:"
 		"DOTA_Tooltip_Ability_centaur_hoof_stomp_custom_radius"    "РАДИУС:"
 		"DOTA_Tooltip_Ability_centaur_hoof_stomp_custom_chance"    "ШАНС, %:"
-		"DOTA_Tooltip_Ability_centaur_hoof_stomp_custom_strength_damage"    "%DAMAGE FROM STRENGTH:"
+		"DOTA_Tooltip_Ability_centaur_hoof_stomp_custom_strength_damage"    "УРОН ОТ СИЛЫ, %:"
 
 		"DOTA_Tooltip_Ability_centaur_stampede_custom" "Stampede"
-		"DOTA_Tooltip_Ability_centaur_stampede_custom_scepter_Description" "Grants affected allies damage reduction for the duration."
-		"DOTA_Tooltip_Ability_centaur_stampede_custom_Description" "Centaur goes into a furious stampede, granting all allied heroes on the map increased movement speed and bonus health based on a portion of Centaur's max health."
+		"DOTA_Tooltip_Ability_centaur_stampede_custom_scepter_Description" "Уменьшает урон союзников на время действия."
+		"DOTA_Tooltip_Ability_centaur_stampede_custom_Description" "Кентавр бросается в яростную давку, давая всем союзным героям на карте повышенную скорость передвижения и дополнительное здоровье в зависимости от части максимального здоровья кентавра."
 		"DOTA_Tooltip_Ability_centaur_stampede_custom_duration" "ДЛИТЕЛЬНОСТЬ:"
-		"DOTA_Tooltip_Ability_centaur_stampede_custom_damage_reduction" "%DAMAGE REDUCTION:"
-		"DOTA_Tooltip_Ability_centaur_stampede_custom_max_hp_increase" "%CENTAUR HEALTH:"
-		"DOTA_Tooltip_Ability_centaur_stampede_custom_move_speed" "%BONUS SPEED:"
+		"DOTA_Tooltip_Ability_centaur_stampede_custom_damage_reduction" "СНИЖЕНИЕ УРОНА, %:"
+		"DOTA_Tooltip_Ability_centaur_stampede_custom_max_hp_increase" "ЗДОРОВЬЯ КЕНТАВРА, %:"
+		"DOTA_Tooltip_Ability_centaur_stampede_custom_move_speed" "БОНУС СКОРОСТИ ПЕРЕДВИЖЕНИЯ, %:"
 
 		"DOTA_Tooltip_modifier_centaur_stampede_custom_buff" "Stampede"
-		"DOTA_Tooltip_modifier_centaur_stampede_custom_buff_Description" "Gaining bonus health scaling from Centaur's max health and movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+		"DOTA_Tooltip_modifier_centaur_stampede_custom_buff_Description" "Получение бонуса к здоровью в зависимости от максимального здоровья и скорости передвижения Centaur's увеличено на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
 
 		"DOTA_Tooltip_modifier_centaur_hoof_stomp_custom_debuff" "Hoof Stomp"
-		"DOTA_Tooltip_modifier_centaur_hoof_stomp_custom_debuff_Description" "Slowed by -%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and magical resistance decreased by -%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%."
+		"DOTA_Tooltip_modifier_centaur_hoof_stomp_custom_debuff_Description" "Замедлено на -%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, а сопротивление магии уменьшено на -%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%."
 
 		"DOTA_Tooltip_Ability_item_mom_custom" "Mask of Corruption"
 		"DOTA_Tooltip_Ability_item_mom_custom_Description" "<h1>Переключение: Sacrifice</h1>Переключите, чтобы стать немым и постоянно увеличивая свой урон на %bonus_atk_pct_burst%%%, а затем дополнительно на %bonus_atk_pct_sec%%% каждые %interval% секунд, но ценой потери %hp_drain_pct%% % от вашего максимального здоровья с той же скоростью.<br><br>Постепенное увеличение урона и истощение здоровья увеличивается на +%increase_pct%%% за каждую секунду, когда эта функция включена.<br><br>Автоматически отключается, если потребление выше, чем ваше текущее здоровье, и уходит на перезарядку в течение %cooldown% секунд.<br><br>Невозможно исцелить, если вы стоите внутри спавна, когда включена.\n<h1>Пассивно: Corruption</h1>Ваши атаки уменьшает броню цели на %corruption% на %corruption_duration% секунд.\n<h1>Пассивно: Lifesteal</h1>Исцеляет атакующего на %lifesteal%%% нанесенного урона от атаки."
