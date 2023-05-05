@@ -217,9 +217,9 @@
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_3"				"Tome of Agility (+5)"
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_3_Description"	"Навсегда увеличивает ловкость вашего героя на 5."
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_6"				"Tome of Agility(+10)"
-		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_6_Description"	"Навсегда увеличивает ловкость вашего героя на by 10."
+		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_6_Description"	"Навсегда увеличивает ловкость вашего героя на 10."
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_60"				"Tome of Agility(+5)"
-		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_60_Description"	"Навсегда увеличивает ловкость вашего героя на by 5."
+		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_60_Description"	"Навсегда увеличивает ловкость вашего героя на 5."
 		
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_STR_3"				"Tome of Strength (+5)"
 		"DOTA_TOOLTIP_ABILITY_ITEM_TOME_STR_3_Description"	"Навсегда увеличивает силу вашего героя на 5."
@@ -297,12 +297,12 @@
 		"DOTA_Tooltip_Ability_item_bow5_bonus_agility"				"+$agi"
 
 		"DOTA_Tooltip_Ability_item_rapier2"							"Divine Rapier LVL 2"
-		"DOTA_Tooltip_ability_item_rapier2_Description"				"Предмет выпадает при семрти. Если выпавший предмет поднимет союзник владельца, то предмет потеряет свои свойства, пока его не вернут бывшему владельцу. Если предмет подберёт враг, то бонусы от предмета сможет получить кто угодно. Курьер не может подобрать этот предмет, если он выпал при смерти."
+		"DOTA_Tooltip_ability_item_rapier2_Description"				"Предмет выпадает при смерти. Если выпавший предмет поднимет союзник владельца, то предмет потеряет свои свойства, пока его не вернут бывшему владельцу. Если предмет подберёт враг, то бонусы от предмета сможет получить кто угодно. Курьер не может подобрать этот предмет, если он выпал при смерти."
 		"DOTA_Tooltip_ability_item_rapier2_Lore"						"Такому могущественному оружию недостаточно одного владельца."
 		"DOTA_Tooltip_ability_item_rapier2_bonus_damage"				"+$damage"
 
 		"DOTA_Tooltip_Ability_item_dragon_weapon"							"Cosmic Weapon"
-		"DOTA_Tooltip_ability_item_dragon_weapon_Description"				"Предмет выпадает при семрти. Если выпавший предмет поднимет союзник владельца, то предмет потеряет свои свойства, пока его не вернут бывшему владельцу. Если предмет подберёт враг, то бонусы от предмета сможет получить кто угодно. Курьер не может подобрать этот предмет, если он выпал при смерти."
+		"DOTA_Tooltip_ability_item_dragon_weapon_Description"				"Предмет выпадает при смерти. Если выпавший предмет поднимет союзник владельца, то предмет потеряет свои свойства, пока его не вернут бывшему владельцу. Если предмет подберёт враг, то бонусы от предмета сможет получить кто угодно. Курьер не может подобрать этот предмет, если он выпал при смерти."
 		"DOTA_Tooltip_ability_item_dragon_weapon_Lore"						"Такому могущественному оружию недостаточно одного владельца."
 		"DOTA_Tooltip_ability_item_dragon_weapon_bonus_damage"				"+$damage"
 
