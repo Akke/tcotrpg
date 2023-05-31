@@ -311,29 +311,25 @@
 		"DOTA_Tooltip_ability_item_heart2_Lore"						"Сохранившееся сердце вымершего монстра, с которым его владелец становится мужественнее."
 		"DOTA_Tooltip_ability_item_heart2_bonus_strength"				"+$str"
 		"DOTA_Tooltip_ability_item_heart2_bonus_health"				"+$health"
-		//"DOTA_Tooltip_ability_item_heart2_health_regen_rate"			"%HEALTH RESTORED PER SECOND:"
-
+		
 		"DOTA_Tooltip_Ability_item_heart3"								"Pink Heart"
 		"DOTA_Tooltip_ability_item_heart3_Description"					"<h1>Пассивное: Health Regeneration</h1> Восстанавливает %health_regen_pct%%% от максимального запаса здоровья в секунду."
 		"DOTA_Tooltip_ability_item_heart3_Lore"						"Сохранившееся сердце вымершего монстра, с которым его владелец становится мужественнее."
 		"DOTA_Tooltip_ability_item_heart3_bonus_strength"				"+$str"
 		"DOTA_Tooltip_ability_item_heart3_bonus_health"				"+$health"
-		//"DOTA_Tooltip_ability_item_heart3_health_regen_rate"			"%HEALTH RESTORED PER SECOND:"
-
+		
 		"DOTA_Tooltip_Ability_item_heart4"								"Purple Heart"
 		"DOTA_Tooltip_ability_item_heart4_Description"					"<h1>Пассивное: Health Regeneration</h1> Восстанавливает %health_regen_pct%%% от максимального запаса здоровья в секунду."
 		"DOTA_Tooltip_ability_item_heart4_Lore"						"Сохранившееся сердце вымершего монстра, с которым его владелец становится мужественнее."
 		"DOTA_Tooltip_ability_item_heart4_bonus_strength"				"+$str"
 		"DOTA_Tooltip_ability_item_heart4_bonus_health"				"+$health"
-		//"DOTA_Tooltip_ability_item_heart4_health_regen_rate"			"%HEALTH RESTORED PER SECOND:"
-
+		
 		"DOTA_Tooltip_Ability_item_heart5"								"Cosmic Heart"
 		"DOTA_Tooltip_ability_item_heart5_Description"					"<h1>Пассивное: Health Regeneration</h1> Восстанавливает %health_regen_pct%%% от максимального запаса здоровья в секунду."
 		"DOTA_Tooltip_ability_item_heart5_Lore"						"Сохранившееся сердце вымершего монстра, с которым его владелец становится мужественнее."
 		"DOTA_Tooltip_ability_item_heart5_bonus_strength"				"+$str"
 		"DOTA_Tooltip_ability_item_heart5_bonus_health"				"+$health"
-		//"DOTA_Tooltip_ability_item_heart5_health_regen_rate"			"%HEALTH RESTORED PER SECOND:"
-                
+		           
 		"DOTA_Tooltip_Ability_item_thunders_stone"									"Thunder's Stone"
 		"DOTA_Tooltip_ability_item_thunders_stone_Description"						"<h1>Активное: Pocket Deny</h1>Мгновенно приводит к смерти.<br><br>Для применения заклинания необходимо чтобы цель находилась на земле. Нельзя использовать на себя.\n<h1>Пассивное: Bloodpact</h1>Начинает с %tooltip_charges% зарядов и получает заряд каждый раз, когда враг умирает в радиусе %charge_range%. <br><br>Каждый заряд даёт %mana_per_charge% к восстановлению маны в секунду и уменьшает время возрождения на %respawn_time_reduction% сек."
 		"DOTA_Tooltip_ability_item_thunders_stone_Lore"							"Багрянец этого камня легко приметить даже в разгаре битвы: он будто бы наделяет владельца безграничными жизненными и духовными силами."
@@ -349,26 +345,22 @@
 		"DOTA_Tooltip_ability_item_lifesteal2_Description"						"<h1>Пассивное: Lifesteal</h1>Каждая атака восстанавливает владельцу здоровье в размере %lifesteal%%% от нанесённого урона."
 		"DOTA_Tooltip_ability_item_lifesteal2_Lore"								"Маска, поглощающая энергию тех, кто попался ей на глаза."
 		"DOTA_Tooltip_ability_item_lifesteal2_bonus_damage"						"+$damage"
-		//"DOTA_Tooltip_ability_item_lifesteal2_lifesteal_percent"					"%ВАМПИРИЗМ:"
-
+		
                 "DOTA_Tooltip_Ability_item_lifesteal3"                                                          "Yellow Mask"
 		"DOTA_Tooltip_ability_item_lifesteal3_Description"						"<h1>Пассивное: Lifesteal</h1>Каждая атака восстанавливает владельцу здоровье в размере %lifesteal%%% от нанесённого урона."
 		"DOTA_Tooltip_ability_item_lifesteal3_Lore"								"Маска, поглощающая энергию тех, кто попался ей на глаза."
 		"DOTA_Tooltip_ability_item_lifesteal3_bonus_damage"						"+$damage"
-		//"DOTA_Tooltip_ability_item_lifesteal3_lifesteal_percent"					"%ВАМПИРИЗМ:"
-
+		
                 "DOTA_Tooltip_Ability_item_lifesteal4"                                                          "Blue Mask"
 		"DOTA_Tooltip_ability_item_lifesteal4_Description"						"<h1>Пассивное: Lifesteal</h1>Каждая атака восстанавливает владельцу здоровье в размере %lifesteal%%% от нанесённого урона."
 		"DOTA_Tooltip_ability_item_lifesteal4_Lore"								"Маска, поглощающая энергию тех, кто попался ей на глаза."
 		"DOTA_Tooltip_ability_item_lifesteal4_bonus_damage"						"+$damage"
-		//"DOTA_Tooltip_ability_item_lifesteal4_lifesteal_percent"					"%ВАМПИРИЗМ:"
-
+		
                 "DOTA_Tooltip_Ability_item_lifesteal5"                                                          "Red Mask"
 		"DOTA_Tooltip_ability_item_lifesteal5_Description"						"<h1>Пассивное: Lifesteal</h1>Каждая атака восстанавливает владельцу здоровье в размере %lifesteal%%% от нанесённого урона."
 		"DOTA_Tooltip_ability_item_lifesteal5_Lore"								"Маска, поглощающая энергию тех, кто попался ей на глаза."
 		"DOTA_Tooltip_ability_item_lifesteal5_bonus_damage"						"+$damage"
-		//"DOTA_Tooltip_ability_item_lifesteal5_lifesteal_percent"					"%ВАМПИРИЗМ:"
-
+		
                 "DOTA_Tooltip_Ability_item_forest_soul"                                                         "Heart of the Forest"
                 "DOTA_Tooltip_ability_item_forest_soul_Lore"						                "Seems to contain mystical energies, originating from deep within the forest."
 
@@ -466,12 +458,7 @@
 		"DOTA_Tooltip_ability_item_bfury2_bonus_damage"							"+$damage"
 		"DOTA_Tooltip_ability_item_bfury2_bonus_health_regen"					"+$hp_regen"
 		"DOTA_Tooltip_ability_item_bfury2_bonus_mana_regen"						"+$mana_regen"
-		//"DOTA_Tooltip_ability_item_bfury2_cleave_damage_percent"	"%CLEAVE УРОН:"
-		//"DOTA_Tooltip_ability_item_bfury2_quelling_bonus"					"%QUELL MELEE УРОН:"
-		//"DOTA_Tooltip_ability_item_bfury2_quelling_bonus_ranged"			"%QUELL RANGED УРОН:"
-		//"DOTA_Tooltip_ability_item_bfury2_cast_range_tooltip"			"CHOP Дальность применения:"
-		//"DOTA_Tooltip_ability_item_bfury2_cast_range_ward"			"CHOP Дальность применения (вард)::"
-
+		
                 "DOTA_Tooltip_ability_item_bfury3" "Battle Fury LVL3"
 		"DOTA_Tooltip_ability_item_bfury3_Description"							"<h1>Активное: Chop Tree/Ward</h1> Срубает выбранное дерево.<br><br>Дальность применения (дерево): %AbilityCastRange%<br>Дальность применения (вард): %AbilityCastRange% \n<h1>Пассивное: Quell</h1> Увеличивает урон от атак по существам, не являющимися героями, на %quelling_bonus% для героев ближнего боя и на %quelling_bonus_ranged% — для дальнего. \n<h1>Пассивное: Cleave</h1> Атаки героя прорубают жертву, нанося врагам в радиусе %cleave_distance% вокруг неё физический урон (только в ближнем бою)"
 		"DOTA_Tooltip_ability_item_bfury3_Lore"									"Владелец этого могучего топора может выкашивать врагов целыми рядами."
@@ -482,12 +469,7 @@
 		"DOTA_Tooltip_ability_item_bfury3_bonus_damage"							"+$damage"
 		"DOTA_Tooltip_ability_item_bfury3_bonus_health_regen"					"+$hp_regen"
 		"DOTA_Tooltip_ability_item_bfury3_bonus_mana_regen"						"+$mana_regen"
-		//"DOTA_Tooltip_ability_item_bfury3_cleave_damage_percent"	"%CLEAVE УРОН:"
-		//"DOTA_Tooltip_ability_item_bfury3_quelling_bonus"					"%QUELL MELEE УРОН:"
-		//"DOTA_Tooltip_ability_item_bfury3_quelling_bonus_ranged"			"%QUELL RANGED УРОН:"
-		//"DOTA_Tooltip_ability_item_bfury3_cast_range_tooltip"			"CHOP Дальность применения:"
-		//"DOTA_Tooltip_ability_item_bfury3_cast_range_ward"			"CHOP Дальность применения (вард)::"
-
+		
 		"DOTA_Tooltip_ability_item_bfury4" "Battle Fury LVL4"
 		"DOTA_Tooltip_ability_item_bfury4_Description"							"<h1>Активное: Chop Tree/Ward</h1> Срубает выбранное дерево.<br><br>Дальность применения (дерево): %AbilityCastRange%<br>Дальность применения (вард): %AbilityCastRange% \n<h1>Пассивное: Quell</h1> Увеличивает урон от атак по существам, не являющимися героями, на %quelling_bonus% для героев ближнего боя и на %quelling_bonus_ranged% — для дальнего. \n<h1>Пассивное: Cleave</h1> Атаки героя прорубают жертву, нанося врагам в радиусе %cleave_distance% вокруг неё физический урон (только в ближнем бою)"
 		"DOTA_Tooltip_ability_item_bfury4_Lore"									"Владелец этого могучего топора может выкашивать врагов целыми рядами."
@@ -498,12 +480,7 @@
 		"DOTA_Tooltip_ability_item_bfury4_bonus_damage"							"+$damage"
 		"DOTA_Tooltip_ability_item_bfury4_bonus_health_regen"					"+$hp_regen"
 		"DOTA_Tooltip_ability_item_bfury4_bonus_mana_regen"						"+$mana_regen"
-		//"DOTA_Tooltip_ability_item_bfury4_cleave_damage_percent"	"%CLEAVE УРОН:"
-		//"DOTA_Tooltip_ability_item_bfury4_quelling_bonus"					"%QUELL MELEE УРОН:"
-		//"DOTA_Tooltip_ability_item_bfury4_quelling_bonus_ranged"			"%QUELL RANGED УРОН:"
-		//"DOTA_Tooltip_ability_item_bfury4_cast_range_tooltip"			"CHOP Дальность применения:"
-		//"DOTA_Tooltip_ability_item_bfury4_cast_range_ward"			"CHOP Дальность применения (вард)::"
-
+		
 		"DOTA_Tooltip_ability_item_bfury5" "Battle Fury LVL5"
 		"DOTA_Tooltip_ability_item_bfury5_Description"							"<h1>Активное: Chop Tree/Ward</h1> Срубает выбранное дерево.<br><br>Дальность применения (дерево): %AbilityCastRange%<br>Дальность применения (вард): %AbilityCastRange% \n<h1>Пассивное: Quell</h1> Увеличивает урон от атак по существам, не являющимися героями, на %quelling_bonus% для героев ближнего боя и на %quelling_bonus_ranged% — для дальнего. \n<h1>Пассивное: Cleave</h1> Атаки героя прорубают жертву, нанося врагам в радиусе %cleave_distance% вокруг неё физический урон (только в ближнем бою)"
 		"DOTA_Tooltip_ability_item_bfury5_Lore"									"Владелец этого могучего топора может выкашивать врагов целыми рядами."
@@ -514,12 +491,6 @@
 		"DOTA_Tooltip_ability_item_bfury5_bonus_damage"							"+$damage"
 		"DOTA_Tooltip_ability_item_bfury5_bonus_health_regen"					"+$hp_regen"
 		"DOTA_Tooltip_ability_item_bfury5_bonus_mana_regen"						"+$mana_regen"
-		//"DOTA_Tooltip_ability_item_bfury5_cleave_damage_percent"	"%CLEAVE УРОН:"
-		//"DOTA_Tooltip_ability_item_bfury5_quelling_bonus"					"%QUELL MELEE УРОН:"
-		//"DOTA_Tooltip_ability_item_bfury5_quelling_bonus_ranged"			"%QUELL RANGED УРОН:"
-		//"DOTA_Tooltip_ability_item_bfury5_cast_range_tooltip"			"CHOP Дальность применения:"
-		//"DOTA_Tooltip_ability_item_bfury5_cast_range_ward"			"CHOP Дальность применения (вард)::"
-
 
                 "DOTA_Tooltip_ability_item_monkey_king_bar2" "Monkey King Bar LVL2"
 		"DOTA_Tooltip_ability_item_monkey_king_bar2_Description"					"<h1>Пассивное: Pierce</h1>Каждая атака может с вероятностью в %bonus_chance%%% пройти сквозь уклонение и нанести %bonus_chance_damage% дополнительного магического урона."
@@ -535,9 +506,7 @@
 		"DOTA_Tooltip_ability_item_butterfly2_bonus_damage"						"+$damage"
 		"DOTA_Tooltip_ability_item_butterfly2_bonus_evasion"						"%+$evasion"
 		"DOTA_Tooltip_ability_item_butterfly2_bonus_attack_speed"				"+$attack"		
-		//"DOTA_Tooltip_ability_item_butterfly2_bonus_move_speed"				"%FLUTTER BONUS СКОРОСТЬ ПЕРЕДВИЖЕНИЯ:"	
-		//"DOTA_Tooltip_ability_item_butterfly2_duration"				"FLUTTER ПРОДОЛЖИТЕЛЬНОСТЬ:"
-
+		
 		"DOTA_Tooltip_ability_item_butterfly3" "Butterfly LVL3"
 		"DOTA_Tooltip_ability_item_butterfly3_Description"						"<h1>Активное: Flutter</h1> Увеличивает скорость передвижения на %bonus_move_speed%%%. Длительность: %duration% секунд."
 		"DOTA_Tooltip_ability_item_butterfly3_Note0"								"Складывается по закону убывающей полезности с другими источниками уклонения."
@@ -546,9 +515,7 @@
 		"DOTA_Tooltip_ability_item_butterfly3_bonus_damage"						"+$damage"
 		"DOTA_Tooltip_ability_item_butterfly3_bonus_evasion"						"%+$evasion"
 		"DOTA_Tooltip_ability_item_butterfly3_bonus_attack_speed"				"+$attack"		
-		//"DOTA_Tooltip_ability_item_butterfly3_bonus_move_speed"				"%FLUTTER BONUS СКОРОСТЬ ПЕРЕДВИЖЕНИЯ:"	
-		//"DOTA_Tooltip_ability_item_butterfly3_duration"				"FLUTTER ПРОДОЛЖИТЕЛЬНОСТЬ:"
-
+		
                 "DOTA_Tooltip_ability_truestrike" "BOSS"
                 "DOTA_Tooltip_ability_truestrike_Description" "Босс не промахивается и обладает дополнительным сопротивлением к эффектам."
 
@@ -581,8 +548,6 @@
 		"DOTA_Tooltip_ability_item_gold_daedalus_Description"					"<h1>Пассивное: Critical Strike</h1>Даёт каждой атаке %crit_chance%%% к вероятности нанести %crit_multiplier%%% урона."
 		"DOTA_Tooltip_ability_item_gold_daedalus_Note0" 							"Critical Strike не действует на постройки."
 		"DOTA_Tooltip_ability_item_gold_daedalus_Lore"							"Оружие невероятной мощи, с которым нелегко управиться даже самому сильному воину."
-		//"DOTA_Tooltip_ability_item_gold_daedalus_crit_chance"					"%ШАНС КРИТИЧЕСКОЙ АТАКИ:"
-		//"DOTA_Tooltip_ability_item_gold_daedalus_crit_multiplier"				"%КРИТИЧЕСКИЙ УРОН:"
 		"DOTA_Tooltip_ability_item_gold_daedalus_bonus_damage"					"+$damage"
 
                 "DOTA_Tooltip_ability_item_hand_of_midas2" "Greevils Helmet"
@@ -591,16 +556,14 @@
 		"DOTA_Tooltip_ability_item_hand_of_midas2_Note0"							"Получаемое золото идет в надёжный запас (при этом стандартная награда за убийство крипа не даётся)."
 		"DOTA_Tooltip_ability_item_hand_of_midas2_Note1"							"Опыт от убитого крипа не делится с другими героями."
 		"DOTA_Tooltip_ability_item_hand_of_midas2_bonus_attack_speed"			"+$attack"
-		//"DOTA_Tooltip_ability_item_hand_of_midas2_transmute_cast_range_tooltip"	"TRANSMUTE ДАЛЬНОСТЬ ПРИМЕНЕНИЯ:"	
-
+		
 		"DOTA_Tooltip_ability_item_hand_of_midas3" "Greevils Helmet LVL2"
 		"DOTA_Tooltip_ability_item_hand_of_midas3_Description"					"<h1>Активное: Transmute</h1> Убивает выбранную цель (но не босса), давая за неё %bonus_gold% золота и в %xp_multiplier% раза больше опыта. <br><br> Не действует на крипов уровнем выше владельца предмета.<br><br>Дальность применения: %transmute_cast_range_tooltip%\n<h1>Пассивное: Greed</h1>Награда за убийство крипов увеличена на %gold_pct%%% + %gold_per_kill%."
 		"DOTA_Tooltip_ability_item_hand_of_midas3_Lore"							"Эта перчатка, сохранившаяся благодаря неведомой магии, служит жадности владельца, наполняя его карманы золотом в обмен на жизни животных."
 		"DOTA_Tooltip_ability_item_hand_of_midas3_Note0"							"Получаемое золото идет в надёжный запас (при этом стандартная награда за убийство крипа не даётся)."
 		"DOTA_Tooltip_ability_item_hand_of_midas3_Note1"							"Опыт от убитого крипа не делится с другими героями."
 		"DOTA_Tooltip_ability_item_hand_of_midas3_bonus_attack_speed"			"+$attack"
-		//"DOTA_Tooltip_ability_item_hand_of_midas3_transmute_cast_range_tooltip"	"TRANSMUTE ДАЛЬНОСТЬ ПРИМЕНЕНИЯ:"
-
+		
                 "DOTA_Tooltip_ability_item_great_bracer" "Great Bracer"
 		"DOTA_Tooltip_ability_item_great_bracer_Lore"									"Наручи — распространённый выбор для усиления защиты и увеличения продолжительности жизни."
 		"DOTA_Tooltip_ability_item_great_bracer_bonus_strength"						"+$str"
@@ -612,49 +575,32 @@
                 "DOTA_Tooltip_ability_item_travel_boots_3" "Warp"
 		"DOTA_Tooltip_ability_item_travel_boots_3_Description"					"<h1>Активное: Warp</h1> Перемещает вас к фонтану, захваченному аванпосту или союзному герою на карте после небольшой задержки.\n<h1>Пассивное: Upgrades With Time</h1> Автоматически повышает до следующего уровня каждые десять минут."
 		"DOTA_Tooltip_ability_item_travel_boots_3_Lore"							"Крылатые сапоги, дарующие вездесущность."
-		//"DOTA_Tooltip_ability_item_travel_boots_3_Note0"						"Бонусы к скорости передвижения от ботинок не суммируются."
 		"DOTA_Tooltip_ability_item_travel_boots_3_bonus_movement_speed"			"+$move_speed"
 
 		"DOTA_Tooltip_ability_item_phase_boots_2" "Yellow Boots"
 		"DOTA_Tooltip_ability_item_phase_boots_2_Description"						"<h1>Активное: Phase</h1> Увеличивает скорость передвижения на %phase_movement_speed%%% для героев ближнего боя и на %phase_movement_speed_range%%% для героев дальнего боя, а также позволяет проходить сквозь существ и поворачиваться быстрее. Действует %phase_duration% сек.\nБонусы к скорости передвижения от нескольких пар ботинок не складываются."
-		//"DOTA_Tooltip_ability_item_phase_boots_2_Note0"							"Flat movement speed bonuses from multiple pairs of boots do not stack."
 		"DOTA_Tooltip_ability_item_phase_boots_2_Lore"							"Ботинки, которые позволяют владельцу путешествовать между слоями реальности."
 		"DOTA_Tooltip_ability_item_phase_boots_2_bonus_damage_melee"					"+$damage"
 		"DOTA_Tooltip_ability_item_phase_boots_2_bonus_movement_speed"			"+$move_speed"
-		//"DOTA_Tooltip_ability_item_phase_boots_2_phase_movement_speed"			"%СКОРОСТЬ ПЕРЕДВИЖЕНИЯ ДЛЯ БЛИЖНЕГО БОЯ:"
-		//"DOTA_Tooltip_ability_item_phase_boots_2_phase_movement_speed_range"			"%СКОРОСТЬ ПЕРЕДВИЖЕНИЯ ДЛЯ ДАЛЬНЕГО БОЯ:"
-		//"DOTA_Tooltip_ability_item_phase_boots_2_phase_duration"					"ПРОДОЛЖИТЕЛЬНОСТЬ:"
-
+		
 		"DOTA_Tooltip_ability_item_phase_boots_3" "Green Boots"
 		"DOTA_Tooltip_ability_item_phase_boots_3_Description"						"<h1>Активное: Phase</h1> Увеличивает скорость передвижения на %phase_movement_speed%%% для героев ближнего боя и на %phase_movement_speed_range%%% для героев дальнего боя, а также позволяет проходить сквозь существ и поворачиваться быстрее. Действует %phase_duration% сек.\nБонусы к скорости передвижения от нескольких пар ботинок не складываются."
-		//"DOTA_Tooltip_ability_item_phase_boots_3_Note0"							"Flat movement speed bonuses from multiple pairs of boots do not stack."
 		"DOTA_Tooltip_ability_item_phase_boots_3_Lore"							"Ботинки, которые позволяют владельцу путешествовать между слоями реальности."
 		"DOTA_Tooltip_ability_item_phase_boots_3_bonus_damage_melee"					"+$damage"
 		"DOTA_Tooltip_ability_item_phase_boots_3_bonus_movement_speed"			"+$move_speed"
-		//"DOTA_Tooltip_ability_item_phase_boots_3_phase_movement_speed"			"%СКОРОСТЬ ПЕРЕДВИЖЕНИЯ ДЛЯ БЛИЖНЕГО БОЯ:"
-		//"DOTA_Tooltip_ability_item_phase_boots_3_phase_movement_speed_range"			"%СКОРОСТЬ ПЕРЕДВИЖЕНИЯ ДЛЯ ДАЛЬНЕГО БОЯ::"
-		//"DOTA_Tooltip_ability_item_phase_boots_3_phase_duration"					"ПРОДОЛЖИТЕЛЬНОСТЬ:"
-
+		
 		"DOTA_Tooltip_ability_item_phase_boots_4" "Pink Boots"
 		"DOTA_Tooltip_ability_item_phase_boots_4_Description"						"<h1>Активное: Phase</h1> Увеличивает скорость передвижения на %phase_movement_speed%%% для героев ближнего боя и на %phase_movement_speed_range%%% для героев дальнего боя, а также позволяет проходить сквозь существ и поворачиваться быстрее. Действует %phase_duration% сек.\nБонусы к скорости передвижения от нескольких пар ботинок не складываются."
-		//"DOTA_Tooltip_ability_item_phase_boots_4_Note0"							"Flat movement speed bonuses from multiple pairs of boots do not stack."
 		"DOTA_Tooltip_ability_item_phase_boots_4_Lore"							"Ботинки, которые позволяют владельцу путешествовать между слоями реальности."
 		"DOTA_Tooltip_ability_item_phase_boots_4_bonus_damage_melee"					"+$damage"
 		"DOTA_Tooltip_ability_item_phase_boots_4_bonus_movement_speed"			"+$move_speed"
-		//"DOTA_Tooltip_ability_item_phase_boots_4_phase_movement_speed"			"%СКОРОСТЬ ПЕРЕДВИЖЕНИЯ ДЛЯ БЛИЖНЕГО БОЯ:"
-		//"DOTA_Tooltip_ability_item_phase_boots_4_phase_movement_speed_range"			"%СКОРОСТЬ ПЕРЕДВИЖЕНИЯ ДЛЯ ДАЛЬНЕГО БОЯ:"
-		//"DOTA_Tooltip_ability_item_phase_boots_4_phase_duration"					"ПРОДОЛЖИТЕЛЬНОСТЬ:"
-
+		
 		"DOTA_Tooltip_ability_item_great_phase_boots" "Great Phase Boots"
 		"DOTA_Tooltip_ability_item_great_phase_boots_Description"						"<h1>Активное: Phase</h1> Увеличивает скорость передвижения на %phase_movement_speed%%% для героев ближнего боя и на %phase_movement_speed_range%%% для героев дальнего боя, а также позволяет проходить сквозь существ и поворачиваться быстрее. Действует %phase_duration% сек.\nБонусы к скорости передвижения от нескольких пар ботинок не складываются."
-		//"DOTA_Tooltip_ability_item_great_phase_boots_Note0"							"Flat movement speed bonuses from multiple pairs of boots do not stack."
 		"DOTA_Tooltip_ability_item_great_phase_boots_Lore"							"Ботинки, которые позволяют владельцу путешествовать между слоями реальности."
 		"DOTA_Tooltip_ability_item_great_phase_boots_bonus_damage_melee"					"+$damage"
 		"DOTA_Tooltip_ability_item_great_phase_boots_bonus_movement_speed"			"+$move_speed"
-		//"DOTA_Tooltip_ability_item_great_phase_boots_phase_movement_speed"			"%СКОРОСТЬ ПЕРЕДВИЖЕНИЯ ДЛЯ БЛИЖНЕГО БОЯ:"
-		//"DOTA_Tooltip_ability_item_great_phase_boots_phase_movement_speed_range"			"%СКОРОСТЬ ПЕРЕДВИЖЕНИЯ ДЛЯ ДАЛЬНЕГО БОЯ:"
-		//"DOTA_Tooltip_ability_item_great_phase_boots_phase_duration"					"ПРОДОЛЖИТЕЛЬНОСТЬ:"
-
+		
 		"DOTA_Tooltip_ability_life_stealer_feast_low"								"Feast"
 		"DOTA_Tooltip_ability_life_stealer_feast_low_vampiric_aura"				"%ВАМПИРИЗМ:"
 
@@ -741,12 +687,7 @@
 		"DOTA_Tooltip_ability_item_shivas_guard2_Note2" 							"Эффект от нескольких Freezing Aura не складывается."
 		"DOTA_Tooltip_ability_item_shivas_guard2_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_shivas_guard2_bonus_armor"					"+$armor"
-		//"DOTA_Tooltip_ability_item_shivas_guard2_aura_attack_speed"				"AURA ЗАМЕДЛЕНИЕ СКОРОСТИ АТАКИ:"
-		//"DOTA_Tooltip_ability_item_shivas_guard2_blast_damage"					"BLAST УРОН:"
-		//"DOTA_Tooltip_ability_item_shivas_guard2_blast_movement_speed"			"%BLAST MOVEMENT SLOW:"
-		//"DOTA_Tooltip_ability_item_shivas_guard2_blast_debuff_duration"			"BLAST ПРОДОЛЖИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ:"
-		//"DOTA_Tooltip_ability_item_shivas_guard2_blast_radius"						"BLAST РАДИУС:"
-
+		
 		"DOTA_Tooltip_ability_item_shivas_guard3_Description"					"<h1>Активное: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и на %blast_debuff_duration% сек. снижает их скорость передвижения на %blast_movement_speed%%%.<br><br>Радиус: %blast_radius%\n<h1>Пассивное: Freezing Aura</h1>Снижает скорость атаки противников на %aura_attack_speed%, а их лечение, восстановление здоровья и вампиризм — на %hp_regen_degen_aura%%%.<br><br>Радиус: %aura_radius%"
 		"DOTA_Tooltip_ability_item_shivas_guard3_Lore"							"Артефакт, раньше принадлежавший богине, до сих пор сохранил часть былого могущества."
 		"DOTA_Tooltip_ability_item_shivas_guard3_Note0"							"Волна распространяется со скоростью в %blast_speed% до максимального размера в %blast_radius%."
@@ -754,12 +695,7 @@
 		"DOTA_Tooltip_ability_item_shivas_guard3_Note2" 							"Эффект от нескольких Freezing Aura не складывается."
 		"DOTA_Tooltip_ability_item_shivas_guard3_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_shivas_guard3_bonus_armor"					"+$armor"
-		//"DOTA_Tooltip_ability_item_shivas_guard3_aura_attack_speed"				"AURA ЗАМЕДЛЕНИЕ СКОРОСТИ АТАКИ:"
-		//"DOTA_Tooltip_ability_item_shivas_guard3_blast_damage"					"BLAST УРОН:"
-		//"DOTA_Tooltip_ability_item_shivas_guard3_blast_movement_speed"			"%BLAST MOVEMENT SLOW:"
-		//"DOTA_Tooltip_ability_item_shivas_guard3_blast_debuff_duration"			"BLAST ПРОДОЛЖИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ:"
-		//"DOTA_Tooltip_ability_item_shivas_guard3_blast_radius"						"BLAST РАДИУС:"
-
+		
 		"DOTA_Tooltip_ability_item_shivas_guard4_Description"					"<h1>Активное: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и на %blast_debuff_duration% сек. снижает их скорость передвижения на %blast_movement_speed%%%.<br><br>Радиус: %blast_radius%\n<h1>Пассивное: Freezing Aura</h1>Снижает скорость атаки противников на %aura_attack_speed%, а их лечение, восстановление здоровья и вампиризм — на %hp_regen_degen_aura%%%.<br><br>Радиус: %aura_radius%"
 		"DOTA_Tooltip_ability_item_shivas_guard4_Lore"							"Артефакт, раньше принадлежавший богине, до сих пор сохранил часть былого могущества."
 		"DOTA_Tooltip_ability_item_shivas_guard4_Note0"							"Волна распространяется со скоростью в %blast_speed% до максимального размера в %blast_radius%."
@@ -767,12 +703,7 @@
 		"DOTA_Tooltip_ability_item_shivas_guard4_Note2" 							"Эффект от нескольких Freezing Aura не складывается."
 		"DOTA_Tooltip_ability_item_shivas_guard4_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_shivas_guard4_bonus_armor"					"+$armor"
-		//"DOTA_Tooltip_ability_item_shivas_guard4_aura_attack_speed"				"AURA ЗАМЕДЛЕНИЕ СКОРОСТИ АТАКИ:"
-		//"DOTA_Tooltip_ability_item_shivas_guard4_blast_damage"					"BLAST УРОН:"
-		//"DOTA_Tooltip_ability_item_shivas_guard4_blast_movement_speed"			"%BLAST MOVEMENT SLOW:"
-		//"DOTA_Tooltip_ability_item_shivas_guard4_blast_debuff_duration"			"BLAST ПРОДОЛЖИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ:"
-		//"DOTA_Tooltip_ability_item_shivas_guard4_blast_radius"						"BLAST РАДИУС:"
-
+		
 		"DOTA_Tooltip_ability_item_shivas_guard5_Description"					"<h1>Активное: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и на %blast_debuff_duration% сек. снижает их скорость передвижения на %blast_movement_speed%%%.<br><br>Радиус: %blast_radius%\n<h1>Пассивное: Freezing Aura</h1>Снижает скорость атаки противников на %aura_attack_speed%, а их лечение, восстановление здоровья и вампиризм — на %hp_regen_degen_aura%%%.<br><br>Радиус: %aura_radius%"
 		"DOTA_Tooltip_ability_item_shivas_guard5_Lore"							"Артефакт, раньше принадлежавший богине, до сих пор сохранил часть былого могущества."
 		"DOTA_Tooltip_ability_item_shivas_guard5_Note0"							"Волна распространяется со скоростью в %blast_speed% до максимального размера в %blast_radius%."
@@ -780,12 +711,7 @@
 		"DOTA_Tooltip_ability_item_shivas_guard5_Note2" 							"Эффект от нескольких Freezing Aura не складывается."
 		"DOTA_Tooltip_ability_item_shivas_guard5_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_shivas_guard5_bonus_armor"					"+$armor"
-		//"DOTA_Tooltip_ability_item_shivas_guard5_aura_attack_speed"				"AURA ЗАМЕДЛЕНИЕ СКОРОСТИ АТАКИ:"
-		//"DOTA_Tooltip_ability_item_shivas_guard5_blast_damage"					"BLAST УРОН:"
-		//"DOTA_Tooltip_ability_item_shivas_guard5_blast_movement_speed"			"%BLAST MOVEMENT SLOW:"
-		//"DOTA_Tooltip_ability_item_shivas_guard5_blast_debuff_duration"			"BLAST ПРОДОЛЖИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ:"
-		//"DOTA_Tooltip_ability_item_shivas_guard5_blast_radius"						"BLAST РАДИУС:"
-
+		
 		"DOTA_Tooltip_ability_item_shivas_guard6_Description"					"<h1>Активное: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и на %blast_debuff_duration% сек. снижает их скорость передвижения на %blast_movement_speed%%%.<br><br>Радиус: %blast_radius%\n<h1>Пассивное: Freezing Aura</h1>Снижает скорость атаки противников на %aura_attack_speed%, а их лечение, восстановление здоровья и вампиризм — на %hp_regen_degen_aura%%%.<br><br>Радиус: %aura_radius%"
 		"DOTA_Tooltip_ability_item_shivas_guard6_Lore"							"Артефакт, раньше принадлежавший богине, до сих пор сохранил часть былого могущества."
 		"DOTA_Tooltip_ability_item_shivas_guard6_Note0"							"Волна распространяется со скоростью в %blast_speed% до максимального размера в %blast_radius%."
@@ -793,12 +719,7 @@
 		"DOTA_Tooltip_ability_item_shivas_guard6_Note2" 							"Эффект от нескольких Freezing Aura не складывается."
 		"DOTA_Tooltip_ability_item_shivas_guard6_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_shivas_guard6_bonus_armor"					"+$armor"
-		//"DOTA_Tooltip_ability_item_shivas_guard6_aura_attack_speed"				"AURA ЗАМЕДЛЕНИЕ СКОРОСТИ АТАКИ:"
-		//"DOTA_Tooltip_ability_item_shivas_guard6_blast_damage"					"BLAST УРОН:"
-		//"DOTA_Tooltip_ability_item_shivas_guard6_blast_movement_speed"			"%BLAST MOVEMENT SLOW:"
-		//"DOTA_Tooltip_ability_item_shivas_guard6_blast_debuff_duration"			"BLAST ПРОДОЛЖИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ:"
-		//"DOTA_Tooltip_ability_item_shivas_guard6_blast_radius"						"BLAST РАДИУС:"
-
+		
 		"DOTA_Tooltip_ability_item_recipe_shivas_guard2" "Recipe Shivas Guard LVL 2"
 		"DOTA_Tooltip_ability_item_recipe_shivas_guard3" "Recipe Shivas Guard LVL 3"
 		"DOTA_Tooltip_ability_item_recipe_shivas_guard4" "Recipe Shivas Guard LVL 4"
@@ -814,42 +735,15 @@
 		"DOTA_Tooltip_ability_item_vladmir2" "Vladmir's Offering LVL 2"
 		"DOTA_Tooltip_ability_item_vladmir2_Description"							"<h1>Пассивное: Vladmir's Aura</h1>Увеличивает вампиризм союзников на %lifesteal_aura%%%, их урон на %damage_aura%%%, броню на %armor_aura% и восстановление маны на %mana_regen_aura%. <br><br>Радиус: %aura_radius%"
 		"DOTA_Tooltip_ability_item_vladmir2_Lore"								"Жуткая маска, проклятая злобой павшего вампира."
-		//"DOTA_Tooltip_ability_item_vladmir2_Note0"								"Multiple instances of Vladmir's Aura do not stack."
-		//"DOTA_Tooltip_ability_item_vladmir2_bonus_all_stats"					"+$all"
-		//"DOTA_Tooltip_ability_item_vladmir2_hp_regen"							"AURA HEALTH REGEN:"
-		//"DOTA_Tooltip_ability_item_vladmir2_vampiric_aura"						"%AURA MELEE LIFESTEAL:"
-		//"DOTA_Tooltip_ability_item_vladmir2_vampiric_aura_ranged"						"%AURA RANGED LIFESTEAL:"
-		//"DOTA_Tooltip_ability_item_vladmir2_mana_regen_aura"						"АУРА - РЕГЕНЕРАЦИЯ МАНЫ:"
-		//"DOTA_Tooltip_ability_item_vladmir2_damage_aura"							"%AURA BONUS ATTACK УРОН:"
-		//"DOTA_Tooltip_ability_item_vladmir2_armor_aura"							"АУРА - БОНУСНАЯ БРОНЯ:"
-		//"DOTA_Tooltip_ability_item_vladmir2_aura_radius"							"АУРА РАДИУС:"
-
+		
 		"DOTA_Tooltip_ability_item_vladmir4" "Lores's Offering"
 		"DOTA_Tooltip_ability_item_vladmir4_Description"							"<h1>Пассивное: Vladmir's Aura</h1>Увеличивает вампиризм союзников на %lifesteal_aura%%%, их урон на %damage_aura%%%, броню на %armor_aura% и восстановление маны на %mana_regen_aura%. <br><br>Радиус: %aura_radius%"
 		"DOTA_Tooltip_ability_item_vladmir4_Lore"								"Жуткая маска, проклятая злобой павшего вампира."
-		//"DOTA_Tooltip_ability_item_vladmir4_Note0"								"Multiple instances of Vladmir's Aura do not stack."
-		//"DOTA_Tooltip_ability_item_vladmir4_bonus_all_stats"					"+$all"
-		//"DOTA_Tooltip_ability_item_vladmir4_hp_regen"							"AURA HEALTH REGEN:"
-		//"DOTA_Tooltip_ability_item_vladmir4_vampiric_aura"						"%AURA MELEE LIFESTEAL:"
-		//"DOTA_Tooltip_ability_item_vladmir4_vampiric_aura_ranged"						"%AURA RANGED LIFESTEAL:"
-		//"DOTA_Tooltip_ability_item_vladmir4_mana_regen_aura"						"АУРА - РЕГЕНЕРАЦИЯ МАНЫ:"
-		//"DOTA_Tooltip_ability_item_vladmir4_damage_aura"							"%AURA BONUS ATTACK УРОН:"
-		//"DOTA_Tooltip_ability_item_vladmir4_armor_aura"							"АУРА - БОНУСНАЯ БРОНЯ:"
-		//"DOTA_Tooltip_ability_item_vladmir4_aura_radius"							"АУРА РАДИУС:"
-
+		
 		"DOTA_Tooltip_ability_item_vladmir3" "Vladmir's Offering LVL 3"
 		"DOTA_Tooltip_ability_item_vladmir3_Description"							"<h1>Пассивное: Vladmir's Aura</h1>Увеличивает вампиризм союзников на %lifesteal_aura%%%, их урон на %damage_aura%%%, броню на %armor_aura% и восстановление маны на %mana_regen_aura%. <br><br>Радиус: %aura_radius%"
 		"DOTA_Tooltip_ability_item_vladmir3_Lore"								"Жуткая маска, проклятая злобой павшего вампира."
-		//"DOTA_Tooltip_ability_item_vladmir3_Note0"								"Multiple instances of Vladmir's Aura do not stack."
-		//"DOTA_Tooltip_ability_item_vladmir3_bonus_all_stats"					"+$all"
-		//"DOTA_Tooltip_ability_item_vladmir3_hp_regen"							"AURA HEALTH REGEN:"
-		//"DOTA_Tooltip_ability_item_vladmir3_vampiric_aura"						"%AURA MELEE LIFESTEAL:"
-		//"DOTA_Tooltip_ability_item_vladmir3_vampiric_aura_ranged"						"%AURA RANGED LIFESTEAL:"
-		//"DOTA_Tooltip_ability_item_vladmir3_mana_regen_aura"						"АУРА - РЕГЕНЕРАЦИЯ МАНЫ:"
-		//"DOTA_Tooltip_ability_item_vladmir3_damage_aura"							"%AURA BONUS ATTACK УРОН:"
-		//"DOTA_Tooltip_ability_item_vladmir3_armor_aura"							"АУРА - БОНУСНАЯ БРОНЯ:"
-		//"DOTA_Tooltip_ability_item_vladmir3_aura_radius"							"АУРА РАДИУС:"
-
+		
 		"DOTA_Tooltip_ability_item_ethereal_blade2"	"Ethereal Blade LVL 2"
 		"DOTA_Tooltip_ability_item_ethereal_blade2_Description"					"<h1>Активное: Ether Blast</h1>Превращает цель в эфирную форму, делая ее невосприимчивой к физическому урону, но неспособной атаковать и %ethereal_damage_bonus%%% более уязвимой к магическому урону. Длится %duration_ally% секунд на союзниках и %duration% секунд на врагах.<br><br> Вражеские цели также замедляются с помощью %blast_movement_slow%%% и получают %blast_agility_multiplier%x вашего основного атрибута + %blast_damage_base% в качестве магического урона. .<br><br>Диапазон: %tooltip_range%"
 		"DOTA_Tooltip_ability_item_ethereal_blade2_Note0"						"Shares cooldown with Ghost Scepter."
@@ -862,10 +756,6 @@
 		"DOTA_Tooltip_ability_item_ethereal_blade2_spell_amp"				"%+$spell_amp"
 		"DOTA_Tooltip_ability_item_ethereal_blade2_spell_lifesteal_amp"				"%+к усилению вампиризма от заклинаний"
 		"DOTA_Tooltip_ability_item_ethereal_blade2_mana_regen_multiplier"				"%+к усилению восстановления маны"
-		//"DOTA_Tooltip_ability_item_ethereal_blade2_blast_movement_slow"	"%ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ ВРАГА ОТ BLAST:"		
-		//"DOTA_Tooltip_ability_item_ethereal_blade2_duration"					"ДЛИТЕЛЬНОСТЬ BLAST НА ВРАГАХ:"
-		//"DOTA_Tooltip_ability_item_ethereal_blade2_duration_ally"				"ДЛИТЕЛЬНОСТЬ BLAST НА СЕБЕ/СОЮЗНИКАХ:"
-		//"DOTA_Tooltip_ability_item_ethereal_blade2_ethereal_damage_bonus"		"%УСИЛЕНИЕ МАГИЧЕСКОГО УРОНА:"
 		"DOTA_Tooltip_ability_item_ethereal_blade2_Lore"						"Мерцающий клинок ужасной природы способен наносить урон как в магическом, так и в физическом плане."
 
 		"DOTA_Tooltip_ability_item_ethereal_blade3"	"Ethereal Blade LVL 3"
@@ -880,10 +770,6 @@
 		"DOTA_Tooltip_ability_item_ethereal_blade3_spell_amp"				"%+$spell_amp"
 		"DOTA_Tooltip_ability_item_ethereal_blade3_spell_lifesteal_amp"				"%+к усилению вампиризма от заклинаний"
 		"DOTA_Tooltip_ability_item_ethereal_blade3_mana_regen_multiplier"				"%+к усилению восстановления маны"
-		//"DOTA_Tooltip_ability_item_ethereal_blade3_blast_movement_slow"	"%ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ ВРАГА ОТ BLAST:"		
-		//"DOTA_Tooltip_ability_item_ethereal_blade3_duration"					"ДЛИТЕЛЬНОСТЬ BLAST НА ВРАГАХ:"
-		//"DOTA_Tooltip_ability_item_ethereal_blade3_duration_ally"				"ДЛИТЕЛЬНОСТЬ BLAST НА СЕБЕ/СОЮЗНИКАХ:"
-		//"DOTA_Tooltip_ability_item_ethereal_blade3_ethereal_damage_bonus"		"%УСИЛЕНИЕ МАГИЧЕСКОГО УРОНА:"
 		"DOTA_Tooltip_ability_item_ethereal_blade3_Lore"						"Мерцающий клинок ужасной природы способен наносить урон как в магическом, так и в физическом плане."
 
 		"DOTA_Tooltip_ability_item_ethereal_blade4"	"Ethereal Blade LVL 4"
@@ -898,10 +784,6 @@
 		"DOTA_Tooltip_ability_item_ethereal_blade4_spell_amp"				"%+$spell_amp"
 		"DOTA_Tooltip_ability_item_ethereal_blade4_spell_lifesteal_amp"				"%+к усилению вампиризма от заклинаний"
 		"DOTA_Tooltip_ability_item_ethereal_blade4_mana_regen_multiplier"				"%+к усилению восстановления маны"
-		//"DOTA_Tooltip_ability_item_ethereal_blade4_blast_movement_slow"	"%BLAST ENEMY ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ:"		
-		//"DOTA_Tooltip_ability_item_ethereal_blade4_duration"					"ДЛИТЕЛЬНОСТЬ BLAST НА ВРАГАХ:"
-		//"DOTA_Tooltip_ability_item_ethereal_blade4_duration_ally"				"ДЛИТЕЛЬНОСТЬ BLAST НА СЕБЕ/СОЮЗНИКАХ:"
-		//"DOTA_Tooltip_ability_item_ethereal_blade4_ethereal_damage_bonus"		"%УСИЛЕНИЕ МАГИЧЕСКОГО УРОНА:"
 		"DOTA_Tooltip_ability_item_ethereal_blade4_Lore"						"Мерцающий клинок ужасной природы способен наносить урон как в магическом, так и в физическом плане."
 
 		"DOTA_Tooltip_ability_item_ethereal_blade5"	"Ethereal Blade LVL 5"
@@ -916,10 +798,6 @@
 		"DOTA_Tooltip_ability_item_ethereal_blade5_spell_amp"				"%+$spell_amp"
 		"DOTA_Tooltip_ability_item_ethereal_blade5_spell_lifesteal_amp"				"%+к усилению вампиризма от заклинаний"
 		"DOTA_Tooltip_ability_item_ethereal_blade5_mana_regen_multiplier"				"%+к усилению восстановления маны"
-		//"DOTA_Tooltip_ability_item_ethereal_blade5_blast_movement_slow"	"%ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ ВРАГА ОТ BLAST:"		
-		//"DOTA_Tooltip_ability_item_ethereal_blade5_duration"					"ДЛИТЕЛЬНОСТЬ BLAST НА ВРАГАХ:"
-		//"DOTA_Tooltip_ability_item_ethereal_blade5_duration_ally"				"ДЛИТЕЛЬНОСТЬ BLAST НА СЕБЕ/СОЮЗНИКАХ:"
-		//"DOTA_Tooltip_ability_item_ethereal_blade5_ethereal_damage_bonus"		"%УСИЛЕНИЕ МАГИЧЕСКОГО УРОНА:"
 		"DOTA_Tooltip_ability_item_ethereal_blade5_Lore"						"Мерцающий клинок ужасной природы способен наносить урон как в магическом, так и в физическом плане."
 
 		"DOTA_Tooltip_ability_item_ethereal_blade6"	"Ethereal Blade LVL 6"
@@ -931,10 +809,6 @@
 		"DOTA_Tooltip_ability_item_ethereal_blade6_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_ethereal_blade6_bonus_strength"				"+$str"
 		"DOTA_Tooltip_ability_item_ethereal_blade6_bonus_intellect"				"+$int"
-		//"DOTA_Tooltip_ability_item_ethereal_blade6_blast_movement_slow"	"%ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ ВРАГА ОТ BLAST:"		
-		//"DOTA_Tooltip_ability_item_ethereal_blade6_duration"					"ДЛИТЕЛЬНОСТЬ BLAST НА ВРАГАХ:"
-		//"DOTA_Tooltip_ability_item_ethereal_blade6_duration_ally"				"ДЛИТЕЛЬНОСТЬ BLAST НА СЕБЕ/СОЮЗНИКАХ:"
-		//"DOTA_Tooltip_ability_item_ethereal_blade6_ethereal_damage_bonus"		"%УСИЛЕНИЕ МАГИЧЕСКОГО УРОНА:"
 		"DOTA_Tooltip_ability_item_ethereal_blade6_Lore"						"Мерцающий клинок ужасной природы способен наносить урон как в магическом, так и в физическом плане."
 
                 
@@ -945,12 +819,7 @@
 		"DOTA_Tooltip_ability_item_mask_of_madness2_Lore"						"Надев эту маску, воин впадает в безудержную ярость."
 		"DOTA_Tooltip_ability_item_mask_of_madness2_bonus_damage"				"+$damage"
 		"DOTA_Tooltip_ability_item_mask_of_madness2_bonus_attack_speed"			"+$attack"
-		//"DOTA_Tooltip_ability_item_mask_of_madness2_lifesteal_percent"			"%ВАМПИРИЗМ:"
-		//"DOTA_Tooltip_ability_item_mask_of_madness2_berserk_bonus_attack_speed"	"СКОРОСТЬ АТАКИ ОТ BERSERK:"
-		//"DOTA_Tooltip_ability_item_mask_of_madness2_berserk_bonus_movement_speed" "%СКОРОСТЬ ПЕРЕДВИЖЕНИЯ ОТ BERSERK:"
-		//"DOTA_Tooltip_ability_item_mask_of_madness2_berserk_armor_reduction"	"СНИЖЕНИЕ БРОНИ ОТ BERSERK:"
-		//"DOTA_Tooltip_ability_item_mask_of_madness2_berserk_duration"	"ДЛИТЕЛЬНОСТЬ BERSERK:"
-
+		
 		"DOTA_Tooltip_ability_slardar_greater_bash"							"Greater Bash"
 		"DOTA_Tooltip_ability_slardar_greater_bash_Lore"					"Фирменный удар призрачного шара и цепи Баратрума."
 		"DOTA_Tooltip_ability_slardar_greater_bash_Description"				"Дает шанс оглушить и отбросить вражеский юнит при атаке, а также получить дополнительную скорость передвижения после оглушения. Наносит урон в процентах от скорости передвижения."
@@ -1011,9 +880,7 @@
 		"DOTA_Tooltip_ability_item_butterfly4_bonus_damage"						"+$damage"
 		"DOTA_Tooltip_ability_item_butterfly4_bonus_evasion"						"%+$evasion"
 		"DOTA_Tooltip_ability_item_butterfly4_bonus_attack_speed"				"+$attack"		
-		//"DOTA_Tooltip_ability_item_butterfly4_bonus_move_speed"				"%ДОП. СКОРОСТЬ ПЕРЕДВИЖЕНИЯ ОТ FLUTTER:"	
-		//"DOTA_Tooltip_ability_item_butterfly4_duration"				"ДЛИТЕЛЬНОСТЬ FLUTTER:"
-
+		
                 "DOTA_Tooltip_ability_item_monkey_soul" "Monkey Soul"
 
                 "DOTA_Tooltip_ability_item_easter_egg2" "Пасхалка"
@@ -1084,8 +951,7 @@
 		"DOTA_Tooltip_ability_hex2_bonus_agility"					"+$agi"
 		"DOTA_Tooltip_ability_hex2_bonus_intellect"					"+$int"
 		"DOTA_Tooltip_ability_hex2_bonus_mana_regen"					"+$mana_regen"
-		//"DOTA_Tooltip_ability_item_hex2_sheep_duration"					"ДЛИТЕЛЬНОСТЬ HEX:"
-
+		
                 "DOTA_Tooltip_ability_item_hex3" "Hex LVL 3"
 		"DOTA_Tooltip_ability_item_hex3_Description"						"<h1>Активное: Hex</h1>Превращает цель в безвредного существа на %sheep_duration% секунд. Цель имеет базовую скорость передвижения 140 и будет обезмолвлена, заглушена и обезоружена.<br>Мгновенно уничтожает иллюзии.<br><br>Диапазон: %tooltip_range%"
 		"DOTA_Tooltip_ability_item_hex3_Note0"							"The target will have a base movement speed of 140, but buffs granting maximum movement speed won't be disabled."
@@ -1094,8 +960,7 @@
 		"DOTA_Tooltip_ability_hex3_bonus_agility"					"+$agi"
 		"DOTA_Tooltip_ability_hex3_bonus_intellect"					"+$int"
 		"DOTA_Tooltip_ability_hex3_bonus_mana_regen"					"+$mana_regen"
-		//"DOTA_Tooltip_ability_item_hex3_sheep_duration"					"ДЛИТЕЛЬНОСТЬ HEX:"
-
+		
 		"DOTA_Tooltip_ability_item_octarine_core2" "Octarine Core LVL 2"
 		"DOTA_Tooltip_ability_item_octarine_core2_Description"						"<h1>Пассивное: Cooldown Reduction</h1>Снижает время перезарядки всех заклинаний и предметов."
 		"DOTA_Tooltip_ability_item_octarine_core2_bonus_cooldown"		"%+к снижению перезарядки"
@@ -1103,9 +968,6 @@
 		"DOTA_Tooltip_ability_item_octarine_core2_bonus_mana_regen"		"%+к восстановлению маны"
 		"DOTA_Tooltip_ability_item_octarine_core2_bonus_health"				"+$health"
 		"DOTA_Tooltip_ability_item_octarine_core2_bonus_mana"				"+$mana"
-		//"DOTA_Tooltip_ability_item_octarine_core2_bonus_cooldown"			"%СНИЖЕНИЕ ПЕРЕЗАРЯДКИ:"
-		//"DOTA_Tooltip_ability_item_octarine_core2_hero_lifesteal"				"%ВАМПИРИЗМ У ГЕРОЕВ ОТ СПОСОБНОСТЕЙ:"
-		//"DOTA_Tooltip_ability_item_octarine_core2_creep_lifesteal"				"%ВАМПИРИЗМ У КРИПОВ ОТ СПОСОБНОСТЕЙ:"
 		"DOTA_Tooltip_ability_item_octarine_core2_Lore"						"В основе колдовства лежат спектры, которые могут ощущать только очень одаренные."
 
 		"DOTA_Tooltip_ability_item_octarine_core3" "Octarine Core LVL 3"
@@ -1115,9 +977,6 @@
 		"DOTA_Tooltip_ability_item_octarine_core3_bonus_mana_regen"		"%+к восстановлению маны"
 		"DOTA_Tooltip_ability_item_octarine_core3_bonus_health"				"+$health"
 		"DOTA_Tooltip_ability_item_octarine_core3_bonus_mana"				"+$mana"
-		//"DOTA_Tooltip_ability_item_octarine_core3_bonus_cooldown"			"%СОКРАЩЕНИЕ ПЕРЕЗАРЯДКИ:"
-		//"DOTA_Tooltip_ability_item_octarine_core3_hero_lifesteal"				"%ВАМПИРИЗМ У ГЕРОЕВ ОТ СПОСОБНОСТЕЙ:"
-		//"DOTA_Tooltip_ability_item_octarine_core3_creep_lifesteal"				"%ВАМПИРИЗМ У КРИПОВ ОТ СПОСОБНОСТЕЙ:"
 		"DOTA_Tooltip_ability_item_octarine_core3_Lore"						"В основе колдовства лежат спектры, которые могут ощущать только очень одаренные."
 
 		"DOTA_Tooltip_ability_item_octarine_core4" "Octarine Core LVL 4"
@@ -1127,9 +986,6 @@
 		"DOTA_Tooltip_ability_item_octarine_core4_bonus_mana_regen"		"%+к восстановлению маны"
 		"DOTA_Tooltip_ability_item_octarine_core4_bonus_health"				"+$health"
 		"DOTA_Tooltip_ability_item_octarine_core4_bonus_mana"				"+$mana"
-		//"DOTA_Tooltip_ability_item_octarine_core4_bonus_cooldown"			"%СОКРАЩЕНИЕ ПЕРЕЗАРЯДКИ:"
-		//"DOTA_Tooltip_ability_item_octarine_core4_hero_lifesteal"				"%ВАМПИРИЗМ У ГЕРОЕВ ОТ СПОСОБНОСТЕЙ:"
-		//"DOTA_Tooltip_ability_item_octarine_core4_creep_lifesteal"				"%ВАМПИРИЗМ У КРИПОВ ОТ СПОСОБНОСТЕЙ:"
 		"DOTA_Tooltip_ability_item_octarine_core4_Lore"						"В основе колдовства лежат спектры, которые могут ощущать только очень одаренные."
 
 		"DOTA_Tooltip_ability_item_octarine_core5" "Octarine Core LVL 5"
@@ -1139,9 +995,6 @@
 		"DOTA_Tooltip_ability_item_octarine_core5_bonus_mana_regen"		"%+к восстановлению маны"
 		"DOTA_Tooltip_ability_item_octarine_core5_bonus_health"				"+$health"
 		"DOTA_Tooltip_ability_item_octarine_core5_bonus_mana"				"+$mana"
-		//"DOTA_Tooltip_ability_item_octarine_core5_bonus_cooldown"			"%СОКРАЩЕНИЕ ПЕРЕЗАРЯДКИ:"
-		//"DOTA_Tooltip_ability_item_octarine_core5_hero_lifesteal"				"%ВАМПИРИЗМ У ГЕРОЕВ ОТ СПОСОБНОСТЕЙ:"
-		//"DOTA_Tooltip_ability_item_octarine_core5_creep_lifesteal"				"%ВАМПИРИЗМ У КРИПОВ ОТ СПОСОБНОСТЕЙ:"
 		"DOTA_Tooltip_ability_item_octarine_core5_Lore"						"В основе колдовства лежат спектры, которые могут ощущать только очень одаренные."
 
 		"DOTA_Tooltip_ability_meepo_crit"							"Death Critical Strike"
@@ -1160,10 +1013,6 @@
 
 		"DOTA_Tooltip_Ability_item_rebels_sword"							"Lost Desolator"
 		"DOTA_Tooltip_Ability_item_rebels_sword_bonus_damage"				"+$damage"
-		//"DOTA_Tooltip_Ability_item_rebels_sword_bonus_armor"				"+$armor"
-		//"DOTA_Tooltip_Ability_item_rebels_sword_bonus_all_stats"			"+$all"
-		//"DOTA_Tooltip_Ability_item_rebels_sword_bonus_attack_speed"			"+$attack"
-		//"DOTA_Tooltip_Ability_item_rebels_sword_bonus_health"				"+$health"
 		"DOTA_Tooltip_Ability_item_rebels_sword_disarmor"					"%СНИЖЕНИЕ БРОНИ ЗА УДАР:"
 		"DOTA_Tooltip_Ability_item_rebels_sword_disarmor_const"				"СНИЖЕНИЕ БРОНИ ЗА УДАР:"
 		"DOTA_Tooltip_Ability_item_rebels_sword_max_disarmor_pct"			"%МАКСИМАЛЬНОЕ СНИЖЕНИЕ БРОНИ:"
@@ -1175,9 +1024,6 @@
 		"DOTA_Tooltip_ability_item_assault2_Lore"								"Эта адская кольчуга, выкованная в глубинах преисподней, дает армии повышенную броню и скорость атаки."
 		"DOTA_Tooltip_ability_item_assault2_bonus_attack_speed"					"+$attack"
 		"DOTA_Tooltip_ability_item_assault2_bonus_armor"							"+$armor"
-		//"DOTA_Tooltip_ability_item_assault2_aura_attack_speed"					"АУРА СКОРОСТЬ АТАКИ:"
-		//"DOTA_Tooltip_ability_item_assault2_aura_positive_armor"					"АУРА ДРУЖЕСТВЕННОЙ БОНУСНОЙ БРОНИ"
-		//"DOTA_Tooltip_ability_item_assault2_aura_negative_armor"					"АУРА СНИЖЕНИЯ БРОНИ ВРАГА:"
 		"DOTA_Tooltip_modifier_item_assault2_negative_armor"				"Assault Cuirass"
 		"DOTA_Tooltip_modifier_item_assault2_negative_armor_Description"	"Броня уменьшена на  %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%"
 		"DOTA_Tooltip_modifier_item_assault2_positive"				"Assault Cuirass"
@@ -1193,9 +1039,6 @@
 		"DOTA_Tooltip_ability_item_assault3_Lore"								"Эта адская кольчуга, выкованная в глубинах преисподней, дает армии повышенную броню и скорость атаки."
 		"DOTA_Tooltip_ability_item_assault3_bonus_attack_speed"					"+$attack"
 		"DOTA_Tooltip_ability_item_assault3_bonus_armor"							"+$armor"
-		//"DOTA_Tooltip_ability_item_assault3_aura_attack_speed"					"АУРА СКОРОСТЬ АТАКИ:"
-		//"DOTA_Tooltip_ability_item_assault3_aura_positive_armor"					"АУРА ДРУЖЕСТВЕННОЙ БОНУСНОЙ БРОНИ"
-		//"DOTA_Tooltip_ability_item_assault3_aura_negative_armor"					"АУРА СНИЖЕНИЯ БРОНИ ВРАГА:"
 		"DOTA_Tooltip_modifier_item_assault3_negative_armor"				"Assault Cuirass"
 		"DOTA_Tooltip_modifier_item_assault3_negative_armor_Description"	"Броня уменьшена на  %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%"
 		"DOTA_Tooltip_modifier_item_assault3_positive"				"Assault Cuirass"
@@ -1211,9 +1054,6 @@
 		"DOTA_Tooltip_ability_item_assault4_Lore"								"Эта адская кольчуга, выкованная в глубинах преисподней, дает армии повышенную броню и скорость атаки."
 		"DOTA_Tooltip_ability_item_assault4_bonus_attack_speed"					"+$attack"
 		"DOTA_Tooltip_ability_item_assault4_bonus_armor"							"+$armor"
-		//"DOTA_Tooltip_ability_item_assault4_aura_attack_speed"					"АУРА СКОРОСТЬ АТАКИ:"
-		//"DOTA_Tooltip_ability_item_assault4_aura_positive_armor"					"АУРА ДРУЖЕСТВЕННОЙ БОНУСНОЙ БРОНИ"
-		//"DOTA_Tooltip_ability_item_assault4_aura_negative_armor"					"АУРА СНИЖЕНИЯ БРОНИ ВРАГА:"
 		"DOTA_Tooltip_modifier_item_assault4_negative_armor"				"Assault Cuirass"
 		"DOTA_Tooltip_modifier_item_assault4_negative_armor_Description"	"Броня уменьшена на  %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%"
 		"DOTA_Tooltip_modifier_item_assault4_positive"				"Assault Cuirass"
@@ -1229,9 +1069,6 @@
 		"DOTA_Tooltip_ability_item_assault5_Lore"								"Эта адская кольчуга, выкованная в глубинах преисподней, дает армии повышенную броню и скорость атаки."
 		"DOTA_Tooltip_ability_item_assault5_bonus_attack_speed"					"+$attack"
 		"DOTA_Tooltip_ability_item_assault5_bonus_armor"							"+$armor"
-		//"DOTA_Tooltip_ability_item_assault5_aura_attack_speed"					"АУРА СКОРОСТЬ АТАКИ:"
-		//"DOTA_Tooltip_ability_item_assault5_aura_positive_armor"					"АУРА ДРУЖЕСТВЕННОЙ БОНУСНОЙ БРОНИ"
-		//"DOTA_Tooltip_ability_item_assault5_aura_negative_armor"					"АУРА СНИЖЕНИЯ БРОНИ ВРАГА:"
 		"DOTA_Tooltip_modifier_item_assault5_negative_armor"				"Assault Cuirass"
 		"DOTA_Tooltip_modifier_item_assault5_negative_armor_Description"	"Броня уменьшена на  %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%"
 		"DOTA_Tooltip_modifier_item_assault5_positive"				"Assault Cuirass"
@@ -1306,14 +1143,9 @@
 		"DOTA_Tooltip_ability_item_skadix2" "Eye Of Skadi X 2"
 		"DOTA_Tooltip_ability_item_skadix2_Description"							"<h1>Пассивное: Cold Attack</h1> Каждая атака на %cold_duration% сек. замедляет передвижение и атаку цели, а также уменьшает её лечение, восстановление здоровья, вампиризм и вампиризм способностями на %heal_reduction%%%. Замедление зависит от типа атаки жертвы: у существ дальнего боя замедляет передвижение на %cold_slow_ranged%%%, атаку — на %cold_slow_ranged%. У существ ближнего боя замедляет передвижение на %cold_slow_melee%%%, атаку — на %cold_slow_melee%."
 		"DOTA_Tooltip_ability_item_skadix2_Lore"									"Невероятно редкий артефакт, охраняемый лазурными драконами."
-		//"DOTA_Tooltip_ability_item_skadix2_Note0"									"Lasts 5 seconds with melee Eye of Skadi, 2.5 seconds with ranged Eye of Skadi."		
 		"DOTA_Tooltip_ability_item_skadix2_bonus_all_stats"						"+$all"
 		"DOTA_Tooltip_ability_item_skadix2_bonus_health"							"+$health"
 		"DOTA_Tooltip_ability_item_skadix2_bonus_mana"							"+$mana"
-		//"DOTA_Tooltip_ability_item_skadix2_cold_movement_speed"					"%ХОЛОД - СНИЖЕНИЕ СКОРОСТИ ПЕРЕМЕЩЕНИЯ:"
-		//"DOTA_Tooltip_ability_item_skadix2_cold_attack_speed"						"ХОЛОД - СНИЖЕНИЕ СКОРОСТИ АТАКИ:"
-		//"DOTA_Tooltip_ability_item_skadix2_cold_duration_melee"						"ХОЛОД - ПРОДОЛЖИТЕЛЬНОСТЬ НА ЮНИТАХ БЛИЖНЕГО БОЯ:"
-		//"DOTA_Tooltip_ability_item_skadix2_cold_duration_ranged"					"ХОЛОД - ПРОДОЛЖИТЕЛЬНОСТЬ НА ЮНИТАХ ДАЛЬНЕГО БОЯ:"
 		
 		"DOTA_Tooltip_modifier_item_skadix2_slow"					"Eye of Skadi Cold Attack"
 		"DOTA_Tooltip_modifier_item_skadix2_slow_Description"		"Скорость передвижения снижена на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, а скорость атаки снижена на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
@@ -1321,14 +1153,9 @@
 		"DOTA_Tooltip_ability_item_skadix4" "Eye Of Skadi X 4"
 		"DOTA_Tooltip_ability_item_skadix4_Description"							"<h1>Пассивное: Cold Attack</h1> Каждая атака на %cold_duration% сек. замедляет передвижение и атаку цели, а также уменьшает её лечение, восстановление здоровья, вампиризм и вампиризм способностями на %heal_reduction%%%. Замедление зависит от типа атаки жертвы: у существ дальнего боя замедляет передвижение на %cold_slow_ranged%%%, атаку — на %cold_slow_ranged%. У существ ближнего боя замедляет передвижение на %cold_slow_melee%%%, атаку — на %cold_slow_melee%."
 		"DOTA_Tooltip_ability_item_skadix4_Lore"									"Невероятно редкий артефакт, охраняемый лазурными драконами."
-		//"DOTA_Tooltip_ability_item_skadix4_Note0"									"Lasts 5 seconds with melee Eye of Skadi, 2.5 seconds with ranged Eye of Skadi."		
 		"DOTA_Tooltip_ability_item_skadix4_bonus_all_stats"						"+$all"
 		"DOTA_Tooltip_ability_item_skadix4_bonus_health"							"+$health"
 		"DOTA_Tooltip_ability_item_skadix4_bonus_mana"							"+$mana"
-		//"DOTA_Tooltip_ability_item_skadix4_cold_movement_speed"					"%ХОЛОД - СНИЖЕНИЕ СКОРОСТИ ПЕРЕМЕЩЕНИЯ:"
-		//"DOTA_Tooltip_ability_item_skadix4_cold_attack_speed"						"ХОЛОД - СНИЖЕНИЕ СКОРОСТИ АТАКИ:"
-		//"DOTA_Tooltip_ability_item_skadix4_cold_duration_melee"						"ХОЛОД - ПРОДОЛЖИТЕЛЬНОСТЬ НА ЮНИТАХ БЛИЖНЕГО БОЯ:"
-		//"DOTA_Tooltip_ability_item_skadix4_cold_duration_ranged"					"ХОЛОД - ПРОДОЛЖИТЕЛЬНОСТЬ НА ЮНИТАХ ДАЛЬНЕГО БОЯ:"
 		
 		"DOTA_Tooltip_modifier_item_skadix4_slow"					"Eye of Skadi Cold Attack"
 		"DOTA_Tooltip_modifier_item_skadix4_slow_Description"		"Скорость передвижения снижена на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, а скорость атаки снижена на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
@@ -1336,14 +1163,9 @@
 		"DOTA_Tooltip_ability_item_skadix8" "Eye Of Skadi X 8"
 		"DOTA_Tooltip_ability_item_skadix8_Description"							"<h1>Пассивное: Cold Attack</h1> Каждая атака на %cold_duration% сек. замедляет передвижение и атаку цели, а также уменьшает её лечение, восстановление здоровья, вампиризм и вампиризм способностями на %heal_reduction%%%. Замедление зависит от типа атаки жертвы: у существ дальнего боя замедляет передвижение на %cold_slow_ranged%%%, атаку — на %cold_slow_ranged%. У существ ближнего боя замедляет передвижение на %cold_slow_melee%%%, атаку — на %cold_slow_melee%."
 		"DOTA_Tooltip_ability_item_skadix8_Lore"									"Невероятно редкий артефакт, охраняемый лазурными драконами."
-		//"DOTA_Tooltip_ability_item_skadix8_Note0"									"Lasts 5 seconds with melee Eye of Skadi, 2.5 seconds with ranged Eye of Skadi."		
 		"DOTA_Tooltip_ability_item_skadix8_bonus_all_stats"						"+$all"
 		"DOTA_Tooltip_ability_item_skadix8_bonus_health"							"+$health"
 		"DOTA_Tooltip_ability_item_skadix8_bonus_mana"							"+$mana"
-		//"DOTA_Tooltip_ability_item_skadix8_cold_movement_speed"					"%ХОЛОД - СНИЖЕНИЕ СКОРОСТИ ПЕРЕМЕЩЕНИЯ:"
-		//"DOTA_Tooltip_ability_item_skadix8_cold_attack_speed"						"ХОЛОД - СНИЖЕНИЕ СКОРОСТИ АТАКИ:"
-		//"DOTA_Tooltip_ability_item_skadix8_cold_duration_melee"						"ХОЛОД - ПРОДОЛЖИТЕЛЬНОСТЬ НА ЮНИТАХ БЛИЖНЕГО БОЯ:"
-		//"DOTA_Tooltip_ability_item_skadix8_cold_duration_ranged"					"ХОЛОД - ПРОДОЛЖИТЕЛЬНОСТЬ НА ЮНИТАХ ДАЛЬНЕГО БОЯ:"
 		
 		"DOTA_Tooltip_modifier_item_skadix8_slow"					"Eye of Skadi Cold Attack"
 		"DOTA_Tooltip_modifier_item_skadix8_slow_Description"		"Скорость передвижения снижена на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, а скорость атаки снижена на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
@@ -1351,14 +1173,9 @@
 		"DOTA_Tooltip_ability_item_skadix16" "Eye Of Skadi X 16"
 		"DOTA_Tooltip_ability_item_skadix16_Description"							"<h1>Пассивное: Cold Attack</h1> Каждая атака на %cold_duration% сек. замедляет передвижение и атаку цели, а также уменьшает её лечение, восстановление здоровья, вампиризм и вампиризм способностями на %heal_reduction%%%. Замедление зависит от типа атаки жертвы: у существ дальнего боя замедляет передвижение на %cold_slow_ranged%%%, атаку — на %cold_slow_ranged%. У существ ближнего боя замедляет передвижение на %cold_slow_melee%%%, атаку — на %cold_slow_melee%."
 		"DOTA_Tooltip_ability_item_skadix16_Lore"									"Невероятно редкий артефакт, охраняемый лазурными драконами."
-		//"DOTA_Tooltip_ability_item_skadix16_Note0"									"Lasts 5 seconds with melee Eye of Skadi, 2.5 seconds with ranged Eye of Skadi."		
 		"DOTA_Tooltip_ability_item_skadix16_bonus_all_stats"						"+$all"
 		"DOTA_Tooltip_ability_item_skadix16_bonus_health"							"+$health"
 		"DOTA_Tooltip_ability_item_skadix16_bonus_mana"							"+$mana"
-		//"DOTA_Tooltip_ability_item_skadix16_cold_movement_speed"					"%ХОЛОД - СНИЖЕНИЕ СКОРОСТИ ПЕРЕМЕЩЕНИЯ:"
-		//"DOTA_Tooltip_ability_item_skadix16_cold_attack_speed"						"ХОЛОД - СНИЖЕНИЕ СКОРОСТИ АТАКИ:"
-		//"DOTA_Tooltip_ability_item_skadix16_cold_duration_melee"						"ХОЛОД - ПРОДОЛЖИТЕЛЬНОСТЬ НА ЮНИТАХ БЛИЖНЕГО БОЯ:"
-		//"DOTA_Tooltip_ability_item_skadix16_cold_duration_ranged"					"ХОЛОД - ПРОДОЛЖИТЕЛЬНОСТЬ НА ЮНИТАХ ДАЛЬНЕГО БОЯ:"
 		
 		"DOTA_Tooltip_modifier_item_skadix16_slow"					"Eye of Skadi Cold Attack"
 		"DOTA_Tooltip_modifier_item_skadix16_slow_Description"		"Скорость передвижения снижена на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, а скорость атаки снижена на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
@@ -1367,14 +1184,11 @@
 		"DOTA_Tooltip_ability_item_ring_of_aquila2_Description"				"<h1>Пассивное: Aquila Aura</h1> Действует на союзников вокруг. Увеличивает их восстановление маны на %aura_mana_regen% и броню на %aura_bonus_armor%.<br><br>Радиус: %aura_radius%\n<h1>Переключаемая аура</h1>Если выключить способность, аура будет действовать только на героев."
 		"DOTA_Tooltip_ability_item_ring_of_aquila2_Lore"						"Кольцо падшего воеводы Аквилы продолжает поддерживать армии в бою."
 		"DOTA_Tooltip_ability_item_ring_of_aquila2_Note0"					"Эффекты от нескольких Aquila Aura не складываются."
-		//"DOTA_Tooltip_ability_item_ring_of_aquila2_Note1"					"Multiple instances of Aquila Aura do not stack."
 		"DOTA_Tooltip_ability_item_ring_of_aquila2_bonus_strength"			"+$str"
 		"DOTA_Tooltip_ability_item_ring_of_aquila2_bonus_agility"			"+$agi"
 		"DOTA_Tooltip_ability_item_ring_of_aquila2_bonus_intellect"			"+$int"
 		"DOTA_Tooltip_ability_item_ring_of_aquila2_bonus_damage"				"+$damage"
-		//"DOTA_Tooltip_ability_item_ring_of_aquila2_aura_mana_regen"			"АУРА - РЕГЕНЕРАЦИЯ МАНЫ:"
-		//"DOTA_Tooltip_ability_item_ring_of_aquila2_aura_bonus_armor"			"АУРА - БОНУСНАЯ БРОНЯ:"
-
+		
 		"DOTA_Tooltip_modifier_item_ring_of_aquila2_aura_bonus"				"Ring of Aquila Aura"
 		"DOTA_Tooltip_modifier_item_ring_of_aquila2_aura_bonus_Description"		"Восстановление маны увеличено на %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT_UNIQUE%, броня увеличена на %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE%."
 
@@ -1382,14 +1196,11 @@
 		"DOTA_Tooltip_ability_item_ring_of_aquila3_Description"				"<h1>Пассивное: Aquila Aura</h1> Действует на союзников вокруг. Увеличивает их восстановление маны на %aura_mana_regen% и броню на %aura_bonus_armor%.<br><br>Радиус: %aura_radius%\n<h1>Переключаемая аура</h1>Если выключить способность, аура будет действовать только на героев."
 		"DOTA_Tooltip_ability_item_ring_of_aquila3_Lore"						"Кольцо падшего воеводы Аквилы продолжает поддерживать армии в бою."
 		"DOTA_Tooltip_ability_item_ring_of_aquila3_Note0"					"Эффекты от нескольких Aquila Aura не складываются."
-		//"DOTA_Tooltip_ability_item_ring_of_aquila3_Note1"					"Multiple instances of Aquila Aura do not stack."
 		"DOTA_Tooltip_ability_item_ring_of_aquila3_bonus_strength"			"+$str"
 		"DOTA_Tooltip_ability_item_ring_of_aquila3_bonus_agility"			"+$agi"
 		"DOTA_Tooltip_ability_item_ring_of_aquila3_bonus_intellect"			"+$int"
 		"DOTA_Tooltip_ability_item_ring_of_aquila3_bonus_damage"				"+$damage"
-		//"DOTA_Tooltip_ability_item_ring_of_aquila3_aura_mana_regen"			"АУРА - РЕГЕНЕРАЦИЯ МАНЫ:"
-		//"DOTA_Tooltip_ability_item_ring_of_aquila3_aura_bonus_armor"			"АУРА - БОНУСНАЯ БРОНЯ:"
-
+		
 		"DOTA_Tooltip_modifier_item_ring_of_aquila3_aura_bonus"				"Ring of Aquila Aura"
 		"DOTA_Tooltip_modifier_item_ring_of_aquila3_aura_bonus_Description"		"Восстановление маны увеличено на %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT_UNIQUE%, броня увеличена на %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE%."
 
@@ -1397,14 +1208,11 @@
 		"DOTA_Tooltip_ability_item_ring_of_aquila4_Description"				"<h1>Пассивное: Aquila Aura</h1> Действует на союзников вокруг. Увеличивает их восстановление маны на %aura_mana_regen% и броню на %aura_bonus_armor%.<br><br>Радиус: %aura_radius%\n<h1>Переключаемая аура</h1>Если выключить способность, аура будет действовать только на героев."
 		"DOTA_Tooltip_ability_item_ring_of_aquila4_Lore"						"Кольцо падшего воеводы Аквилы продолжает поддерживать армии в бою."
 		"DOTA_Tooltip_ability_item_ring_of_aquila4_Note0"					"Эффекты от нескольких Aquila Aura не складываются."
-		//"DOTA_Tooltip_ability_item_ring_of_aquila4_Note1"					"Multiple instances of Aquila Aura do not stack."
 		"DOTA_Tooltip_ability_item_ring_of_aquila4_bonus_strength"			"+$str"
 		"DOTA_Tooltip_ability_item_ring_of_aquila4_bonus_agility"			"+$agi"
 		"DOTA_Tooltip_ability_item_ring_of_aquila4_bonus_intellect"			"+$int"
 		"DOTA_Tooltip_ability_item_ring_of_aquila4_bonus_damage"				"+$damage"
-		//"DOTA_Tooltip_ability_item_ring_of_aquila4_aura_mana_regen"			"АУРА - РЕГЕНЕРАЦИЯ МАНЫ:"
-		//"DOTA_Tooltip_ability_item_ring_of_aquila4_aura_bonus_armor"			"АУРА - БОНУСНАЯ БРОНЯ:"
-
+		
 		"DOTA_Tooltip_modifier_item_ring_of_aquila4_aura_bonus"				"Ring of Aquila Aura"
 		"DOTA_Tooltip_modifier_item_ring_of_aquila4_aura_bonus_Description"		"Восстановление маны увеличено на %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT_UNIQUE%, броня увеличена на %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE%."
 
@@ -1412,14 +1220,11 @@
 		"DOTA_Tooltip_ability_item_ring_of_aquila5_Description"				"<h1>Пассивное: Aquila Aura</h1> Действует на союзников вокруг. Увеличивает их восстановление маны на %aura_mana_regen% и броню на %aura_bonus_armor%.<br><br>Радиус: %aura_radius%\n<h1>Переключаемая аура</h1>Если выключить способность, аура будет действовать только на героев."
 		"DOTA_Tooltip_ability_item_ring_of_aquila5_Lore"						"Кольцо падшего воеводы Аквилы продолжает поддерживать армии в бою."
 		"DOTA_Tooltip_ability_item_ring_of_aquila5_Note0"					"Эффекты от нескольких Aquila Aura не складываются."
-		//"DOTA_Tooltip_ability_item_ring_of_aquila5_Note1"					"Multiple instances of Aquila Aura do not stack."
 		"DOTA_Tooltip_ability_item_ring_of_aquila5_bonus_strength"			"+$str"
 		"DOTA_Tooltip_ability_item_ring_of_aquila5_bonus_agility"			"+$agi"
 		"DOTA_Tooltip_ability_item_ring_of_aquila5_bonus_intellect"			"+$int"
 		"DOTA_Tooltip_ability_item_ring_of_aquila5_bonus_damage"				"+$damage"
-		//"DOTA_Tooltip_ability_item_ring_of_aquila5_aura_mana_regen"			"АУРА - РЕГЕНЕРАЦИЯ МАНЫ:"
-		//"DOTA_Tooltip_ability_item_ring_of_aquila5_aura_bonus_armor"			"АУРА - БОНУСНАЯ БРОНЯ:"
-
+		
 		"DOTA_Tooltip_modifier_item_ring_of_aquila5_aura_bonus"				"Ring of Aquila Aura"
 		"DOTA_Tooltip_modifier_item_ring_of_aquila5_aura_bonus_Description"		"Восстановление маны увеличено на %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT_UNIQUE%, броня увеличена на %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE%."
 
@@ -1462,9 +1267,7 @@
 		"DOTA_Tooltip_Ability_item_echo_sabre2_bonus_attack_speed"            "+$attack"
 		"DOTA_Tooltip_Ability_item_echo_sabre2_bonus_damage"                  "+$damage"
 		"DOTA_Tooltip_Ability_item_echo_sabre2_bonus_mana_regen"              "+$mana_regen"
-		//"DOTA_Tooltip_Ability_item_echo_sabre2_movement_slow"                 "%ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ:"
-		//"DOTA_Tooltip_Ability_item_echo_sabre2_slow_duration"                 "ПРОДОЛЖИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ:"
-
+		
 		"DOTA_Tooltip_modifier_echo_sabre2_debuff"			"Замедлен от Echo Sabre"
 		"DOTA_Tooltip_modifier_echo_sabre2_debuff_Description"		"Скорость передвижения уменьшена на 100%%."
 
@@ -1476,9 +1279,7 @@
 		"DOTA_Tooltip_Ability_item_echo_sabre3_bonus_attack_speed"            "+$attack"
 		"DOTA_Tooltip_Ability_item_echo_sabre3_bonus_damage"                  "+$damage"
 		"DOTA_Tooltip_Ability_item_echo_sabre3_bonus_mana_regen"              "+$mana_regen"
-		//"DOTA_Tooltip_Ability_item_echo_sabre3_movement_slow"                 "%ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ:"
-		//"DOTA_Tooltip_Ability_item_echo_sabre3_slow_duration"                 "ПРОДОЛЖИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ:"
-
+		
 		"DOTA_Tooltip_modifier_echo_sabre3_debuff"			"Замедлен от Echo Sabre"
 		"DOTA_Tooltip_modifier_echo_sabre3_debuff_Description"		"Скорость передвижения уменьшена на 100%%."
 
@@ -1709,13 +1510,7 @@
 		"DOTA_Tooltip_ability_item_sange_and_yasha2_movement_speed_percent_bonus"	"%+$move_speed"
 		"DOTA_Tooltip_ability_item_sange_and_yasha2_hp_regen_amp"			"%+к здоровью от восстановления и вампиризма"
 		"DOTA_Tooltip_ability_item_sange_and_yasha2_status_resistance"			"%+к сопротивлению эффектам"
-		//"DOTA_Tooltip_ability_item_sange_and_yasha2_maim_chance"					"%MAIM CHANCE:"
-		//"DOTA_Tooltip_ability_item_sange_and_yasha2_maim_slow_movement"			"%MOVEMENT SLOW MELEE:"
-		//"DOTA_Tooltip_ability_item_sange_and_yasha2_maim_slow_attack"			"ATTACK SLOW MELEE:"
-		//"DOTA_Tooltip_ability_item_sange_and_yasha2_maim_slow_movement_range"	"%MOVEMENT SLOW RANGED:"
-		//"DOTA_Tooltip_ability_item_sange_and_yasha2_maim_slow_attack_range"		"ATTACK SLOW RANGED:"
-		//"DOTA_Tooltip_ability_item_sange_and_yasha2_maim_duration"				"MAIM ПРОДОЛЖИТЕЛЬНОСТЬ:"
-
+		
 		"DOTA_Tooltip_Ability_item_sange_and_yasha4"                      "Sange and Yasha LVL4"
 		"DOTA_Tooltip_ability_item_sange_and_yasha4_Note0"						"Бонусы к скорости от нескольких предметов на основе Yasha не складываются."
 		"DOTA_Tooltip_ability_item_sange_and_yasha4_Lore"						"Sange и Yasha, собранные вместе и ведомые лунным светом, становятся грозным оружием."
@@ -1763,13 +1558,7 @@
 		"DOTA_Tooltip_ability_item_sange_and_yasha3_hp_regen_amp"			"%+к здоровью от восстановления и вампиризма"
 		"DOTA_Tooltip_ability_item_sange_and_yasha3_status_resistance"			"%+к сопротивлению эффектам"
 		"DOTA_Tooltip_ability_item_sange_and_yasha3_movement_speed_percent_bonus"	"%+$move_speed"
-		//"DOTA_Tooltip_ability_item_sange_and_yasha3_maim_chance"					"%MAIM CHANCE:"
-		//"DOTA_Tooltip_ability_item_sange_and_yasha3_maim_slow_movement"			"%MOVEMENT SLOW MELEE:"
-		//"DOTA_Tooltip_ability_item_sange_and_yasha3_maim_slow_attack"			"ATTACK SLOW MELEE:"
-		//"DOTA_Tooltip_ability_item_sange_and_yasha3_maim_slow_movement_range"	"%MOVEMENT SLOW RANGED:"
-		//"DOTA_Tooltip_ability_item_sange_and_yasha3_maim_slow_attack_range"		"ATTACK SLOW RANGED:"
-		//"DOTA_Tooltip_ability_item_sange_and_yasha3_maim_duration"				"MAIM ПРОДОЛЖИТЕЛЬНОСТЬ:"
-
+		
 		"DOTA_Tooltip_ability_item_radiance_2"                      "Radiance LVL2"
 		"DOTA_Tooltip_ability_item_radiance_2_Description"						"<h1>Переключаемое: Burn</h1> Когда активно, поджигает врагов, нанося им %aura_damage% магического урона в секунду и заставляет их промахиваться %blind_pct%%% своих атак. Иллюзии наносят %aura_damage_illusions% магического урона в секунду.<br><br>РАДИУС: %aura_radius%"	
 		"DOTA_Tooltip_ability_item_radiance_2_Lore"								"Божественное оружие, наносящее урон и вызывающее яркое горение, уничтожающее ближайших врагов."
@@ -1790,10 +1579,6 @@
 		"DOTA_Tooltip_ability_item_silver_edge2_bonus_damage"				"+$damage"
 		"DOTA_Tooltip_ability_item_silver_edge2_bonus_attack_speed"			"+$attack"
 		"DOTA_Tooltip_ability_item_silver_edge2_bonus_all_stats"				"+$all"
-		//"DOTA_Tooltip_ability_item_silver_edge2_windwalk_duration"					"SHADOW WALK ПРОДОЛЖИТЕЛЬНОСТЬ:"
-		//"DOTA_Tooltip_ability_item_silver_edge2_windwalk_bonus_damage"		"BONUS ATTACK УРОН:"
-		//"DOTA_Tooltip_ability_item_silver_edge2_backstab_reduction"		"%ENEMY DAMAGE REDUCTION:"
-		//"DOTA_Tooltip_ability_item_silver_edge2_backstab_duration"		"REDUCTION ПРОДОЛЖИТЕЛЬНОСТЬ:"
 		"DOTA_Tooltip_ability_item_silver_edge2_Lore"						"Однажды он убил несправедливого короля, но впоследствии в королевстве разразилась гражданская война."
 		"DOTA_Tooltip_ability_item_silver_edge2_Note0"					"Backstab cannot miss."
 		"DOTA_Tooltip_ability_item_silver_edge2_Note1"					"Backstab does not pierce spell immunity."
@@ -1803,10 +1588,6 @@
 		"DOTA_Tooltip_ability_item_silver_edge3_bonus_damage"				"+$damage"
 		"DOTA_Tooltip_ability_item_silver_edge3_bonus_attack_speed"			"+$attack"
 		"DOTA_Tooltip_ability_item_silver_edge3_bonus_all_stats"				"+$all"
-		//"DOTA_Tooltip_ability_item_silver_edge3_windwalk_duration"					"SHADOW WALK ПРОДОЛЖИТЕЛЬНОСТЬ:"
-		//"DOTA_Tooltip_ability_item_silver_edge3_windwalk_bonus_damage"		"BONUS ATTACK УРОН:"
-		//"DOTA_Tooltip_ability_item_silver_edge3_backstab_reduction"		"%ENEMY DAMAGE REDUCTION:"
-		//"DOTA_Tooltip_ability_item_silver_edge3_backstab_duration"		"REDUCTION ПРОДОЛЖИТЕЛЬНОСТЬ:"
 		"DOTA_Tooltip_ability_item_silver_edge3_Lore"						"Однажды он убил несправедливого короля, но впоследствии в королевстве разразилась гражданская война."
 		"DOTA_Tooltip_ability_item_silver_edge3_Note0"					"Backstab cannot miss."
 		"DOTA_Tooltip_ability_item_silver_edge3_Note1"					"Backstab does not pierce spell immunity."
@@ -1816,10 +1597,6 @@
 		"DOTA_Tooltip_ability_item_silver_edge4_bonus_damage"				"+$damage"
 		"DOTA_Tooltip_ability_item_silver_edge4_bonus_attack_speed"			"+$attack"
 		"DOTA_Tooltip_ability_item_silver_edge4_bonus_all_stats"				"+$all"
-		//"DOTA_Tooltip_ability_item_silver_edge4_windwalk_duration"					"SHADOW WALK ПРОДОЛЖИТЕЛЬНОСТЬ:"
-		//"DOTA_Tooltip_ability_item_silver_edge4_windwalk_bonus_damage"		"BONUS ATTACK УРОН:"
-		//"DOTA_Tooltip_ability_item_silver_edge4_backstab_reduction"		"%ENEMY DAMAGE REDUCTION:"
-		//"DOTA_Tooltip_ability_item_silver_edge4_backstab_duration"		"REDUCTION ПРОДОЛЖИТЕЛЬНОСТЬ:"
 		"DOTA_Tooltip_ability_item_silver_edge4_Lore"						"Однажды он убил несправедливого короля, но впоследствии в королевстве разразилась гражданская война."
 		"DOTA_Tooltip_ability_item_silver_edge4_Note0"					"Backstab cannot miss."
 		"DOTA_Tooltip_ability_item_silver_edge4_Note1"					"Backstab does not pierce spell immunity."
@@ -2229,7 +2006,6 @@
 		"DOTA_Tooltip_Ability_item_enchanted_armor_bonus_armor" "+$armor"
 		"DOTA_Tooltip_Ability_item_enchanted_armor_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_Ability_item_enchanted_armor_bonus_mana" "+$mana"
-		//"DOTA_Tooltip_Ability_item_enchanted_armor_bonus_spell_amp" "%+$spell_amp"
 		"DOTA_Tooltip_Ability_item_enchanted_armor_bonus_spell_lifesteal" "%+Spell Lifesteal"
 		"DOTA_Tooltip_Ability_item_enchanted_armor_bonus_mana_regen_amp" "%+к усилению восстановления маны"
 		"DOTA_Tooltip_Ability_item_enchanted_armor_bonus_lifesteal_amp" "%+Lifesteal Amplification"
@@ -2242,7 +2018,6 @@
 		"DOTA_Tooltip_Ability_item_enchanted_armor2_bonus_armor" "+$armor"
 		"DOTA_Tooltip_Ability_item_enchanted_armor2_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_Ability_item_enchanted_armor2_bonus_mana" "+$mana"
-		//"DOTA_Tooltip_Ability_item_enchanted_armor2_bonus_spell_amp" "%+$spell_amp"
 		"DOTA_Tooltip_Ability_item_enchanted_armor2_bonus_spell_lifesteal" "%+Spell Lifesteal"
 		"DOTA_Tooltip_Ability_item_enchanted_armor2_bonus_mana_regen_amp" "%+к усилению восстановления маны"
 		"DOTA_Tooltip_Ability_item_enchanted_armor2_bonus_lifesteal_amp" "%+Lifesteal Amplification"
@@ -2255,7 +2030,6 @@
 		"DOTA_Tooltip_Ability_item_enchanted_armor3_bonus_armor" "+$armor"
 		"DOTA_Tooltip_Ability_item_enchanted_armor3_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_Ability_item_enchanted_armor3_bonus_mana" "+$mana"
-		//"DOTA_Tooltip_Ability_item_enchanted_armor3_bonus_spell_amp" "%+$spell_amp"
 		"DOTA_Tooltip_Ability_item_enchanted_armor3_bonus_spell_lifesteal" "%+Spell Lifesteal"
 		"DOTA_Tooltip_Ability_item_enchanted_armor3_bonus_mana_regen_amp" "%+к усилению восстановления маны"
 		"DOTA_Tooltip_Ability_item_enchanted_armor3_bonus_lifesteal_amp" "%+Lifesteal Amplification"
@@ -2268,7 +2042,6 @@
 		"DOTA_Tooltip_Ability_item_enchanted_armor4_bonus_armor" "+$armor"
 		"DOTA_Tooltip_Ability_item_enchanted_armor4_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_Ability_item_enchanted_armor4_bonus_mana" "+$mana"
-		//"DOTA_Tooltip_Ability_item_enchanted_armor4_bonus_spell_amp" "%+$spell_amp"
 		"DOTA_Tooltip_Ability_item_enchanted_armor4_bonus_spell_lifesteal" "%+Spell Lifesteal"
 		"DOTA_Tooltip_Ability_item_enchanted_armor4_bonus_mana_regen_amp" "%+к усилению восстановления маны"
 		"DOTA_Tooltip_Ability_item_enchanted_armor4_bonus_lifesteal_amp" "%+Lifesteal Amplification"
@@ -2281,7 +2054,6 @@
 		"DOTA_Tooltip_Ability_item_enchanted_armor5_bonus_armor" "+$armor"
 		"DOTA_Tooltip_Ability_item_enchanted_armor5_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_Ability_item_enchanted_armor5_bonus_mana" "+$mana"
-		//"DOTA_Tooltip_Ability_item_enchanted_armor5_bonus_spell_amp" "%+$spell_amp"
 		"DOTA_Tooltip_Ability_item_enchanted_armor5_bonus_spell_lifesteal" "%+Spell Lifesteal"
 		"DOTA_Tooltip_Ability_item_enchanted_armor5_bonus_mana_regen_amp" "%+к усилению восстановления маны"
 		"DOTA_Tooltip_Ability_item_enchanted_armor5_bonus_lifesteal_amp" "%+Lifesteal Amplification"
@@ -2643,9 +2415,6 @@
 		"DOTA_Tooltip_ability_item_octarine_core6_bonus_mana_regen"		"%+к восстановлению маны"
 		"DOTA_Tooltip_ability_item_octarine_core6_bonus_health"				"+$health"
 		"DOTA_Tooltip_ability_item_octarine_core6_bonus_mana"				"+$mana"
-		//"DOTA_Tooltip_ability_item_octarine_core6_bonus_cooldown"			"%СОКРАЩЕНИЕ ПЕРЕЗАРЯДКИ:"
-		//"DOTA_Tooltip_ability_item_octarine_core6_hero_lifesteal"				"%ВАМПИРИЗМ У ГЕРОЕВ ОТ СПОСОБНОСТЕЙ:"
-		//"DOTA_Tooltip_ability_item_octarine_core6_creep_lifesteal"				"%ВАМПИРИЗМ У КРИПОВ ОТ СПОСОБНОСТЕЙ:"
 		"DOTA_Tooltip_ability_item_octarine_core6_Lore"						"В основе колдовства лежат спектры, которые могут ощущать только очень одаренные."
 
 		"DOTA_Tooltip_Ability_snapfire_kisses_custom"    "Mwah!"
@@ -3227,7 +2996,6 @@
         "DOTA_Tooltip_Ability_eternal_damnation_uba_armor_reduction_pct"    "%СНИЖЕНИЕ БАЗОВОЙ БРОНИ:"
         "DOTA_Tooltip_Ability_eternal_damnation_uba_stolen_amount_pct"    "%МНОЖИТЕЛЬ:"
         "DOTA_Tooltip_Ability_eternal_damnation_uba_radius"    "РАДИУС:"
-        //"DOTA_Tooltip_Ability_eternal_damnation_uba_duration"    "ДЛИТЕЛЬНОСТЬ:"
         "DOTA_Tooltip_Ability_servants_from_below_uba"    "Servants From Below"
         "DOTA_Tooltip_Ability_servants_from_below_uba_description"    "Наносит урон, обездвиживает и обезоруживает цель, а также обездвиживает все ближайшие цели. Если использовать на крипе, герой мгновенно убьёт его и получит дополнительное золото. Не может нацеливаться на крипов, которые выше вас по уровню"
         "DOTA_Tooltip_Ability_servants_from_below_uba_damage"    "УРОН:"
@@ -3293,9 +3061,7 @@
 
         "DOTA_Tooltip_Ability_undying_grave_custom"    "Undying"
         "DOTA_Tooltip_Ability_undying_grave_custom_Description"    "Undying leaves a tombstone behind when dying and resurrects at the same location after a short delay."
-        //"DOTA_Tooltip_Ability_undying_grave_custom_duration"    "DURATION:"
-        //"DOTA_Tooltip_Ability_undying_grave_custom_max_hp_restore_pct"    "%MAX HEALTH RESTORED:"
-
+        
         "DOTA_Tooltip_Ability_undying_frenzy_custom"    "Frenzy"
         "DOTA_Tooltip_Ability_undying_frenzy_custom_Description"    "Undying впадает в бешенство и получает увеличение скорости, уменьшенное базовое время атаки и наносит урон всем врагам вокруг него в зависимости от его максимального здоровья."
         "DOTA_Tooltip_Ability_undying_frenzy_custom_duration"    "ДЛИТЕЛЬНОСТЬ:"
@@ -4609,8 +4375,6 @@
 		"DOTA_Tooltip_Ability_pudge_hunger_custom" "Hunger"
 		"DOTA_Tooltip_Ability_pudge_hunger_custom_Lore" "Голод Pudge никогда не утолить."
 		"DOTA_Tooltip_Ability_pudge_hunger_custom_Description" "Когда Pudge убивает определённое количество врагов, он и его команда получают постоянные бонусы.<br><br><b>100 убийств —</b> %goal_1_bonus_hp% Макс. Здоровье.<br><b>250 убийств —</b> %goal_4_bonus_max_regen_pct%%% Макс. Регенерации здоровья.<br><b>500 убийств —</b> %goal_3_bonus_spell_amp%%% Усиления заклинаний.<br><b>1000 убийств —</b> %goal_2_bonus_base_damage_pct%%% Увеличения Урона от Атаки.<br><b>2500 убийств —</b> %goal_5_bonus_damage_reduction%%% Снижения Получаемого Урона."
-		//"DOTA_Tooltip_Ability_pudge_hunger_custom_outgoing_dmg_bonus_pct" "%УВЕЛИЧЕНИЯ УРОНА ОТ АТАКИ"
-		//"DOTA_Tooltip_Ability_pudge_hunger_custom_model_scale" "%УВЕЛИЧЕНИЯ МОДЕЛИ:"
 		"DOTA_Tooltip_Ability_pudge_hunger_custom_kill_goals" "МАКС. УБИЙСТВА:"
 
 		"DOTA_Tooltip_modifier_pudge_hunger_custom_buff_goal_1" "Hunger: Бонус здоровья"
@@ -4654,7 +4418,6 @@
 		"DOTA_Tooltip_ability_fervor_custom_grace_period"						    "ДЛИТЕЛЬНОСТЬ СТАКА ДО ПОТЕРИ:"
 		"DOTA_Tooltip_ability_fervor_custom_max_stacks"						    "МАКСИМУМ СТАКОВ:"
 		"DOTA_Tooltip_ability_fervor_custom_Lore"						    "Если с первого раза не получится - бей, бей и бей еще раз."
-		//"DOTA_Tooltip_ability_fervor_custom_duration"						"ДЛИТЕЛЬНОСТЬ:"
 		"DOTA_Tooltip_ability_fervor_custom_Note0"						    "Troll Warlord does not lose stacks if he is inside spawn."
 
 		"DOTA_Tooltip_modifier_fervor_custom_effect"					"Fervor Stack"
@@ -5649,11 +5412,9 @@
 		"DOTA_Tooltip_Ability_leshrac_pulse_nova_custom_Description" "Создает вокруг Лешрака волны разрушительной энергии, которые наносят урон ближайшим вражеским юнитам. Вытягивает %mana_cost_per_second%%% от максимального запаса маны Лешрака с каждым импульсом и наносит урон, равный высосанному количеству.<br><br>Частота импульсов зависит от скорости атаки Лешрака, которая умножается на %interval_max% секунд. Не может пульсировать реже, чем раз в %interval_min% секунд."
 		"DOTA_Tooltip_Ability_leshrac_pulse_nova_custom_mana_cost_per_second" "%ПОТРЕБЛЕНИЕ МАНЫ В СЕКУНДУ:"
 		"DOTA_Tooltip_Ability_leshrac_pulse_nova_custom_radius" "РАДИУС:"
-		//"DOTA_Tooltip_Ability_leshrac_pulse_nova_custom_damage" "УРОН:"
 		"DOTA_Tooltip_Ability_leshrac_pulse_nova_custom_interval_min" "МИН ИНТЕРВАЛ МЕЖДУ УДАРАМИ:"
 		"DOTA_Tooltip_Ability_leshrac_pulse_nova_custom_interval_max" "МАКСИМАЛЬНЫЙ ИНТЕРВАЛ МЕЖДУ УДАРАМИ:"
-		//"DOTA_Tooltip_Ability_leshrac_pulse_nova_custom_int_to_damage" "%ИНТЕЛЛЕКТА В УРОН:"
-
+		
 		"DOTA_Tooltip_Ability_leshrac_lightning_storm_int_to_damage" "%ИНТЕЛЛЕКТА В УРОН:"
 		"DOTA_Tooltip_Ability_leshrac_diabolic_edict_int_to_damage" "%ИНТЕЛЛЕКТА В УРОН:"
 
@@ -5661,10 +5422,8 @@
 
 		"DOTA_Tooltip_Ability_leshrac_eternal_torment_custom" "Eternal Torment"
 		"DOTA_Tooltip_Ability_leshrac_eternal_torment_custom_Description" "Повреждение противника магической или чистой способностью накладывает дебафф, который на короткое время снижает его сопротивление магии."
-		//"DOTA_Tooltip_Ability_leshrac_eternal_torment_custom_int_gain" "ИНТЕЛЛЕКТА ЗА УБИЙСТВО:"
 		"DOTA_Tooltip_Ability_leshrac_eternal_torment_custom_magic_reduction" "%СНИЖЕНИЕ СОПРОТИВЛЕНИЯ МАГИИ:"
 		"DOTA_Tooltip_Ability_leshrac_eternal_torment_custom_duration" "ПРОДОЛЖИТЕЛЬНОСТЬ НЕГАТИВНОГО ЭФФЕКТА:"
-		//"DOTA_Tooltip_Ability_leshrac_eternal_torment_custom_times_ten_time_limit_minutes" "ОГРАНИЧЕНИЕ ВРЕМЕНИ ИГРЫ (МИНУТЫ):"
 		"DOTA_Tooltip_modifier_leshrac_eternal_torment_custom_debuff" "Eternal Torment"
 		"DOTA_Tooltip_modifier_leshrac_eternal_torment_custom_debuff_Description" "Сопротивление магии уменьшено на %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%."
 		"DOTA_Tooltip_modifier_leshrac_eternal_torment_custom_buff_permanent" "Eternal Torment"
@@ -5964,8 +5723,7 @@
 	"DOTA_Tooltip_Ability_necrolyte_reaper_form_duration_end_hp_restored_pct" "%ВОССТАНОВЛЕНИЕ ЗДОРОВЬЯ ПРИ ВЫХОДЕ:"
 	"DOTA_Tooltip_Ability_necrolyte_reaper_form_damage_reduction" "%СНИЖЕНИЕ УРОНА:"
 	"DOTA_Tooltip_Ability_necrolyte_reaper_form_move_speed" "%СКОРОСТЬ ПЕРЕДВИЖЕНИЯ:"
-	//"DOTA_Tooltip_Ability_necrolyte_reaper_form_required_charges" "ТРЕБУЕТСЯ ЗАРЯДОВ SADIST:"
-
+	
 	"DOTA_Tooltip_modifier_necrolyte_reaper_form_buff" "Reaper Form"
 	"DOTA_Tooltip_modifier_necrolyte_reaper_form_buff_Description" "Скорость передвижения увеличена на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, а входящий урон уменьшен на -%dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%%. Ваше здоровье непрерывно истощается каждую секунду, и способность отключается, когда ваше здоровье истощается полностью."
 
@@ -5988,8 +5746,7 @@
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_damage" "УРОН:"
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_int_to_damage" "%ИНТЕЛЛЕКТА В УРОН:"
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_max_hp_heal_pct" "%МАКС. ЛЕЧЕНИЕ ЗДОРОВЬЯ:"
-	//"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_required_charges" "ТРЕБУЕТСЯ ЗАРЯДОВ SADIST:"
-
+	
 	"DOTA_Tooltip_Ability_necrolyte_death_aura" "Decaying Presence"
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_Description" "Присутствие героя заставляет врагов вокруг него разлагаться и гнить, переодически получая несмертельный урон в зависимости от того, насколько близко они находятся к нему, и снижая их сопротивление к магии.<br><br>Враги, находящиеся дальше от героя, получают меньше урона и теряют меньше сопротивления магии, в то время как враги, находящиеся ближе к нему, получают больше урона и теряют больше сопротивления магии. Если враги находятся на определённом расстоянии от героя, то получают максимальное количество урона и теряют максимальное количество сопротивления магии.<br><br><i>(Наносит урон только врагам того же или более низкого уровня, что и герой. Не может наносить урон боссам).</i>"
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_max_hp_damage" "%МАКС. УРОН ЗДОРОВЬЮ:"
@@ -6007,7 +5764,6 @@
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_reaper_max_hp_damage" "%МАКС. УРОН ЗДОРОВЬЮ:"
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_reaper_radius" "РАДИУС:"
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_reaper_int_to_damage" "%ИНТЕЛЛЕКТА В УРОН:"
-	//"DOTA_Tooltip_Ability_necrolyte_death_aura_reaper_required_charges" "ТРЕБУЕТСЯ ЗАРЯДОВ SADIST:"
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_reaper_magic_shred" "%СНИЖЕНИЕ СОПРОТИВЛЕНИЯ МАГИИ:"
 	"DOTA_Tooltip_modifier_necrolyte_death_aura_reaper_emitter" "Reaper's Presence"
 	"DOTA_Tooltip_modifier_necrolyte_death_aura_reaper_emitter_Description" "Нанесение урона ближайшим врагам."
@@ -6034,7 +5790,6 @@
 	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_reaper_radius" "РАДИУС:"
 	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_reaper_duration" "ДЛИТЕЛЬНОСТЬ:"
 	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_reaper_center_damage_multi" "%УВЕЛИЧЕНИЕ УРОНА В ЦЕНТРЕ:"
-	//"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_reaper_required_charges" "ТРЕБУЕТСЯ ЗАРЯДОВ SADIST:"
 	"DOTA_Tooltip_modifier_necrolyte_hollowed_ground_reaper_emitter_aura" "Hollowed Ground"
 	"DOTA_Tooltip_modifier_necrolyte_hollowed_ground_reaper_emitter_aura_Description" "Получает переодический урон и страдает от снижения скорости передвижения."
 
@@ -6055,7 +5810,6 @@
 	"DOTA_Tooltip_Ability_necrolyte_aesthetics_death_int_to_damage" "%ИНТЕЛЛЕКТА В УРОН:"
 	"DOTA_Tooltip_Ability_necrolyte_aesthetics_death_hp_execute_threshold_pct" "%ПОРОГ ЗДОРОВЬЯ ДЛЯ КАЗНИ:"
 	"DOTA_Tooltip_Ability_necrolyte_aesthetics_death_duration" "ДЛИТЕЛЬНОСТЬ:"
-	//"DOTA_Tooltip_Ability_necrolyte_aesthetics_death_required_charges" "ТРЕБУЕТСЯ ЗАРЯДОВ SADIST:"
 	"DOTA_Tooltip_Ability_necrolyte_aesthetics_death_hp_pct_restore_on_kill" "%ВОССТАНОВЛЕНИЕ ЗДОРОВЬЯ ЗА УБИЙСТВО:"
 
 	"dota_tooltip_ability_special_bonus_unique_necrolyte_1_custom"                                   "-{s:value} сек. к перезарядке Reaper Form"
@@ -8753,42 +8507,26 @@ Does not stack with any other type of reincarnation."
 		"DOTA_Tooltip_Ability_item_veil_of_discord_custom2"                                 "Veil of Discord LVL2"
         "DOTA_Tooltip_ability_item_veil_of_discord_custom2_Description"                 "<h1>Аура: Magic Weakness</h1> Снижает магическое сопротивление ближайших врагов на %resist_shred_aura%%%.<br><br>Радиус: %aura_radius%\n<h1>Пассивное: Basilius Aura</h1> Увеличивает регенерацию маны союзников на %aura_mana_regen%.<br><br>Радиус: %aura_radius%"
         "DOTA_Tooltip_ability_item_veil_of_discord_custom2_Lore"                        "Головной убор испорченных магов."
-        //"DOTA_Tooltip_ability_item_veil_of_discord2_Note0"                        "Can be dispelled."
         "DOTA_Tooltip_ability_item_veil_of_discord_custom2_bonus_all_stats"                 "+$all"
         "DOTA_Tooltip_ability_item_veil_of_discord_custom2_spell_amp"                   "%+$spell_amp"
-        //"DOTA_Tooltip_ability_item_veil_of_discord2_debuff_radius"                "MAGIC WEAKNESS RADIUS:"
-        //"DOTA_Tooltip_ability_item_veil_of_discord2_resist_debuff_duration"               "MAGIC WEAKNESS DURATION:"
-        //"DOTA_Tooltip_ability_item_veil_of_discord2_resist_debuff"                "%INCREASED MAGIC DAMAGE:"
         "DOTA_Tooltip_Ability_item_veil_of_discord_custom3"                                 "Veil of Discord LVL3"
         "DOTA_Tooltip_ability_item_veil_of_discord_custom3_Description"                 "<h1>Аура: Magic Weakness</h1> Снижает магическое сопротивление ближайших врагов на %resist_shred_aura%%%.<br><br>Радиус: %aura_radius%\n<h1>Пассивное: Basilius Aura</h1> Увеличивает регенерацию маны союзников на %aura_mana_regen%.<br><br>Радиус: %aura_radius%"
         "DOTA_Tooltip_ability_item_veil_of_discord_custom3_Lore"                        "Головной убор испорченных магов."
-        //"DOTA_Tooltip_ability_item_veil_of_discord3_Note0"                        "Can be dispelled."
         "DOTA_Tooltip_ability_item_veil_of_discord_custom3_bonus_all_stats"                 "+$all"
         "DOTA_Tooltip_ability_item_veil_of_discord_custom3_spell_amp"                   "%+$spell_amp"
-        //"DOTA_Tooltip_ability_item_veil_of_discord3_debuff_radius"                "MAGIC WEAKNESS RADIUS:"
-        //"DOTA_Tooltip_ability_item_veil_of_discord3_resist_debuff_duration"               "MAGIC WEAKNESS DURATION:"
-        //"DOTA_Tooltip_ability_item_veil_of_discord3_resist_debuff"                "%INCREASED MAGIC DAMAGE:"
-
+        
                 "DOTA_Tooltip_Ability_item_veil_of_discord_custom4"                                 "Veil of Discord LVL4"
         "DOTA_Tooltip_ability_item_veil_of_discord_custom4_Description"                 "<h1>Аура: Magic Weakness</h1> Снижает магическое сопротивление ближайших врагов на %resist_shred_aura%%%.<br><br>Радиус: %aura_radius%\n<h1>Пассивное: Basilius Aura</h1> Увеличивает регенерацию маны союзников на %aura_mana_regen%.<br><br>Радиус: %aura_radius%"
         "DOTA_Tooltip_ability_item_veil_of_discord_custom4_Lore"                        "Головной убор испорченных магов."
-        //"DOTA_Tooltip_ability_item_veil_of_discord4_Note0"                        "Can be dispelled."
         "DOTA_Tooltip_ability_item_veil_of_discord_custom4_bonus_all_stats"                 "+$all"
         "DOTA_Tooltip_ability_item_veil_of_discord_custom4_spell_amp"                   "%+$spell_amp"
-        //"DOTA_Tooltip_ability_item_veil_of_discord4_debuff_radius"                "MAGIC WEAKNESS RADIUS:"
-        //"DOTA_Tooltip_ability_item_veil_of_discord4_resist_debuff_duration"               "MAGIC WEAKNESS DURATION:"
-        //"DOTA_Tooltip_ability_item_veil_of_discord4_resist_debuff"                "%INCREASED MAGIC DAMAGE:"
-
+        
                 "DOTA_Tooltip_Ability_item_veil_of_discord_custom5"                                 "Veil of Discord LVL5"
         "DOTA_Tooltip_ability_item_veil_of_discord_custom5_Description"                 "<h1>Аура: Magic Weakness</h1> Снижает магическое сопротивление ближайших врагов на %resist_shred_aura%%%.<br><br>Радиус: %aura_radius%\n<h1>Пассивное: Basilius Aura</h1> Увеличивает регенерацию маны союзников на %aura_mana_regen%.<br><br>Радиус: %aura_radius%"
         "DOTA_Tooltip_ability_item_veil_of_discord_custom5_Lore"                        "Головной убор испорченных магов."
-        //"DOTA_Tooltip_ability_item_veil_of_discord_custom5_Note0"                     "Can be dispelled."
         "DOTA_Tooltip_ability_item_veil_of_discord_custom5_bonus_all_stats"                 "+$all"
         "DOTA_Tooltip_ability_item_veil_of_discord_custom5_spell_amp"                   "%+$spell_amp"
-        //"DOTA_Tooltip_ability_item_veil_of_discord_custom5_debuff_radius"             "MAGIC WEAKNESS RADIUS:"
-        //"DOTA_Tooltip_ability_item_veil_of_discord_custom5_resist_debuff_duration"                "MAGIC WEAKNESS DURATION:"
-        //"DOTA_Tooltip_ability_item_veil_of_discord_custom5_resist_debuff"             "%INCREASED MAGIC DAMAGE:"
-
+        
         "DOTA_Tooltip_Ability_item_veil_of_discord_custom6"                                 "Lost Veil of Discord"
         "DOTA_Tooltip_ability_item_veil_of_discord_custom6_Description"                 "<h1>Аура: Magic Weakness</h1> Снижает магическое сопротивление ближайших врагов на %resist_shred_aura%%%.<br><br>Радиус: %aura_radius%\n<h1>Пассивное: Basilius Aura</h1> Увеличивает регенерацию маны союзников на %aura_mana_regen%.<br><br>Радиус: %aura_radius%"
         "DOTA_Tooltip_ability_item_veil_of_discord_custom6_Lore"                        "Головной убор испорченных магов."
