@@ -11955,32 +11955,32 @@ Does not stack with any other type of reincarnation."
 		"season_effect_title_abyssal" "Season of the Abyss"
 		"season_effect_description_abyssal" "<b><font color='#FFF'>Season of the Abyss</font></b><br>Существует 10% шанс призвать Повелителя Бездны вместо обычного врага.<br><br> Каждые 10 секунд вокруг случайного игрока появляется огненный шторм Бездны. Враги, попавшие под него, получают урон, равный 10% от их максимального здоровья, и получают стак ожога, снижающий их исцеление, восстановление и восстановление жизни на 5% за стак в течение 7 секунд. Огонь продолжает сжигать врагов на 5% от их текущего здоровья за стак каждую секунду."
 
-		"DOTA_Tooltip_modifier_player_buffs_enemy_explosion" "Explosive Touch"
+		"DOTA_Tooltip_modifier_player_buffs_enemy_explosion" "Взрывное прикосновение"
 		"DOTA_Tooltip_modifier_player_buffs_enemy_explosion_Description" "Враги, которых вы убиваете, имеют 25% шанс взорваться после смерти, нанося 5% своего максимального здоровья в виде магического урона другим врагам в радиусе 300 вокруг них."
 
-		"DOTA_Tooltip_modifier_player_buffs_adrenaline" "Adrenaline"
-		"DOTA_Tooltip_modifier_player_buffs_adrenaline_Description" "Каждые 3 секунды ваша скорость атаки увеличивается на 500, а время броска уменьшается на 50%. По истечении этих секунд скорость вашей атаки снижается на 500, а время действия заклинания увеличивается на 50% на 3 секунды."
+		"DOTA_Tooltip_modifier_player_buffs_adrenaline" "Адреналин"
+		"DOTA_Tooltip_modifier_player_buffs_adrenaline_Description" "Каждые 3 секунды: +500 к скорости атаки и -50% ко времени произнесения заклинаний.<br>По истечении этих секунд: -500 к скорости атаки и +50% ко времени произнесения заклинаний."
 
-		"DOTA_Tooltip_modifier_player_buffs_critical_strike" "Critical Strike"
-		"DOTA_Tooltip_modifier_player_buffs_critical_strike_Description" "У вас есть 24% шанс нанести 200% критического урона от всех источников урона. Тип урона при критическом ударе такой же, как и у исходного источника урона."
+		"DOTA_Tooltip_modifier_player_buffs_critical_strike" "Критическая атака"
+		"DOTA_Tooltip_modifier_player_buffs_critical_strike_Description" "+24% к шансу нанести 200% критического урона от всех источников урона. Тип урона критической атаки такой же, как и у исходного источника урона."
 
-		"DOTA_Tooltip_modifier_player_buffs_attack_sacrifice" "Embraced Chaos"
-		"DOTA_Tooltip_modifier_player_buffs_attack_sacrifice_Description" "Ваш урон от атаки увеличивается на 50%, но при атаке вы теряете 2,5% текущего здоровья."
+		"DOTA_Tooltip_modifier_player_buffs_attack_sacrifice" "Объятия хаоса"
+		"DOTA_Tooltip_modifier_player_buffs_attack_sacrifice_Description" "+50% к урону от атак.<br>-2,5% текущего здоровья при нанесении атаки."
 
-		"DOTA_Tooltip_modifier_player_buffs_spell_sacrifice" "Arcane Chaos"
-		"DOTA_Tooltip_modifier_player_buffs_spell_sacrifice_Description" "Ваш исходящий урон от заклинаний увеличивается на 50% (не листовой урон от заклинаний), но вы теряете 2,5% текущего здоровья при разыгрывании способности."
+		"DOTA_Tooltip_modifier_player_buffs_spell_sacrifice" "Реликвия хаоса"
+		"DOTA_Tooltip_modifier_player_buffs_spell_sacrifice_Description" "+50% к наносимому урону от заклинаний (не покрывающий урон от заклинаний).<br>-2,5% текущего здоровья при использовании способности."
 
-		"DOTA_Tooltip_modifier_player_buffs_sanguine_clarity" "Sanguine Clarity"
-		"DOTA_Tooltip_modifier_player_buffs_sanguine_clarity_Description" "Убийство врага исцеляет всех союзных героев в радиусе 600 вокруг юнита на 25% от его максимального здоровья."
+		"DOTA_Tooltip_modifier_player_buffs_sanguine_clarity" "Чистота сангвиника"
+		"DOTA_Tooltip_modifier_player_buffs_sanguine_clarity_Description" "Убийство врага исцеляет всех союзных героев в радиусе 600 вокруг цели на 25% от его максимального здоровья."
 
-		"DOTA_Tooltip_modifier_player_buffs_omniscent_blessing" "Omniscent Curse"
-		"DOTA_Tooltip_modifier_player_buffs_omniscent_blessing_Description" "Ваше исходящее исцеление увеличивается на 100%. Нанося урон врагам, вы получаете урон, нанесенный вами цели, каждую секунду в течение следующих 3 секунд. Не складывается несколько раз. Нанесенный урон не является смертельным и считается за снятие здоровья."
+		"DOTA_Tooltip_modifier_player_buffs_omniscent_blessing" "Всепроникающее проклятие"
+		"DOTA_Tooltip_modifier_player_buffs_omniscent_blessing_Description" "+100% к исходящему лечению.<br>Нанесённый урон врагам, наносится и вам, в течении 3 секунд. Не накапливается. Нанесённый урон не является смертельным и считается за снятие здоровья."
 
-		"DOTA_Tooltip_modifier_player_buffs_vulnerable" "Vulnerability"
-		"DOTA_Tooltip_modifier_player_buffs_vulnerable_Description" "Ваше здоровье увеличивается на 25%, сопротивление магии - на 50%, и вы получаете 0,5 дополнительной брони за каждое очко силы. Вы больше не можете восстанавливать здоровье или получать жизненную силу, и вас могут исцелять только другие союзники."
+		"DOTA_Tooltip_modifier_player_buffs_vulnerable" "Уязвимость"
+		"DOTA_Tooltip_modifier_player_buffs_vulnerable_Description" "+25% к здоровью.<br>+50% к сопротивлению магии.<br>+0,5 к доп. броне за каждое очко силы.<br>Ваше здоровье больше не восстанавливается и нет вампиризма. Вас могут исцелять только другие союзники."
 
-		"DOTA_Tooltip_modifier_player_buffs_glasscannon" "Glasscannon"
-		"DOTA_Tooltip_modifier_player_buffs_glasscannon_Description" "Ваш исходящий урон увеличен на 100%, но вы получаете на 100% больше урона от врагов."
+		"DOTA_Tooltip_modifier_player_buffs_glasscannon" "Стеклопушка"
+		"DOTA_Tooltip_modifier_player_buffs_glasscannon_Description" "+100% к наносимому урону.<br>+100% к получаемому урону от врагов."
 
 		"npc_dota_boss_keymaster_1" "Keymaster"
 		"npc_dota_boss_keymaster_2" "Keymaster"
@@ -12037,26 +12037,26 @@ Does not stack with any other type of reincarnation."
 		"pregame_boosty_info" "Нажмите, чтобы открыть нашу официальную страницу Boosty (пожертвования), где вы можете поддержать нас и помочь нам продолжить разработку игры."
 
 		"player_buffs_intro_title" "Выберите руну"
-		"player_buffs_intro_text" "Выберите руну, которая будет действовать в течение всей игры. Руна действует только на вас и может оказывать как положительное, так и отрицательное влияние на ваш игровой процесс. После выбора руну нельзя изменить или заменить - не торопитесь и выбирайте тщательно."
+		"player_buffs_intro_text" "Выберите руну, которая будет действовать на протяжении всей игры. Руна действует только на вас и может оказывать как положительное, так и отрицательное влияние на ваш игровой процесс. Не торопитесь с выбором, потому что руны нельзя менять и изменять, лучше всё хорошо обдумать."
 
 		"npc_dota_tcotrpg_unit_chicken" "Chicken"
 
 		"player_buffs_no_rerolls_left" "У вас больше не осталось рероллов."
 		"player_buffs_list_title" "Руны"
 
-		"DOTA_Tooltip_modifier_player_buffs_status_boost" "Resilience"
-		"DOTA_Tooltip_modifier_player_buffs_status_boost_Description" "Повышает сопротивляемость статусу на 95%, но увеличивает получаемый урон от всех источников на 40%."
+		"DOTA_Tooltip_modifier_player_buffs_status_boost" "Устойчивость"
+		"DOTA_Tooltip_modifier_player_buffs_status_boost_Description" "+95% к сопротивлению эффектам.<br>+40% ко всему получаемому урона."
 
-		"DOTA_Tooltip_modifier_player_buffs_hard_exterior" "Stone Army"
-		"DOTA_Tooltip_modifier_player_buffs_hard_exterior_Description" "Вы получаете на 50% меньше урона и наносите на 50% меньше урона. Скорость передвижения снижена на 50%."
+		"DOTA_Tooltip_modifier_player_buffs_hard_exterior" "Каменная армия"
+		"DOTA_Tooltip_modifier_player_buffs_hard_exterior_Description" "-50% к получаемому урону.<br>-50% к наносимому урону.<br>-50% к замедлению передвижения."
 
-		"DOTA_Tooltip_modifier_player_buffs_blood_pool" "Sanguinary Ground"
-		"DOTA_Tooltip_modifier_player_buffs_blood_pool_Description" "Каждые 12 секунд создает лужу крови радиусом 600 в вашем местоположении на 6 секунд. Исцеляет союзников на 5% от их максимального здоровья и наносит урон врагам на 5% от их текущего здоровья каждую секунду. Избыток исцеления накапливается в щите, который поглощает входящий физический урон до 100% от максимального здоровья."
-		"DOTA_Tooltip_modifier_player_buffs_blood_pool_emitter_aura" "Sanguinary Ground"
-		"DOTA_Tooltip_modifier_player_buffs_blood_pool_emitter_aura_Description" "Восстанавливает здоровье каждую секунду на основе вашего максимального здоровья."
-		"DOTA_Tooltip_modifier_player_buffs_blood_pool_emitter_aura_enemy" "Sanguinary Ground"
-		"DOTA_Tooltip_modifier_player_buffs_blood_pool_emitter_aura_enemy_Description" "Получение урона каждую секунду на основе вашего максимального здоровья."
-		"DOTA_Tooltip_modifier_player_buffs_blood_pool_shield" "Sanguinary Ground"
+		"DOTA_Tooltip_modifier_player_buffs_blood_pool" "Кровавая земля"
+		"DOTA_Tooltip_modifier_player_buffs_blood_pool_Description" "Каждые 12 секунд создаёт лужу крови радиусом 600 под вами на 6 секунд. Лечит союзников на 5% от их максимального здоровья и переодически наносит 5% урона врагам от их текущего здоровья. Излишки лечения накапливаются и хранятся в щите, который поглощает входящий физический урон до 100% от максимального здоровья."
+		"DOTA_Tooltip_modifier_player_buffs_blood_pool_emitter_aura" "Кровавая земля"
+		"DOTA_Tooltip_modifier_player_buffs_blood_pool_emitter_aura_Description" "Постепенно восстанавливает здоровье на основе вашего максимального здоровья."
+		"DOTA_Tooltip_modifier_player_buffs_blood_pool_emitter_aura_enemy" "Кровавая земля"
+		"DOTA_Tooltip_modifier_player_buffs_blood_pool_emitter_aura_enemy_Description" "Получение переодического урона на основе вашего максимального здоровья."
+		"DOTA_Tooltip_modifier_player_buffs_blood_pool_shield" "Кровавая земля"
 		"DOTA_Tooltip_modifier_player_buffs_blood_pool_shield_Description" "Поглощение входящего физического урона."
 
 		"DOTA_Tooltip_Ability_drow_ranger_multishot_custom" "Multishot"
@@ -12090,17 +12090,17 @@ Does not stack with any other type of reincarnation."
         "DOTA_Tooltip_Ability_talent_drow_ranger_2_2_Desc_2" "Marksmanship имеет 70% шанс выпустить один залп Multishot, когда он срабатывает."
         "DOTA_Tooltip_Ability_talent_drow_ranger_2_3_Desc_3" "Drow Ranger получает 60% шанс нанести 450% критического урона при атаке, если в радиусе 400 единиц нет врагов."
 
-		"DOTA_Tooltip_modifier_player_buffs_vitality_curse" "Vitality Curse"
-		"DOTA_Tooltip_modifier_player_buffs_vitality_curse_Description" "Ваше максимальное здоровье уменьшается на -75%, но исходящий урон увеличивается на 80%."
+		"DOTA_Tooltip_modifier_player_buffs_vitality_curse" "Проклятие жизни"
+		"DOTA_Tooltip_modifier_player_buffs_vitality_curse_Description" "-75% к максимальному здоровью.<br>+80% к наносимому урону."
 
-		"DOTA_Tooltip_modifier_player_buffs_mana_curse" "Mana Curse"
-		"DOTA_Tooltip_modifier_player_buffs_mana_curse_Description" "Ваша максимальная мана уменьшается на -75%, но исходящий урон увеличивается на 80%."
+		"DOTA_Tooltip_modifier_player_buffs_mana_curse" "Проклятие маны"
+		"DOTA_Tooltip_modifier_player_buffs_mana_curse_Description" "-75% к максимальной мане.<br>+80% к наносимому урону."
 
-		"DOTA_Tooltip_modifier_player_buffs_drunken_brawler" "Drunken Brawler"
-		"DOTA_Tooltip_modifier_player_buffs_drunken_brawler_Description" "Урон от ваших атак колеблется между -50% и 200% каждые 3 секунды."
+		"DOTA_Tooltip_modifier_player_buffs_drunken_brawler" "Пьяный дебошир"
+		"DOTA_Tooltip_modifier_player_buffs_drunken_brawler_Description" "-50% ~ +200% к урону от атак (Каждые 3 секунды)."
 
-		"DOTA_tooltip_modifier_player_buffs_bloodthirsty_killer" "Bloodthirsty Killer"
-		"DOTA_tooltip_modifier_player_buffs_bloodthirsty_killer_Description" "Убив 1000 врагов, вы навсегда получаете +1000 к силе, интеллекту и ловкости. Может произойти только один раз."
+		"DOTA_tooltip_modifier_player_buffs_bloodthirsty_killer" "Кровожадный убийца"
+		"DOTA_tooltip_modifier_player_buffs_bloodthirsty_killer_Description" "Убейте 1000 врагов, и навсегда получите +1000 к силе, интеллекту и ловкости. Только один раз за игру."
 
 		"npc_dota_creature_wave_enemy_necrolyte" "Ротунд'йер"
 
