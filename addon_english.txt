@@ -12283,7 +12283,7 @@ Does not stack with any other type of reincarnation."
 		"season_effect_description_death" "<b><font color='#FFF'>Season of Reaping</font></b><br>There is a 10% chance to summon the Aspect of Death in place of a regular enemy. Only one Aspect of Death can be alive at a time.<br><br>Cooldowns of abilities and items are increased by 50% and players lose 30% of their base attributes."
 		
 		"DOTA_Tooltip_modifier_season_death" "Season of Reaping"
-		"DOTA_Tooltip_modifier_season_death_Description" "Cooldowns of abilities and items are increased by 50% and players lose 30% of their base attributes."
+		"DOTA_Tooltip_modifier_season_death_Description" "Cooldowns of abilities and items are increased by half and players lose x0.3 of their base attributes."
 
 		"DOTA_Tooltip_Ability_talent_axe_1" "Whirlwind"
         "DOTA_Tooltip_Ability_talent_axe_1_1_Desc" "Counter Helix can be toggled on to disarm Axe and cause him to perform a spin every 0.25 seconds at the cost of 5% of his Max Mana every second. Counter Helix can't proc normally when toggled."
@@ -12346,9 +12346,9 @@ Does not stack with any other type of reincarnation."
 
 		"DOTA_Tooltip_Ability_tidehunter_tsunami_custom" "Maelrawn's Might"
 		"DOTA_Tooltip_Ability_tidehunter_tsunami_custom_Lore" "Calling to the abyssal god Maelrawn has resulted in entire armadas being lost at sea."
-		"DOTA_Tooltip_Ability_tidehunter_tsunami_custom_Description" "Tidehunter is a colossal sea giant which makes him tougher than other creatures. His max health is passively increased by %bonus_health_pct%%% and his outgoing damage is increased by a portion of his Strength."
+		"DOTA_Tooltip_Ability_tidehunter_tsunami_custom_Description" "Tidehunter is a colossal sea giant which makes him tougher than other creatures. His max health is passively increased by %bonus_health_pct%%% and he gains bonus attack damage based on his Max Health."
 		"DOTA_Tooltip_Ability_tidehunter_tsunami_custom_bonus_health_pct" "%BONUS MAX HEALTH:"
-		"DOTA_Tooltip_Ability_tidehunter_tsunami_custom_strength_multiplier_damage" "%DAMAGE MULTIPLIER OF STRENGTH:"
+		"DOTA_Tooltip_Ability_tidehunter_tsunami_custom_damage_from_hp_pct" "%DAMAGE FROM MAX HP:"
 
 		"DOTA_Tooltip_modifier_talent_tidehunter_1_debuff_frozen" "Flood Wave"
 		"DOTA_Tooltip_modifier_talent_tidehunter_1_debuff_frozen_Description" "Partly frozen by Tidehunter. Cannot restore health."
@@ -12370,4 +12370,153 @@ Does not stack with any other type of reincarnation."
         "DOTA_Tooltip_Ability_talent_tidehunter_2_1_Desc_1" "Removes the cooldown of Kraken Shell."
         "DOTA_Tooltip_Ability_talent_tidehunter_2_2_Desc_2" "Generates a shield every 12 seconds that absorbs incoming Physical damage equal to 70% of Tidehunter's max health."
         "DOTA_Tooltip_Ability_talent_tidehunter_2_3_Desc_3" "Changes the damage type of the tentacles to Pure damage."
+
+		"DOTA_Tooltip_Ability_item_book_of_lies" "Rubick's Shattered Scepter"
+		"DOTA_Tooltip_Ability_item_book_of_lies_Lore" "Not even Rubick himself can mimic the craftmanship of the great Aghanim."
+		"DOTA_Tooltip_Ability_item_book_of_lies_Description" "<h1>Use: Consume</h1>Use to obtain one out of three possible Runes, which can be either positive, negative or both. Once consumed, a Rune must be chosen.<br><br>Can only be purchased up to 3 times per player."
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_1" "Arcane Potency"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_1_Description" "[2% * Level] Spell Damage"
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_2" "Extended Reach"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_2_Description" "[100 * Level] Cast Range"
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_3" "Mana Flow"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_3_Description" "[1 * Level] Mana Regeneration"
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_4" "Mystic Surge"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_4_Description" "[5% * Level] Chance to deal double damage with Magical and Pure damaging abilities"
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_7" "Intellect Amplification"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_7_Description" "[10% * Level] Of your Intellect is dealt as additional damage when damaging enemies using abilities that deal Magical or Pure damage. The damage type is the same as the damage source"
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_8" "Amplified Spellreach"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_8_Description" "The outgoing damage of your abilities that deal Magical or Pure damage is increased by 15% for every 300 units between you and the target (starting at 300 units and capping at 900 units)"
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_9" "Mana Resurgence"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_9_Description" "Casting an ability has a 15% chance to refund [20% * Level] of the mana spent"
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_10" "Intellect Empowerment"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_10_Description" "You gain [0.01% * Level] Spell Damage per point of Intellect"
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_12" "Desperate Recovery"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_12_Description" "Your mana regeneration is increased by [1% * Level] when your health is 50% or less"
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_13" "Arcane Surges"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_13_Description" "Magical damage dealing abilities have a 10% chance to deal damage again equal to 200% of the damage dealt as Pure damage"
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_14" "Mana Mastery"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_14_Description" "Your outgoing damage is increased by [15% * Level] when your mana is full"
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_15" "Ascendant Reserves"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_15_Description" "Increases your max mana by [2.5% * Level]"
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_17" "Echo"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_17_Description" "Your abilities have a 25% chance to be cast again on the same target or location"
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_18" "Mana Flow Augmentation"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_18_Description" "[5% * Level] Mana Regen Amplification"
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_20" "Arcane Vulnerability"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_20_Description" "Damaging enemies with Magical abilities causes them to become more vulnerable to magic by [0.5% * Level] for 3 seconds"
+
+		"DOTA_Tooltip_Ability_xp_intellect_talent_23" "Intellectual Prowess"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_23_Description" "[0.1 * Level] Intellect Gain Per Level"
+
+		"DOTA_Tooltip_Ability_xp_strength_talent_1" "Unyielding Might"
+		"DOTA_Tooltip_Ability_xp_strength_talent_1_Description" "[2% * Level] Base Strength"
+
+		"DOTA_Tooltip_Ability_xp_strength_talent_2" "Brute Force"
+		"DOTA_Tooltip_Ability_xp_strength_talent_2_Description" "Attacks deal [2.5% * Level] of your Strength as bonus physical damage"
+
+		"DOTA_Tooltip_Ability_xp_strength_talent_3" "Iron Will"
+		"DOTA_Tooltip_Ability_xp_strength_talent_3_Description" "[1.5% * Level] Status Resistance (stacking)"
+
+		"DOTA_Tooltip_Ability_xp_strength_talent_4" "Unyielding Fortress"
+		"DOTA_Tooltip_Ability_xp_strength_talent_4_Description" "When taking damage you gain [1% * Level] Armor or Magical Resistance for 3 seconds per point of Strength depending on the damage type received (only one buff can be active at a time)"
+
+		"DOTA_Tooltip_Ability_xp_strength_talent_5" "Unrelenting Assault"
+		"DOTA_Tooltip_Ability_xp_strength_talent_5_Description" "Attacks mark the target up to 3 times, causing them to take [1.5% * Level] increased physical damage per mark for 3 seconds"
+
+		"DOTA_Tooltip_Ability_xp_strength_talent_7" "Titanic Resilience"
+		"DOTA_Tooltip_Ability_xp_strength_talent_7_Description" "You gain up to [2.5% * Level] Damage Reduction and [0.5% * Level] Max Health Regeneration for every 1% missing health."
+
+		"DOTA_Tooltip_Ability_xp_strength_talent_8" "Blood For Blood"
+		"DOTA_Tooltip_Ability_xp_strength_talent_8_Description" "Max Health decreased by 5% and attack damage increased by [14% * Level]"
+
+		"DOTA_Tooltip_Ability_xp_strength_talent_9" "Blessing of Light"
+		"DOTA_Tooltip_Ability_xp_strength_talent_9_Description" "[3.5% * Level] Chance to instantly remove debuffs from yourself when they are applied by enemies and increase your Max Health Regeneration by 1% for 10 seconds"
+
+		"DOTA_Tooltip_Ability_xp_strength_talent_11" "Bloodthirst"
+		"DOTA_Tooltip_Ability_xp_strength_talent_11_Description" "Killing a creature increases all healing and damage you deal by [5% * Level] for 15 seconds, stacking up to 5 times"
+
+		"DOTA_Tooltip_Ability_xp_strength_talent_12" "Resurrection"
+		"DOTA_Tooltip_Ability_xp_strength_talent_12_Description" "Resurrect 5 seconds after dying (can only trigger once per game)"
+
+		"DOTA_Tooltip_Ability_xp_strength_talent_13" "Anger Therapy"
+		"DOTA_Tooltip_Ability_xp_strength_talent_13_Description" "[2% * Level] Attack Damage for 3 seconds when attacked but losing the buff causes you to be unable to obtain it again for 10 seconds"
+
+		"DOTA_Tooltip_Ability_xp_strength_talent_14" "Colossal Might"
+		"DOTA_Tooltip_Ability_xp_strength_talent_14_Description" "[1% * Level] Max Health to Attack Damage"
+
+		"DOTA_Tooltip_Ability_xp_strength_talent_17" "Fissure"
+		"DOTA_Tooltip_Ability_xp_strength_talent_17_Description" "Attacks have a 1% chance to create a fissure in the ground that travels in a straight line 1050 units away from the target's position.<br><br>The fissure explodes after 2.7182 seconds, pulling enemies within 315 units in towards the center and damages them for 15% of their max health as half magical and half physical damage (does not scale with Spell Damage) and slowing them by 40% for 3 seconds"
+
+		"DOTA_Tooltip_Ability_xp_strength_talent_20" "Authoritarian"
+		"DOTA_Tooltip_Ability_xp_strength_talent_20_Description" "[0.1 * Level] Strength Gain Per Level"
+
+		"DOTA_Tooltip_Ability_xp_agility_talent_1" "Far Reach"
+		"DOTA_Tooltip_Ability_xp_agility_talent_1_Description" "[10 * Level] Attack Range (Melee Only)"
+
+		"DOTA_Tooltip_Ability_xp_agility_talent_2" "Deadly Precision"
+		"DOTA_Tooltip_Ability_xp_agility_talent_2_Description" "[5% * Level] Attack Projectile Speed (Ranged Only)"
+
+		"DOTA_Tooltip_Ability_xp_agility_talent_3" "Agile Reflexes"
+		"DOTA_Tooltip_Ability_xp_agility_talent_3_Description" "[2% * Level] Base Agility"
+
+		"DOTA_Tooltip_Ability_xp_agility_talent_4" "Flurry"
+		"DOTA_Tooltip_Ability_xp_agility_talent_4_Description" "Gain 400 bonus attack speed for 3 attacks. Each attack deals 2% increased damage. Default cooldown of 30 seconds, reduced by [2 * Level] seconds (Melee Only)"
+
+		"DOTA_Tooltip_Ability_xp_agility_talent_5" "Explosive Projectiles"
+		"DOTA_Tooltip_Ability_xp_agility_talent_5_Description" "Arrows have a 8% chance to explode on impact, dealing [2% * Level] of the damage dealt as Pure damage to all enemies in a 400 radius around the target (Ranged Only)"
+
+		"DOTA_Tooltip_Ability_xp_agility_talent_6" "Swift Feet"
+		"DOTA_Tooltip_Ability_xp_agility_talent_6_Description" "[3% * Level] Movement Speed based on your Evasion"
+
+		"DOTA_Tooltip_Ability_xp_agility_talent_7" "Sundering Strikes"
+		"DOTA_Tooltip_Ability_xp_agility_talent_7_Description" "Every 3 attacks allows you to slice through the target, completely ignoring their armor (Melee Only)"
+
+		"DOTA_Tooltip_Ability_xp_agility_talent_8" "Trickster's Mirror"
+		"DOTA_Tooltip_Ability_xp_agility_talent_8_Description" "Creates 2 illusions of yourself at either side for 7 seconds upon attacking. The illusions are invulnerable, uncontrollable and can't move, but attack nearby enemies for 100% of their damage. Cooldown 20 seconds (Ranged Only)"
+
+		"DOTA_Tooltip_Ability_xp_agility_talent_9" "Agility Phasing"
+		"DOTA_Tooltip_Ability_xp_agility_talent_9_Description" "Increases your Movement Speed limit to 2000."
+
+		"DOTA_Tooltip_Ability_xp_agility_talent_10" "Toxic Blade"
+		"DOTA_Tooltip_Ability_xp_agility_talent_10_Description" "Attacks apply a stacking poison on enemies hit, dealing [5% * Level] of the damage dealt to the target per stack every second for 3 seconds, stacking up to 3 times (Melee Only)"
+
+		"DOTA_Tooltip_Ability_xp_agility_talent_12" "On The Run"
+		"DOTA_Tooltip_Ability_xp_agility_talent_12_Description" "[6% * Level] Evasion and Phased Movement for 3 seconds after moving"
+
+		"DOTA_Tooltip_Ability_xp_agility_talent_13" "Frost Attacks"
+		"DOTA_Tooltip_Ability_xp_agility_talent_13_Description" "Attacks slow enemies by [4% * Level] (Melee Only)"
+
+		"DOTA_Tooltip_Ability_xp_agility_talent_15" "Natural Hunter"
+		"DOTA_Tooltip_Ability_xp_agility_talent_15_Description" "[0.1 * Level] Agility Gain Per Level"
+
+		"DOTA_Tooltip_Ability_xp_agility_talent_16" "Weaker In Numbers"
+		"DOTA_Tooltip_Ability_xp_agility_talent_16_Description" "40% Attack Damage when there are no more than 1 enemy within 300 range of you (Melee Only)"
+
+		"DOTA_Tooltip_Ability_xp_all_talent_1" "Magic Resistance"
+		"DOTA_Tooltip_Ability_xp_all_talent_1_Description" "[1% * Level] Magic Resistance"
+
+		"DOTA_Tooltip_Ability_xp_all_talent_2" "Banker"
+		"DOTA_Tooltip_Ability_xp_all_talent_2_Description" "[1% * Level] Gold Gain"
+
+		"DOTA_Tooltip_Ability_xp_all_talent_3" "Scholar"
+		"DOTA_Tooltip_Ability_xp_all_talent_3_Description" "[1% * Level] Hero Experience Gain"
+
+		"DOTA_Tooltip_Ability_xp_all_talent_4" "Durable"
+		"DOTA_Tooltip_Ability_xp_all_talent_4_Description" "[1% * Level] Damage Resistance (Eternal Torment Only)"
+
 }	
