@@ -12198,9 +12198,9 @@ Does not stack with any other type of reincarnation."
 
 		"DOTA_Tooltip_Ability_tidehunter_tsunami_custom" "Maelrawn's Might"
 		"DOTA_Tooltip_Ability_tidehunter_tsunami_custom_Lore" "Взывая к глубоководному богу Мэльрону, Левиафан способен в одиночку потопить целые эскадры кораблей."
-		"DOTA_Tooltip_Ability_tidehunter_tsunami_custom_Description" "Тидехантер - колоссальный морской гигант, поэтому он выносливее других существ. Его максимальное здоровье пассивно увеличивается на %bonus_health_pct%%% и он получает бонусный урон от атак, основанный на его максимальном здоровье."
+		"DOTA_Tooltip_Ability_tidehunter_tsunami_custom_Description" "Колоссальный морской гигант выносливее других существ. Его максимальное здоровье пассивно увеличивается на %bonus_health_pct%%% и он получает дополнительный урон от атак, основанный на его максимальном здоровье."
 		"DOTA_Tooltip_Ability_tidehunter_tsunami_custom_bonus_health_pct" "%ДОП. МАКС. ЗДОРОВЬЕ:"
-		"DOTA_Tooltip_Ability_tidehunter_tsunami_custom_damage_from_hp_pct" "%УРОН МАКСИМАЛЬНОЕ ЗДОРОВЬЕ:"
+		"DOTA_Tooltip_Ability_tidehunter_tsunami_custom_damage_from_hp_pct" "%УРОН ОТ МАКС. ЗДОРОВЬЯ:"
 
 		"DOTA_Tooltip_modifier_talent_tidehunter_1_debuff_frozen" "Flood Wave"
 		"DOTA_Tooltip_modifier_talent_tidehunter_1_debuff_frozen_Description" "Частично заморожен. Невозможно восстанавливать здоровье."
@@ -12228,148 +12228,146 @@ Does not stack with any other type of reincarnation."
 		"DOTA_Tooltip_Ability_item_book_of_lies_Description" "<h1>Use: Consume</h1>Use to obtain one out of three possible Runes, which can be either positive, negative or both. Once consumed, a Rune must be chosen.<br><br>Can only be purchased up to 3 times per player."
 
 		"DOTA_Tooltip_Ability_xp_intellect_talent_1" "Чародейское могущество"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_1_Description" "[2% * уровень] Урона заклинаний"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_1_Description" "[2% * уровень] к урону заклинаний"
 
 		"DOTA_Tooltip_Ability_xp_intellect_talent_2" "Увеличенная дальность"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_2_Description" "[100 * уровень] Дальности применения заклинаий"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_2_Description" "[100 * уровень] к дальности применения заклинаний"
 
 		"DOTA_Tooltip_Ability_xp_intellect_talent_3" "Прилив маны"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_3_Description" "[1 * уровень] Регенерации маны"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_3_Description" "[1 * уровень] к восстановлению маны"
 
-		"DOTA_Tooltip_Ability_xp_intellect_talent_4" "Mystic Surge"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_4_Description" "[5% * уровень] Шанса нанести двойной урон способностями, наносящими чистый или магический урон."
+		"DOTA_Tooltip_Ability_xp_intellect_talent_4" "Мистический всплеск"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_4_Description" "[5% * уровень] к шансу нанести двойной урон способностями, наносящими чистый или магический урон."
 
-		"DOTA_Tooltip_Ability_xp_intellect_talent_7" "Интеллектульное улучшение"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_7_Description" "[10% * уровень] Вашего интеллекта наносится как дополнительный урон при нанесении урона врагам способностями, наносящими магический или чистый урон. Тип урона такой же, как и источник урона."
+		"DOTA_Tooltip_Ability_xp_intellect_talent_7" "Усиливающий интеллект"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_7_Description" "[10% * уровень] к дополнительному урону от интеллекта владельца при нанесении урона врагам способностями, наносящими магический или чистый урон. Тип урона такой же, как и источник урона."
 
 		"DOTA_Tooltip_Ability_xp_intellect_talent_8" "Усиленный охват заклинаний"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_8_Description" "Исходящий урон ваших способностей, наносящих магический или чистый урон, увеличивается на 15% за каждые 300 единиц между вами и целью (начиная с 300 единиц и заканчивая 900 единицами)."
+		"DOTA_Tooltip_Ability_xp_intellect_talent_8_Description" "Исходящий урон способностей, наносящих магический или чистый урон, увеличивается на 15% за каждые 300 единиц между вами и целью (минимум 300 единиц, максимум 900 единиц)."
 
 		"DOTA_Tooltip_Ability_xp_intellect_talent_9" "Возвращение маны"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_9_Description" "Использование способности имеет 15% шанс вернуть [20% * уровень] потраченной маны"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_9_Description" "[20% * уровень] к возврату потраченной маны при применении способности (шанс 15%)."
 
-		"DOTA_Tooltip_Ability_xp_intellect_talent_10" "Расширение интеллектуальных возможностей"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_10_Description" "Вы получаете [0.01% * уровень] урона заклинаний за единицу интеллекта"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_10" "Расширение возможностей интеллекта"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_10_Description" "[0.01% * уровень] к урону заклинаний за единицу интеллекта"
 
-		"DOTA_Tooltip_Ability_xp_intellect_talent_12" "Отчаянное восстановление
-"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_12_Description" "Ваше восстановление маны увечичено на [1% * уровень] когда ваше здоровье на 50% или ниже"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_12" "Отчаянное восстановление"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_12_Description" "[1% * уровень] к усилению восстановления маны, когда текущее здоровье 50% или ниже"
 
 		"DOTA_Tooltip_Ability_xp_intellect_talent_13" "Чародейские всплески"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_13_Description" "Способности, наносящие магический урон, имеют 10% шанс нанести повторный урон, равный 200% от нанесенного, но в виде чистого урона"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_13_Description" "Способности, наносящие магический урон, имеют 10% шанс нанести повторный урон, равный 200% от нанесённого, но в виде чистого урона"
 
 		"DOTA_Tooltip_Ability_xp_intellect_talent_14" "мастерство маны"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_14_Description" "Ваш исходящий урон увеличен на [15% * уровень] когда ваша мана полная"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_14_Description" "[15% * уровень] к усилению исходящего урона когда мана полная"
 
 		"DOTA_Tooltip_Ability_xp_intellect_talent_15" "Восходящие резервы"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_15_Description" "Увеличивает максимальную ману на [2.5% * уровень]"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_15_Description" "[2.5% * уровень] к прибавке максимальной маны"
 
 		"DOTA_Tooltip_Ability_xp_intellect_talent_17" "Эхо"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_17_Description" "Ваши способности имеют шанс 25% использоваться повторно в ту же цель или место применения"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_17_Description" "Способности имеют 25% шанс использоваться повторно в ту же цель или место применения"
 
 		"DOTA_Tooltip_Ability_xp_intellect_talent_18" "Повышение потока маны"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_18_Description" "[5% * уровень] Усиления восстановления маны"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_18_Description" "[5% * уровень] к усилению восстановления маны"
 
 		"DOTA_Tooltip_Ability_xp_intellect_talent_20" "Чародейская уязвимость"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_20_Description" "Нанося урон врагам при помощи способностей, наносящих магический урон, снижает их магическое сопротивление на [0.5% * уровень] в течение 3 секунд"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_20_Description" "[0.5% * уровень] к снижению сопротивления магии на 3 секунды у врагов, по которым вы наносите урон магическими способностями"
 
 		"DOTA_Tooltip_Ability_xp_intellect_talent_23" "Интеллектуальная одаренность"
-		"DOTA_Tooltip_Ability_xp_intellect_talent_23_Description" "[0.1 * уровень] Единиц интеллекта за уровень"
+		"DOTA_Tooltip_Ability_xp_intellect_talent_23_Description" "[0.1 * уровень] к приросту интеллекта за уровень"
 
 		"DOTA_Tooltip_Ability_xp_strength_talent_1" "Непоколебимая сила"
-		"DOTA_Tooltip_Ability_xp_strength_talent_1_Description" "[2% * уровень] Базовой силы"
+		"DOTA_Tooltip_Ability_xp_strength_talent_1_Description" "[2% * уровень] к базовой силе"
 
 		"DOTA_Tooltip_Ability_xp_strength_talent_2" "Грубая сила"
-		"DOTA_Tooltip_Ability_xp_strength_talent_2_Description" "Атаки наносят [2.5% * уровень] вашей силы как бонусный урон"
+		"DOTA_Tooltip_Ability_xp_strength_talent_2_Description" "[2.5% * уровень] к дополнительному урону от исходящих атак зависящему от вашей силы"
 
 		"DOTA_Tooltip_Ability_xp_strength_talent_3" "Железная воля"
-		"DOTA_Tooltip_Ability_xp_strength_talent_3_Description" "[1.5% * уровень] сопротивления эффектам (складывается)"
+		"DOTA_Tooltip_Ability_xp_strength_talent_3_Description" "[1.5% * уровень] к сопротивлению эффектам (накапливается)"
 
 		"DOTA_Tooltip_Ability_xp_strength_talent_4" "Неприступная крепость"
-		"DOTA_Tooltip_Ability_xp_strength_talent_4_Description" "Когда вы получаете урон, вы так же получаете бонус [1% * уровень] брони или магического сопротивления на  3 секунды за единицу силы, в зависимости от типа полученного урона (только один бафф может быть активен)"
+		"DOTA_Tooltip_Ability_xp_strength_talent_4_Description" "[1% * уровень] к дополнительной броне или сопротивлению магии за единицу силы на 3 секунды когда вы получаете урон, в зависимости от типа полученного урона (только один положительный эффект может быть активен)"
 
 		"DOTA_Tooltip_Ability_xp_strength_talent_5" "Неумолимое нападение"
-		"DOTA_Tooltip_Ability_xp_strength_talent_5_Description" "Атаки оставляют на жертве до 3 меток, заставляющих их получать [1.5% * уровень] увеличенного физического урона на 3 секунды"
+		"DOTA_Tooltip_Ability_xp_strength_talent_5_Description" "Атаки помечают цель до 3 раз, в результате чего они получают [1,5% * Уровень] увеличенного физического урона за каждую отметку в течение 3 секунд."
 
 		"DOTA_Tooltip_Ability_xp_strength_talent_7" "Титаническая стойкость"
-		"DOTA_Tooltip_Ability_xp_strength_talent_7_Description" "Вы получаете до [2.5% * уровень] уменьшения входящего урона и [0.5% * уровень] восстановления максимального здоровья за каждые 1% отсутсвующего здоровья."
+		"DOTA_Tooltip_Ability_xp_strength_talent_7_Description" "Получение [2.5% * уровень] к уменьшению входящего урона и [0.5% * уровень] к восстановлению максимального здоровья за каждые 1% отсутсвующего здоровья."
 
 		"DOTA_Tooltip_Ability_xp_strength_talent_8" "Кровь за кровь"
-		"DOTA_Tooltip_Ability_xp_strength_talent_8_Description" "Максимальное здоровье уменьшено на 5%, а урон от атак увеличен на [14% * Уровень]"
+		"DOTA_Tooltip_Ability_xp_strength_talent_8_Description" "[14% * уровень] к усилению урона от атак и -5% от максимального здоровья"
 
 		"DOTA_Tooltip_Ability_xp_strength_talent_9" "Благославение света"
-		"DOTA_Tooltip_Ability_xp_strength_talent_9_Description" "[3.5% * уровень] Шанса мгновенно снять с себя дебаффы, наложенные врагами, и увеличить максимальную регенерацию здоровья на 1% на 10 секунд"
+		"DOTA_Tooltip_Ability_xp_strength_talent_9_Description" "[3.5% * уровень] к шансу мгновенно снять с себя отрицательные эффекты, наложенные врагами, и усилить восстановление максимального здоровья на 1% на 10 секунд"
 
 		"DOTA_Tooltip_Ability_xp_strength_talent_11" "Жажда крови"
-		"DOTA_Tooltip_Ability_xp_strength_talent_11_Description" "Убийство крипов дает вам дополнительное увеличение лечения и урона на [5% * уровень] на 15 секунд, складывается до 5 раз"
+		"DOTA_Tooltip_Ability_xp_strength_talent_11_Description" "[5% * уровень] к усилению лечения и урона за убийство крипов на 15 секунд. Складывается до 5 раз"
 
 		"DOTA_Tooltip_Ability_xp_strength_talent_12" "Воскрешение"
-		"DOTA_Tooltip_Ability_xp_strength_talent_12_Description" "Воскрешение через 5 секунд после смерти (срабатывает только один раз за игру)"
+		"DOTA_Tooltip_Ability_xp_strength_talent_12_Description" "Воскрешение через 5 секунд после смерти (только раз за игру)"
 
-		"DOTA_Tooltip_Ability_xp_strength_talent_13" "Терапия злости"
-		"DOTA_Tooltip_Ability_xp_strength_talent_13_Description" "[2% * уровень] Урона от атаки после 3 секунд как атаковали, но потеря баффа забирает возможность получать его на 10 секунд"
+		"DOTA_Tooltip_Ability_xp_strength_talent_13" "Терапия гнева"
+		"DOTA_Tooltip_Ability_xp_strength_talent_13_Description" "[2% * уровень] к урон от атак в течение 3 секунд при атаке, но при потере эффекта вы не сможете получить его снова в течение 10 секунд."
 
 		"DOTA_Tooltip_Ability_xp_strength_talent_14" "Колоссальная мощь"
-		"DOTA_Tooltip_Ability_xp_strength_talent_14_Description" "[1% * уровень] Максимального здоровья в урон от атаки"
+		"DOTA_Tooltip_Ability_xp_strength_talent_14_Description" "[1% * уровень] к урону от атак за максимальное здоровье"
 
 		"DOTA_Tooltip_Ability_xp_strength_talent_17" "Расщелина"
-		"DOTA_Tooltip_Ability_xp_strength_talent_17_Description" "Атаки с вероятностью 1% создают трещину в земле, которая движется по прямой линии на расстоянии 1050 единиц от цели.<br><br> Трещина взрывается через 2,7182 секунды, притягивая врагов в радиусе 315 единиц к центру и нанося им 15% от их максимального здоровья в виде половинного магического и половинного физического урона (не увеличивается за счет увеличений урона заклинаний) и замедляя их на 40% на 3 секунды."
+		"DOTA_Tooltip_Ability_xp_strength_talent_17_Description" "Атаки с вероятностью 1% создают трещину в земле, которая движется по прямой линии на расстоянии 1050 единиц от цели.<br><br>Трещина взрывается через 2.7182 секунды, притягивая врагов в радиусе 315 единиц к центру и нанося им урон в размере 15% от их максимального здоровья в виде половины магического и половины физического урона (не зависит от урона заклинаний) и замедляя их на 40% на 3 секунды."
 
 		"DOTA_Tooltip_Ability_xp_strength_talent_20" "Авторитарный"
-		"DOTA_Tooltip_Ability_xp_strength_talent_20_Description" "[0.1 * уровень] Очков силы за уровень"
+		"DOTA_Tooltip_Ability_xp_strength_talent_20_Description" "[0.1 * уровень] к приросту силы за уровень"
 
 		"DOTA_Tooltip_Ability_xp_agility_talent_1" "Далекая досягаемость"
-		"DOTA_Tooltip_Ability_xp_agility_talent_1_Description" "[10 * уровень] Дальности атаки (Работает только на героях ближнего боя)"
+		"DOTA_Tooltip_Ability_xp_agility_talent_1_Description" "[10 * уровень] к дальности атаки (только для героев ближнего боя)"
 
 		"DOTA_Tooltip_Ability_xp_agility_talent_2" "Смертоносная точность"
-		"DOTA_Tooltip_Ability_xp_agility_talent_2_Description" "[5% * уровень] Скорости снарядов (Работает только на героях дальнего боя)"
+		"DOTA_Tooltip_Ability_xp_agility_talent_2_Description" "[5% * уровень] к скорости снарядов (только для героев дальнего боя)"
 
 		"DOTA_Tooltip_Ability_xp_agility_talent_3" "Проворные рефлексы"
-		"DOTA_Tooltip_Ability_xp_agility_talent_3_Description" "[2% * уровень] Базовой ловкости"
+		"DOTA_Tooltip_Ability_xp_agility_talent_3_Description" "[2% * уровень] к базовой ловкости"
 
 		"DOTA_Tooltip_Ability_xp_agility_talent_4" "Шквал"
-		"DOTA_Tooltip_Ability_xp_agility_talent_4_Description" "Вы получаете 400 бонусной скорости атаки на последующие 3 атаки. Каждая атака наносит 2% увеличенного урона. Изначальная перезарядка 30 секунд, уменьшается [2 * уровень] секунды (Работает только на героях ближнего боя)"
+		"DOTA_Tooltip_Ability_xp_agility_talent_4_Description" "Вы получаете 400 к дополнительной скорости атаки на последующие 3 атаки. Каждая атака наносит 2% увеличенного урона. Изначальная перезарядка 30 секунд, уменьшается на [2 * уровень] секунды (только для героев ближнего боя)"
 
 		"DOTA_Tooltip_Ability_xp_agility_talent_5" "Взрывные снаряды"
-		"DOTA_Tooltip_Ability_xp_agility_talent_5_Description" "стрелы имеют 8% шанса взорваться, нанося [2% * уровень] нанесенного урона в виде чистого урона всем врагам в радиусе 400 (Работает только на героях дальнего боя)"
+		"DOTA_Tooltip_Ability_xp_agility_talent_5_Description" "Стрелы имеют 8% шанса взорваться, нанося [2% * уровень] чистого урона всем врагам в радиусе 400 (только для героев дальнего боя)"
 
 		"DOTA_Tooltip_Ability_xp_agility_talent_6" "Быстрые ноги"
-		"DOTA_Tooltip_Ability_xp_agility_talent_6_Description" "[3% * уровень] скорости передвижения от вашего уклонения"
+		"DOTA_Tooltip_Ability_xp_agility_talent_6_Description" "[3% * уровень] к скорости передвижения от вашего уклонения"
 
 		"DOTA_Tooltip_Ability_xp_agility_talent_7" "Разрушительные удары"
-		"DOTA_Tooltip_Ability_xp_agility_talent_7_Description" "Каждые 3 атаки позволяют вам разрезать врага, полностью игнорируя его броню (Работает только на героях ближнего боя)"
+		"DOTA_Tooltip_Ability_xp_agility_talent_7_Description" "Каждая 3 атака позволяет разрезать врага, полностью игнорируя его броню (только для героев ближнего боя)"
 
 		"DOTA_Tooltip_Ability_xp_agility_talent_8" "Зеркало фокусника"
-		"DOTA_Tooltip_Ability_xp_agility_talent_8_Description" "Создает 2 иллюзии себя с каждой стороны на 7 секунд при атаке. Иллюзии неуязвимы, неконтролируемы и не могут двигаться, но атакуют ближайших врагов, нанося им 100% урона. Время действия 20 секунд (Работает только на героях дальнего боя)"
+		"DOTA_Tooltip_Ability_xp_agility_talent_8_Description" "Создаёт 2 иллюзии себя с каждой стороны на 7 секунд при атаке. Иллюзии неуязвимы, неконтролируемы и не могут двигаться, но атакуют ближайших врагов, нанося им 100% урона. Время действия 20 секунд (только для героев дальнего боя)"
 
 		"DOTA_Tooltip_Ability_xp_agility_talent_9" "Фазирование ловкости"
-		"DOTA_Tooltip_Ability_xp_agility_talent_9_Description" "Увеличивает лимит вашей максимальной скорости передвижения до 2000."
+		"DOTA_Tooltip_Ability_xp_agility_talent_9_Description" "Повышает предел вашей максимальной скорости передвижения до 2000."
 
 		"DOTA_Tooltip_Ability_xp_agility_talent_10" "Ядовитый клинок"
-		"DOTA_Tooltip_Ability_xp_agility_talent_10_Description" "Атаки накладывают на пораженных врагов складывающийся яд, наносящий [5% * уровень] урона, наносимого цели, за стак каждую секунду в течение 3 секунд, стакающийся до 3 раз. (Работает только на героях дальнего боя)"
+		"DOTA_Tooltip_Ability_xp_agility_talent_10_Description" "Атаки накладывают на врагов накапливающийся яд, наносящий [5% * уровень] урона цели за эффект каждую секунду в течение 3 секунд. Максимум 3 эффекта. (Только для героев дальнего боя)"
 
 		"DOTA_Tooltip_Ability_xp_agility_talent_12" "На бегу"
-		"DOTA_Tooltip_Ability_xp_agility_talent_12_Description" "[6% * уровень] Уклонение и ускоренное движение на 3 секунды после перемещения"
+		"DOTA_Tooltip_Ability_xp_agility_talent_12_Description" "[6% * уровень] к уклонению и скорости передвижения на 3 секунды после перемещения"
 
 		"DOTA_Tooltip_Ability_xp_agility_talent_13" "Холодные атаки"
-		"DOTA_Tooltip_Ability_xp_agility_talent_13_Description" "Атаки замедляют врагов на [4% * уровень] (Работает только на героях ближнего боя)"
+		"DOTA_Tooltip_Ability_xp_agility_talent_13_Description" "[4% * уровень] к замедлению врагов от атак (только для героев ближнего боя)"
 
 		"DOTA_Tooltip_Ability_xp_agility_talent_15" "Прирожденный охотник"
-		"DOTA_Tooltip_Ability_xp_agility_talent_15_Description" "[0.1 * уровень] Единиц ловкости за уровень"
+		"DOTA_Tooltip_Ability_xp_agility_talent_15_Description" "[0.1 * уровень] к приросту ловкости за уровень"
 
 		"DOTA_Tooltip_Ability_xp_agility_talent_16" "Слабее по численности"
-		"DOTA_Tooltip_Ability_xp_agility_talent_16_Description" "40% дополнительного урона атаки когда  в радиусе 300 меньше 1 врага (Работает только на героях ближнего боя)"
+		"DOTA_Tooltip_Ability_xp_agility_talent_16_Description" "40% к дополнительному урону от атак когда в радиусе 300 единиц меньше 1 врага (только для героев ближнего боя)"
 
 		"DOTA_Tooltip_Ability_xp_all_talent_1" "Магическое сопротивление"
-		"DOTA_Tooltip_Ability_xp_all_talent_1_Description" "[1% * уровень] Магического сопротивления"
+		"DOTA_Tooltip_Ability_xp_all_talent_1_Description" "[1% * уровень] к сопротивлению магии"
 
 		"DOTA_Tooltip_Ability_xp_all_talent_2" "Банкир"
-		"DOTA_Tooltip_Ability_xp_all_talent_2_Description" "[1% * уровень] Дополнительного золота"
+		"DOTA_Tooltip_Ability_xp_all_talent_2_Description" "[1% * уровень] к получаемому золоту"
 
 		"DOTA_Tooltip_Ability_xp_all_talent_3" "Ученый"
-		"DOTA_Tooltip_Ability_xp_all_talent_3_Description" "[1% * уровень] Дополнительного опыта"
+		"DOTA_Tooltip_Ability_xp_all_talent_3_Description" "[1% * уровень] к получаемому опыту"
 
 		"DOTA_Tooltip_Ability_xp_all_talent_4" "Стойкий"
-		"DOTA_Tooltip_Ability_xp_all_talent_4_Description" "[1% * уровень] Сопротивление урону (Работает только в Eternal Torment)"
-}	
-
+		"DOTA_Tooltip_Ability_xp_all_talent_4_Description" "[1% * уровень] к сопротивлению от урона (работает только в Eternal Torment)"
+}
