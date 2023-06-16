@@ -2663,6 +2663,7 @@
         "DOTA_Tooltip_Ability_terrorblade_metamorphosis_unleashed_custom_damage_conversion_pct"    "%DAMAGE TO PURE:"
 
         "DOTA_Tooltip_Ability_centaur_double_edge_custom"    "Double Edge"
+        "DOTA_Tooltip_Ability_centaur_double_edge_custom_shard_description"    "Has a chance to trigger when Centaur gets attacked by an enemy."
         "DOTA_Tooltip_Ability_centaur_double_edge_custom_description"    "Centaur has a chance to fiercly slice through enemies with this greataxe, dealing damage based on a portion of his max health and his Strength."
 		"DOTA_Tooltip_Ability_centaur_double_edge_custom_edge_damage"    "BASE DAMAGE:"
 		"DOTA_Tooltip_Ability_centaur_double_edge_custom_strength_damage"    "%DAMAGE FROM STRENGTH:"
@@ -2671,9 +2672,10 @@
 		"DOTA_Tooltip_Ability_centaur_double_edge_custom_hp_damage"    "%DAMAGE FROM MAX HEALTH:"
 
 		"DOTA_Tooltip_Ability_centaur_return_custom"    "Return"
-        "DOTA_Tooltip_Ability_centaur_return_custom_description"    "Centaur counters all attacks, dealing damage back to the attacker. Returns a portion of your max health as damage plus a percentage based on your strength. Centaur takes less damage equal to the amount reflected."
+        "DOTA_Tooltip_Ability_centaur_return_custom_description"    "Centaur counters all attacks, dealing damage back to the attacker. Returns a portion of your max health as damage plus a percentage based on your strength. Centaur takes %damage_reduction%%% less damage from all incoming sources."
 		"DOTA_Tooltip_Ability_centaur_return_custom_return_damage"    "%DAMAGE FROM MAX HEALTH:"
 		"DOTA_Tooltip_Ability_centaur_return_custom_return_damage_str"    "%DAMAGE FROM STRENGTH:"
+		"DOTA_Tooltip_Ability_centaur_return_custom_damage_reduction"    "%DAMAGE REDUCTION:"
 
 		"DOTA_Tooltip_Ability_abaddon_borrowed_time_ancient"    "Absorb Damage"
 		"DOTA_Tooltip_Ability_abaddon_borrowed_time_ancient_duration"    "DURATION:"
@@ -3651,7 +3653,7 @@ If used on a normal creep Doom will instantly kill it and gain bonus gold. Can n
         "DOTA_Tooltip_Ability_item_octarines_blessing_6_creep_lifesteal"    "%+Spell Lifesteal (Creep)"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal"    "Battlemage's Arsenal"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. The cooldown is further reduced by additional Cooldown Reduction. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_Lore"    "The perfect weapon for the best of battlemages."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_bonus_damage"    "+$damage"
@@ -3663,7 +3665,7 @@ If used on a normal creep Doom will instantly kill it and gain bonus gold. Can n
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_bonus_movement_speed"    "+$move_speed"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_spell_lifesteal_amp"    "%+Spell Lifesteal Amplification"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2"    "Battlemage's Arsenal LVL2"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. The cooldown is further reduced by additional Cooldown Reduction. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_Lore"    "The perfect weapon for the best of battlemages."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_bonus_damage"    "+$damage"
@@ -3675,7 +3677,7 @@ If used on a normal creep Doom will instantly kill it and gain bonus gold. Can n
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_bonus_movement_speed"    "+$move_speed"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_spell_lifesteal_amp"    "%+Spell Lifesteal Amplification"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_3"    "Battlemage's Arsenal LVL3"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. The cooldown is further reduced by additional Cooldown Reduction. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_Lore"    "The perfect weapon for the best of battlemages."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_bonus_damage"    "+$damage"
@@ -3688,7 +3690,7 @@ If used on a normal creep Doom will instantly kill it and gain bonus gold. Can n
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_spell_lifesteal_amp"    "%+Spell Lifesteal Amplification"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_4"    "Battlemage's Arsenal LVL4"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. The cooldown is further reduced by additional Cooldown Reduction. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_Lore"    "The perfect weapon for the best of battlemages."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_bonus_damage"    "+$damage"
@@ -3701,7 +3703,7 @@ If used on a normal creep Doom will instantly kill it and gain bonus gold. Can n
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_spell_lifesteal_amp"    "%+Spell Lifesteal Amplification"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_5"    "Battlemage's Arsenal LVL5"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. The cooldown is further reduced by additional Cooldown Reduction. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_Lore"    "The perfect weapon for the best of battlemages."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_bonus_damage"    "+$damage"
@@ -3714,7 +3716,7 @@ If used on a normal creep Doom will instantly kill it and gain bonus gold. Can n
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_spell_lifesteal_amp"    "%+Spell Lifesteal Amplification"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_6"    "Battlemage's Arsenal LVL6"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. The cooldown is further reduced by additional Cooldown Reduction. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_Lore"    "The perfect weapon for the best of battlemages."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_bonus_damage"    "+$damage"
@@ -3727,7 +3729,7 @@ If used on a normal creep Doom will instantly kill it and gain bonus gold. Can n
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_spell_lifesteal_amp"    "%+Spell Lifesteal Amplification"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_7"    "Lost Battlemage's Arsenal"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_7_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_7_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. The cooldown is further reduced by additional Cooldown Reduction. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_7_Lore"    "The perfect weapon for the best of battlemages."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_7_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_7_bonus_damage"    "+$damage"
@@ -3740,7 +3742,7 @@ If used on a normal creep Doom will instantly kill it and gain bonus gold. Can n
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_7_spell_lifesteal_amp"    "%+Spell Lifesteal Amplification"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_8"    "Rainbow Battlemage's Arsenal"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_8_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_8_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Passive: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. The cooldown is further reduced by additional Cooldown Reduction. <i>(Ranged Only)</i>\n<h1>Passive: Poison Strike</h1>Causes your next attack to apply a poison to the target for %slow_duration% seconds, slowing them by %slow%%% and dealing %int_damage_multiplier%x your intelligence as magical damage every second.\n<h1>Passive: Mana Conversion</h1>Your attack damage is increased by %damage_from_max_mana%%% of your Max Mana."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_8_Lore"    "The perfect weapon for the best of battlemages."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_8_bonus_health"    "+$health"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_8_bonus_damage"    "+$damage"
@@ -3775,14 +3777,14 @@ If used on a normal creep Doom will instantly kill it and gain bonus gold. Can n
         "DOTA_Tooltip_Ability_silencer_bouncing_glaives_custom_damage_reduction_percent"    "%DAMAGE REDUCTION PER BOUNCE:"
         "DOTA_Tooltip_Ability_silencer_bouncing_glaives_custom_range"    "RANGE:"
 
-        "DOTA_Tooltip_Ability_item_enchanted_book"						"Skill Book (Change)"
-		"DOTA_Tooltip_Ability_item_enchanted_book_Description"			"<h1>Use: Change Skill</h1> Allows you to exchange an existing ability for a random new one."
+        "DOTA_Tooltip_Ability_item_enchanted_book"						"Transmutation Scroll"
+		"DOTA_Tooltip_Ability_item_enchanted_book_Description"			"<h1>Consume: Change Ability</h1> Allows you to exchange an existing ability for a new one."
 
-		"DOTA_Tooltip_Ability_item_blessed_book"						"Skill Book (Add)"
-		"DOTA_Tooltip_Ability_item_blessed_book_Description"			"<h1>Use: Add Skill</h1> Gives you one new random ability. You can have max 8 abilities. This includes hidden abilities and upgrades from Aghanim's Scepter or Aghanim's Shard."
+		"DOTA_Tooltip_Ability_item_blessed_book"						"Aghanim's Tome"
+		"DOTA_Tooltip_Ability_item_blessed_book_Description"			"<h1>Consume: Add Ability</h1> Gives you one new random ability. You can have max 8 abilities. This includes hidden abilities (e.g. talents) and upgrades from Aghanim's Scepter or Aghanim's Shard."
 
-		"DOTA_Tooltip_Ability_item_reverse_book"						"Skill Book (Swap Order)"
-		"DOTA_Tooltip_Ability_item_reverse_book_Description"			"<h1>Use: Swap Skill Order</h1> Allows you to swap the places of two abilities."
+		"DOTA_Tooltip_Ability_item_reverse_book"						"Torn Page"
+		"DOTA_Tooltip_Ability_item_reverse_book_Description"			"<h1>Consume: Swap Ability Order</h1> Allows you to swap the places of two abilities."
 
 		"DOTA_Tooltip_Ability_ability_selection_cancel" "Cancel"
 		"DOTA_Tooltip_Ability_ability_selection_cancel_Description" "Closes the ability selection menu."
@@ -7119,16 +7121,17 @@ Cleave works for melee and ranged heroes."
 
         "DOTA_Tooltip_Ability_underlord_pit_of_malice_custom" "Pit of Malice"
         "DOTA_Tooltip_Ability_underlord_pit_of_malice_custom_Lore" "Twisting into the seams of reality itself, Vrogros' manifest hatred paralyzes those who defy his will."
-        "DOTA_Tooltip_Ability_underlord_pit_of_malice_custom_Description" "A deadly pit is conjured at the target location; any unit that enters will be rooted and take increased damage from Underlord. Each enemy unit within the pit are affected every 3.6 seconds."
+        "DOTA_Tooltip_Ability_underlord_pit_of_malice_custom_Description" "A deadly pit is conjured at the target location; any unit that enters will be slowed and take increased damage from Underlord. Each enemy unit within the pit are affected every 3.6 seconds."
         "DOTA_Tooltip_Ability_underlord_pit_of_malice_custom_radius" "RADIUS:"
         "DOTA_Tooltip_Ability_underlord_pit_of_malice_custom_pit_duration" "DURATION:"
         "DOTA_Tooltip_Ability_underlord_pit_of_malice_custom_pit_interval" "INTERVAL:"
-        "DOTA_Tooltip_Ability_underlord_pit_of_malice_custom_ensnare_duration" "ENSNARE DURATION:"
+        "DOTA_Tooltip_Ability_underlord_pit_of_malice_custom_ensnare_duration" "SLOW DURATION:"
+        "DOTA_Tooltip_Ability_underlord_pit_of_malice_custom_slow" "%SLOW:"
         "DOTA_Tooltip_Ability_underlord_pit_of_malice_custom_incoming_damage" "%DAMAGE TAKEN:"
         "DOTA_Tooltip_Ability_underlord_pit_of_malice_custom_damage" "DAMAGE:"
         "DOTA_Tooltip_Ability_underlord_pit_of_malice_custom_str_to_damage" "%DAMAGE FROM STRENGTH:"
         "DOTA_Tooltip_modifier_underlord_pit_of_malice_custom" "Pit of Malice"
-        "DOTA_Tooltip_modifier_underlord_pit_of_malice_custom_Description" "Rooted. Taking increased damage from Underlord."
+        "DOTA_Tooltip_modifier_underlord_pit_of_malice_custom_Description" "Slowed. Taking increased damage from Underlord."
 
         "DOTA_Tooltip_Ability_underlord_pit_of_abyss_custom" "Pit of the Abyss"
         "DOTA_Tooltip_Ability_underlord_pit_of_abyss_custom_Lore" "They come without warning, leaving fire and blood where kingdoms once flourished."
@@ -8419,7 +8422,7 @@ Does not stack with any other type of reincarnation."
 
 		"DOTA_Tooltip_Ability_centaur_stampede_custom" "Stampede"
 		"DOTA_Tooltip_Ability_centaur_stampede_custom_scepter_Description" "Grants affected allies damage reduction for the duration."
-		"DOTA_Tooltip_Ability_centaur_stampede_custom_Description" "Centaur goes into a furious stampede, granting all allied heroes on the map increased movement speed and bonus health based on a portion of Centaur's max health."
+		"DOTA_Tooltip_Ability_centaur_stampede_custom_Description" "Centaur goes into a furious stampede, granting all allied heroes on the map increased movement speed, removing their movement speed limit, and increasing their health based on a portion of Centaur's max health."
 		"DOTA_Tooltip_Ability_centaur_stampede_custom_duration" "DURATION:"
 		"DOTA_Tooltip_Ability_centaur_stampede_custom_damage_reduction" "%DAMAGE REDUCTION:"
 		"DOTA_Tooltip_Ability_centaur_stampede_custom_max_hp_increase" "%CENTAUR HEALTH:"
@@ -11504,7 +11507,7 @@ Does not stack with any other type of reincarnation."
 
 		"DOTA_Tooltip_Ability_primal_beast_onslaught_custom" "Onslaught"
 		"DOTA_Tooltip_Ability_primal_beast_onslaught_custom_Lore" "The Beast's single-minded focus on chosen prey leaves all other considerations scattered in his ruinous wake."
-		"DOTA_Tooltip_Ability_primal_beast_onslaught_custom_shard_Description" "Impact with an enemy now also causes Primal Beast to instantly strike them with an attack."
+		"DOTA_Tooltip_Ability_primal_beast_onslaught_custom_shard_Description" "Enemies hit become more vulnerable damage, causing them to take %shard_damage_amp%%% for %shard_duration% seconds."
 		"DOTA_Tooltip_Ability_primal_beast_onslaught_custom_Description" "Primal Beast charges up and then runs in the chosen direction, knocking back enemies.<br><br>Enemies hit are stunned on impact and take damage based on a multipler of Primal Beast's Strength and max health. Applies a brief slow that lasts even after the impact debuff has worn off. The longer the charge duration, the farther Primal Beast's momentum will carry him.<br><br>Can be cancelled at any time with the Stop command."
 		"DOTA_Tooltip_Ability_primal_beast_onslaught_custom_charge_speed" "CHARGE SPEED:"
 		"DOTA_Tooltip_Ability_primal_beast_onslaught_custom_chargeup_time" "MAX CHARGE DURATION:"
@@ -11563,7 +11566,7 @@ Does not stack with any other type of reincarnation."
 
 		"DOTA_tooltip_Ability_primal_beast_rock_throw_custom" "Rock Throw"
 		"DOTA_tooltip_Ability_primal_beast_rock_throw_custom_Lore" "AGAIN WITH THE ROCKS!"
-		"DOTA_tooltip_Ability_primal_beast_rock_throw_custom_Description" "Primal Beast gains increased attack range but attacks at a fixed rate. He now throws a rock at enemies when he attacks them. Throwing rocks over and over makes him stronger, granting him a stack of Fury. Each stack of Fury increases his Strength by %strength_bonus_per_primary_rock%%% for %strength_duration% seconds (max %strength_max_stacks% stacks).<br><br>The rock does damage on impact and shatters into %max_split_targets% smaller rock fragments that seeks out nearby enemies and damages them for a less amount. The damage of the rocks scale with Primal Beast's Strength.<br><br>Enemies hit by the rocks are weakened, causing them to take %debuff_increased_damage%%% increased damage from all sources and have their movement speed reduced by %debuff_increased_slow%%% for %debuff_duration% seconds."
+		"DOTA_tooltip_Ability_primal_beast_rock_throw_custom_Description" "Primal Beast gains increased attack range.<br><br>He now throws a rock at enemies when he attacks them. Throwing rocks over and over makes him stronger, granting him a stack of Fury. Each stack of Fury increases his Strength by %strength_bonus_per_primary_rock%%% for %strength_duration% seconds (max %strength_max_stacks% stacks).<br><br>The rock does damage on impact and shatters into %max_split_targets% smaller rock fragments that seeks out nearby enemies and damages them for a less amount. The damage of the rocks scale with Primal Beast's Strength.<br><br>Enemies hit by the rocks are weakened, causing them to take %debuff_increased_damage%%% increased damage from all sources and have their movement speed reduced by %debuff_increased_slow%%% for %debuff_duration% seconds."
 		"DOTA_tooltip_Ability_primal_beast_rock_throw_custom_max_split_targets" "MAX SPLINTER TARGETS:"
 		"DOTA_tooltip_Ability_primal_beast_rock_throw_custom_split_radius" "SPLINTER RADIUS:"
 		"DOTA_tooltip_Ability_primal_beast_rock_throw_custom_split_damage_pct" "%SPLINTER DAMAGE:"
@@ -12354,11 +12357,11 @@ Does not stack with any other type of reincarnation."
 		"DOTA_Tooltip_modifier_talent_tidehunter_1_debuff_frozen_Description" "Partly frozen by Tidehunter. Cannot restore health."
 
 		"DOTA_Tooltip_Ability_talent_tidehunter_1" "Flood Wave"
-        "DOTA_Tooltip_Ability_talent_tidehunter_1_1_Desc" "Anchor Smash now sends out a flood wave that deals 100% of your attack damage as Magical damage. The damage of the wave is increased the further out it travels."
+        "DOTA_Tooltip_Ability_talent_tidehunter_1_1_Desc" "Anchor Smash now sends out a flood wave that deals 100% of your attack damage as Magical damage. Deals less damage the further out it travels, and up to 200% more damage at the center of it."
         "DOTA_Tooltip_Ability_talent_tidehunter_1_2_Desc" "Freezes enemies hit, slowing their movement speed by 100% and preventing them from regenerating health, lifestealing and healing for 2.5 seconds."
         "DOTA_Tooltip_Ability_talent_tidehunter_1_3_Desc" "The freeze shatters enemies when their health is 20% or less, instantly killing them."
         
-        "DOTA_Tooltip_Ability_talent_tidehunter_1_1_Desc_1" "Anchor Smash now sends out a flood wave that deals 100% of your attack damage as Magical damage. The damage of the wave is increased the further out it travels."
+        "DOTA_Tooltip_Ability_talent_tidehunter_1_1_Desc_1" "Anchor Smash now sends out a flood wave that deals 100% of your attack damage as Magical damage. Deals less damage the further out it travels, and up to 200% more damage at the center of it."
         "DOTA_Tooltip_Ability_talent_tidehunter_1_2_Desc_2" "Freezes enemies hit, slowing their movement speed by 100% and preventing them from regenerating health, lifestealing and healing for 2.5 seconds."
         "DOTA_Tooltip_Ability_talent_tidehunter_1_3_Desc_3" "The freeze shatters enemies when their health is 20% or less, instantly killing them."
 
@@ -12518,5 +12521,8 @@ Does not stack with any other type of reincarnation."
 
 		"DOTA_Tooltip_Ability_xp_all_talent_4" "Durable"
 		"DOTA_Tooltip_Ability_xp_all_talent_4_Description" "[1% * Level] Damage Resistance (Eternal Torment Only)"
+
+		"DOTA_Tooltip_Ability_primal_beast_onslaught_stop_custom" "Stop Onslaught"
+		"DOTA_Tooltip_Ability_primal_beast_onslaught_stop_custom_Description" "Primal Beast immediately stops Onslaught."
 
 }	
