@@ -8893,21 +8893,21 @@ Cleave работает для героев ближнего и дальнего
         "DOTA_Tooltip_ability_omniknight_guardian_angel_custom_scepter_description"            "Increases duration and radius becomes global."
 
         "DOTA_Tooltip_modifier_omniknight_guardian_angel_custom"                "Guardian Angel"
-        "DOTA_Tooltip_modifier_omniknight_guardian_angel_custom_Description"    "Immune to physical damage. Outgoing damage increased by %dMODIFIER_PROPERTY_TOTALDAMAGEOUTGOING_PERCENTAGE%%%."
+        "DOTA_Tooltip_modifier_omniknight_guardian_angel_custom_Description"    "Невосприимчивость к физическому урону. Исходящий урон увеличен на %dMODIFIER_PROPERTY_TOTALDAMAGEOUTGOING_PERCENTAGE%%%."
 
         "DOTA_Tooltip_Ability_item_frozen_crystal" "Frozen Lake Essence"
-        "DOTA_Tooltip_Ability_item_frozen_crystal_Description" "It seems to omit a mystical, chilling fragrance... could it have any practical use?"
+        "DOTA_Tooltip_Ability_item_frozen_crystal_Description" "Кажется, в нём отсутствует мистический, пробирающий аромат.... имеет ли оно какое-то практическое применение?"
 
         "DOTA_Tooltip_ability_item_prince_knife"               "Knife of Vyse"
-        "DOTA_Tooltip_ability_item_prince_knife_Description"               "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a fish for %duration% seconds, causing them to take %damage_amp%%% increased damage from all sources and be unable to act.\n<h1>Passive: Execute</h1>Attacks have a %kill_chance%%% chance to instantly kill the target (not including bosses)."
-        "DOTA_Tooltip_ability_item_prince_knife_proj_speed"          "%+Attack Projectile Speed"
+        "DOTA_Tooltip_ability_item_prince_knife_Description"               "<h1>Пассивное: Hex Strike</h1> Следующая атака превращает задетого врага в рыбу на %duration% секунд, в результате чего он получает на %damage_amp%%% больше урона от всех источников и не может действовать.\n<h1>Пассивное: Execute</h1>Атаки имеют шанс %kill_chance%%% мгновенно убить цель (не боссов)."
+        "DOTA_Tooltip_ability_item_prince_knife_proj_speed"          "%+к скорости снарядов от атак"
         "DOTA_Tooltip_ability_item_prince_knife_bonus_str"          "+$str"
         "DOTA_Tooltip_ability_item_prince_knife_bonus_agi"          "+$agi"
         "DOTA_Tooltip_ability_item_prince_knife_bonus_spell_amp"    "%+$spell_amp"
         "DOTA_Tooltip_ability_item_prince_knife_bonus_int"          "+$int"
         "DOTA_Tooltip_ability_item_prince_knife_bonus_mana_regen"          "+$mana_regen"
         "DOTA_Tooltip_modifier_item_prince_knife_hexed"                      "Hexed"
-        "DOTA_Tooltip_modifier_item_prince_knife_hexed_Description"          "Temporarily not royalty."
+        "DOTA_Tooltip_modifier_item_prince_knife_hexed_Description"          "Временно без власти."
 
         "DOTA_Tooltip_Ability_item_necronomicon_custom" "Burning Necronomicon"
         "DOTA_Tooltip_Ability_item_necronomicon_custom_Description" "<h1>Активное: Summon Ritual</h1>Призывает управляемого горящего скелета-лучника со здоровьем %archer_health%, бронёй %archer_armor% и уроном %archer_damage%.<br><br>Горящий скелет-лучник имеет критическую атаку, мультивыстрел, уменьшенное базовое время атаки, ауру дальнего урона и снижает броню при атаках. Горящий скелет-лучник невосприимчив к магии."
