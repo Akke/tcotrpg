@@ -11469,7 +11469,7 @@ Does not stack with any other type of reincarnation."
 		"npc_dota_creature_skafian_summon_wolves" "Fenrisúlfr's Loyal Wolf"
 
 		"DOTA_Tooltip_Ability_item_tombstone" "Resurrect Ally"
-		"DOTA_Tooltip_Ability_item_tombstone_Description" "Bring the ally back to life after %AbilityChannelTime% seconds of channeling, but you lose 10% of all your attributes (stacks multiple times). You are unable to act while channeling."
+		"DOTA_Tooltip_Ability_item_tombstone_Description" "Bring the ally back to life after %AbilityChannelTime% seconds of channeling."
 		"DOTA_Tooltip_modifier_wave_manager_player_attribute_debuff" "Attribute Penalty"
 		"DOTA_Tooltip_modifier_wave_manager_player_attribute_debuff_Description" "You suffer a permanent decrease to all of your attributes for resurrecting a player."
 
