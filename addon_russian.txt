@@ -11276,7 +11276,7 @@ Cleave работает для героев ближнего и дальнего
 		"npc_dota_creature_skafian_summon_wolves" "Верный волк Fenrisúlfr's"
 
 		"DOTA_Tooltip_Ability_item_tombstone" "Воскресить союзника"
-		"DOTA_Tooltip_Ability_item_tombstone_Description" "Возвращает союзника к жизни после %AbilityChannelTime% секунд использования воскрешения, но тот кто воскрешает теряет 10% всех своих атрибутов (Накапливается). Вы не можете действовать во время использования воскрешения."
+		"DOTA_Tooltip_Ability_item_tombstone_Description" "Возвращает союзника к жизни после %AbilityChannelTime% секунд использования воскрешения."
 		"DOTA_Tooltip_modifier_wave_manager_player_attribute_debuff" "Атрибутное наказание"
 		"DOTA_Tooltip_modifier_wave_manager_player_attribute_debuff_Description" "За воскрешение игрока вы навсегда получаете снижение всех своих атрибутов."
 
@@ -12329,8 +12329,8 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_Ability_xp_all_talent_4" "Стойкий"
 		"DOTA_Tooltip_Ability_xp_all_talent_4_Description" "[1% * уровень] к сопротивлению от урона (работает только в Eternal Torment)"
 
-		"DOTA_Tooltip_Ability_primal_beast_onslaught_stop_custom" "Остановить Onslaught"
-		"DOTA_Tooltip_Ability_primal_beast_onslaught_stop_custom_Description" "Герой немедленно останавливает Onslaught."
+		"DOTA_Tooltip_Ability_primal_beast_onslaught_stop_custom" "Stop Onslaught"
+		"DOTA_Tooltip_Ability_primal_beast_onslaught_stop_custom_Description" "Primal Beast immediately stops Onslaught."
 
 		"DOTA_Tooltip_Ability_weaver_shukuchi_custom" "Shukuchi"
 		"DOTA_Tooltip_Ability_weaver_shukuchi_custom_Lore" "Когда ткачи плели материю мироздания, маленькие пространственно-временные туннели позволяли им скользить сквозь время, чтобы лучше выполнять свою работу."
