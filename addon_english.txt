@@ -3515,7 +3515,7 @@ If used on a normal creep Doom will instantly kill it and gain bonus gold. Can n
 		"DOTA_Tooltip_Ability_bloodseeker_ritual_custom" "Blood Rite"
 		"DOTA_Tooltip_Ability_bloodseeker_ritual_custom_Lore" "The Flayed Twins are ever willing to aid those who spill blood upon the field of battle."
 		"DOTA_Tooltip_Ability_bloodseeker_ritual_custom_scepter_Description" "The skin of enemies hit begins to rupture and bleed for %debuff_duration% seconds. Rupture silences enemies and causes them to take %rupture_current_hp_pct%%% of their current health as damage every %rupture_interval% seconds."
-		"DOTA_Tooltip_Ability_bloodseeker_ritual_custom_Description" "Bloodseeker drains %health_cost_pct%%% of his Max Health to baptize an area in sacred blood. After %delay% seconds the ritual completes, dealing damage to enemies in the area equal to the cost."
+		"DOTA_Tooltip_Ability_bloodseeker_ritual_custom_Description" "Bloodseeker sacrifices %health_cost_pct%%% of his Max Health to baptize an area in sacred blood. After %delay% seconds the ritual completes, dealing damage to enemies in the area equal to the cost."
 		"DOTA_Tooltip_Ability_bloodseeker_ritual_custom_radius" "RADIUS:"
 		"DOTA_Tooltip_Ability_bloodseeker_ritual_custom_debuff_duration" "RUPTURE DURATION:"
 		"DOTA_Tooltip_Ability_bloodseeker_ritual_custom_health_cost_pct" "%MAX HEALTH COST:"
@@ -3524,7 +3524,8 @@ If used on a normal creep Doom will instantly kill it and gain bonus gold. Can n
 		"DOTA_Tooltip_Ability_bloodseeker_ritual_custom_rupture_current_hp_pct" "%RUPTURE HEALTH DAMAGE:"
 		
         "DOTA_Tooltip_Ability_bloodseeker_bloodrage_custom"    "Bloodrage"
-        "DOTA_Tooltip_Ability_bloodseeker_bloodrage_custom_description"    "Bloodseeker drains %damage_pct%%% of his max health to drive himself into a bloodthirsty rage, gaining bonus attack damage equal to the cost, as well as increased attack speed and spell amplification."
+        "DOTA_Tooltip_Ability_bloodseeker_bloodrage_custom_shard_description"    "Attacks drain an additional %attack_hp_damage_pct%%% of his max health and deals it as bonus damage to the victim."
+        "DOTA_Tooltip_Ability_bloodseeker_bloodrage_custom_description"    "Bloodseeker sacrifices %damage_pct%%% of his max health and drives himself into a bloodthirsty rage, gaining bonus attack damage equal to the cost, as well as increased attack speed and spell amplification."
         "DOTA_Tooltip_Ability_bloodseeker_bloodrage_custom_Lore"    "Strygwyr shares his animalistic thirst for bloodshed."
         "DOTA_Tooltip_Ability_bloodseeker_bloodrage_custom_damage_pct"    "%MAX HEALTH COST:"
         "DOTA_Tooltip_Ability_bloodseeker_bloodrage_custom_attack_speed"    "ATTACK SPEED BONUS:"
@@ -3535,7 +3536,7 @@ If used on a normal creep Doom will instantly kill it and gain bonus gold. Can n
 
         "DOTA_Tooltip_Ability_bloodseeker_blood_mist_custom"    "Blood Mist"
         "DOTA_Tooltip_Ability_bloodseeker_blood_mist_custom_Lore"    "When the Bloodseeker hunts you, injuries become fatalities."
-        "DOTA_Tooltip_Ability_bloodseeker_blood_mist_custom_description"    "Bloodseeker drains %health_cost_pct%%% of his Max Health to surround himself in a mist of blood that continously slows and damages nearby enemies every %interval% seconds equal to the cost at activation. Amplifies the healing from Thirst by %thirst_amp_pct%%% while toggled."
+        "DOTA_Tooltip_Ability_bloodseeker_blood_mist_custom_description"    "Bloodseeker sacrifices %health_cost_pct%%% of his Max Health to surround himself in a mist of blood that continously slows and damages nearby enemies every %interval% seconds equal to the cost at activation. Amplifies the healing from Thirst by %thirst_amp_pct%%% while toggled."
         "DOTA_Tooltip_Ability_bloodseeker_blood_mist_custom_health_cost_pct"    "%MAX HEALTH COST:"
         "DOTA_Tooltip_Ability_bloodseeker_blood_mist_custom_radius"    "RADIUS:"
         "DOTA_Tooltip_Ability_bloodseeker_blood_mist_custom_movement_slow"    "%SLOW:"
