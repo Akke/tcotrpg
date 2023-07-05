@@ -12365,11 +12365,11 @@ Does not stack with any other type of reincarnation."
 		"DOTA_Tooltip_modifier_talent_tidehunter_1_debuff_frozen_Description" "Partly frozen by Tidehunter. Cannot restore health."
 
 		"DOTA_Tooltip_Ability_talent_tidehunter_1" "Flood Wave"
-        "DOTA_Tooltip_Ability_talent_tidehunter_1_1_Desc" "Anchor Smash now sends out a flood wave that deals 100% of your attack damage as Magical damage. Deals less damage the further out it travels, and up to 200% more damage at the center of it."
+        "DOTA_Tooltip_Ability_talent_tidehunter_1_1_Desc" "Anchor Smash now sends out a flood wave that deals 70% of your attack damage as Magical damage. Deals less damage the further out it travels, and up to 200% more damage at the center of it."
         "DOTA_Tooltip_Ability_talent_tidehunter_1_2_Desc" "Freezes enemies hit, slowing their movement speed by 100% and preventing them from regenerating health, lifestealing and healing for 2.5 seconds."
         "DOTA_Tooltip_Ability_talent_tidehunter_1_3_Desc" "The freeze shatters enemies when their health is 20% or less, instantly killing them."
         
-        "DOTA_Tooltip_Ability_talent_tidehunter_1_1_Desc_1" "Anchor Smash now sends out a flood wave that deals 100% of your attack damage as Magical damage. Deals less damage the further out it travels, and up to 200% more damage at the center of it."
+        "DOTA_Tooltip_Ability_talent_tidehunter_1_1_Desc_1" "Anchor Smash now sends out a flood wave that deals 70% of your attack damage as Magical damage. Deals less damage the further out it travels, and up to 200% more damage at the center of it."
         "DOTA_Tooltip_Ability_talent_tidehunter_1_2_Desc_2" "Freezes enemies hit, slowing their movement speed by 100% and preventing them from regenerating health, lifestealing and healing for 2.5 seconds."
         "DOTA_Tooltip_Ability_talent_tidehunter_1_3_Desc_3" "The freeze shatters enemies when their health is 20% or less, instantly killing them."
 
