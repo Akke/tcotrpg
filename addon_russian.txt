@@ -2286,7 +2286,7 @@
   "DOTA_Tooltip_modifier_zaken_sword_control_Description" "Не может атаковать обычным способом, а вместо этого атакует всех врагов вокруг. Входящий урон уменьшен на %dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%%"
 
    "DOTA_Tooltip_ability_last_boss_blur" "Unfathomable Evasion"
-   "DOTA_Tooltip_ability_last_boss_blur_Description" "The Heavenly Father сопротивляется всем вашим атакам."
+   "DOTA_Tooltip_ability_last_boss_blur_Description" "Heavenly Father имеет увеличенное сопротивление урону."
 
    "DOTA_Tooltip_ability_last_boss_mana_break" "No More Magic!"
    "DOTA_Tooltip_ability_last_boss_mana_break_Description" "The Heavenly Father устает от вашей магии и забирает всю вашу ману!"
@@ -12684,7 +12684,7 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_Ability_item_blast_rig_Description" "<h1>Пассивно: Hair Trigger</h1>В момент атаки с шансом %chance%%% произойдёт взрыв, который наносит [Primary Attribute]x%primary_attribute_damage_multiplier% магического урона в радиусе %radius% вокруг героя.\n<h1><font color='#e1d072'>★★ Нейтральный предмет ★★</font></h1><font color='#e1d072'>Может быть использован только в слоте для нейтральных предметов.</font>"
 
 		"DOTA_Tooltip_Ability_item_helm_of_the_gladiator" "<font color='#e1d072'>★★ Helm of the Gladiator ★★</font>"
-		"DOTA_Tooltip_Ability_item_helm_of_the_gladiator_Description" "<h1>Пассивно: Hair Trigger</h1>При получении урона вы получаете стак, уменьшающий получаемый урон на %урон_с_стака%% и броню на %брони_с_стака% на %длительность% секунд. Складывается до %max_stacks% раз.\n<h1><font color='#e1d072'>★★ Нейтральный предмет ★★</font></h1><font color='#e1d072'>Может быть использован только в слоте для нейтральных предметов.</font>"
+		"DOTA_Tooltip_Ability_item_helm_of_the_gladiator_Description" "<h1>Пассивно: Hair Trigger</h1>При получении урона вы получаете стак, уменьшающий получаемый урон на %damage_pct_per_stack%%% и броню на %armor_per_stack% на %duration% секунд. Складывается до %max_stacks% раз.\n<h1><font color='#e1d072'>★★ Нейтральный предмет ★★</font></h1><font color='#e1d072'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_modifier_item_helm_of_the_gladiator_stacks" "Helm of the Gladiator"
 
 		"DOTA_Tooltip_Ability_item_shamans_sword" "<font color='#e1d072'>★★ Shaman's Totem ★★</font>"
@@ -12824,7 +12824,7 @@ Cleave работает для героев ближнего и дальнего
 		"season_effect_description_lightning" "<b><font color='#FFF'>Сезон небес</font></b><br>Каждые 10 секунд молния поражает всех игроков на карте, нанося 75% от их максимального здоровья в виде чистого урона. Этот урон оглушает задетых героев на 3 секунды и отключает регенирацию здоровья. За 5 секунд до удара рядом со случайным героем появляется пустотное энергетическое поле. Пребывание в этом поле дает иммунитет к воздействию молнии."
 
 		"DOTA_Tooltip_Ability_item_scale_of_dragons" "<font color='lightblue'>★ Dragon Scale</font>"
-		"DOTA_Tooltip_Ability_item_scale_of_dragons_Description" "<h1>Passive: Afterburn</h1>Causes attacks to burn the enemy, reducing their base armor by %armor_reduction_pct%%% and dealing %damage_from_attack%%% of your attack damage per second for %duration% seconds.\n<h1><font color='lightblue'>★ NEUTRAL ITEM</font></h1><font color='lightblue'>Can only be equipped in the Neutral Item Slot.</font>"
+		"DOTA_Tooltip_Ability_item_scale_of_dragons_Description" "<h1>Пассивно: Afterburn</h1>Атаки сжигают противника, снижая броню на %armor_reduction_pct%%% и нанося %damage_from_attack%%% от урона в течении %duration% секунд.\n<h1><font color='lightblue'>★ Нейтральный предмет ★</font></h1><font color='lightblue'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_modifier_item_scale_of_dragons_debuff" "Dragon Scale"
 
 		"DOTA_Tooltip_Ability_item_summoners_phylactery" "Conjurer's Phylactery"
@@ -12912,15 +12912,6 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_modifier_silencer_last_word_custom_debuff" "Last Word"
 		"DOTA_Tooltip_modifier_silencer_last_word_custom_debuff_Description" "Silenced. About to take heavy damage."
 
-		"DOTA_Tooltip_Ability_ursa_fury_swipes_custom" "Fury Swipes"
-		"DOTA_Tooltip_Ability_ursa_fury_swipes_custom_Lore" "In nature, the wounded rarely survive the attacks of hungry predators."
-		"DOTA_Tooltip_Ability_ursa_fury_swipes_custom_Description" "Когти Урсы проделывают в противнике глубокие раны, в результате чего последовательные атаки одного и того же противника наносят повышенный урон. Если по истечении %duration% секунд одна и та же цель не будет атакована, бонусный урон будет потерян. Накладывается до %max_stacks% раз."
-		"DOTA_Tooltip_Ability_ursa_fury_swipes_custom_duration" "ДЛИТЕЛЬНОСТЬ:"
-		"DOTA_Tooltip_Ability_ursa_fury_swipes_custom_multiplier_per_stack" "%ПОВЫШЕННЫЙ УРОН (ЗА СТЕК):"
-		"DOTA_Tooltip_Ability_ursa_fury_swipes_custom_max_stacks" "МАКС СТАКС:"
-		"DOTA_Tooltip_modifier_ursa_fury_swipes_custom_stack" "Fury Swipes"
-		"DOTA_Tooltip_modifier_ursa_fury_swipes_custom_stack_Description" "Taking increased damage from Ursa's attacks."
-
 		"DOTA_Tooltip_Ability_ursa_overpower_custom" "Overpower"
 		"DOTA_Tooltip_Ability_ursa_overpower_custom_Lore" "For a behemoth of his size, Ursa is deceptively nimble."
 		"DOTA_Tooltip_Ability_ursa_overpower_custom_Description" "Используя свое умение в бою, Урса получает увеличенную скорость атаки и урон на несколько последующих атак. Атаки также наносят цели одну дополнительную стопку яростных взмахов."
@@ -12965,4 +12956,14 @@ Cleave работает для героев ближнего и дальнего
 
 		"DOTA_Tooltip_Ability_item_sacrificial_cloak" "<font color='#e03e2e'>★★★ Sacrificial Cloak</font>"
 		"DOTA_Tooltip_Ability_item_sacrificial_cloak_Description" "<h1>Passive: Blood for Blood</h1>Your outgoing magical damage is increased by %bonus_magical_damage_pct%%%, but each time you cast an ability it consumes %ability_max_health_cost_pct%%% of your Max Health. If the cost would kill you, you instead don't pay the cost.\n<h1>Passive: Lifesteal</h1>You heal for %lifesteal%%% of all magical damage dealt.\n<h1><font color='#e03e2e'>★★★ NEUTRAL ITEM</font></h1><font color='#e03e2e'>Can only be equipped in the Neutral Item Slot.</font>"
+		
+		"DOTA_Tooltip_Ability_ursa_fury_swipes_custom" "Fury Swipes"
+        "DOTA_Tooltip_Ability_ursa_fury_swipes_custom_Lore" "В природе раненые редко выживают после нападения голодных хищников"
+        "DOTA_Tooltip_Ability_ursa_fury_swipes_custom_Description" "Когти Урсы впиваются в противника  оставляя глубокие раны, в результате чего последовательные атаки одного и того же противника наносят повышенный исходящий урон, а также бонусный урон, зависящий от ловкости героя. Если одна и та же цель не будет повторно атакована в течении %duration% секунд, бонусный урон будет потерян. Складывается до %max_stacks% эффектов."
+        "DOTA_Tooltip_Ability_ursa_fury_swipes_custom_duration" "Длительность:"
+        "DOTA_Tooltip_Ability_ursa_fury_swipes_custom_multiplier_per_stack" "%Увеличение урона (за стак):"
+        "DOTA_Tooltip_Ability_ursa_fury_swipes_custom_damage_from_agi_per_stack" "%Увеличение урона за ловкость (за стак):"
+        "DOTA_Tooltip_Ability_ursa_fury_swipes_custom_max_stacks" "Максимум стаков:"
+        "DOTA_Tooltip_modifier_ursa_fury_swipes_custom_stack" "Fury Swipes"
+        "DOTA_Tooltip_modifier_ursa_fury_swipes_custom_stack_Description" "Полученый урон от Урсы увеличен."
 }
