@@ -1977,27 +1977,8 @@
 		"DOTA_Tooltip_ability_item_scorching_malevolence4_upgrade_day_vision" "+к доп. обзору днём"
 		"DOTA_Tooltip_ability_item_scorching_malevolence4_evasion" "%+$evasion"
 
-		"DOTA_Tooltip_ability_faceless_void_time_lock_custom" "Time Lock"
-		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_Lore" "The strike of the Faceless Void lands with dimension shifting force."
-		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_Description" "Герой имеет шанс поразить всех врагов в радиусе %radius% от цели при атаке, нанося им полный урон атаки.<br><br>Попавшие в цель враги помечаются меткой пустоты, в результате чего Time Lock наносит им повышенный урон в зависимости от количества имеющихся у них меток."
-		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_chance" "%ШАНС:"
-		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_increase_per_stack" "%ДОП. УРОН (ЗА МЕТКУ):"
-		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_stack_duration" "ДЛИТЕЛЬНОСТЬ МЕТКИ:"
-		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_max_stacks" "МАКС. МЕТОК:"
-		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_radius" "РАДИУС:"
-
-		"DOTA_Tooltip_modifier_faceless_void_time_lock_custom_debuff" "Time Lock"
-		"DOTA_Tooltip_modifier_faceless_void_time_lock_custom_debuff_Description" "Получение повышенного урона с каждым Time Lock."
-
 		"DOTA_Tooltip_modifier_item_enchanted_armor_shield" "Enchanted Armor Mana Shield"
 		"DOTA_Tooltip_modifier_item_enchanted_armor_shield_Description" "Часть входящего урона поглощается вашей маной."
-
-		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom" "Chronosphere"
-		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_scepter_Description" "Faceless Void gains bonus damage while under the influence of Chronosphere."
-		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_Description" "Creates a blister in spacetime that covers everything, trapping all units caught in its sphere of influence and causes Faceless Void and all allies to move very quickly inside it."
-		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_duration" "ДЛИТЕЛЬНОСТЬ:"
-		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_chrono_damage_increase" "%ДОП. УРОН:"
-
 
 		"DOTA_Tooltip_Ability_item_enchanted_armor" "Enchanted Armor"
 		"DOTA_Tooltip_Ability_item_enchanted_armor_Description" "<h1>Переключаемое: Mana Shield</h1>Создаёт щит, который поглощает %max_absorbed_damage_pct%%% входящего урона в обмен на ману.<br><br><b style='color:white'>МАНЫ ЗА УРОН:</b> %damage_per_mana%\n<h1>Пассивное: Armor</h1>Даёт броню, равную %armor_from_max_mana_pct%%% от максимального запаса маны."
@@ -2289,7 +2270,7 @@
    "DOTA_Tooltip_ability_last_boss_blur_Description" "Heavenly Father имеет увеличенное сопротивление урону."
 
    "DOTA_Tooltip_ability_last_boss_mana_break" "No More Magic!"
-   "DOTA_Tooltip_ability_last_boss_mana_break_Description" "The Heavenly Father устает от вашей магии и забирает всю вашу ману!"
+   "DOTA_Tooltip_ability_last_boss_mana_break_Description" "Heavenly Father утомлённый магией, сжигает всю ману всякого осмелевшегося подойти!"
 
    "DOTA_Tooltip_ability_last_boss_deflect" "Stop Hurting Yourself"
    "DOTA_Tooltip_ability_last_boss_deflect_Description" "Как будто ты бьешь себя!"
@@ -2376,7 +2357,7 @@
 "DOTA_Tooltip_ability_item_vampire_claw_bonus_damage"                   "+$damage"
 "DOTA_Tooltip_ability_item_vampire_claw_bonus_str"                   	"+$str"
 
-"DOTA_Tooltip_ability_item_sweden_is_the_greatest_country" "Summon Secret Boss: Zeus"
+"DOTA_Tooltip_ability_item_sweden_is_the_greatest_country" "Призыв секретного босса: Zeus"
 
 "DOTA_Tooltip_ability_spider_bite" "Spider Bite"
 "DOTA_Tooltip_ability_spider_bite_boss" "Spider Bite"
@@ -4846,8 +4827,8 @@
 
         "DOTA_Tooltip_Ability_shredder_flamethrower_str_damage_pct" "%УРОН ОТ СИЛЫ:"
 
-        "DOTA_Tooltip_modifier_effect_private" "Донатер (3 уровень)"
-        "DOTA_Tooltip_modifier_effect_private_Description" "Этот игрок является донатером 3-го уровня на boosty.to/tcotrpgrework"
+        "DOTA_Tooltip_modifier_effect_private" "Special"
+        "DOTA_Tooltip_modifier_effect_private_Description" "I am special"
 
         "DOTA_Tooltip_modifier_item_gladiator_armor_enrage" "Gladiator's Armor: Разъярённый"
         "DOTA_Tooltip_modifier_item_gladiator_armor_enrage_Description" "Скорость атаки увеличена на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
@@ -5776,7 +5757,8 @@
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_int_to_damage" "%УРОН ОТ ИНТЕЛЛЕКТА:"
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_max_hp_heal_pct" "%МАКС. ЛЕЧЕНИЕ ЗДОРОВЬЯ:"
 
-	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper" "Reaper's Death Coil"
+	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper" "Death Coil"
+	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_Lore" "Poor souls who succumb to Rotund'jere's plagues are recycled for future use."
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_shard_Description" "Позволяет автоматически применять Reaper's Death Coil, пока есть доступные ресурсы."
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_Description" "Герой посылает катушку смерти, которая летит к врагам и союзникам, нанося урон и распространяясь при попадании на ближайших врагов, а также исцеляя союзников на часть их максимального здоровья."
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_radius" "РАДИУС:"
@@ -5786,12 +5768,15 @@
 	"DOTA_Tooltip_Ability_necrolyte_death_coil_reaper_max_hp_heal_pct" "%МАКС. ЛЕЧЕНИЕ ЗДОРОВЬЯ:"
 	
 	"DOTA_Tooltip_Ability_necrolyte_death_aura" "Decaying Presence"
+	"DOTA_Tooltip_Ability_necrolyte_death_aura_Lore" "Those who come within a short distance of the Necrophos can feel pestilence and plague in the air."
+	"DOTA_Tooltip_Ability_necrolyte_death_aura_scepter_Description" "Deals additional damage based on a portion of Necrophos health regeneration."
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_Description" "Присутствие героя заставляет врагов вокруг него разлагаться и гнить, переодически получая несмертельный урон в зависимости от того, насколько близко они находятся к нему, и снижая их сопротивление к магии.<br><br>Враги, находящиеся дальше от героя, получают меньше урона и теряют меньше сопротивления магии, в то время как враги, находящиеся ближе к нему, получают больше урона и теряют больше сопротивления магии. Если враги находятся на определённом расстоянии от героя, то получают максимальное количество урона и теряют максимальное количество сопротивления магии.<br><br><i>(Наносит урон только врагам того же или более низкого уровня, что и герой. Не может наносить урон боссам).</i>"
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_max_hp_damage" "%МАКС. УРОН ЗДОРОВЬЮ:"
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_radius" "МАКС. РАДИУС:"
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_min_radius" "МАКС. РАССТОЯНИЕ ЭФФЕКТА:"
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_magic_shred" "%СНИЖЕНИЕ СОПРОТИВЛЕНИЯ МАГИИ:"
 	"DOTA_Tooltip_Ability_necrolyte_death_aura_int_to_damage" "%МИН. РАДИУС ДЛЯ ИНТЕЛЛЕКТА В УРОН:"
+	"DOTA_Tooltip_Ability_necrolyte_death_aura_damage_from_regen_pct" "%DAMAGE FROM HEALTH REGEN:"
 	"DOTA_Tooltip_modifier_necrolyte_death_aura_enemy" "Decaying Presence"
 	"DOTA_Tooltip_modifier_necrolyte_death_aura_enemy_Description" "Сопротивление магии снижено на %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%. Получает урон от Necrophos."
 	
@@ -5809,9 +5794,10 @@
 	"DOTA_Tooltip_modifier_necrolyte_death_aura_reaper_enemy_Description" "Сопротивление магии уменьшено на %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%. Получает урон от Necrophos."
 
 	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground" "Hallowed Ground"
-	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_Description" "Герой создаёт область на земле, призывая духов усопших из завесы, чтобы атаковать врагов. Враги в области замедляются, а враги, находящиеся слишком близко к центру, получают высокий переодический урон."
-	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_damage" "УРОН:"
-	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_min_damage_distance" "РАССТОЯНИЕ ОТ ЦЕНТРА:"
+	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_Lore" "Rotund'jere uses the souls of his victims as bridge from life to afterlife."
+	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_Description" "Некрофос испускает вокруг себя пелену смерти и разложения, ежесекундно замедляя и нанося урон ближайшим противникам. Усиливает регенерацию здоровья Некрофоса на %regen_amp_pct%%%."
+	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_damage" "УРОН В СЕКУНДУ:"
+	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_regen_amp_pct" "%HEALTH REGEN AMPLIFICATION:"
 	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_int_to_damage" "%УРОН ОТ ИНТЕЛЛЕКТА:"
 	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_slow" "%ЗАМЕДЛЕНИЕ:"
 	"DOTA_Tooltip_Ability_necrolyte_hollowed_ground_radius" "РАДИУС:"
@@ -5832,14 +5818,16 @@
 	"DOTA_Tooltip_modifier_necrolyte_hollowed_ground_reaper_emitter_aura_Description" "Получает переодический урон и страдает от снижения скорости передвижения."
 
 	"DOTA_Tooltip_Ability_necrolyte_corpse_charges" "Sadist"
-	"DOTA_Tooltip_Ability_necrolyte_corpse_charges_Description" "Герой получает заряд, когда убивает врага, не находясь в форме Жнеца.<br><br>Каждый заряд навсегда повышает усиление заклинаний, заставляя его наносить повышенный магический урон."
-	"DOTA_Tooltip_Ability_necrolyte_corpse_charges_charge_per_kill" "ЗАРЯД ЗА УБИЙСТВО:"
-	"DOTA_Tooltip_Ability_necrolyte_corpse_charges_spell_amp_max_charges" "МАКС. ЗАРЯДОВ:"
+	"DOTA_Tooltip_Ability_necrolyte_corpse_charges_Lore" "The amount of death and suffering in the air increases the power of the Necrophos's plague magic."
+	"DOTA_Tooltip_Ability_necrolyte_corpse_charges_Description" "Некрофос увеличивает урон от заклинаний и реген здоровья на %duration% секунд, когда убивает противника способностями. Стакается до %max_stacks% раз."
+	"DOTA_Tooltip_Ability_necrolyte_corpse_charges_max_stacks" "MAX CHARGES:"
+	"DOTA_Tooltip_Ability_necrolyte_corpse_charges_duration" "DURATION:"
 	"DOTA_Tooltip_Ability_necrolyte_corpse_charges_spell_amp_per_charge" "%УСИЛЕНИЕ ЗАКЛИНАНИЙ ЗА ЗАРЯД:"
+	"DOTA_Tooltip_Ability_necrolyte_corpse_charges_regen_amp_per_charge" "%HEALTH REGEN AMP (PER CHARGE):"
 
 	"necrolyte_not_enough_corpse_charges" "Не достаточно зарядов Sadist."
 	"DOTA_Tooltip_modifier_necrolyte_corpse_charges_buff_permanent" "Sadist"
-	"DOTA_Tooltip_modifier_necrolyte_corpse_charges_buff_permanent_Description" "Даёт %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%% к усилению заклинаний."
+	"DOTA_Tooltip_modifier_necrolyte_corpse_charges_buff_permanent_Description" "Spell Damage increased by %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%% and Health Regen Amp increased by %dMODIFIER_PROPERTY_HP_REGEN_AMPLIFY_PERCENTAGE%%%."
 
 	"DOTA_Tooltip_Ability_necrolyte_aesthetics_death" "Aesthetics of Death"
 	"DOTA_Tooltip_Ability_necrolyte_aesthetics_death_Description" "Герой создаёт вихрь смерти в целевой точке, втягивая в него ближайших врагов и нанося им большой урон. Если здоровье врага опускается ниже определённого порога, его казнят, а владелец способности лечится на часть своего максимального здоровья."
@@ -8451,8 +8439,8 @@ Cleave работает для героев ближнего и дальнего
         "DOTA_Tooltip_Ability_grimstroke_dark_portrait_custom_taunt_radius" "РАДИУС НАСМЕШКИ:"
         "DOTA_Tooltip_modifier_grimstroke_dark_portrait_custom" "Dark Portrait"
 
-        "DOTA_Tooltip_Ability_item_jagged_blade"    "Stygian Desolator"
-        "DOTA_Tooltip_Ability_item_jagged_blade_description"    "<h1>Пассивное: Anguish</h1>Нанесение урона врагам накладывает накапливающийся эффект, который снижает их броню на %corruption_armor_pct%%% на %corruption_duration% сек., до %corruption_armor_pct_max% эффектов, а затем снижает их общую броню на %corruption_armor% за каждый дополнительный эффект, до максимального %corruption_max%.<h1>Пассивное: Corruption</h1>Ваши атаки снижают броню цели на %corruption_armor_base% на %corruption_duration% сек."
+        "DOTA_Tooltip_Ability_item_jagged_blade"    "<font color='#e1d072'>★★ Stygian Desolator </font>"
+        "DOTA_Tooltip_Ability_item_jagged_blade_description"    "<h1>Пассивное: Anguish</h1>Нанесение урона врагам накладывает эффект, который снижает их броню на %corruption_armor_pct%%% на %corruption_duration% сек, вплоть до %corruption_armor_pct_max% эффектов, а затем снижает их общую броню на %corruption_armor% за каждый отдельный эффект. Максимально может быть %corruption_max% эффектов. \n<h1>Пассивное: Corruption</h1> Ваши атаки снижают броню цели на %corruption_armor_base% на %corruption_duration% сек.\n<h1><font color='#e1d072'>★★ Нейтральный предмет ★★</font></h1><font color='#e1d072'>Может быть использован только в слоте для нейтральных предметов.</font>""
         "DOTA_Tooltip_Ability_item_jagged_blade_Lore"    "Клинок, способный наносить глубокие раны."
         "DOTA_Tooltip_Ability_item_jagged_blade_Note0"    "Не проходит сквозь невосприимчивость к магии."
         "DOTA_Tooltip_Ability_item_jagged_blade_Note1"    "Не может быть применён иллюзиями."
@@ -11892,7 +11880,7 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_modifier_drow_ranger_glacier_custom_aura" "Glacier"
 		"DOTA_Tooltip_modifier_drow_ranger_glacier_custom_aura_Description" "Получает увеличенную дальность атаки и обзор в полёте."
 
-		"donator_3_error" "Доступно только для донатеров."
+		"donator_3_error" "Not Available At This Time."
 		"aghanim_portal_not_functional" "Портал не работает."
 
 		"DOTA_Tooltip_Ability_fenrir_ice_shards" "Ice Shards"
@@ -12210,11 +12198,11 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_modifier_talent_tidehunter_1_debuff_frozen_Description" "Частично заморожен. Невозможно восстанавливать здоровье."
 
 		"DOTA_Tooltip_Ability_talent_tidehunter_1" "Flood Wave"
-    "DOTA_Tooltip_Ability_talent_tidehunter_1_1_Desc" "Anchor Smash теперь посылает волну наводнения, которая наносит 30% вашего урона от атаки в виде магического урона. Урон волны Уменьшаеться по мере её отдаления."
+    "DOTA_Tooltip_Ability_talent_tidehunter_1_1_Desc" "Anchor Smash теперь посылает волну наводнения, которая наносит 100% от силы в виде магического урона. Урон волны Уменьшаеться по мере её отдаления."
     "DOTA_Tooltip_Ability_talent_tidehunter_1_2_Desc" "Замораживает поражённых врагов, замедляя их скорость передвижения на 100% и лишая их возможности восстанавления здоровья, вампиризма и лечения в течение 2,5 секунд."
     "DOTA_Tooltip_Ability_talent_tidehunter_1_3_Desc" "Заморозка раскалывает врагов, когда их здоровье составляет 20% или меньше, мгновенно убивая их."
         
-    "DOTA_Tooltip_Ability_talent_tidehunter_1_1_Desc_1" "Anchor Smash теперь посылает волну наводнения, которая наносит 30% вашего урона от атаки в виде магического урона. Урон волны Уменьшаеться по мере её отдаления."
+    "DOTA_Tooltip_Ability_talent_tidehunter_1_1_Desc_1" "Anchor Smash теперь посылает волну наводнения, которая наносит 100% от силы в виде магического урона. Урон волны Уменьшаеться по мере её отдаления."
     "DOTA_Tooltip_Ability_talent_tidehunter_1_2_Desc_2" "Замораживает поражённых врагов, замедляя их скорость передвижения на 100% и лишая их возможности восстанавления здоровья, вампиризма и лечения в течение 2,5 секунд."
     "DOTA_Tooltip_Ability_talent_tidehunter_1_3_Desc_3" "Заморозка раскалывает врагов, когда их здоровье составляет 20% или меньше, мгновенно убивая их."
 
@@ -12497,9 +12485,9 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_Ability_oracle_rain_of_destiny_custom_Lore" "Сочетая астральные и атмосферные силы, Нериф искажает единую реальность в парадоксальном союзе."
 		"DOTA_Tooltip_Ability_oracle_rain_of_destiny_custom_scepter_Description" "Заставляет Fortune's End быстро перемещать отрицательный эффект на поражённых врагов, удаляя его и заставляя воспламеняться, нанося урон в зависимости от оставшейся длительности отрицательного эффекта всем врагам в области %explosion_radius% вокруг цели. Союзные цели вместо этого получают мгновенное лечение, основанное на оставшейся длительности эффекта."
 		"DOTA_Tooltip_Ability_oracle_rain_of_destiny_custom_Description" "Призывает дождь в целевой области на %duration% сек. Каждые %tick_rate% сек., пока вы находитесь в области, враги получают отрицаетльный эффект, который обжигает их каждые %damage_interval% сек., нанося урон и снижая усиление лечения на %debuff_duration% сек. Союзники в области получают положительный эффект, который лечит их на часть их максимального здоровья каждые %heal_interval% сек. и усиляет лечение на %buff_duration% сек."
-		"DOTA_Tooltip_Ability_oracle_rain_of_destiny_custom_radius" "РАДИУС:"
-		"DOTA_Tooltip_Ability_oracle_rain_of_destiny_custom_duration" "ДЛИТЕЛЬНОСТЬ:"
-		"DOTA_Tooltip_Ability_oracle_rain_of_destiny_custom_tick_rate" "ИНТЕРВАЛ ДОЖДЯ:"
+		"DOTA_Tooltip_Ability_oracle_rain_of_destiny_custom_radius" "Радиус:"
+		"DOTA_Tooltip_Ability_oracle_rain_of_destiny_custom_duration" "Длительность:"
+		"DOTA_Tooltip_Ability_oracle_rain_of_destiny_custom_tick_rate" "Интервал:"
 		"DOTA_Tooltip_Ability_oracle_rain_of_destiny_custom_debuff_duration" "ДЛИТЕЛЬНОСТЬ ОТРИЦ. ЭФФЕКТА:"
 		"DOTA_Tooltip_Ability_oracle_rain_of_destiny_custom_damage" "УРОН ГОРЕНИЯ:"
 		"DOTA_Tooltip_Ability_oracle_rain_of_destiny_custom_int_to_damage" "%УРОН ОТ ИНТЕЛЛЕКТА:"
@@ -12625,86 +12613,86 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_Ability_item_witchbane_custom_9_bonus_mana" "+$mana"
 		"DOTA_Tooltip_Ability_item_witchbane_custom_9_bonus_hp" "+$health"
 
-		"DOTA_Tooltip_Ability_item_vindicator_axe" "<font color='lightblue'>★ Vindicator's Axe ★</font>"
+		"DOTA_Tooltip_Ability_item_vindicator_axe" "<font color='lightblue'>★ Vindicator's Axe</font>"
 		"DOTA_Tooltip_Ability_item_vindicator_axe_Description" "<h1>Пассивно: Vengeance</h1>Когда здоровье героя состовляет %bonus_damage_hp_threshold%%% и больше, герой получает %bonus_damage_per_pct_hp%%% бонусного урона за каждый процент здоровья.<br><br>Если уровент здоровья ниже %bonus_damage_hp_threshold%%%, урон героя снижен на %bonus_damage_reduction%%%.\n<h1><font color='lightblue'>★ Нейтральный предмет ★</font></h1><font color='lightblue'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_Ability_item_vindicator_axe_bonus_damage" "+$damage"
 
-		"DOTA_Tooltip_Ability_item_eloshar_bracelet" "<font color='lightblue'>★ Occult Bracelet ★</font>"
+		"DOTA_Tooltip_Ability_item_eloshar_bracelet" "<font color='lightblue'>★ Occult Bracelet</font>"
 		"DOTA_Tooltip_Ability_item_eloshar_bracelet_Description" "<h1>Пассивно: Rites of Eloshar</h1>При получении урона герой получает %mana_regen_per_stack% мана регена за эффект. Максимум %max_stacks% эффектов. Длительность эффекта %duration% секунд.\n<h1>Пассивно: Eloshar's Blessing</h1>Если герой не получал урон %grace_timer% секунд, то герой получает %hp_regen_pct%%% хп регена, пока не получит урон.\n<h1><font color='lightblue'>★ Нейтральный предмет ★</font></h1><font color='lightblue'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_Ability_item_eloshar_bracelet_bonus_int" "+$int"
 		"DOTA_Tooltip_Ability_item_eloshar_bracelet_bonus_str" "+$agi"
 		"DOTA_Tooltip_Ability_item_eloshar_bracelet_bonus_agi" "+$str"
 		"DOTA_Tooltip_modifier_item_eloshar_bracelet_stacks" "Occult Bracelet"
 
-		"DOTA_Tooltip_Ability_item_vampires_kiss" "<font color='lightblue'>★ Vampire Fangs ★</font>"
+		"DOTA_Tooltip_Ability_item_vampires_kiss" "<font color='lightblue'>★ Vampire Fangs</font>"
 		"DOTA_Tooltip_Ability_item_vampires_kiss_Description" "<h1>Пассивно: Vampire's Kiss</h1>Атаки исцеляют всех в радиусе %radius% вокруг героя на %lifesteal_amount_pct%%% от наносимого урона. Накладывает щит если у героя максимум здоровья, увеличивая его до %max_health_shield_pct%%% от максимального здоровья героя.\n<h1><font color='lightblue'>★ Нейтральный предмет ★</font></h1><font color='lightblue'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_modifier_item_vampires_kiss_shield" "Vampire Fangs"
 
-		"DOTA_Tooltip_Ability_item_beb" "<font color='lightblue'>★ B.E.B. Ring ★</font>"
+		"DOTA_Tooltip_Ability_item_beb" "<font color='lightblue'>★ B.E.B. Ring</font>"
 		"DOTA_Tooltip_Ability_item_beb_Lore" "T + A = ♥"
 		"DOTA_Tooltip_Ability_item_beb_Description" "<h1>Пассивно: Loyalty</h1> Если в радиусе %radius% от героя находится союзный герой, то и вы, и все ближайшие союзники наносят на %bonus_damage_pct%%% больше урона.\n<h1><font color='lightblue'>★ Нейтральный предмет ★</font></h1><font color='lightblue'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_modifier_item_beb_aura" "B.E.B. Ring"
 
-		"DOTA_Tooltip_Ability_item_ristul_dagger" "<font color='lightblue'>★ Dagger of Ristul ★</font>"
+		"DOTA_Tooltip_Ability_item_ristul_dagger" "<font color='lightblue'>★ Dagger of Ristul</font>"
 		"DOTA_Tooltip_Ability_item_ristul_dagger_Description" "<h1>Активируемое: Imbrue</h1>Расходует %health_conversion_pct%%% здоровья, чтобы временно дать его в качестве бонусного урона. Длится %duration% секунд.\n<h1><font color='lightblue'>★ Нейтральный предмет ★</font></h1><font color='lightblue'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_Ability_item_ristul_dagger_bonus_attack_speed_pct" "%+Attack Speed"
 		"DOTA_Tooltip_Ability_item_ristul_dagger_bonus_health_pct" "%+Max Health"
 		"DOTA_Tooltip_modifier_item_ristul_dagger_buff" "Dagger of Ristul"
 
-		"DOTA_Tooltip_Ability_item_leveller" "<font color='lightblue'>★ The Leveller ★</font>"
+		"DOTA_Tooltip_Ability_item_leveller" "<font color='lightblue'>★ The Leveller</font>"
 		"DOTA_Tooltip_Ability_item_leveller_Description" "<h1>Пассивно: Boss Demolisher</h1>Физ урон по боссам увеличен на %bonus_boss_damage_pct%%%.\n<h1>Пассивно: Lifesteal</h1>Исцеляет владельца на %lifesteal%%% от нанесённого урона.\n<h1><font color='lightblue'>★ Нейтральный предмет ★</font></h1><font color='lightblue'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_Ability_item_leveller_bonus_armor" "+$armor"
 
-		"DOTA_Tooltip_Ability_item_amulet_of_dandelion" "<font color='lightblue'>★ Dandelion Amulet ★</font>"
+		"DOTA_Tooltip_Ability_item_amulet_of_dandelion" "<font color='lightblue'>★ Dandelion Amulet</font>"
 		"DOTA_Tooltip_Ability_item_amulet_of_dandelion_Description" "<h1>Пассивно: Magical Damage Block</h1>Блокирует входящий маг урон, равный %max_mana_to_block_pct%%% от максимальной маны.\n<h1><font color='lightblue'>★ Нейтральный предмет ★</font></h1><font color='lightblue'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_Ability_item_amulet_of_dandelion_bonus_max_mana_pct" "%+Max Mana"
 		"DOTA_Tooltip_Ability_item_amulet_of_dandelion_bonus_mana_regen_pct" "%+Total Mana Regeneration"
 
-		"DOTA_Tooltip_Ability_item_array_of_specialists" "<font color='lightblue'>★ Specialists Array ★</font>"
+		"DOTA_Tooltip_Ability_item_array_of_specialists" "<font color='lightblue'>★ Specialists Array</font>"
 		"DOTA_Tooltip_Ability_item_array_of_specialists_Description" "<h1>Пассивно: Crackleshot</h1>Только для героев с дальним типом атаки. Периодически совершает атаку в сторону ближайшего противника, находящегося в радиусе атаки. Задействует модификаторы атаки. \n<h1><font color='lightblue'>★ Нейтральный предмет ★</font></h1><font color='lightblue'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_Ability_item_array_of_specialists_bonus_int" "+$int"
 		"DOTA_Tooltip_Ability_item_array_of_specialists_bonus_str" "+$agi"
 		"DOTA_Tooltip_Ability_item_array_of_specialists_bonus_agi" "+$str"
 		"DOTA_Tooltip_Ability_item_array_of_specialists_bonus_damage_pct" "%+Damage"
 
-		"DOTA_Tooltip_Ability_item_lance_pursuit" "<font color='lightblue'>★ Lance of Pursuit ★</font>"
+		"DOTA_Tooltip_Ability_item_lance_pursuit" "<font color='lightblue'>★ Lance of Pursuit</font>"
 		"DOTA_Tooltip_Ability_item_lance_pursuit_Description" "<h1>Пассивно: Hound</h1>Атаки в спину наносят цели дополнительно %damage_to_pure%%% от нанесенного урона в виде чистого урона..\n<h1><font color='lightblue'>★ Нейтральный предмет ★</font></h1><font color='lightblue'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_Ability_item_lance_pursuit_bonus_attack_range" "+Attack Range (Melee Only)"
 
-		"DOTA_Tooltip_Ability_item_quiver_of_enchants" "<font color='lightblue'>★ Enchanted Quiver ★</font>"
+		"DOTA_Tooltip_Ability_item_quiver_of_enchants" "<font color='lightblue'>★ Enchanted Quiver</font>"
 		"DOTA_Tooltip_Ability_item_quiver_of_enchants_Description" "<h1>Пассивно: Certain Strike</h1>Только для героев с дальним типом атаки. Следующая атака будет иметь дополнительные дальность атаки и урон. Дальность атаки увеличена на +%magic_attack_range%, урон увеличен на %magic_attack_damage_pct%%% от урона героя (нанесённый урон будет магический). Атака проходит сквозь уклонения, но к ней не применяются модификаторы атаки.\n<h1><font color='lightblue'>★ Нейтральный предмет ★</font></h1><font color='lightblue'>Может быть использован только в слоте для нейтральных предметов.</font>"
-		"DOTA_Tooltip_Ability_item_quiver_of_enchants_bonus_attack_range" "+Attack Range (Ranged Only)"
+		"DOTA_Tooltip_Ability_item_quiver_of_enchants_bonus_attack_range" "+Дальности атаки (Только для дальнего боя)"
 		"DOTA_Tooltip_modifier_item_quiver_of_enchants_buff" "Enchanted Quiver"
 
-		"DOTA_Tooltip_Ability_item_war_horn" "<font color='#e1d072'>★★ War Horn ★★</font>"
+		"DOTA_Tooltip_Ability_item_war_horn" "<font color='#e1d072'>★★ War Horn</font>"
 		"DOTA_Tooltip_Ability_item_war_horn_Description" "<h1>Активируемое: Call To Arms</h1>Все союзники в радиусе %radius% вокруг героя получают увеличение базовой скорости атаки на %base_attack_time%, исходящий урон увеличен на %bonus_outgoing_damage_pct%%%. Эффект длится %duration% секунд.\n<h1><font color='#e1d072'>★★ Нейтральный предмет ★★</font></h1><font color='#e1d072'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_modifier_item_war_horn_buff" "War Horn"
 
-		"DOTA_Tooltip_Ability_item_blast_rig" "<font color='#e1d072'>★★ Black Powder Bag ★★</font>"
+		"DOTA_Tooltip_Ability_item_blast_rig" "<font color='#e1d072'>★★ Black Powder Bag</font>"
 		"DOTA_Tooltip_Ability_item_blast_rig_Description" "<h1>Пассивно: Hair Trigger</h1>В момент атаки с шансом %chance%%% произойдёт взрыв, который наносит [Primary Attribute]x%primary_attribute_damage_multiplier% магического урона в радиусе %radius% вокруг героя.\n<h1><font color='#e1d072'>★★ Нейтральный предмет ★★</font></h1><font color='#e1d072'>Может быть использован только в слоте для нейтральных предметов.</font>"
 
-		"DOTA_Tooltip_Ability_item_helm_of_the_gladiator" "<font color='#e1d072'>★★ Helm of the Gladiator ★★</font>"
+		"DOTA_Tooltip_Ability_item_helm_of_the_gladiator" "<font color='#e1d072'>★★ Helm of the Gladiator</font>"
 		"DOTA_Tooltip_Ability_item_helm_of_the_gladiator_Description" "<h1>Пассивно: Hair Trigger</h1>При получении урона вы получаете стак, уменьшающий получаемый урон на %damage_pct_per_stack%%% и броню на %armor_per_stack% на %duration% секунд. Складывается до %max_stacks% раз.\n<h1><font color='#e1d072'>★★ Нейтральный предмет ★★</font></h1><font color='#e1d072'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_modifier_item_helm_of_the_gladiator_stacks" "Helm of the Gladiator"
 
-		"DOTA_Tooltip_Ability_item_shamans_sword" "<font color='#e1d072'>★★ Shaman's Totem ★★</font>"
+		"DOTA_Tooltip_Ability_item_shamans_sword" "<font color='#e1d072'>★★ Shaman's Totem</font>"
 		"DOTA_Tooltip_Ability_item_shamans_sword_Description" "<h1>Пассивно: Poison Damage</h1>При нанесении урона атаками или заклинаниями к урону будет добавлен эффект яда, замедляющий передвижение на %slow%%% и наносящий [Primary Attribute]x%primary_attribute_damage_multiplier% магического урона каждые %interval% секунд в течении %duration% секунд.<br><br>При %max_stacks% стаках яда эффект сбрасывается проклиная целя делая её на %magic_vulnerable%%% восприимчивее к магическому урону на %magic_vulnerable_duration% секунд. На время действия проклятия, ээфект яда повторно не накладывается. \n<h1><font color='#e1d072'>★★ Нейтральный предмет ★★</font></h1><font color='#e1d072'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_modifier_item_shamans_sword_stacks" "Shaman's Totem"
 		"DOTA_Tooltip_modifier_item_shamans_sword_vulnerable" "Shaman's Totem"
 
-		"DOTA_Tooltip_Ability_item_oak_heart" "<font color='#e03e2e'>★★★ Oakheart ★★★</font>"
+		"DOTA_Tooltip_Ability_item_oak_heart" "<font color='#e03e2e'>★★★ Oakheart</font>"
 		"DOTA_Tooltip_Ability_item_oak_heart_Description" "<h1>Пассивно: Curse of the Oakheart</h1>Весь исходящий урон увеличивается на %outgoing_damage_pct%%%, но герой теряет все возможности, кроме передвижения.\n<h1><font color='#e03e2e'>★★★ Нейтральный предмет ★★★</font></h1><font color='#e03e2e'>Может быть использован только в слоте для нейтральных предметов</font>"
 
-		"DOTA_Tooltip_Ability_item_evasion_boots" "<font color='#e03e2e'>★★★ Boots of Evasion ★★★</font>"
+		"DOTA_Tooltip_Ability_item_evasion_boots" "<font color='#e03e2e'>★★★ Boots of Evasion</font>"
 		"DOTA_Tooltip_Ability_item_evasion_boots_Description" "<h1>Пассивно: Nimble</h1>Если Ловкость является основным атрибутом, то есть шанс не получать урон из всех источников урона, кроме атак. Шанс равен вашему текущему уклонению, но не может превышать 99%.\n<h1><font color='#e03e2e'>★★★ Нейтральный предмет ★★★</font></h1><font color='#e03e2e'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_Ability_item_evasion_boots_armor_penalty" "%-<font color='#e03e2e'>Armor</font>"
 
-		"DOTA_Tooltip_Ability_item_shako_of_witless" "<font color='#e03e2e'>★★★ Witless Shako ★★★</font>"
+		"DOTA_Tooltip_Ability_item_shako_of_witless" "<font color='#e03e2e'>★★★ Witless Shako</font>"
 		"DOTA_Tooltip_Ability_item_shako_of_witless_Description" "<h1><font color='#e03e2e'>★★★ Нейтральный предмет ★★★</font></h1><font color='#e03e2e'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_Ability_item_shako_of_witless_extra_health_pct" "%+Max Health"
 		"DOTA_Tooltip_Ability_item_shako_of_witless_mana_penalty_pct" "%-<font color='#e03e2e'>Mana</font>"
 
-		"DOTA_Tooltip_Ability_item_destruction_orb" "<font color='#e03e2e'>★★★ Orb of Destruction ★★★</font>"
+		"DOTA_Tooltip_Ability_item_destruction_orb" "<font color='#e03e2e'>★★★ Orb of Destruction</font>"
 		"DOTA_Tooltip_Ability_item_destruction_orb_Description" "<h1>Пассивно: Impeding Corrosion</h1>Нанесение урона противникам уменьшает их и вашу броню на %armor_reduction% на %duration% секунд.\n<h1>Пассивно: Impeding Ignition</h1>Враги, пораженные эффектом Impeding Corrosion, после смерти взрываются, нанося магический урон в размере %explosion_damage_pct%%% от максимального здоровья в радиусе %radius% вокруг себя.\n<h1><font color='#e03e2e'>★★★ Нейтральный предмет ★★★</font></h1><font color='#e03e2e'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_modifier_item_destruction_orb_debuff" "Orb of Destruction"
 
@@ -12818,7 +12806,7 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_Ability_creature_wave_solar_bind_slow" "%Замедление:"
 		"DOTA_Tooltip_Ability_creature_wave_solar_bind_res" "%Снижение магического сопротивления:"
 		"DOTA_Tooltip_modifier_creature_wave_solar_bind" "Solar Bind"
-		"DOTA_Tooltip_modifier_creature_wave_solar_bind_Description" "YСкорость передвижения и маг сопротивление уменьшаются каждую секунду."
+		"DOTA_Tooltip_modifier_creature_wave_solar_bind_Description" "Скорость передвижения и маг сопротивление уменьшаются каждую секунду."
 
 		"season_effect_title_lightning" "Сезон небес"
 		"season_effect_description_lightning" "<b><font color='#FFF'>Сезон небес</font></b><br>Каждые 10 секунд молния поражает всех игроков на карте, нанося 75% от их максимального здоровья в виде чистого урона. Этот урон оглушает задетых героев на 3 секунды и отключает регенирацию здоровья. За 5 секунд до удара рядом со случайным героем появляется пустотное энергетическое поле. Пребывание в этом поле дает иммунитет к воздействию молнии."
@@ -12828,135 +12816,89 @@ Cleave работает для героев ближнего и дальнего
 		"DOTA_Tooltip_modifier_item_scale_of_dragons_debuff" "Dragon Scale"
 
 		"DOTA_Tooltip_Ability_item_summoners_phylactery" "Conjurer's Phylactery"
-		"DOTA_Tooltip_Ability_item_summoners_phylactery_Description" "<h1>Aura: Minion Defense</h1>All of your summoned units within a %aura_radius% radius of you gain %damage_reduction_summons%%% damage reduction.\n<h1>Passive: Power In Numbers</h1>Each of your summoned units within a %aura_radius% radius of you increases the outgoing damage of both yourself and your nearby summoned units by %outgoing_damage_per_unit%%%, as well as providing you with %damage_reduction_per_unit%%% damage reduction, up to maximum of %max_damage_reduction%%%."
+		"DOTA_Tooltip_Ability_item_summoners_phylactery_Description" "<h1>Аура: Minion Defense</h1>Все призванные героем существа в радиусе %aura_radius% от вас получают %damage_reduction_summons%% снижение урона.\n<h1>Пассивно: Power In Numbers</h1>Каждый из призванных героем юнитов в радиусе %aura_radius% от вас увеличивает исходящий урон как от героя, так и от ближайших призванных юнитов на %outgoing_damage_per_unit%%%, а также снижает урон на %damage_reduction_per_unit%%%, до максимального %max_damage_reduction%%%%"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery_bonus_int" "+$int"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery_bonus_health" "+$health"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery_bonus_mana" "+$mana"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery_bonus_mana_regen" "+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_summoners_phylactery2" "Conjurer's Phylactery LVL2"
-		"DOTA_Tooltip_Ability_item_summoners_phylactery2_Description" "<h1>Aura: Minion Defense</h1>All of your summoned units within a %aura_radius% radius of you gain %damage_reduction_summons%%% damage reduction.\n<h1>Passive: Power In Numbers</h1>Each of your summoned units within a %aura_radius% radius of you increases the outgoing damage of both yourself and your nearby summoned units by %outgoing_damage_per_unit%%%, as well as providing you with %damage_reduction_per_unit%%% damage reduction, up to maximum of %max_damage_reduction%%%."
+		"DOTA_Tooltip_Ability_item_summoners_phylactery2_Description" "<h1>Аура: Minion Defense</h1>Все призванные героем существа в радиусе %aura_radius% от вас получают %damage_reduction_summons%% снижение урона.\n<h1>Пассивно: Power In Numbers</h1>Каждый из призванных героем юнитов в радиусе %aura_radius% от вас увеличивает исходящий урон как от героя, так и от ближайших призванных юнитов на %outgoing_damage_per_unit%%%, а также снижает урон на %damage_reduction_per_unit%%%, до максимального %max_damage_reduction%%%%"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery2_bonus_int" "+$int"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery2_bonus_health" "+$health"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery2_bonus_mana" "+$mana"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery2_bonus_mana_regen" "+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_summoners_phylactery3" "Conjurer's Phylactery LVL3"
-		"DOTA_Tooltip_Ability_item_summoners_phylactery3_Description" "<h1>Aura: Minion Defense</h1>All of your summoned units within a %aura_radius% radius of you gain %damage_reduction_summons%%% damage reduction.\n<h1>Passive: Power In Numbers</h1>Each of your summoned units within a %aura_radius% radius of you increases the outgoing damage of both yourself and your nearby summoned units by %outgoing_damage_per_unit%%%, as well as providing you with %damage_reduction_per_unit%%% damage reduction, up to maximum of %max_damage_reduction%%%."
+		"DOTA_Tooltip_Ability_item_summoners_phylactery3_Description" "<h1>Аура: Minion Defense</h1>Все призванные героем существа в радиусе %aura_radius% от вас получают %damage_reduction_summons%% снижение урона.\n<h1>Пассивно: Power In Numbers</h1>Каждый из призванных героем юнитов в радиусе %aura_radius% от вас увеличивает исходящий урон как от героя, так и от ближайших призванных юнитов на %outgoing_damage_per_unit%%%, а также снижает урон на %damage_reduction_per_unit%%%, до максимального %max_damage_reduction%%%%"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery3_bonus_int" "+$int"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery3_bonus_health" "+$health"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery3_bonus_mana" "+$mana"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery3_bonus_mana_regen" "+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_summoners_phylactery4" "Conjurer's Phylactery LVL4"
-		"DOTA_Tooltip_Ability_item_summoners_phylactery4_Description" "<h1>Aura: Minion Defense</h1>All of your summoned units within a %aura_radius% radius of you gain %damage_reduction_summons%%% damage reduction.\n<h1>Passive: Power In Numbers</h1>Each of your summoned units within a %aura_radius% radius of you increases the outgoing damage of both yourself and your nearby summoned units by %outgoing_damage_per_unit%%%, as well as providing you with %damage_reduction_per_unit%%% damage reduction, up to maximum of %max_damage_reduction%%%."
+		"DOTA_Tooltip_Ability_item_summoners_phylactery4_Description" "<h1>Аура: Minion Defense</h1>Все призванные героем существа в радиусе %aura_radius% от вас получают %damage_reduction_summons%% снижение урона.\n<h1>Пассивно: Power In Numbers</h1>Каждый из призванных героем юнитов в радиусе %aura_radius% от вас увеличивает исходящий урон как от героя, так и от ближайших призванных юнитов на %outgoing_damage_per_unit%%%, а также снижает урон на %damage_reduction_per_unit%%%, до максимального %max_damage_reduction%%%%"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery4_bonus_int" "+$int"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery4_bonus_health" "+$health"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery4_bonus_mana" "+$mana"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery4_bonus_mana_regen" "+$mana_regen"
 
-		"DOTA_Tooltip_Ability_item_summoners_phylactery5" "Conjurer's Phylactery LVL5"
-		"DOTA_Tooltip_Ability_item_summoners_phylactery5_Description" "<h1>Aura: Minion Defense</h1>All of your summoned units within a %aura_radius% radius of you gain %damage_reduction_summons%%% damage reduction.\n<h1>Passive: Power In Numbers</h1>Each of your summoned units within a %aura_radius% radius of you increases the outgoing damage of both yourself and your nearby summoned units by %outgoing_damage_per_unit%%%, as well as providing you with %damage_reduction_per_unit%%% damage reduction, up to maximum of %max_damage_reduction%%%."
+		"DOTA_Tooltip_Ability_item_summoners_phylactery5" "<h1>Аура: Minion Defense</h1>Все призванные героем существа в радиусе %aura_radius% от вас получают %damage_reduction_summons%% снижение урона.\n<h1>Пассивно: Power In Numbers</h1>Каждый из призванных героем юнитов в радиусе %aura_radius% от вас увеличивает исходящий урон как от героя, так и от ближайших призванных юнитов на %outgoing_damage_per_unit%%%, а также снижает урон на %damage_reduction_per_unit%%%, до максимального %max_damage_reduction%%%%"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery5_bonus_int" "+$int"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery5_bonus_health" "+$health"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery5_bonus_mana" "+$mana"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery5_bonus_mana_regen" "+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_summoners_phylactery6" "Conjurer's Phylactery LVL6"
-		"DOTA_Tooltip_Ability_item_summoners_phylactery6_Description" "<h1>Aura: Minion Defense</h1>All of your summoned units within a %aura_radius% radius of you gain %damage_reduction_summons%%% damage reduction.\n<h1>Passive: Power In Numbers</h1>Each of your summoned units within a %aura_radius% radius of you increases the outgoing damage of both yourself and your nearby summoned units by %outgoing_damage_per_unit%%%, as well as providing you with %damage_reduction_per_unit%%% damage reduction, up to maximum of %max_damage_reduction%%%."
+		"DOTA_Tooltip_Ability_item_summoners_phylactery6_Description" "<h1>Аура: Minion Defense</h1>Все призванные героем существа в радиусе %aura_radius% от вас получают %damage_reduction_summons%% снижение урона.\n<h1>Пассивно: Power In Numbers</h1>Каждый из призванных героем юнитов в радиусе %aura_radius% от вас увеличивает исходящий урон как от героя, так и от ближайших призванных юнитов на %outgoing_damage_per_unit%%%, а также снижает урон на %damage_reduction_per_unit%%%, до максимального %max_damage_reduction%%%%"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery6_bonus_int" "+$int"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery6_bonus_health" "+$health"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery6_bonus_mana" "+$mana"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery6_bonus_mana_regen" "+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_summoners_phylactery7" "Conjurer's Phylactery LVL7"
-		"DOTA_Tooltip_Ability_item_summoners_phylactery7_Description" "<h1>Aura: Minion Defense</h1>All of your summoned units within a %aura_radius% radius of you gain %damage_reduction_summons%%% damage reduction.\n<h1>Passive: Power In Numbers</h1>Each of your summoned units within a %aura_radius% radius of you increases the outgoing damage of both yourself and your nearby summoned units by %outgoing_damage_per_unit%%%, as well as providing you with %damage_reduction_per_unit%%% damage reduction, up to maximum of %max_damage_reduction%%%."
+		"DOTA_Tooltip_Ability_item_summoners_phylactery7_Description" "<h1>Аура: Minion Defense</h1>Все призванные героем существа в радиусе %aura_radius% от вас получают %damage_reduction_summons%% снижение урона.\n<h1>Пассивно: Power In Numbers</h1>Каждый из призванных героем юнитов в радиусе %aura_radius% от вас увеличивает исходящий урон как от героя, так и от ближайших призванных юнитов на %outgoing_damage_per_unit%%%, а также снижает урон на %damage_reduction_per_unit%%%, до максимального %max_damage_reduction%%%%"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery7_bonus_int" "+$int"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery7_bonus_health" "+$health"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery7_bonus_mana" "+$mana"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery7_bonus_mana_regen" "+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_summoners_phylactery8" "Lost Conjurer's Phylactery"
-		"DOTA_Tooltip_Ability_item_summoners_phylactery8_Description" "<h1>Aura: Minion Defense</h1>All of your summoned units within a %aura_radius% radius of you gain %damage_reduction_summons%%% damage reduction.\n<h1>Passive: Power In Numbers</h1>Each of your summoned units within a %aura_radius% radius of you increases the outgoing damage of both yourself and your nearby summoned units by %outgoing_damage_per_unit%%%, as well as providing you with %damage_reduction_per_unit%%% damage reduction, up to maximum of %max_damage_reduction%%%."
+		"DOTA_Tooltip_Ability_item_summoners_phylactery8_Description" "<h1>Аура: Minion Defense</h1>Все призванные героем существа в радиусе %aura_radius% от вас получают %damage_reduction_summons%% снижение урона.\n<h1>Пассивно: Power In Numbers</h1>Каждый из призванных героем юнитов в радиусе %aura_radius% от вас увеличивает исходящий урон как от героя, так и от ближайших призванных юнитов на %outgoing_damage_per_unit%%%, а также снижает урон на %damage_reduction_per_unit%%%, до максимального %max_damage_reduction%%%%"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery8_bonus_int" "+$int"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery8_bonus_health" "+$health"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery8_bonus_mana" "+$mana"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery8_bonus_mana_regen" "+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_summoners_phylactery9" "Rainbow Conjurer's Phylactery"
-		"DOTA_Tooltip_Ability_item_summoners_phylactery9_Description" "<h1>Aura: Minion Defense</h1>All of your summoned units within a %aura_radius% radius of you gain %damage_reduction_summons%%% damage reduction.\n<h1>Passive: Power In Numbers</h1>Each of your summoned units within a %aura_radius% radius of you increases the outgoing damage of both yourself and your nearby summoned units by %outgoing_damage_per_unit%%%, as well as providing you with %damage_reduction_per_unit%%% damage reduction, up to maximum of %max_damage_reduction%%%."
+		"DOTA_Tooltip_Ability_item_summoners_phylactery9_Description" "<h1>Аура: Minion Defense</h1>Все призванные героем существа в радиусе %aura_radius% от вас получают %damage_reduction_summons%% снижение урона.\n<h1>Пассивно: Power In Numbers</h1>Каждый из призванных героем юнитов в радиусе %aura_radius% от вас увеличивает исходящий урон как от героя, так и от ближайших призванных юнитов на %outgoing_damage_per_unit%%%, а также снижает урон на %damage_reduction_per_unit%%%, до максимального %max_damage_reduction%%%%"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery9_bonus_int" "+$int"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery9_bonus_health" "+$health"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery9_bonus_mana" "+$mana"
 		"DOTA_Tooltip_Ability_item_summoners_phylactery9_bonus_mana_regen" "+$mana_regen"
 
 		"DOTA_Tooltip_modifier_item_summoners_phylactery_aura" "Minion Defense"
-		"DOTA_Tooltip_modifier_item_summoners_phylactery_aura_Description" "Your summoned units take %dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%% reduced damage."
+		"DOTA_Tooltip_modifier_item_summoners_phylactery_aura_Description" "Призванные существа получают на %dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%% меньше урона"
 
-		"leaderboard_header_party" "Таблица лидеров (Group)"
+		"leaderboard_header_party" "Таблица лидеров (группы)"
 
 		"DOTA_Tooltip_modifier_item_summoning_staff_aura" "Staff of Summoning"
 		"DOTA_Tooltip_modifier_item_dead_book_aura" "Book of the Dead"
 
 		"DOTA_Tooltip_Ability_item_dead_book" "<font color='#e1d072'>★★ Conjurer's Book</font>"
-		"DOTA_Tooltip_Ability_item_dead_book_Description" "<h1>Passive: Critical Strike</h1>Your summoned units have a %crit_chance%%% chance to deal %crit_multiplier%%% critical damage that ignores %ignore_armor_pct%%% of the targets armor.\n<h1><font color='#e1d072'>★★ NEUTRAL ITEM</font></h1><font color='#e1d072'>Can only be equipped in the Neutral Item Slot.</font>"
+		"DOTA_Tooltip_Ability_item_dead_book_Description" "<h1>Пассивно: Critical Strike</h1>Призванные юниты имеют %crit_chance%%% шанс нанести %crit_multiplier%%% критический урон, игнорирующий %ignore_armor_pct%%% брони.\n<h1><font color='#e1d072'>★★ Нейтральный предмет ★★</font></h1><font color='#e1d072'>Может быть использован только в слоте для нейтральных предметов.</font>"
 		"DOTA_Tooltip_Ability_item_dead_book_bonus_damage" "+$damage"
 
 		"DOTA_Tooltip_Ability_silencer_last_word_custom" "Last Word"
 		"DOTA_Tooltip_Ability_silencer_last_word_custom_Lore" "Nortrom ensures that spells uttered by his opponents will be their last."
-		"DOTA_Tooltip_Ability_silencer_last_word_custom_Description" "Silencer имеет %шанс%%% проклясть свою цель при атаке, заставив ее замолчать на %длительность%% секунд. Когда действие проклятия заканчивается, оно наносит цели большой урон. Повторное проклятие той же цели снимает проклятие, мгновенно нанося тяжелый урон."
-		"DOTA_Tooltip_Ability_silencer_last_word_custom_chance" "%ШАНС:"
-		"DOTA_Tooltip_Ability_silencer_last_word_custom_duration" "ДЛИТЕЛЬНОСТЬ:"
-		"DOTA_Tooltip_Ability_silencer_last_word_custom_damage" "УЩЕРБ:"
-		"DOTA_Tooltip_Ability_silencer_last_word_custom_int_to_damage" "%УЩЕРБААУЩЕРБ ОТ ИНТЕЛЛЕКТА:"
+		"DOTA_Tooltip_Ability_silencer_last_word_custom_Description" "Silencer имеет %chance%%% проклясть свою цель при атаке, заставив ее замолчать на %duration%% секунд. Когда действие проклятия заканчивается, оно наносит цели большой урон. Повторное проклятие той же цели снимает проклятие, мгновенно нанося тяжелый урон."
+		"DOTA_Tooltip_Ability_silencer_last_word_custom_chance" "%Шанс:"
+		"DOTA_Tooltip_Ability_silencer_last_word_custom_duration" "Длительность:"
+		"DOTA_Tooltip_Ability_silencer_last_word_custom_damage" "Урон:"
+		"DOTA_Tooltip_Ability_silencer_last_word_custom_int_to_damage" "%Доп урон от интелекта:"
 		"DOTA_Tooltip_modifier_silencer_last_word_custom_debuff" "Last Word"
 		"DOTA_Tooltip_modifier_silencer_last_word_custom_debuff_Description" "Silenced. About to take heavy damage."
 
-		"DOTA_Tooltip_Ability_ursa_overpower_custom" "Overpower"
-		"DOTA_Tooltip_Ability_ursa_overpower_custom_Lore" "For a behemoth of his size, Ursa is deceptively nimble."
-		"DOTA_Tooltip_Ability_ursa_overpower_custom_Description" "Используя свое умение в бою, Урса получает увеличенную скорость атаки и урон на несколько последующих атак. Атаки также наносят цели одну дополнительную стопку яростных взмахов."
-		"DOTA_Tooltip_Ability_ursa_overpower_custom_duration" "ДЛИТЕЛЬНОСТЬ:"
-		"DOTA_Tooltip_Ability_ursa_overpower_custom_max_attacks" "МАКС АТАКИ:"
-		"DOTA_Tooltip_Ability_ursa_overpower_custom_bonus_damage_pct" "%БОНУСНЫЙ УРОН ОТ АТАКИ:"
-		"DOTA_Tooltip_Ability_ursa_overpower_custom_bonus_attack_speed" "БОНУСНАЯ СКОРОСТЬ АТАКИ:"
-		"DOTA_Tooltip_modifier_ursa_overpower_custom_buff" "Overpower"
-
-		"DOTA_Tooltip_Ability_ursa_enrage_custom" "Enrage"
-		"DOTA_Tooltip_Ability_ursa_enrage_custom_Lore" "Ulfsaar succumbs to his ancient spirit, becoming the most ferocious creature on the battlefield."
-		"DOTA_Tooltip_Ability_ursa_enrage_custom_scepter_Description" "Ярость также распространяется на всех ближайших союзных героев в радиусе %scepter_radius% вокруг Урсы."
-		"DOTA_Tooltip_Ability_ursa_enrage_custom_Description" "Урса впадает в ярость, снижая урон, сопротивляясь статусам и заставляя свои атаки наносить цели вдвое большее количество взмахов ярости."
-		"DOTA_Tooltip_Ability_ursa_enrage_custom_duration" "ДЛИТЕЛЬНОСТЬ:"
-		"DOTA_Tooltip_Ability_ursa_enrage_custom_bonus_status_resistance" "%БОНУСНОЕ СОПРОТИВЛЕНИЕ СТАТУСУ:"
-		"DOTA_Tooltip_Ability_ursa_enrage_custom_bonus_damage_reduction" "%БОНУСНОЕ СНИЖЕНИЕ УРОНА:"
-		"DOTA_Tooltip_modifier_ursa_enrage_custom_buff" "Enrage"
-		"DOTA_Tooltip_modifier_ursa_enrage_custom_buff_Description" "Gaining bonus damage reduction and status resistance. All attacks apply twice the amount of Fury Swipes."
-
-		"DOTA_Tooltip_Ability_ursa_earthshock_custom" "Earthshock"
-		"DOTA_Tooltip_Ability_ursa_earthshock_custom_Lore" "The very steps of a male ursine shake the ground as well as the resolve of opposing warriors."
-		"DOTA_Tooltip_Ability_ursa_earthshock_custom_shard_Description" "Приводит к тому, что Земной шок применяет Яростный взмах ко всем пораженным противникам. Получает преимущества от Overpower и Enrage так же, как и от обычных атак."
-		"DOTA_Tooltip_Ability_ursa_earthshock_custom_Description" "Урса имеет %шанс%%% шанс хлопнуть землей вокруг себя при атаке, нанося урон и дезориентируя противников, заставляя их замедляться, пропускать некоторые атаки и снижая их броню на %длительность% секунд."
-		"DOTA_Tooltip_Ability_ursa_earthshock_custom_chance" "%ШАНС:"
-		"DOTA_Tooltip_Ability_ursa_earthshock_custom_damage" "УЩЕРБ:"
-		"DOTA_Tooltip_Ability_ursa_earthshock_custom_agi_to_damage" "%УРОН ОТ ЛОВКОСТИ:"
-		"DOTA_Tooltip_Ability_ursa_earthshock_custom_slow" "%СЛАБЫЙ:"
-		"DOTA_Tooltip_Ability_ursa_earthshock_custom_radius" "RADIUS:"
-		"DOTA_Tooltip_Ability_ursa_earthshock_custom_duration" "ДЛИТЕЛЬНОСТЬ:"
-		"DOTA_Tooltip_Ability_ursa_earthshock_custom_armor_reduction_pct" "%СНИЖЕНИЕ БАЗОВОЙ БРОНИ:"
-		"DOTA_Tooltip_Ability_ursa_earthshock_custom_miss_chance" "%МИСС ШАНС:"
-		"DOTA_Tooltip_modifier_ursa_earthshock_custom_debuff" "Earthshock"
-
-		"DOTA_Tooltip_Ability_item_bow_yama_raskav" "<font color='#e03e2e'>★★★ Bow of Yama Raskav</font>"
-		"DOTA_Tooltip_Ability_item_bow_yama_raskav_Description" "<h1>Passive: Split Shot</h1>You fire an additional %arrow_count% attacks that hit other nearby enemies. These attacks have %split_shot_bonus_range% bonus range and apply attack modifiers (Ranged Only).\n<h1><font color='#e03e2e'>★★★ NEUTRAL ITEM</font></h1><font color='#e03e2e'>Can only be equipped in the Neutral Item Slot.</font>"
-		"DOTA_Tooltip_Ability_item_bow_yama_raskav_damage_modifier" "%-<font color='#e03e2e'>Damage</font>"
-
-		"DOTA_Tooltip_Ability_item_conduit_stone" "<font color='#e1d072'>★★ Pocket Universe</font>"
-		"DOTA_Tooltip_Ability_item_conduit_stone_Description" "<h1>Passive: Cosmic Energy</h1>You gain a charge of Cosmic Energy every %interval% seconds, causing your next damaging ability to deal an additional [%damage_per_stack%%% * charge] Pure damage and remove all charges. This effect stacks up to %max_stacks% times.\n<h1><font color='#e1d072'>★★ NEUTRAL ITEM</font></h1><font color='#e1d072'>Can only be equipped in the Neutral Item Slot.</font>"
-		"DOTA_Tooltip_modifier_item_conduit_stone" "Cosmic Energy"
-		"DOTA_Tooltip_modifier_item_conduit_stone_Description" "Your next damaging ability deals additional pure damage."
-
-		"DOTA_Tooltip_Ability_item_sacrificial_cloak" "<font color='#e03e2e'>★★★ Sacrificial Cloak</font>"
-		"DOTA_Tooltip_Ability_item_sacrificial_cloak_Description" "<h1>Passive: Blood for Blood</h1>Your outgoing magical damage is increased by %bonus_magical_damage_pct%%%, but each time you cast an ability it consumes %ability_max_health_cost_pct%%% of your Max Health. If the cost would kill you, you instead don't pay the cost.\n<h1>Passive: Lifesteal</h1>You heal for %lifesteal%%% of all magical damage dealt.\n<h1><font color='#e03e2e'>★★★ NEUTRAL ITEM</font></h1><font color='#e03e2e'>Can only be equipped in the Neutral Item Slot.</font>"
-		
 		"DOTA_Tooltip_Ability_ursa_fury_swipes_custom" "Fury Swipes"
         "DOTA_Tooltip_Ability_ursa_fury_swipes_custom_Lore" "В природе раненые редко выживают после нападения голодных хищников"
         "DOTA_Tooltip_Ability_ursa_fury_swipes_custom_Description" "Когти Урсы впиваются в противника  оставляя глубокие раны, в результате чего последовательные атаки одного и того же противника наносят повышенный исходящий урон, а также бонусный урон, зависящий от ловкости героя. Если одна и та же цель не будет повторно атакована в течении %duration% секунд, бонусный урон будет потерян. Складывается до %max_stacks% эффектов."
@@ -12966,4 +12908,399 @@ Cleave работает для героев ближнего и дальнего
         "DOTA_Tooltip_Ability_ursa_fury_swipes_custom_max_stacks" "Максимум стаков:"
         "DOTA_Tooltip_modifier_ursa_fury_swipes_custom_stack" "Fury Swipes"
         "DOTA_Tooltip_modifier_ursa_fury_swipes_custom_stack_Description" "Полученый урон от Урсы увеличен."
+
+		"DOTA_Tooltip_Ability_ursa_overpower_custom" "Overpower"
+		"DOTA_Tooltip_Ability_ursa_overpower_custom_Lore" "For a behemoth of his size, Ursa is deceptively nimble."
+		"DOTA_Tooltip_Ability_ursa_overpower_custom_Description" "Используя свое умение в бою, Урса получает увеличенную скорость атаки и урон на несколько последующих атак. Атаки также наносят цели одну дополнительную стопку яростных взмахов."
+		"DOTA_Tooltip_Ability_ursa_overpower_custom_duration" "Длительность:"
+		"DOTA_Tooltip_Ability_ursa_overpower_custom_max_attacks" "Количество атак:"
+		"DOTA_Tooltip_Ability_ursa_overpower_custom_bonus_damage_pct" "%Бонусный урон:"
+		"DOTA_Tooltip_Ability_ursa_overpower_custom_bonus_attack_speed" "Бонусная скорость атаки:"
+		"DOTA_Tooltip_modifier_ursa_overpower_custom_buff" "Overpower"
+
+		"DOTA_Tooltip_Ability_ursa_enrage_custom" "Enrage"
+		"DOTA_Tooltip_Ability_ursa_enrage_custom_Lore" "Ulfsaar succumbs to his ancient spirit, becoming the most ferocious creature on the battlefield."
+		"DOTA_Tooltip_Ability_ursa_enrage_custom_scepter_Description" "Ярость также распространяется на всех ближайших союзных героев в радиусе %scepter_radius% вокруг Урсы."
+		"DOTA_Tooltip_Ability_ursa_enrage_custom_Description" "Урса впадает в ярость, снижая урон, сопротивляясь статусам и заставляя свои атаки наносить цели вдвое большее количество взмахов ярости."
+		"DOTA_Tooltip_Ability_ursa_enrage_custom_duration" "Длительность:"
+		"DOTA_Tooltip_Ability_ursa_enrage_custom_bonus_status_resistance" "%Бонусный статус резист:"
+		"DOTA_Tooltip_Ability_ursa_enrage_custom_bonus_damage_reduction" "%Бонусное снижение урона:"
+		"DOTA_Tooltip_modifier_ursa_enrage_custom_buff" "Enrage"
+		"DOTA_Tooltip_modifier_ursa_enrage_custom_buff_Description" "Получает бонусное снижение урона и сопротивление статусам. Все атаки наносят вдвое большее количество урона от Fury Swipes."
+
+		"DOTA_Tooltip_Ability_ursa_earthshock_custom" "Earthshock"
+		"DOTA_Tooltip_Ability_ursa_earthshock_custom_Lore" "Сами шаги самца урсина сотрясают землю, как и решимость противоборствующих воинов."
+		"DOTA_Tooltip_Ability_ursa_earthshock_custom_shard_Description" "Приводит к тому, что Земной шок применяет Яростный взмах ко всем пораженным противникам. Получает преимущества от Overpower и Enrage так же, как и от обычных атак."
+		"DOTA_Tooltip_Ability_ursa_earthshock_custom_Description" "Урса имеет %chance%%% шанс хлопнуть землей вокруг себя при атаке, нанося урон и дезориентируя противников, заставляя их замедляться, пропускать некоторые атаки и снижая их броню на %duration% секунд."
+		"DOTA_Tooltip_Ability_ursa_earthshock_custom_chance" "%Шанс:"
+		"DOTA_Tooltip_Ability_ursa_earthshock_custom_damage" "Урон:"
+		"DOTA_Tooltip_Ability_ursa_earthshock_custom_agi_to_damage" "%Доп урон от ловкости:"
+		"DOTA_Tooltip_Ability_ursa_earthshock_custom_slow" "%Замедление:"
+		"DOTA_Tooltip_Ability_ursa_earthshock_custom_radius" "Радиус:"
+		"DOTA_Tooltip_Ability_ursa_earthshock_custom_duration" "Длительность:"
+		"DOTA_Tooltip_Ability_ursa_earthshock_custom_armor_reduction_pct" "%Снижение брони:"
+		"DOTA_Tooltip_Ability_ursa_earthshock_custom_miss_chance" "%Шанс промаха:"
+		"DOTA_Tooltip_modifier_ursa_earthshock_custom_debuff" "Earthshock"
+
+		"DOTA_Tooltip_Ability_item_bow_yama_raskav" "<font color='#e03e2e'>★★★ Bow of Yama Raskav</font>"
+		"DOTA_Tooltip_Ability_item_bow_yama_raskav_Description" "<h1>Пассивно: Split Shot</h1>Вместе с основной атакой герой наносит дополнительные %arrow_count% атаки, которые поражают других врагов, находящихся поблизости. Эти атаки имеют %split_shot_bonus_range% бонусной дальности и применяют модификаторы атаки (только для дальнего типа боя).\n<h1><font color='#e03e2e'>★★★ Нейтральный предмет ★★★</font></h1><font color='#e03e2e'>Может быть использован только в слоте для нейтральных предметов.</font>"
+		"DOTA_Tooltip_Ability_item_bow_yama_raskav_damage_modifier" "%-<font color='#e03e2e'>Damage</font>"
+
+		"DOTA_Tooltip_Ability_item_conduit_stone" "<font color='#e1d072'>★★ Pocket Universe</font>"
+		"DOTA_Tooltip_Ability_item_conduit_stone_Description" "<h1>Пассивно: Cosmic Energy</h1>Каждые %interval% секунд герой получает заряд космической энергии, в результате чего ваша следующая способность, наносящая урон, нанесёт дополнительно [%damage_per_stack%%% * заряд] чистого урона и разрядит предмет.\n<h1><font color='#e1d072'>★★ Нейтральный предмет ★★</font></h1><font color='#e1d072'>Может быть использован только в слоте для нейтральных предметов.</font>"
+		"DOTA_Tooltip_modifier_item_conduit_stone" "Cosmic Energy"
+		"DOTA_Tooltip_modifier_item_conduit_stone_Description" "Ваша следующая атакующая способность наносёт дополнительный чистый урон."
+
+		"DOTA_Tooltip_Ability_item_sacrificial_cloak" "<font color='#e03e2e'>★★★ Sacrificial Cloak</font>"
+		"DOTA_Tooltip_Ability_item_sacrificial_cloak_Description" "<h1>Пассивно: Blood for Blood</h1>Ваш исходящий магический урон увеличивается на %bonus_magical_damage_pct%%%, но каждый раз, когда вы используете способность, она расходует %ability_max_health_cost_pct%%% от вашего максимального запаса здоровья. Если это потребовало бы больше здоровья, чем у вас осталось, вы не платите эту стоимость.\n<h1>Пассивно: Lifesteal</h1>+%lifesteal%%% к вампиризму заклинаниями.\n<h1><font color='#e03e2e'>★★★ Нейтральный предмет ★★★</font></h1><font color='#e03e2e'>Может быть использован только в слоте для нейтральных предметов.</font>"	
+
+		Axwell
+axwell.
+Idle
+
+Axwell — 30/07/2023 13:06
+Like what?
+Maybe in russian but not original English
+VaLD — 30/07/2023 13:17
+okay, a lot of people are asking about neutral items.
+should I make a list of items?
+just write tir1 - B.E.B ring, etc.
+Axwell — 30/07/2023 13:18
+sure
+I can get some screenshots
+VaLD — 30/07/2023 13:25
+that would be good
+
+you can also send me a file for translation, because it's not updated on github
+Axwell — 30/07/2023 13:25
+its updated now
+you might want to look at heavenly father abilities
+they are not correctly translated
+VaLD — 30/07/2023 13:26
+yeah, I read it in the chat room already)
+Axwell — 30/07/2023 13:26
+)
+VaLD — 30/07/2023 13:28
+I don't know if you've seen this, but the players are writing that Ursa's 3rd skill doesn't work
+Axwell — 30/07/2023 13:28
+i know
+Image
+Here T1
+xD
+VaLD — 30/07/2023 13:32
+it's very funny
+it says he's defending himself against attack
+Image
+Axwell — 30/07/2023 13:32
+Image
+Here's T2
+Image
+Here's T3
+local neutralsT1 = {
+    "item_vindicator_axe",
+    "item_eloshar_bracelet",
+    "item_vampires_kiss",
+    "item_beb",
+    "item_ristul_dagger",
+    "item_leveller",
+    "item_amulet_of_dandelion",
+    "item_array_of_specialists",
+    "item_lance_pursuit",
+    "item_quiver_of_enchants",
+    "item_scale_of_dragons"
+}
+
+local neutralsT2 = {
+    "item_war_horn",
+    "item_blast_rig",
+    "item_helm_of_the_gladiator",
+    "item_shamans_sword",
+    "item_jagged_blade",
+    "item_dead_book",
+    "item_conduit_stone"
+}
+
+local neutralsT3 = {
+    "item_oak_heart",
+    "item_evasion_boots",
+    "item_shako_of_witless",
+    "item_destruction_orb",
+    "item_bow_yama_raskav",
+    "item_sacrificial_cloak"
+}
+If you want to do them in russian
+here are item names
+VaLD — 30/07/2023 13:36
+good
+I'll do it now
+Axwell — 30/07/2023 13:57
+hey
+i changed ursa's fury swipes a bit
+it will do bonus damage from agility too
+VaLD — 30/07/2023 13:57
+forever?
+Axwell — 30/07/2023 13:58
+Image
+"DOTA_Tooltip_Ability_ursa_fury_swipes_custom" "Fury Swipes"
+        "DOTA_Tooltip_Ability_ursa_fury_swipes_custom_Lore" "In nature, the wounded rarely survive the attacks of hungry predators."
+        "DOTA_Tooltip_Ability_ursa_fury_swipes_custom_Description" "Ursa's claws dig deeper wounds in the enemy, causing consecutive attacks to the same enemy to deal increased outgoing damage as well as bonus damage based on Ursa's agility. If the same target is not attacked after %duration% seconds, the bonus damage is lost. Stacks up to %max_stacks% times."
+        "DOTA_Tooltip_Ability_ursa_fury_swipes_custom_duration" "DURATION:"
+        "DOTA_Tooltip_Ability_ursa_fury_swipes_custom_multiplier_per_stack" "%INCREASED DAMAGE (PER STACK):"
+        "DOTA_Tooltip_Ability_ursa_fury_swipes_custom_damage_from_agi_per_stack" "%DAMAGE FROM AGILITY (PER STACK):"
+        "DOTA_Tooltip_Ability_ursa_fury_swipes_custom_max_stacks" "MAX STACKS:"
+        "DOTA_Tooltip_modifier_ursa_fury_swipes_custom_stack" "Fury Swipes"
+        "DOTA_Tooltip_modifier_ursa_fury_swipes_custom_stack_Description" "Taking increased damage from Ursa's attacks."
+here is new
+can you translate it quick
+and add to the file
+VaLD — 30/07/2023 13:59
+ok, but I'm still tweaking the translation of the old one and making it for the subjects.
+Axwell — 30/07/2023 13:59
+ok
+VaLD — 30/07/2023 14:00
+I'm about to send the file with the ursa translation and then the neutrals
+"lang"
+{
+	"Language"		"Russian"
+	"Tokens"
+	{
+		"addon_game_name"				"Thunder's COT RPG REWORK"
+... (2 MB left)
+Expand
+addon_russian.txt
+2 MB
+Axwell — 30/07/2023 14:03
+great thanks
+you added duplicate fury swipes
+but its okay i removed one
+just be careful
+VaLD — 30/07/2023 14:06
+oh... I haven't worked with code for custom games before and didn't think of it) thanks for correcting it)
+VaLD — 30/07/2023 14:13
+by the way, "item_jagged_blade" can be sold and dismantled
+Image
+Axwell — 30/07/2023 14:35
+Okay
+VaLD — 01/08/2023 12:44
+all neutral
+Conjurer's Phylactery
+Last Word
+fixed some old translation errors
+"lang"
+{
+	"Language"		"Russian"
+	"Tokens"
+	{
+		"addon_game_name"				"Thunder's COT RPG REWORK"
+... (2 MB left)
+Expand
+addon_russian.txt
+2 MB
+Axwell — Yesterday at 10:29
+Great thanks :D
+Axwell — Yesterday at 18:44
+faceless void needs to be translated by tomorrow
+"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom" "Temporal Reversion"
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_Lore" "For those facing off against Darkterror, each moment seems to stretch into eternity."
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_Description" "Faceless Void creates a pulsating field of time dilation that activates every %interval% seconds. Enemy units within the field are trapped in suspended time, causing them to take increased damage and be stunned for a short time.<br><br>During this time, Faceless Void's cooldowns are reduced by %cooldown_reduction% seconds (some abilities and items are excluded)."
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_duration" "DURATION:"
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_interval" "PULSE INTERVAL:"
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_cooldown_reduction" "COOLDOWN REDUCTION:"
+Expand
+message.txt
+8 KB
+VaLD — Yesterday at 18:45
+No problem )
+VaLD — Yesterday at 19:46
+"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom" "Temporal Reversion"
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_Lore" "Для тех, кто стоит лицом к лицу с Дарктеррором, каждое мгновение кажется растянутым в вечность."
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_Description" "Faceless Void создаёт пульсирующее поле временной дилатации, которое активируется каждые %interval% секунд. Вражеские юниты внутри поля оказываются запертыми в приостановленном времени, в результате чего они получают увеличенный урон и подвергаются оглушению на короткое время.<br><br>В течение этого времени перезарядки умений Faceless Void уменьшаются на %cooldown_reduction% секунд (некоторые способности и предметы исключены)."
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_duration" "Длительность:"
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_interval" "Интервал пульсаций:"
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_cooldown_reduction" "Снижение перезарядки:"
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_radius" "Радиус:"
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_debuff_duration" "Длительность дилатации:"
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_increased_damage_taken" "%Увеличение получаемого урона:"
+		"DOTA_Tooltip_modifier_faceless_void_temporal_reversion_custom" "Temporal Reversion"
+		"DOTA_Tooltip_modifier_faceless_void_temporal_reversion_custom_debuff" "Temporal Reversion"
+		"DOTA_Tooltip_modifier_faceless_void_temporal_reversion_custom_debuff_Description" "Пленены во времени. Урон, получаемый врагами, увеличен %dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%%."
+
+		"DOTA_Tooltip_Ability_faceless_void_backtrack_custom" "Backtrack"
+		"DOTA_Tooltip_Ability_faceless_void_backtrack_custom_Lore" "Darkterror видит то, что ещё не было увидено никем"
+		"DOTA_Tooltip_Ability_faceless_void_backtrack_custom_shard_Description" "Ловкость Faceless Void увеличивается на %shard_agility_pct%%% в течение  %shard_agility_duration% секунд после Backtrack."
+		"DOTA_Tooltip_Ability_faceless_void_backtrack_custom_Description" "При получении урона существует вероятность, что Faceless Void переместится на долю секунды в будущее, полностью уклонившись от урона и восстановив часть своего здоровья.<br><br>Гарантированно активируется при нахождении Faceless Void в зоне Chronosphere."
+		"DOTA_Tooltip_Ability_faceless_void_backtrack_custom_chance" "%Шанс:"
+		"DOTA_Tooltip_Ability_faceless_void_backtrack_custom_max_health_heal" "%Восстановление от макс. здоровья:"
+		"DOTA_Tooltip_modifier_faceless_void_backtrack_custom_buff" "Backtrack"
+		"DOTA_Tooltip_modifier_faceless_void_backtrack_custom_buff_Description" "Ловкость временно увеличена."
+
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom" "Time Lock"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_Lore" "Удары Faceless Void сопровождается мощной силой, меняющей пространственные измерения."
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_scepter_Description" "Time Lock имеет шанс %scepter_chance_pct%%% срабатывания против врагов, находящихся внутри Chronosphere."
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_Description" "У Faceless Void есть шанс %chance%%% при атаке поразить всех близлежащих врагов в радиусе %radius% от цели, нанеся часть урона ещё раз и накладывая эффект Time Lock на врагов.<br><br>Каждый эффект Time Lock на враге замедляет его и увеличивает получаемый им урон от данной способности."
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_chance" "%Шанс:"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_damage_dealt_pct" "%Урон по соседним целям:"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_increase_per_stack" "%Увеличение урона за стак:"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_stack_duration" "Длительность эффекта:"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_stack_slow" "%Замедление за стак:"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_max_stacks" "Макс. стаков:"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_radius" "Радиус:"
+		"DOTA_Tooltip_modifier_faceless_void_time_lock_custom_debuff" "Time Lock"
+		"DOTA_Tooltip_modifier_faceless_void_time_lock_custom_debuff_Description" "Каждый эффект увеличивает урон, наносимый Time Lock."
+
+		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom" "Chronosphere"
+		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_Lore" "Когда в Клаззуреме открывается разлом, все бедные души, оказавшиеся в нем уже никогда не вернутся обратно"
+		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_Description" "Создает в пространственно-временной области пузырь, который полностью охватывает все вокруг Faceless Void в радиусе %radius%, заключая в себе всех попавших под его влияние юнитов и позволяет Faceless Void перемещаться внутри него с большой скоростью."
+		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_duration" "Длительность:"
+		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_chrono_damage_increase" "%Бонусный урон:"
+
+		"DOTA_Tooltip_Ability_talent_faceless_void_1" "Temporal Synergy"
+        "DOTA_Tooltip_Ability_talent_faceless_void_1_1_Desc" "Теперь союзники могут свободно передвигаться и действовать внутри области Chronosphere"
+        "DOTA_Tooltip_Ability_talent_faceless_void_1_2_Desc" "Союзники внутри Chronosphere получают способность Time Lock"
+        "DOTA_Tooltip_Ability_talent_faceless_void_1_3_Desc" "Находясь в Chronosphere, урон героя и союзников увеличивается на 60%"
+        
+        "DOTA_Tooltip_Ability_talent_faceless_void_1_1_Desc_1" "Теперь союзники могут свободно передвигаться и действовать внутри области Chronosphere."
+        "DOTA_Tooltip_Ability_talent_faceless_void_1_2_Desc_2" "оюзники внутри Chronosphere получают способность Time Lock"
+        "DOTA_Tooltip_Ability_talent_faceless_void_1_3_Desc_3" "Находясь в Chronosphere, урон героя и союзников увеличивается на 60%"
+
+		"DOTA_Tooltip_Ability_talent_faceless_void_2" "Temporal Disruption"
+        "DOTA_Tooltip_Ability_talent_faceless_void_2_1_Desc" "Когда Time Lock срабатывает на цели с максимальным количеством стаков Time Lock, все стаки расходуются, чтобы создать небольшую Хроносферу в месте расположения цели на 1 секунду. Это может произойти только раз в 3 секунды."
+        "DOTA_Tooltip_Ability_talent_faceless_void_2_2_Desc" "Каждый эффект Time Lock снижает броню противника на 3%."
+        "DOTA_Tooltip_Ability_talent_faceless_void_2_3_Desc" "Когда Time Lock срабатывает, герой получает эффект, увеличивающий урон на 8% и скорость передвижения на 5% на 3 секунды за каждый стак. Максимум эффектов - 10."
+        
+        "DOTA_Tooltip_Ability_talent_faceless_void_2_1_Desc_1" "Когда Time Lock срабатывает на цели с максимальным количеством стаков Time Lock, все стаки расходуются, чтобы создать небольшую Хроносферу в месте расположения цели на 1 секунду. Это может произойти только раз в 3 секунды."
+        "DOTA_Tooltip_Ability_talent_faceless_void_2_2_Desc_2" "Каждый эффект Time Lock снижает броню противника на 3%."
+        "DOTA_Tooltip_Ability_talent_faceless_void_2_3_Desc_3" "Когда Time Lock срабатывает, герой получает эффект, увеличивающий урон на 8% и скорость передвижения на 5% на 3 секунды за каждый стак. Максимум эффектов - 10."
+
+		"DOTA_Tooltip_modifier_faceless_void_time_lock_custom_talent_buff" "Time Lock"
+		"DOTA_Tooltip_modifier_faceless_void_time_lock_custom_talent_buff_Description" "Урон и скорость атаки увеличенны"
+
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom" "Temporal Reversion"
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_Lore" "Для тех, кто стоит лицом к лицу с Дарктеррором, каждое мгновение кажется растянутым в вечность."
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_Description" "Faceless Void создаёт пульсирующее поле временной дилатации, которое активируется каждые %interval% секунд. Вражеские юниты внутри поля оказываются запертыми в приостановленном времени, в результате чего они получают увеличенный урон и подвергаются оглушению на короткое время.<br><br>В течение этого времени перезарядки умений Faceless Void уменьшаются на %cooldown_reduction% секунд (некоторые способности и предметы исключены)."
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_duration" "Длительность:"
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_interval" "Интервал пульсаций:"
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_cooldown_reduction" "Снижение перезарядки:"
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_radius" "Радиус:"
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_debuff_duration" "Длительность дилатации:"
+		"DOTA_Tooltip_Ability_faceless_void_temporal_reversion_custom_increased_damage_taken" "%Увеличение получаемого урона:"
+		"DOTA_Tooltip_modifier_faceless_void_temporal_reversion_custom" "Temporal Reversion"
+		"DOTA_Tooltip_modifier_faceless_void_temporal_reversion_custom_debuff" "Temporal Reversion"
+		"DOTA_Tooltip_modifier_faceless_void_temporal_reversion_custom_debuff_Description" "Пленены во времени. Урон, получаемый врагами, увеличен %dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%%."
+
+		"DOTA_Tooltip_Ability_faceless_void_backtrack_custom" "Backtrack"
+		"DOTA_Tooltip_Ability_faceless_void_backtrack_custom_Lore" "Darkterror видит то, что ещё не было увидено никем"
+		"DOTA_Tooltip_Ability_faceless_void_backtrack_custom_shard_Description" "Ловкость Faceless Void увеличивается на %shard_agility_pct%%% в течение  %shard_agility_duration% секунд после Backtrack."
+		"DOTA_Tooltip_Ability_faceless_void_backtrack_custom_Description" "При получении урона существует вероятность, что Faceless Void переместится на долю секунды в будущее, полностью уклонившись от урона и восстановив часть своего здоровья.<br><br>Гарантированно активируется при нахождении Faceless Void в зоне Chronosphere."
+		"DOTA_Tooltip_Ability_faceless_void_backtrack_custom_chance" "%Шанс:"
+		"DOTA_Tooltip_Ability_faceless_void_backtrack_custom_max_health_heal" "%Восстановление от макс. здоровья:"
+		"DOTA_Tooltip_modifier_faceless_void_backtrack_custom_buff" "Backtrack"
+		"DOTA_Tooltip_modifier_faceless_void_backtrack_custom_buff_Description" "Ловкость временно увеличена."
+
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom" "Time Lock"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_Lore" "Удары Faceless Void сопровождается мощной силой, меняющей пространственные измерения."
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_scepter_Description" "Time Lock имеет шанс %scepter_chance_pct%%% срабатывания против врагов, находящихся внутри Chronosphere."
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_Description" "У Faceless Void есть шанс %chance%%% при атаке поразить всех близлежащих врагов в радиусе %radius% от цели, нанеся часть урона ещё раз и накладывая эффект Time Lock на врагов.<br><br>Каждый эффект Time Lock на враге замедляет его и увеличивает получаемый им урон от данной способности."
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_chance" "%Шанс:"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_damage_dealt_pct" "%Урон по соседним целям:"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_increase_per_stack" "%Увеличение урона за стак:"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_stack_duration" "Длительность эффекта:"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_stack_slow" "%Замедление за стак:"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_max_stacks" "Макс. стаков:"
+		"DOTA_Tooltip_ability_faceless_void_time_lock_custom_radius" "Радиус:"
+		"DOTA_Tooltip_modifier_faceless_void_time_lock_custom_debuff" "Time Lock"
+		"DOTA_Tooltip_modifier_faceless_void_time_lock_custom_debuff_Description" "Каждый эффект увеличивает урон, наносимый Time Lock."
+
+		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom" "Chronosphere"
+		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_Lore" "Когда в Клаззуреме открывается разлом, все бедные души, оказавшиеся в нем уже никогда не вернутся обратно"
+		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_Description" "Создает в пространственно-временной области пузырь, который полностью охватывает все вокруг Faceless Void в радиусе %radius%, заключая в себе всех попавших под его влияние юнитов и позволяет Faceless Void перемещаться внутри него с большой скоростью."
+		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_duration" "Длительность:"
+		"DOTA_Tooltip_ability_faceless_void_chronosphere_custom_chrono_damage_increase" "%Бонусный урон:"
+
+		"DOTA_Tooltip_Ability_talent_faceless_void_1" "Temporal Synergy"
+        "DOTA_Tooltip_Ability_talent_faceless_void_1_1_Desc" "Теперь союзники могут свободно передвигаться и действовать внутри области Chronosphere"
+        "DOTA_Tooltip_Ability_talent_faceless_void_1_2_Desc" "Союзники внутри Chronosphere получают способность Time Lock"
+        "DOTA_Tooltip_Ability_talent_faceless_void_1_3_Desc" "Находясь в Chronosphere, урон героя и союзников увеличивается на 60%"
+        
+        "DOTA_Tooltip_Ability_talent_faceless_void_1_1_Desc_1" "Теперь союзники могут свободно передвигаться и действовать внутри области Chronosphere."
+        "DOTA_Tooltip_Ability_talent_faceless_void_1_2_Desc_2" "оюзники внутри Chronosphere получают способность Time Lock"
+        "DOTA_Tooltip_Ability_talent_faceless_void_1_3_Desc_3" "Находясь в Chronosphere, урон героя и союзников увеличивается на 60%"
+
+		"DOTA_Tooltip_Ability_talent_faceless_void_2" "Temporal Disruption"
+        "DOTA_Tooltip_Ability_talent_faceless_void_2_1_Desc" "Когда Time Lock срабатывает на цели с максимальным количеством стаков Time Lock, все стаки расходуются, чтобы создать небольшую Хроносферу в месте расположения цели на 1 секунду. Это может произойти только раз в 3 секунды."
+        "DOTA_Tooltip_Ability_talent_faceless_void_2_2_Desc" "Каждый эффект Time Lock снижает броню противника на 3%."
+        "DOTA_Tooltip_Ability_talent_faceless_void_2_3_Desc" "Когда Time Lock срабатывает, герой получает эффект, увеличивающий урон на 8% и скорость передвижения на 5% на 3 секунды за каждый стак. Максимум эффектов - 10."
+        
+        "DOTA_Tooltip_Ability_talent_faceless_void_2_1_Desc_1" "Когда Time Lock срабатывает на цели с максимальным количеством стаков Time Lock, все стаки расходуются, чтобы создать небольшую Хроносферу в месте расположения цели на 1 секунду. Это может произойти только раз в 3 секунды."
+        "DOTA_Tooltip_Ability_talent_faceless_void_2_2_Desc_2" "Каждый эффект Time Lock снижает броню противника на 3%."
+        "DOTA_Tooltip_Ability_talent_faceless_void_2_3_Desc_3" "Когда Time Lock срабатывает, герой получает эффект, увеличивающий урон на 8% и скорость передвижения на 5% на 3 секунды за каждый стак. Максимум эффектов - 10."
+
+		"DOTA_Tooltip_modifier_faceless_void_time_lock_custom_talent_buff" "Time Lock"
+		"DOTA_Tooltip_modifier_faceless_void_time_lock_custom_talent_buff_Description" "Урон и скорость атаки увеличенны"
+
+		"DOTA_Tooltip_Ability_lone_druid_spirit_bear_custom" "Summon Spirit Bear"
+		"DOTA_Tooltip_Ability_lone_druid_spirit_bear_custom_Lore" "Sylla's lifelong companion is symbiotic with his spirit and heart, coming to aid him in any time of need."
+		"DOTA_Tooltip_Ability_lone_druid_spirit_bear_custom_shard_Description" "Increases Spirit Bear's attack range by %bonus_attack_range%."
+		"DOTA_Tooltip_Ability_lone_druid_spirit_bear_custom_Description" "Summons a powerful Spirit Bear companion. It can't equip any items, and if the bear moves %bear_disarm_range% distance away from the Lone Druid, it cannot attack. Lone Druid suffers %bear_backlash_damage_pct%%% of his max health as backlash damage if the Spirit Bear dies. Spirit Bear does not benefit from attributes."
+		"DOTA_Tooltip_Ability_lone_druid_spirit_bear_custom_bear_damage" "BASE DAMAGE:"
+		"DOTA_Tooltip_Ability_lone_druid_spirit_bear_custom_bear_hp" "BASE HEALTH:"
+		"DOTA_Tooltip_Ability_lone_druid_spirit_bear_custom_bear_armor" "BASE ARMOR:"
+		"DOTA_Tooltip_Ability_lone_druid_spirit_bear_custom_bear_bat" "BASE ATTACK TIME:"
+		"DOTA_Tooltip_Ability_lone_druid_spirit_bear_custom_bear_disarm_range" "MAX RANGE:"
+		"DOTA_Tooltip_Ability_lone_druid_spirit_bear_custom_bear_backlash_damage_pct" "%BACKLASH DAMAGE:"
+
+		"DOTA_Tooltip_Ability_lone_druid_spirit_link_custom" "Spirit Link"
+		"DOTA_Tooltip_Ability_lone_druid_spirit_link_custom_Lore" "Sylla is emboldened by the presence of his companion, his vitality replenished with each swipe of the Spirit Bear's claws."
+		"DOTA_Tooltip_Ability_lone_druid_spirit_link_custom_Description" "Links Lone Druid and the Spirit Bear, increasing the attack damage and attack speed of both and causing damage dealt by the Spirit Bear to heal Lone Druid."
+		"DOTA_Tooltip_Ability_lone_druid_spirit_link_custom_bonus_attack_speed" "BONUS ATTACK SPEED:"
+		"DOTA_Tooltip_Ability_lone_druid_spirit_link_custom_bonus_damage_pct" "%BONUS ATTACK DAMAGE:"
+		"DOTA_Tooltip_Ability_lone_druid_spirit_link_custom_lifesteal_percent" "%SHARED HEALING:"
+
+		"DOTA_Tooltip_Ability_lone_druid_savage_roar_custom" "Savage Roar"
+		"DOTA_Tooltip_Ability_lone_druid_savage_roar_custom_Lore" "Sylla studies and masters the arts of the lost Bear Clan, enhancing his attunement with the wild."
+		"DOTA_Tooltip_Ability_lone_druid_savage_roar_custom_Description" "Lone Druid and the Spirit Bear roar fiercely causing nearby enemies to be unable to attack for %debuff_duration%. Allies gain increased movement speed and attack speed for %buff_duration% seconds."
+		"DOTA_Tooltip_Ability_lone_druid_savage_roar_custom_radius" "RADIUS:"
+		"DOTA_Tooltip_Ability_lone_druid_savage_roar_custom_debuff_duration" "DISARM DURATION:"
+		"DOTA_Tooltip_Ability_lone_druid_savage_roar_custom_buff_duration" "ALLY BUFF DURATION:"
+		"DOTA_Tooltip_Ability_lone_druid_savage_roar_custom_bonus_attack_speed_pct" "%BONUS ATTACK SPEED:"
+		"DOTA_Tooltip_Ability_lone_druid_savage_roar_custom_bonus_movement_speed_pct" "%BONUS MOVEMENT SPEED:"
+
+		"DOTA_Tooltip_Ability_lone_druid_true_form_custom" "True Form"
+		"DOTA_Tooltip_Ability_lone_druid_true_form_custom_Lore" "The mighty bear is the king of the forest, possessing the throne through raw power."
+		"DOTA_Tooltip_Ability_lone_druid_true_form_custom_scepter_Description" "True Form now also increases Lone Druid's Spell Damage and Intellect by a multiplicative amount."
+		"DOTA_Tooltip_Ability_lone_druid_true_form_custom_Description" "Lone Druid learns to morph himself into a raging bear, losing his ranged advantage, but gaining bonus armor, health and spell damage."
+		"DOTA_Tooltip_Ability_lone_druid_true_form_custom_bonus_armor_pct" "%BONUS ARMOR:"
+		"DOTA_Tooltip_Ability_lone_druid_true_form_custom_bonus_hp_pct" "%BONUS HEALTH:"
+		"DOTA_Tooltip_Ability_lone_druid_true_form_custom_bonus_spell_damage_pct" "%BONUS SPELL DAMAGE:"
+		"DOTA_Tooltip_Ability_lone_druid_true_form_custom_bonus_intellect_pct" "%BONUS INTELLECT:"
+		"DOTA_Tooltip_Ability_lone_druid_true_form_custom_transformation_time" "TRANSFORMATION TIME:"
+		"DOTA_Tooltip_Ability_lone_druid_true_form_custom_duration" "DURATION:"
+
+		"DOTA_Tooltip_Ability_talent_lone_druid_1" "King of the Forest"
+        "DOTA_Tooltip_Ability_talent_lone_druid_1_1_Desc" "Attacks have a 20% chance to unleash a meteor shower on an enemy, dealing 200% of Lone Druid's Intelligence as magical damage to all enemies in a 400 radius around the target."
+        "DOTA_Tooltip_Ability_talent_lone_druid_1_2_Desc" "Allows Lone Druid to learn the abilities of his trusted Spirit Bear companion."
+        "DOTA_Tooltip_Ability_talent_lone_druid_1_3_Desc" "True Form becomes a passive ability, causing Lone Druid to be in bear form permanently."
+        
+        "DOTA_Tooltip_Ability_talent_lone_druid_1_1_Desc_1" "Attacks have a 20% chance to unleash a meteor shower on an enemy, dealing 200% of Lone Druid's Intelligence as magical damage to all enemies in a 400 radius around the target."
+        "DOTA_Tooltip_Ability_talent_lone_druid_1_2_Desc_2" "Allows Lone Druid to learn the abilities of his trusted Spirit Bear companion."
+        "DOTA_Tooltip_Ability_talent_lone_druid_1_3_Desc_3" "True Form becomes a passive ability, causing Lone Druid to be in bear form permanently."
+
+		"DOTA_Tooltip_Ability_talent_lone_druid_2" "Spirit Communion"
+        "DOTA_Tooltip_Ability_talent_lone_druid_2_1_Desc" "Lone Druid improves the spiritual connection between him and his Spirit Bear. This allows the Spirit Bear to use items and benefit from attributes."
+        "DOTA_Tooltip_Ability_talent_lone_druid_2_2_Desc" "Spirit Link now work both ways, healing the Spirit Bear when Lone Druid attacks a target."
+        "DOTA_Tooltip_Ability_talent_lone_druid_2_3_Desc" "Allows Spirit Bear to attack at any range from Lone Druid, and to survive if Lone Druid dies."
+        
+        "DOTA_Tooltip_Ability_talent_lone_druid_2_1_Desc_1" "Lone Druid improves the spiritual connection between him and his Spirit Bear. This allows the Spirit Bear to use items and benefit from attributes."
+        "DOTA_Tooltip_Ability_talent_lone_druid_2_2_Desc_2" "Spirit Link now work both ways, healing the Spirit Bear when Lone Druid attacks a target."
+        "DOTA_Tooltip_Ability_talent_lone_druid_2_3_Desc_3" "Allows Spirit Bear to attack at any range from Lone Druid, and to survive if Lone Druid dies."
+
+		"DOTA_Tooltip_Ability_lone_druid_claw_strike_custom" "Entangling Roots"
+		"DOTA_Tooltip_Ability_lone_druid_claw_strike_custom_Description" "Attacks stun the attacked enemy unit for 0.5 seconds."
+
+		"DOTA_Tooltip_Ability_lone_druid_destructive_claws_custom" "Boss Demolisher"
+		"DOTA_Tooltip_Ability_lone_druid_destructive_claws_custom_Description" "You deal increased damage to bosses."
+		"DOTA_Tooltip_Ability_lone_druid_destructive_claws_custom_boss_damage_increase_pct" "%INCREASED DAMAGE DEALT:"
+
+		"DOTA_Tooltip_Ability_lone_druid_return_custom" "Return"
+		"DOTA_Tooltip_Ability_lone_druid_return_custom_Description" "Teleports Spirit Bear back to Lone Druid."
 }
